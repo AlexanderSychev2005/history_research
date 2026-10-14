@@ -1,0 +1,56 @@
+{
+ "doc_id": "demo",
+ "entities": [
+  {
+   "eid": "a1",
+   "label": "Awarayr"
+  },
+  {
+   "eid": "a2",
+   "label": "Yazdegerd II"
+  },
+  {
+   "eid": "a3",
+   "label": "Vardan Mamikonian"
+  }
+ ],
+ "mentions": [
+  {
+   "para": "p1",
+   "start": 27,
+   "end": 44,
+   "text": "Vardan Mamikonean",
+   "entity": "a3"
+  },
+  {
+   "para": "p1",
+   "start": 61,
+   "end": 68,
+   "text": "Awarayr",
+   "entity": "a1"
+  },
+  {
+   "para": "p1",
+   "start": 91,
+   "end": 102,
+   "text": "Yazdgerd II",
+   "entity": "a2"
+  },
+  {
+   "para": "p1",
+   "start": 151,
+   "end": 168,
+   "text": "Vardan Mamikonean",
+   "entity": "a3"
+  }
+ ],
+ "facts": [
+  {
+   "para": "p1",
+   "subj": "a3",
+   "rel": "fought_at",
+   "obj": "a1",
+   "evidence_quote": "was defeated at Awarayr"
+  }
+ ]
+}

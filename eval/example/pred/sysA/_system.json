@@ -1,0 +1,6 @@
+{
+ "system": "sysA",
+ "rel_map": {
+  "fought_at": "foughtAt"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "doc_id": "demo",
+ "annotator": "example",
+ "scope": {
+  "paragraphs": [
+   "p1"
+  ]
+ },
+ "entities": [
+  {
+   "eid": "E1",
+   "label": "Awarayr"
+  },
+  {
+   "eid": "E2",
+   "label": "Yazdgerd II",
+   "aliases": [
+    "Yazdegerd II"
+   ]
+  },
+  {
+   "eid": "E3",
+   "label": "Vardan Mamikonean",
+   "aliases": [
+    "Vardan Mamikonian"
+   ]
+  },
+  {
+   "eid": "E4",
+   "label": "Armenian Church"
+  }
+ ],
+ "mentions": [
+  {
+   "para": "p1",
+   "start": 27,
+   "end": 44,
+   "text": "Vardan Mamikonean",
+   "entity": "E3"
+  },
+  {
+   "para": "p1",
+   "start": 61,
+   "end": 68,
+   "text": "Awarayr",
+   "entity": "E1"
+  },
+  {
+   "para": "p1",
+   "start": 91,
+   "end": 102,
+   "text": "Yazdgerd II",
+   "entity": "E2"
+  },
+  {
+   "para": "p1",
+   "start": 125,
+   "end": 140,
+   "text": "Armenian Church",
+   "entity": "E4"
+  },
+  {
+   "para": "p1",
+   "start": 151,
+   "end": 168,
+   "text": "Vardan Mamikonean",
+   "entity": "E3"
+  }
+ ],
+ "facts": [
+  {
+   "para": "p1",
+   "subj": "E3",
+   "rel": "foughtAt",
+   "obj": "E1"
+  },
+  {
+   "para": "p1",
+   "subj": "E4",
+   "rel": "canonised",
+   "obj": "E3"
+  }
+ ]
+}

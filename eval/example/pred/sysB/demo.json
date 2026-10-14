@@ -1,0 +1,66 @@
+{
+ "doc_id": "demo",
+ "entities": [
+  {
+   "eid": "b1",
+   "label": "Awarayr"
+  },
+  {
+   "eid": "b2",
+   "label": "Yazdgerd II"
+  },
+  {
+   "eid": "b3",
+   "label": "Armenian Church"
+  },
+  {
+   "eid": "b4",
+   "label": "Vardan Mamikonean"
+  }
+ ],
+ "mentions": [
+  {
+   "para": "p1",
+   "start": 27,
+   "end": 44,
+   "text": "Vardan Mamikonean",
+   "entity": "b4"
+  },
+  {
+   "para": "p1",
+   "start": 61,
+   "end": 68,
+   "text": "Awarayr",
+   "entity": "b1"
+  },
+  {
+   "para": "p1",
+   "start": 91,
+   "end": 102,
+   "text": "Yazdgerd II",
+   "entity": "b2"
+  },
+  {
+   "para": "p1",
+   "start": 125,
+   "end": 140,
+   "text": "Armenian Church",
+   "entity": "b3"
+  },
+  {
+   "para": "p1",
+   "start": 151,
+   "end": 168,
+   "text": "Vardan Mamikonean",
+   "entity": "b3"
+  },
+  {
+   "para": "p1",
+   "start": 9,
+   "end": 14,
+   "text": "rebel",
+   "entity": null
+  }
+ ],
+ "facts": []
+}
