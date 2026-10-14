@@ -6,6 +6,8 @@ venv/
 .env
 .claude/
 
-papers/*.pdf
+papers/
+texts/
+
 
 .idea/
