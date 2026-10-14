@@ -7,7 +7,6 @@ python evaluate.py validate --texts texts/ --pred pred/A/        # file sanity, 
 python evaluate.py score    --texts texts/ --gold gold/ --pred pred/A/ pred/B/ [--span strict|overlap]
 python evaluate.py sample   --texts texts/ --pred pred/A/ --n 100 --out audit_A.csv   # humans fill `verdict`
 python evaluate.py audit    --csv audit_A.csv                    # precision + Wilson interval
-python -m unittest discover -s tests                             # tests
 ```
 `example/` is a one-paragraph illustration of the format, not a result.
 
