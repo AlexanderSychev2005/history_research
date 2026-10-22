@@ -1,0 +1,40 @@
+{
+  "loader": {
+    "name": "text"
+  },
+  "ner": {
+    "name": "gliner",
+    "params": {
+      "model_name": "numind/NuNER_Zero-span",
+      "labels": [
+        "person",
+        "organization",
+        "location",
+        "ethnic group",
+        "state",
+        "empire",
+        "book",
+        "literary work"
+      ],
+      "threshold": 0.5
+    }
+  },
+  "candidate_generator": {
+    "name": "fuzzy",
+    "params": {
+      "top_k": 20
+    }
+  },
+  "reranker": {
+    "name": "none",
+    "params": {
+      "top_k": 20
+    }
+  },
+  "disambiguator": {
+    "name": "first"
+  },
+  "knowledge_base": {
+    "name": "yago"
+  }
+}

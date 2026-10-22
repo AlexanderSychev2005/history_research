@@ -1,0 +1,8 @@
+{
+  "loader": {"name": "text"},
+  "ner": {"name": "gliner", "params": {"model_name": "numind/NuNER_Zero-span", "labels": ["person", "organization", "location"], "threshold": 0.5}},
+  "candidate_generator": {"name": "fuzzy", "params": {"top_k": 20}},
+  "reranker": {"name": "none", "params": {"top_k": 20}},
+  "disambiguator": {"name": "openai_api", "params": {"model_name": "openai/gpt-oss-20b", "base_url": "https://api.groq.com/openai/v1", "api_key": "__KEY__", "add_none_candidate": true}},
+  "knowledge_base": {"name": "yago"}
+}

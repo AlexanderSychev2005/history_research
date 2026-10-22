@@ -1,0 +1,41 @@
+{
+  "loader": {
+    "name": "text"
+  },
+  "ner": {
+    "name": "gliner",
+    "params": {
+      "model_name": "numind/NuNER_Zero-span",
+      "labels": [
+        "person",
+        "organization",
+        "location",
+        "ethnic group",
+        "state",
+        "empire",
+        "book",
+        "literary work"
+      ],
+      "threshold": 0.3
+    }
+  },
+  "candidate_generator": {
+    "name": "fuzzy",
+    "params": {
+      "top_k": 20
+    }
+  },
+  "reranker": {
+    "name": "cross_encoder",
+    "params": {
+      "model_name": "tomaarsen/Qwen3-Reranker-0.6B-seq-cls",
+      "top_k": 10
+    }
+  },
+  "disambiguator": {
+    "name": "first"
+  },
+  "knowledge_base": {
+    "name": "yago"
+  }
+}

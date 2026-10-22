@@ -1,0 +1,170 @@
+{
+ "config": "ner_ext_t03_k64",
+ "n_gold": 35,
+ "n_pred": 40,
+ "mention": {
+  "P": 0.85,
+  "R": 0.9714285714285714,
+  "F": 0.9066666666666667,
+  "tp": 34
+ },
+ "link": {
+  "P": 0.325,
+  "R": 0.41935483870967744,
+  "F": 0.36619718309859156,
+  "tp": 13
+ },
+ "cand_recall": {
+  "hit": 21,
+  "of": 30,
+  "K": 64
+ },
+ "nil": {
+  "no_link": 0,
+  "of": 4
+ },
+ "errors": {
+  "missed_mentions": [
+   "Łazar"
+  ],
+  "false_mentions": [
+   {
+    "doc": "alford2026",
+    "text": "Armenian",
+    "linked": "yago:SS_Armenian"
+   },
+   {
+    "doc": "alford2026",
+    "text": "Christian",
+    "linked": "yago:Christian_Kux"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Hellenic",
+    "linked": "yago:Hellenic_TV"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "God",
+    "linked": "yago:Godzilla_1998_film"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Persian",
+    "linked": "yago:Persipan"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Persian",
+    "linked": "yago:Persipan"
+   }
+  ],
+  "wrong_links": [
+   {
+    "text": "Łazar P‘arpec‘i",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": "yago:Azar"
+   },
+   {
+    "text": "History of the Armenians",
+    "gold": null,
+    "pred": "yago:History"
+   },
+   {
+    "text": "Gorgān",
+    "gold": "yago:Hyrcania",
+    "pred": "yago:Go_GO_GO_Go"
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": "yago:Ali_Khuzestan"
+   },
+   {
+    "text": "Łazar",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": "yago:Wojciech_Łazarek"
+   },
+   {
+    "text": "Vahan Mamikonean",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": "yago:Miko"
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": "yago:Ali_Khuzestan"
+   },
+   {
+    "text": "Sasanians",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Asan"
+   },
+   {
+    "text": "Vahan",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": "yago:Vahnan"
+   },
+   {
+    "text": "Vałaršapat",
+    "gold": "yago:Vagharshapat",
+    "pred": "yago:Apate"
+   },
+   {
+    "text": "Eǰmiacin",
+    "gold": "yago:Vagharshapat",
+    "pred": "yago:Emilcin"
+   },
+   {
+    "text": "Vahan",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": "yago:Vahnan"
+   },
+   {
+    "text": "Syria",
+    "gold": null,
+    "pred": "yago:Syria"
+   },
+   {
+    "text": "Simplicius",
+    "gold": "yago:Simplicius_of_Cilicia",
+    "pred": "yago:SIMPL"
+   },
+   {
+    "text": "Priscian",
+    "gold": "yago:Priscian_of_Lydia",
+    "pred": "yago:Priscian"
+   },
+   {
+    "text": "Hermes",
+    "gold": null,
+    "pred": "yago:Hermes"
+   },
+   {
+    "text": "Diogenes",
+    "gold": "yago:Diogenes_of_Phoenicia",
+    "pred": "yago:Diogenes"
+   },
+   {
+    "text": "Isidore",
+    "gold": null,
+    "pred": "yago:Isidorea"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Perasia"
+   },
+   {
+    "text": "Romans",
+    "gold": "yago:Byzantine_Empire",
+    "pred": "yago:BroMans"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Perasia"
+   }
+  ]
+ }
+}

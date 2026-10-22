@@ -1,0 +1,31 @@
+{
+  "loader": {
+    "name": "text",
+    "params": {}
+  },
+  "ner": {
+    "name": "gliner",
+    "params": {
+      "model_name": "numind/NuNER_Zero-span",
+      "labels": ["person", "organization", "location"],
+      "threshold": 0.5
+    }
+  },
+  "candidate_generator": {
+    "name": "bm25",
+    "params": {
+      "top_k": 64
+    }
+  },
+  "reranker": {
+    "name": "none",
+    "params": {}
+  },
+  "disambiguator": {
+    "name": "first",
+    "params": {}
+  },
+  "knowledge_base": {
+    "name": "yago"
+  }
+}

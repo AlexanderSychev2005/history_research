@@ -1,0 +1,125 @@
+{
+ "config": "ner_ext_t03_k64_groq120b",
+ "n_gold": 35,
+ "n_pred": 40,
+ "mention": {
+  "P": 0.85,
+  "R": 0.9714285714285714,
+  "F": 0.9066666666666667,
+  "tp": 34
+ },
+ "link": {
+  "P": 0.6451612903225806,
+  "R": 0.6451612903225806,
+  "F": 0.6451612903225806,
+  "tp": 20
+ },
+ "cand_recall": {
+  "hit": 21,
+  "of": 30,
+  "K": 64
+ },
+ "nil": {
+  "no_link": 2,
+  "of": 4
+ },
+ "errors": {
+  "missed_mentions": [
+   "Łazar"
+  ],
+  "false_mentions": [
+   {
+    "doc": "alford2026",
+    "text": "Armenian",
+    "linked": "yago:Armenia"
+   },
+   {
+    "doc": "alford2026",
+    "text": "Christian",
+    "linked": "yago:Christians"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Hellenic",
+    "linked": null
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "God",
+    "linked": "yago:God_the_Father"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Persian",
+    "linked": "yago:Persian_Empire"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Persian",
+    "linked": "yago:Persian_Empire"
+   }
+  ],
+  "wrong_links": [
+   {
+    "text": "Łazar P‘arpec‘i",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "Gorgān",
+    "gold": "yago:Hyrcania",
+    "pred": "yago:Gorgan"
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": null
+   },
+   {
+    "text": "Łazar",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": null
+   },
+   {
+    "text": "Eǰmiacin",
+    "gold": "yago:Vagharshapat",
+    "pred": null
+   },
+   {
+    "text": "Syria",
+    "gold": null,
+    "pred": "yago:Syria"
+   },
+   {
+    "text": "Hermes",
+    "gold": null,
+    "pred": "yago:Hermes_Trismegistus"
+   },
+   {
+    "text": "Phoenicia",
+    "gold": "yago:Phoenicia",
+    "pred": "yago:Diogenes_of_Phoenicia"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Persian_Empire"
+   },
+   {
+    "text": "Romans",
+    "gold": "yago:Byzantine_Empire",
+    "pred": null
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Persian_Empire"
+   }
+  ]
+ }
+}

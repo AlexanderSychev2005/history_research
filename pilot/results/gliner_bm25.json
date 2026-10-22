@@ -1,0 +1,160 @@
+{
+ "config": "gliner_bm25",
+ "n_gold": 35,
+ "n_pred": 28,
+ "mention": {
+  "P": 1.0,
+  "R": 0.8,
+  "F": 0.888888888888889,
+  "tp": 28
+ },
+ "link": {
+  "P": 0.14285714285714285,
+  "R": 0.12903225806451613,
+  "F": 0.13559322033898305,
+  "tp": 4
+ },
+ "cand_recall": {
+  "hit": 7,
+  "of": 25,
+  "K": 10
+ },
+ "nil": {
+  "no_link": 0,
+  "of": 3
+ },
+ "errors": {
+  "missed_mentions": [
+   "History of the Armenians",
+   "Hyrcania",
+   "Łazar",
+   "Łazar",
+   "Vahan",
+   "Eǰmiacin",
+   "Vahan"
+  ],
+  "false_mentions": [],
+  "wrong_links": [
+   {
+    "text": "Łazar P‘arpec‘i",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": "yago:Karol_Łazar"
+   },
+   {
+    "text": "Gorgān",
+    "gold": "yago:Hyrcania",
+    "pred": "yago:Fernando_Mayén"
+   },
+   {
+    "text": "Alborz",
+    "gold": "yago:Alborz",
+    "pred": "yago:Zafaraniyeh_Alborz"
+   },
+   {
+    "text": "Caspian Sea",
+    "gold": "yago:Caspian_Sea",
+    "pred": "yago:Svinoy_Caspian_Sea"
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": "yago:Bandeh_Khuzestan"
+   },
+   {
+    "text": "Vahan Mamikonean",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": "yago:John_Mamikonean"
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": "yago:Bandeh_Khuzestan"
+   },
+   {
+    "text": "Sasanians",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Battle_of_the_Bridge"
+   },
+   {
+    "text": "Vałaršapat",
+    "gold": "yago:Vagharshapat",
+    "pred": "yago:Fernando_Mayén"
+   },
+   {
+    "text": "Syria",
+    "gold": null,
+    "pred": "yago:Saida_Syria"
+   },
+   {
+    "text": "Simplicius",
+    "gold": "yago:Simplicius_of_Cilicia",
+    "pred": "yago:Pope_Simplicius"
+   },
+   {
+    "text": "Cilicia",
+    "gold": "yago:Cilicia",
+    "pred": "yago:Laertes_Cilicia"
+   },
+   {
+    "text": "Phrygia",
+    "gold": "yago:Phrygia",
+    "pred": "yago:Sebaste_Phrygia"
+   },
+   {
+    "text": "Priscian",
+    "gold": "yago:Priscian_of_Lydia",
+    "pred": "yago:Priscian"
+   },
+   {
+    "text": "Lydia",
+    "gold": "yago:Lydia",
+    "pred": "yago:Devil_Lydia_album"
+   },
+   {
+    "text": "Hermes",
+    "gold": null,
+    "pred": "yago:Hermes_of_Messene"
+   },
+   {
+    "text": "Diogenes",
+    "gold": "yago:Diogenes_of_Phoenicia",
+    "pred": "yago:Constantine_Diogenes"
+   },
+   {
+    "text": "Phoenicia",
+    "gold": "yago:Phoenicia",
+    "pred": "yago:Eshmun"
+   },
+   {
+    "text": "Isidore",
+    "gold": null,
+    "pred": "yago:Isidore_Gluckstein"
+   },
+   {
+    "text": "Gaza",
+    "gold": "yago:Gaza_City",
+    "pred": "yago:Zeitoun_Gaza"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Prince_Prince_of_Persia"
+   },
+   {
+    "text": "Romans",
+    "gold": "yago:Byzantine_Empire",
+    "pred": "yago:Peter_Duke_of_the_Romans"
+   },
+   {
+    "text": "Plato",
+    "gold": "yago:Plato",
+    "pred": "yago:Apology_Plato"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Prince_Prince_of_Persia"
+   }
+  ]
+ }
+}

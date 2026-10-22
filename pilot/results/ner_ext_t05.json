@@ -1,0 +1,132 @@
+{
+ "config": "ner_ext_t05",
+ "n_gold": 35,
+ "n_pred": 25,
+ "mention": {
+  "P": 0.88,
+  "R": 0.6285714285714286,
+  "F": 0.7333333333333334,
+  "tp": 22
+ },
+ "link": {
+  "P": 0.32,
+  "R": 0.25806451612903225,
+  "F": 0.2857142857142857,
+  "tp": 8
+ },
+ "cand_recall": {
+  "hit": 13,
+  "of": 19,
+  "K": 20
+ },
+ "nil": {
+  "no_link": 0,
+  "of": 3
+ },
+ "errors": {
+  "missed_mentions": [
+   "History of the Armenians",
+   "Hyrcania",
+   "Łazar",
+   "Łazar",
+   "Vahan",
+   "Vałaršapat",
+   "Eǰmiacin",
+   "Vahan",
+   "Cilicia",
+   "Phrygia",
+   "Lydia",
+   "Gaza",
+   "Romans"
+  ],
+  "false_mentions": [
+   {
+    "doc": "alford2026",
+    "text": "Armenian",
+    "linked": "yago:SS_Armenian"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Persian",
+    "linked": "yago:Persipan"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Persian",
+    "linked": "yago:Persipan"
+   }
+  ],
+  "wrong_links": [
+   {
+    "text": "Łazar P‘arpec‘i",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": "yago:Azar"
+   },
+   {
+    "text": "Gorgān",
+    "gold": "yago:Hyrcania",
+    "pred": "yago:Go_GO_GO_Go"
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": "yago:Ali_Khuzestan"
+   },
+   {
+    "text": "Vahan Mamikonean",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": "yago:Miko"
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": "yago:Ali_Khuzestan"
+   },
+   {
+    "text": "Sasanians",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Asan"
+   },
+   {
+    "text": "Syria",
+    "gold": null,
+    "pred": "yago:Syria"
+   },
+   {
+    "text": "Simplicius",
+    "gold": "yago:Simplicius_of_Cilicia",
+    "pred": "yago:SIMPL"
+   },
+   {
+    "text": "Priscian",
+    "gold": "yago:Priscian_of_Lydia",
+    "pred": "yago:Priscian"
+   },
+   {
+    "text": "Hermes",
+    "gold": null,
+    "pred": "yago:Hermes"
+   },
+   {
+    "text": "Diogenes",
+    "gold": "yago:Diogenes_of_Phoenicia",
+    "pred": "yago:Diogenes"
+   },
+   {
+    "text": "Isidore",
+    "gold": null,
+    "pred": "yago:Isidorea"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Perasia"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Perasia"
+   }
+  ]
+ }
+}

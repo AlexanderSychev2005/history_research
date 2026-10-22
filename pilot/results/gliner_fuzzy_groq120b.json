@@ -1,0 +1,85 @@
+{
+ "config": "gliner_fuzzy_groq120b",
+ "n_gold": 35,
+ "n_pred": 28,
+ "mention": {
+  "P": 1.0,
+  "R": 0.8,
+  "F": 0.888888888888889,
+  "tp": 28
+ },
+ "link": {
+  "P": 0.8571428571428571,
+  "R": 0.5806451612903226,
+  "F": 0.6923076923076923,
+  "tp": 18
+ },
+ "cand_recall": {
+  "hit": 18,
+  "of": 25,
+  "K": 20
+ },
+ "nil": {
+  "no_link": 1,
+  "of": 3
+ },
+ "errors": {
+  "missed_mentions": [
+   "History of the Armenians",
+   "Hyrcania",
+   "Łazar",
+   "Łazar",
+   "Vahan",
+   "Eǰmiacin",
+   "Vahan"
+  ],
+  "false_mentions": [],
+  "wrong_links": [
+   {
+    "text": "Łazar P‘arpec‘i",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "Gorgān",
+    "gold": "yago:Hyrcania",
+    "pred": "yago:Gorgan"
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": null
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": null
+   },
+   {
+    "text": "Syria",
+    "gold": null,
+    "pred": "yago:Syria"
+   },
+   {
+    "text": "Hermes",
+    "gold": null,
+    "pred": "yago:Hermes_Trismegistus"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": null
+   },
+   {
+    "text": "Romans",
+    "gold": "yago:Byzantine_Empire",
+    "pred": null
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": null
+   }
+  ]
+ }
+}

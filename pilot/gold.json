@@ -1,0 +1,284 @@
+{
+ "mentions": [
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 37,
+   "end": 52,
+   "text": "Łazar P‘arpec‘i",
+   "entity": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 92,
+   "end": 116,
+   "text": "History of the Armenians",
+   "entity": null
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 178,
+   "end": 184,
+   "text": "Gorgān",
+   "entity": "yago:Hyrcania"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 193,
+   "end": 201,
+   "text": "Hyrcania",
+   "entity": "yago:Hyrcania"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 227,
+   "end": 233,
+   "text": "Alborz",
+   "entity": "yago:Alborz"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 262,
+   "end": 273,
+   "text": "Caspian Sea",
+   "entity": "yago:Caspian_Sea"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 333,
+   "end": 342,
+   "text": "Khuzestan",
+   "entity": "yago:Khuzestan_province"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 396,
+   "end": 401,
+   "text": "Łazar",
+   "entity": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 551,
+   "end": 567,
+   "text": "Vahan Mamikonean",
+   "entity": "yago:Vahan_I_Mamikonian"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 649,
+   "end": 658,
+   "text": "Khuzestan",
+   "entity": "yago:Khuzestan_province"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 701,
+   "end": 710,
+   "text": "Sasanians",
+   "entity": "yago:Sasanian_Empire"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 726,
+   "end": 731,
+   "text": "Łazar",
+   "entity": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 741,
+   "end": 746,
+   "text": "Vahan",
+   "entity": "yago:Vahan_I_Mamikonian"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 842,
+   "end": 852,
+   "text": "Vałaršapat",
+   "entity": "yago:Vagharshapat"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 861,
+   "end": 869,
+   "text": "Eǰmiacin",
+   "entity": "yago:Vagharshapat"
+  },
+  {
+   "doc": "alford2026",
+   "para": "p004",
+   "start": 874,
+   "end": 879,
+   "text": "Vahan",
+   "entity": "yago:Vahan_I_Mamikonian"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 13,
+   "end": 21,
+   "text": "Agathias",
+   "entity": "yago:Agathias"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 55,
+   "end": 64,
+   "text": "Damascius",
+   "entity": "yago:Damascius"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 68,
+   "end": 73,
+   "text": "Syria",
+   "entity": null
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 75,
+   "end": 85,
+   "text": "Simplicius",
+   "entity": "yago:Simplicius_of_Cilicia"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 89,
+   "end": 96,
+   "text": "Cilicia",
+   "entity": "yago:Cilicia"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 98,
+   "end": 106,
+   "text": "Eulamius",
+   "entity": "yago:Eulamius"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 110,
+   "end": 117,
+   "text": "Phrygia",
+   "entity": "yago:Phrygia"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 119,
+   "end": 127,
+   "text": "Priscian",
+   "entity": "yago:Priscian_of_Lydia"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 131,
+   "end": 136,
+   "text": "Lydia",
+   "entity": "yago:Lydia"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 138,
+   "end": 144,
+   "text": "Hermes",
+   "entity": null
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 149,
+   "end": 157,
+   "text": "Diogenes",
+   "entity": "yago:Diogenes_of_Phoenicia"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 161,
+   "end": 170,
+   "text": "Phoenicia",
+   "entity": "yago:Phoenicia"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 176,
+   "end": 183,
+   "text": "Isidore",
+   "entity": null
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 187,
+   "end": 191,
+   "text": "Gaza",
+   "entity": "yago:Gaza_City"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 201,
+   "end": 207,
+   "text": "Persia",
+   "entity": "yago:Sasanian_Empire"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 273,
+   "end": 279,
+   "text": "Romans",
+   "entity": "yago:Byzantine_Empire"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 383,
+   "end": 388,
+   "text": "Plato",
+   "entity": "yago:Plato"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 572,
+   "end": 578,
+   "text": "Persia",
+   "entity": "yago:Sasanian_Empire"
+  },
+  {
+   "doc": "nechaeva2017",
+   "para": "p004",
+   "start": 676,
+   "end": 684,
+   "text": "Agathias",
+   "entity": "yago:Agathias"
+  }
+ ]
+}

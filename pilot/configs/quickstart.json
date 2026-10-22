@@ -1,0 +1,7 @@
+{
+  "loader": {"name": "text"},
+  "ner": {"name": "regex", "params": {"min_len": 3}},
+  "candidate_generator": {"name": "fuzzy", "params": {"top_k": 10}},
+  "reranker": {"name": "none"},
+  "disambiguator": {"name": "first"}
+}

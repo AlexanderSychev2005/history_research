@@ -1,0 +1,180 @@
+{
+ "config": "ner_ext_t03_ce",
+ "n_gold": 35,
+ "n_pred": 40,
+ "mention": {
+  "P": 0.85,
+  "R": 0.9714285714285714,
+  "F": 0.9066666666666667,
+  "tp": 34
+ },
+ "link": {
+  "P": 0.275,
+  "R": 0.3548387096774194,
+  "F": 0.3098591549295775,
+  "tp": 11
+ },
+ "cand_recall": {
+  "hit": 19,
+  "of": 30,
+  "K": 10
+ },
+ "nil": {
+  "no_link": 0,
+  "of": 4
+ },
+ "errors": {
+  "missed_mentions": [
+   "Łazar"
+  ],
+  "false_mentions": [
+   {
+    "doc": "alford2026",
+    "text": "Armenian",
+    "linked": "yago:Armenia"
+   },
+   {
+    "doc": "alford2026",
+    "text": "Christian",
+    "linked": "yago:Christian_CND"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Hellenic",
+    "linked": "yago:Hellenica"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "God",
+    "linked": "yago:God_Forgives_I_Don_t"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Persian",
+    "linked": "yago:Persian_mythology"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Persian",
+    "linked": "yago:Persian_mythology"
+   }
+  ],
+  "wrong_links": [
+   {
+    "text": "Łazar P‘arpec‘i",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": "yago:Joscelin_I_Count_of_Edessa"
+   },
+   {
+    "text": "History of the Armenians",
+    "gold": null,
+    "pred": "yago:History_of_Armenia"
+   },
+   {
+    "text": "Gorgān",
+    "gold": "yago:Hyrcania",
+    "pred": "yago:Gorgan"
+   },
+   {
+    "text": "Caspian Sea",
+    "gold": "yago:Caspian_Sea",
+    "pred": "yago:Svinoy_Caspian_Sea"
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": "yago:Darvishi_Khuzestan"
+   },
+   {
+    "text": "Łazar",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": "yago:Karol_Łazar"
+   },
+   {
+    "text": "Vahan Mamikonean",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": "yago:John_Mamikonean"
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": "yago:Babel_Khuzestan"
+   },
+   {
+    "text": "Sasanians",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Sasanian_reconquest_of_Yemen"
+   },
+   {
+    "text": "Vahan",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": "yago:Vahanavank"
+   },
+   {
+    "text": "Eǰmiacin",
+    "gold": "yago:Vagharshapat",
+    "pred": "yago:Eremiascincus_richardsonii"
+   },
+   {
+    "text": "Vahan",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": "yago:Vahanavank"
+   },
+   {
+    "text": "Syria",
+    "gold": null,
+    "pred": "yago:Assyria_Roman_province"
+   },
+   {
+    "text": "Cilicia",
+    "gold": "yago:Cilicia",
+    "pred": "yago:Gregory_IX_of_Cilicia"
+   },
+   {
+    "text": "Lydia",
+    "gold": "yago:Lydia",
+    "pred": "yago:Lydia_Mischkulnig"
+   },
+   {
+    "text": "Hermes",
+    "gold": null,
+    "pred": "yago:Hermes"
+   },
+   {
+    "text": "Diogenes",
+    "gold": "yago:Diogenes_of_Phoenicia",
+    "pred": "yago:Diogenes_and_Alexander"
+   },
+   {
+    "text": "Phoenicia",
+    "gold": "yago:Phoenicia",
+    "pred": "yago:Diogenes_of_Phoenicia"
+   },
+   {
+    "text": "Isidore",
+    "gold": null,
+    "pred": "yago:Isidore_Okpewho"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Prince_of_Persia_The_Graphic_Novel"
+   },
+   {
+    "text": "Romans",
+    "gold": "yago:Byzantine_Empire",
+    "pred": "yago:Epistle_of_Ignatius_to_the_Romans"
+   },
+   {
+    "text": "Plato",
+    "gold": "yago:Plato",
+    "pred": "yago:Plato_s_Dream"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": "yago:Prince_of_Persia_The_Graphic_Novel"
+   }
+  ]
+ }
+}
