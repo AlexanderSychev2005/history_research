@@ -1,0 +1,1372 @@
+{
+  "doc_id": "alford2026",
+  "entities": [
+    {
+      "mention": "Sasanian King Yazdgerd II",
+      "label": "person",
+      "paragraph_id": "p001",
+      "context": "Abstract. This study examines the trajectory of two captive groups taken after the defeat of the AD 450–1 Armenian rebellion against Sasanian King Yazdgerd II and argues that the destinations and treatment of these captives must be understood in terms of their social positions, as well as when they were taken captive and the part they played in the rebellion. Sasanian authorities carefully delineated between the treatment of children, secular nobility, and Christian clerics involved in the rebellion, aiming both to regain control of the rebellious region and prosecute other defensive objectives along the empire’s northern border.",
+      "search_queries": [
+        "Sasanian King Yazdgerd II",
+        "Yazdgerd II",
+        "Sasanian King Yazdegerd II",
+        "Yazdegerd II",
+        "Sasanian King Yazdgerd",
+        "Yazdgerd",
+        "Sasanian King Yazdegerd",
+        "Yazdegerd"
+      ],
+      "candidates": [
+        {
+          "id": "Q208463",
+          "label": "Yazdegerd III",
+          "description": "The 27th and last Sasanian emperor (632–651)",
+          "url": "http://www.wikidata.org/entity/Q208463",
+          "matched_queries": [
+            "Yazdgerd II",
+            "Yazdegerd II",
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q310303",
+          "label": "Yazdegerd II",
+          "description": "The 16th Sassanid Emperor (438–457)",
+          "url": "http://www.wikidata.org/entity/Q310303",
+          "matched_queries": [
+            "Yazdegerd II",
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q5802275",
+          "label": "Yazdgerd",
+          "description": "village in Iran",
+          "url": "http://www.wikidata.org/entity/Q5802275",
+          "matched_queries": [
+            "Yazdgerd"
+          ]
+        },
+        {
+          "id": "Q85168339",
+          "label": "Yazdgerd Railway Station",
+          "description": "railway station in Iran",
+          "url": "http://www.wikidata.org/entity/Q85168339",
+          "matched_queries": [
+            "Yazdgerd"
+          ]
+        },
+        {
+          "id": "Q217290",
+          "label": "Yazdegerd I",
+          "description": "The 14th Sassanid Emperor (399–420)",
+          "url": "http://www.wikidata.org/entity/Q217290",
+          "matched_queries": [
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q42860114",
+          "label": "Yazdegerd Castle (Dalahu County)",
+          "description": "castle in Dalahu County, Iranian national heritage site",
+          "url": "http://www.wikidata.org/entity/Q42860114",
+          "matched_queries": [
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q16048575",
+          "label": "Yazdegerd Castle (Ramhormoz County)",
+          "description": "Iranian national heritage site",
+          "url": "http://www.wikidata.org/entity/Q16048575",
+          "matched_queries": [
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q5960060",
+          "label": "Yazdegerd Castle",
+          "description": "Wikimedia disambiguation page",
+          "url": "http://www.wikidata.org/entity/Q5960060",
+          "matched_queries": [
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q5910673",
+          "label": "Yazdegerd Castle Prison",
+          "description": "Iranian national heritage site",
+          "url": "http://www.wikidata.org/entity/Q5910673",
+          "matched_queries": [
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q5912284",
+          "label": "Yazdegerd Castle Perimeter Fortifications",
+          "description": "Iranian national heritage site",
+          "url": "http://www.wikidata.org/entity/Q5912284",
+          "matched_queries": [
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q19060742",
+          "label": "Yazdegerd (son of Bahram IV)",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q19060742",
+          "matched_queries": [
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q449790",
+          "label": "Yazdegerd",
+          "description": "Wikimedia disambiguation page",
+          "url": "http://www.wikidata.org/entity/Q449790",
+          "matched_queries": [
+            "Yazdegerd"
+          ]
+        }
+      ],
+      "retrieval_status": "complete",
+      "failed_queries": [],
+      "ranked_candidates": [
+        {
+          "id": "Q310303",
+          "label": "Yazdegerd II",
+          "description": "The 16th Sassanid Emperor (438–457)",
+          "url": "http://www.wikidata.org/entity/Q310303",
+          "matched_queries": [
+            "Yazdegerd II",
+            "Yazdgerd",
+            "Yazdegerd"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 2.3103,
+          "combined_score": 1.0
+        },
+        {
+          "id": "Q208463",
+          "label": "Yazdegerd III",
+          "description": "The 27th and last Sasanian emperor (632–651)",
+          "url": "http://www.wikidata.org/entity/Q208463",
+          "matched_queries": [
+            "Yazdgerd II",
+            "Yazdegerd II",
+            "Yazdgerd",
+            "Yazdegerd"
+          ],
+          "fuzzy_score": 0.96,
+          "bm25_score": 2.064,
+          "combined_score": 0.9334
+        },
+        {
+          "id": "Q5802275",
+          "label": "Yazdgerd",
+          "description": "village in Iran",
+          "url": "http://www.wikidata.org/entity/Q5802275",
+          "matched_queries": [
+            "Yazdgerd"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4921,
+          "combined_score": 0.6852
+        },
+        {
+          "id": "Q449790",
+          "label": "Yazdegerd",
+          "description": "Wikimedia disambiguation page",
+          "url": "http://www.wikidata.org/entity/Q449790",
+          "matched_queries": [
+            "Yazdegerd"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4921,
+          "combined_score": 0.6852
+        },
+        {
+          "id": "Q217290",
+          "label": "Yazdegerd I",
+          "description": "The 14th Sassanid Emperor (399–420)",
+          "url": "http://www.wikidata.org/entity/Q217290",
+          "matched_queries": [
+            "Yazdgerd",
+            "Yazdegerd"
+          ],
+          "fuzzy_score": 0.9565,
+          "bm25_score": 0.3747,
+          "combined_score": 0.6388
+        }
+      ],
+      "entity_id": "Q310303",
+      "status": "linked",
+      "reason": "The context specifies the Sasanian King during the AD 450–1 Armenian rebellion. Yazdegerd II reigned from 438 to 457, which aligns with the historical period mentioned. Yazdegerd I and III have different reign dates that do not match the 450s."
+    },
+    {
+      "mention": "children",
+      "label": "person",
+      "paragraph_id": "p001",
+      "context": "Abstract. This study examines the trajectory of two captive groups taken after the defeat of the AD 450–1 Armenian rebellion against Sasanian King Yazdgerd II and argues that the destinations and treatment of these captives must be understood in terms of their social positions, as well as when they were taken captive and the part they played in the rebellion. Sasanian authorities carefully delineated between the treatment of children, secular nobility, and Christian clerics involved in the rebellion, aiming both to regain control of the rebellious region and prosecute other defensive objectives along the empire’s northern border.",
+      "search_queries": [
+        "children"
+      ],
+      "candidates": [
+        {
+          "id": "Q7569",
+          "label": "child",
+          "description": "human between birth and puberty",
+          "url": "http://www.wikidata.org/entity/Q7569",
+          "matched_queries": [
+            "children"
+          ]
+        },
+        {
+          "id": "Q2606509",
+          "label": "Children",
+          "description": "1995 single by Robert Miles",
+          "url": "http://www.wikidata.org/entity/Q2606509",
+          "matched_queries": [
+            "children"
+          ]
+        },
+        {
+          "id": "Q27726177",
+          "label": "Children",
+          "description": "scientific journal published by MDPI",
+          "url": "http://www.wikidata.org/entity/Q27726177",
+          "matched_queries": [
+            "children"
+          ]
+        },
+        {
+          "id": "Q28796866",
+          "label": "Children",
+          "description": "painting by Karl Ernst Papf",
+          "url": "http://www.wikidata.org/entity/Q28796866",
+          "matched_queries": [
+            "children"
+          ]
+        },
+        {
+          "id": "Q27959361",
+          "label": "Children",
+          "description": "1995 studio album by Ilúvatar",
+          "url": "http://www.wikidata.org/entity/Q27959361",
+          "matched_queries": [
+            "children"
+          ]
+        },
+        {
+          "id": "Q4853732",
+          "label": "children's writer",
+          "description": "writer of literature targeted primarily at children",
+          "url": "http://www.wikidata.org/entity/Q4853732",
+          "matched_queries": [
+            "children"
+          ]
+        },
+        {
+          "id": "Q27709994",
+          "label": "Children",
+          "description": "scientific journal published in Washington, D.C.",
+          "url": "http://www.wikidata.org/entity/Q27709994",
+          "matched_queries": [
+            "children"
+          ]
+        },
+        {
+          "id": "Q131539",
+          "label": "children's literature",
+          "description": "stories, books, magazines, and poems that are primarily written for children",
+          "url": "http://www.wikidata.org/entity/Q131539",
+          "matched_queries": [
+            "children"
+          ]
+        },
+        {
+          "id": "Q57354899",
+          "label": "child health",
+          "description": "concept of wellbeing in children",
+          "url": "http://www.wikidata.org/entity/Q57354899",
+          "matched_queries": [
+            "children"
+          ]
+        },
+        {
+          "id": "Q29514218",
+          "label": "child",
+          "description": "first-degree relative, direct descendant of parent",
+          "url": "http://www.wikidata.org/entity/Q29514218",
+          "matched_queries": [
+            "children"
+          ]
+        }
+      ],
+      "retrieval_status": "complete",
+      "failed_queries": [],
+      "ranked_candidates": [
+        {
+          "id": "Q2606509",
+          "label": "Children",
+          "description": "1995 single by Robert Miles",
+          "url": "http://www.wikidata.org/entity/Q2606509",
+          "matched_queries": [
+            "children"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4408,
+          "combined_score": 1.0
+        },
+        {
+          "id": "Q27726177",
+          "label": "Children",
+          "description": "scientific journal published by MDPI",
+          "url": "http://www.wikidata.org/entity/Q27726177",
+          "matched_queries": [
+            "children"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4408,
+          "combined_score": 1.0
+        },
+        {
+          "id": "Q28796866",
+          "label": "Children",
+          "description": "painting by Karl Ernst Papf",
+          "url": "http://www.wikidata.org/entity/Q28796866",
+          "matched_queries": [
+            "children"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4408,
+          "combined_score": 1.0
+        },
+        {
+          "id": "Q27959361",
+          "label": "Children",
+          "description": "1995 studio album by Ilúvatar",
+          "url": "http://www.wikidata.org/entity/Q27959361",
+          "matched_queries": [
+            "children"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4408,
+          "combined_score": 1.0
+        },
+        {
+          "id": "Q27709994",
+          "label": "Children",
+          "description": "scientific journal published in Washington, D.C.",
+          "url": "http://www.wikidata.org/entity/Q27709994",
+          "matched_queries": [
+            "children"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.3894,
+          "combined_score": 0.9534
+        }
+      ],
+      "entity_id": null,
+      "status": "nil",
+      "reason": "The mention 'children' is a generic common noun referring to a demographic group in the context of historical captives, not a specific named entity like a song, journal, or painting."
+    },
+    {
+      "mention": "Captives",
+      "label": "person",
+      "paragraph_id": "p002",
+      "context": "Keywords. Armenia, Rebellion, Sasanian Empire, Captives, Border Defence, Huns",
+      "search_queries": [
+        "Captives"
+      ],
+      "candidates": [
+        {
+          "id": "Q13882900",
+          "label": "The Captive",
+          "description": "2014 film directed by Atom Egoyan",
+          "url": "http://www.wikidata.org/entity/Q13882900",
+          "matched_queries": [
+            "Captives"
+          ]
+        },
+        {
+          "id": "Q4101697",
+          "label": "Captives",
+          "description": "1994 film by Angela Pope",
+          "url": "http://www.wikidata.org/entity/Q4101697",
+          "matched_queries": [
+            "Captives"
+          ]
+        },
+        {
+          "id": "Q28149487",
+          "label": "Captives",
+          "description": "episode of Supernatural (S9 E14)",
+          "url": "http://www.wikidata.org/entity/Q28149487",
+          "matched_queries": [
+            "Captives"
+          ]
+        },
+        {
+          "id": "Q20539517",
+          "label": "Captives",
+          "description": "painting by Evariste Vital Luminais",
+          "url": "http://www.wikidata.org/entity/Q20539517",
+          "matched_queries": [
+            "Captives"
+          ]
+        },
+        {
+          "id": "Q68091110",
+          "label": "Captives",
+          "description": "2019 film directed by Kristóf Deák",
+          "url": "http://www.wikidata.org/entity/Q68091110",
+          "matched_queries": [
+            "Captives"
+          ]
+        },
+        {
+          "id": "Q104564068",
+          "label": "Captives",
+          "description": "painting by Aleksander Lesser",
+          "url": "http://www.wikidata.org/entity/Q104564068",
+          "matched_queries": [
+            "Captives"
+          ]
+        },
+        {
+          "id": "Q107981908",
+          "label": "Caskets",
+          "description": "British post-hardcore band",
+          "url": "http://www.wikidata.org/entity/Q107981908",
+          "matched_queries": [
+            "Captives"
+          ]
+        },
+        {
+          "id": "Q121232432",
+          "label": "Captives",
+          "description": "2023 film directed by Arnaud des Pallières",
+          "url": "http://www.wikidata.org/entity/Q121232432",
+          "matched_queries": [
+            "Captives"
+          ]
+        },
+        {
+          "id": "Q7721302",
+          "label": "The Captives",
+          "description": "2004 film directed by Jude Miller",
+          "url": "http://www.wikidata.org/entity/Q7721302",
+          "matched_queries": [
+            "Captives"
+          ]
+        },
+        {
+          "id": "Q139504503",
+          "label": "Captives",
+          "description": "novel by Jill Williamson",
+          "url": "http://www.wikidata.org/entity/Q139504503",
+          "matched_queries": [
+            "Captives"
+          ]
+        }
+      ],
+      "retrieval_status": "complete",
+      "failed_queries": [],
+      "ranked_candidates": [
+        {
+          "id": "Q104564068",
+          "label": "Captives",
+          "description": "painting by Aleksander Lesser",
+          "url": "http://www.wikidata.org/entity/Q104564068",
+          "matched_queries": [
+            "Captives"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4394,
+          "combined_score": 1.0
+        },
+        {
+          "id": "Q139504503",
+          "label": "Captives",
+          "description": "novel by Jill Williamson",
+          "url": "http://www.wikidata.org/entity/Q139504503",
+          "matched_queries": [
+            "Captives"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4394,
+          "combined_score": 1.0
+        },
+        {
+          "id": "Q4101697",
+          "label": "Captives",
+          "description": "1994 film by Angela Pope",
+          "url": "http://www.wikidata.org/entity/Q4101697",
+          "matched_queries": [
+            "Captives"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4076,
+          "combined_score": 0.9711
+        },
+        {
+          "id": "Q28149487",
+          "label": "Captives",
+          "description": "episode of Supernatural (S9 E14)",
+          "url": "http://www.wikidata.org/entity/Q28149487",
+          "matched_queries": [
+            "Captives"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4076,
+          "combined_score": 0.9711
+        },
+        {
+          "id": "Q20539517",
+          "label": "Captives",
+          "description": "painting by Evariste Vital Luminais",
+          "url": "http://www.wikidata.org/entity/Q20539517",
+          "matched_queries": [
+            "Captives"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4076,
+          "combined_score": 0.9711
+        }
+      ],
+      "entity_id": null,
+      "status": "nil",
+      "reason": "The mention 'Captives' in the context of keywords for a historical paper about the Sasanian Empire and Armenia refers to the general concept of prisoners of war or hostages, not a specific named entity like a painting, novel, film, or TV episode. None of the candidates match this generic historical concept."
+    },
+    {
+      "mention": "Yazdgerd II",
+      "label": "person",
+      "paragraph_id": "p003",
+      "context": "On 2nd June 451 AD an Armenian rebellion was crushed by Sasanian forces at Awarayr near the region’s south-east border, decisively ending an uprising primarily comprised of Christian nobles that had begun the year prior in response to attempts by Yazdgerd II (r. AD 438–57) to convert the Armenian nobility to Zoroastrianism. The battle resulted in the death of rebel leader Vardan Mamikonean and many of his allies, who were canonised by the Armenian Church and became exemplars for resistance against foreign oppression. However, the following paper concerns itself not with these saints, but with survivors imprisoned after the rebellion.",
+      "search_queries": [
+        "Yazdgerd II",
+        "Yazdegerd II",
+        "Yazdgerd",
+        "Yazdegerd"
+      ],
+      "candidates": [
+        {
+          "id": "Q208463",
+          "label": "Yazdegerd III",
+          "description": "The 27th and last Sasanian emperor (632–651)",
+          "url": "http://www.wikidata.org/entity/Q208463",
+          "matched_queries": [
+            "Yazdgerd II",
+            "Yazdegerd II",
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q310303",
+          "label": "Yazdegerd II",
+          "description": "The 16th Sassanid Emperor (438–457)",
+          "url": "http://www.wikidata.org/entity/Q310303",
+          "matched_queries": [
+            "Yazdegerd II",
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q5802275",
+          "label": "Yazdgerd",
+          "description": "village in Iran",
+          "url": "http://www.wikidata.org/entity/Q5802275",
+          "matched_queries": [
+            "Yazdgerd"
+          ]
+        },
+        {
+          "id": "Q85168339",
+          "label": "Yazdgerd Railway Station",
+          "description": "railway station in Iran",
+          "url": "http://www.wikidata.org/entity/Q85168339",
+          "matched_queries": [
+            "Yazdgerd"
+          ]
+        },
+        {
+          "id": "Q217290",
+          "label": "Yazdegerd I",
+          "description": "The 14th Sassanid Emperor (399–420)",
+          "url": "http://www.wikidata.org/entity/Q217290",
+          "matched_queries": [
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q42860114",
+          "label": "Yazdegerd Castle (Dalahu County)",
+          "description": "castle in Dalahu County, Iranian national heritage site",
+          "url": "http://www.wikidata.org/entity/Q42860114",
+          "matched_queries": [
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q16048575",
+          "label": "Yazdegerd Castle (Ramhormoz County)",
+          "description": "Iranian national heritage site",
+          "url": "http://www.wikidata.org/entity/Q16048575",
+          "matched_queries": [
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q5960060",
+          "label": "Yazdegerd Castle",
+          "description": "Wikimedia disambiguation page",
+          "url": "http://www.wikidata.org/entity/Q5960060",
+          "matched_queries": [
+            "Yazdgerd",
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q5910673",
+          "label": "Yazdegerd Castle Prison",
+          "description": "Iranian national heritage site",
+          "url": "http://www.wikidata.org/entity/Q5910673",
+          "matched_queries": [
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q5912284",
+          "label": "Yazdegerd Castle Perimeter Fortifications",
+          "description": "Iranian national heritage site",
+          "url": "http://www.wikidata.org/entity/Q5912284",
+          "matched_queries": [
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q19060742",
+          "label": "Yazdegerd (son of Bahram IV)",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q19060742",
+          "matched_queries": [
+            "Yazdegerd"
+          ]
+        },
+        {
+          "id": "Q449790",
+          "label": "Yazdegerd",
+          "description": "Wikimedia disambiguation page",
+          "url": "http://www.wikidata.org/entity/Q449790",
+          "matched_queries": [
+            "Yazdegerd"
+          ]
+        }
+      ],
+      "retrieval_status": "complete",
+      "failed_queries": [],
+      "ranked_candidates": [
+        {
+          "id": "Q310303",
+          "label": "Yazdegerd II",
+          "description": "The 16th Sassanid Emperor (438–457)",
+          "url": "http://www.wikidata.org/entity/Q310303",
+          "matched_queries": [
+            "Yazdegerd II",
+            "Yazdgerd",
+            "Yazdegerd"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 2.3103,
+          "combined_score": 1.0
+        },
+        {
+          "id": "Q5802275",
+          "label": "Yazdgerd",
+          "description": "village in Iran",
+          "url": "http://www.wikidata.org/entity/Q5802275",
+          "matched_queries": [
+            "Yazdgerd"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4921,
+          "combined_score": 0.6852
+        },
+        {
+          "id": "Q449790",
+          "label": "Yazdegerd",
+          "description": "Wikimedia disambiguation page",
+          "url": "http://www.wikidata.org/entity/Q449790",
+          "matched_queries": [
+            "Yazdegerd"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4921,
+          "combined_score": 0.6852
+        },
+        {
+          "id": "Q217290",
+          "label": "Yazdegerd I",
+          "description": "The 14th Sassanid Emperor (399–420)",
+          "url": "http://www.wikidata.org/entity/Q217290",
+          "matched_queries": [
+            "Yazdgerd",
+            "Yazdegerd"
+          ],
+          "fuzzy_score": 0.9565,
+          "bm25_score": 0.3747,
+          "combined_score": 0.6388
+        },
+        {
+          "id": "Q208463",
+          "label": "Yazdegerd III",
+          "description": "The 27th and last Sasanian emperor (632–651)",
+          "url": "http://www.wikidata.org/entity/Q208463",
+          "matched_queries": [
+            "Yazdgerd II",
+            "Yazdegerd II",
+            "Yazdgerd",
+            "Yazdegerd"
+          ],
+          "fuzzy_score": 0.96,
+          "bm25_score": 0.3347,
+          "combined_score": 0.634
+        }
+      ],
+      "entity_id": "Q310303",
+      "status": "linked",
+      "reason": "The context specifies Yazdgerd II with reign dates AD 438–57, which matches the 16th Sassanid Emperor Yazdegerd II (Q310303). The spelling variation 'Yazdgerd' is a common transliteration of 'Yazdegerd'."
+    },
+    {
+      "mention": "Vardan Mamikonean",
+      "label": "person",
+      "paragraph_id": "p003",
+      "context": "On 2nd June 451 AD an Armenian rebellion was crushed by Sasanian forces at Awarayr near the region’s south-east border, decisively ending an uprising primarily comprised of Christian nobles that had begun the year prior in response to attempts by Yazdgerd II (r. AD 438–57) to convert the Armenian nobility to Zoroastrianism. The battle resulted in the death of rebel leader Vardan Mamikonean and many of his allies, who were canonised by the Armenian Church and became exemplars for resistance against foreign oppression. However, the following paper concerns itself not with these saints, but with survivors imprisoned after the rebellion.",
+      "search_queries": [
+        "Vardan Mamikonean"
+      ],
+      "candidates": [
+        {
+          "id": "Q1280744",
+          "label": "Vardan Mamikonian",
+          "description": "Armenian military leader and saint",
+          "url": "http://www.wikidata.org/entity/Q1280744",
+          "matched_queries": [
+            "Vardan Mamikonean"
+          ]
+        }
+      ],
+      "retrieval_status": "complete",
+      "failed_queries": [],
+      "ranked_candidates": [
+        {
+          "id": "Q1280744",
+          "label": "Vardan Mamikonian",
+          "description": "Armenian military leader and saint",
+          "url": "http://www.wikidata.org/entity/Q1280744",
+          "matched_queries": [
+            "Vardan Mamikonean"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": -0.5493,
+          "combined_score": 0.6
+        }
+      ],
+      "entity_id": "Q1280744",
+      "status": "linked",
+      "reason": "The context describes Vardan Mamikonean as the rebel leader killed at the Battle of Avarayr in 451 AD, which matches the description of the candidate 'Armenian military leader and saint'."
+    },
+    {
+      "mention": "survivors",
+      "label": "person",
+      "paragraph_id": "p003",
+      "context": "On 2nd June 451 AD an Armenian rebellion was crushed by Sasanian forces at Awarayr near the region’s south-east border, decisively ending an uprising primarily comprised of Christian nobles that had begun the year prior in response to attempts by Yazdgerd II (r. AD 438–57) to convert the Armenian nobility to Zoroastrianism. The battle resulted in the death of rebel leader Vardan Mamikonean and many of his allies, who were canonised by the Armenian Church and became exemplars for resistance against foreign oppression. However, the following paper concerns itself not with these saints, but with survivors imprisoned after the rebellion.",
+      "search_queries": [
+        "survivors"
+      ],
+      "candidates": [
+        {
+          "id": "Q1226179",
+          "label": "Survivors",
+          "description": "television series, 1975–1977",
+          "url": "http://www.wikidata.org/entity/Q1226179",
+          "matched_queries": [
+            "survivors"
+          ]
+        },
+        {
+          "id": "Q7647333",
+          "label": "Survivors",
+          "description": "1986 video game",
+          "url": "http://www.wikidata.org/entity/Q7647333",
+          "matched_queries": [
+            "survivors"
+          ]
+        },
+        {
+          "id": "Q6136036",
+          "label": "survivor",
+          "description": "one who survives short-term or ongoing traumatic event",
+          "url": "http://www.wikidata.org/entity/Q6136036",
+          "matched_queries": [
+            "survivors"
+          ]
+        },
+        {
+          "id": "Q135049944",
+          "label": "SURVIVORS",
+          "description": "video game developed by KenLau",
+          "url": "http://www.wikidata.org/entity/Q135049944",
+          "matched_queries": [
+            "survivors"
+          ]
+        },
+        {
+          "id": "Q135453226",
+          "label": "Survivors",
+          "description": "2024 video game developed by Loong",
+          "url": "http://www.wikidata.org/entity/Q135453226",
+          "matched_queries": [
+            "survivors"
+          ]
+        },
+        {
+          "id": "Q123403955",
+          "label": "Survivors",
+          "description": "2023 video game",
+          "url": "http://www.wikidata.org/entity/Q123403955",
+          "matched_queries": [
+            "survivors"
+          ]
+        },
+        {
+          "id": "Q2553921",
+          "label": "Survivors",
+          "description": "British 2008–2010 television series",
+          "url": "http://www.wikidata.org/entity/Q2553921",
+          "matched_queries": [
+            "survivors"
+          ]
+        },
+        {
+          "id": "Q113133176",
+          "label": "Survivors",
+          "description": "2022 Nigerian film directed by Kayode Peter",
+          "url": "http://www.wikidata.org/entity/Q113133176",
+          "matched_queries": [
+            "survivors"
+          ]
+        },
+        {
+          "id": "Q7647331",
+          "label": "Survivors",
+          "description": "1989 novel by Jean Lorrah",
+          "url": "http://www.wikidata.org/entity/Q7647331",
+          "matched_queries": [
+            "survivors"
+          ]
+        },
+        {
+          "id": "Q122822476",
+          "label": "Survivors: Three Kingdoms",
+          "description": "2023 video game",
+          "url": "http://www.wikidata.org/entity/Q122822476",
+          "matched_queries": [
+            "survivors"
+          ]
+        }
+      ],
+      "retrieval_status": "complete",
+      "failed_queries": [],
+      "ranked_candidates": [
+        {
+          "id": "Q7647333",
+          "label": "Survivors",
+          "description": "1986 video game",
+          "url": "http://www.wikidata.org/entity/Q7647333",
+          "matched_queries": [
+            "survivors"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4626,
+          "combined_score": 1.0
+        },
+        {
+          "id": "Q123403955",
+          "label": "Survivors",
+          "description": "2023 video game",
+          "url": "http://www.wikidata.org/entity/Q123403955",
+          "matched_queries": [
+            "survivors"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4626,
+          "combined_score": 1.0
+        },
+        {
+          "id": "Q1226179",
+          "label": "Survivors",
+          "description": "television series, 1975–1977",
+          "url": "http://www.wikidata.org/entity/Q1226179",
+          "matched_queries": [
+            "survivors"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4258,
+          "combined_score": 0.9682
+        },
+        {
+          "id": "Q135049944",
+          "label": "SURVIVORS",
+          "description": "video game developed by KenLau",
+          "url": "http://www.wikidata.org/entity/Q135049944",
+          "matched_queries": [
+            "survivors"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.3944,
+          "combined_score": 0.9411
+        },
+        {
+          "id": "Q2553921",
+          "label": "Survivors",
+          "description": "British 2008–2010 television series",
+          "url": "http://www.wikidata.org/entity/Q2553921",
+          "matched_queries": [
+            "survivors"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.3944,
+          "combined_score": 0.9411
+        }
+      ],
+      "entity_id": null,
+      "status": "nil",
+      "reason": "The mention 'survivors' is a generic common noun referring to people who survived the historical event, not a specific named entity like a video game or TV series."
+    },
+    {
+      "mention": "Łazar P‘arpec‘i",
+      "label": "person",
+      "paragraph_id": "p004",
+      "context": "The fifth-century Armenian historian Łazar P‘arpec‘i includes two groups of captives in his History of the Armenians, one composed primarily of nobles who were initially sent to Gorgān (Latin. Hyrcania, the region north of the Alborz watershed and bordering the Caspian Sea to the south-east) and the other of noble children held in Khuzestan, with both groups also containing Christian priests. Łazar is a particularly valuable source for these captives, in part because he knew several of them personally. Most notably, his history was sponsored by Vahan Mamikonean – the eldest of three brothers who are some of the only identifiable captives of Khuzestan and who led his own rebellion against the Sasanians from AD 482–4. Łazar had been Vahan’s childhood playmate after the noble’s release, and was appointed as abbot of the monastery of Vałaršapat (modern Eǰmiacin) by Vahan c. 493 AD, writing to his patron to defend his conduct after the monks had him removed.",
+      "search_queries": [
+        "Łazar P‘arpec‘i"
+      ],
+      "candidates": [],
+      "retrieval_status": "complete",
+      "failed_queries": [],
+      "ranked_candidates": [],
+      "entity_id": null,
+      "status": "nil",
+      "reason": "No candidates provided in the list."
+    },
+    {
+      "mention": "Łazar",
+      "label": "person",
+      "paragraph_id": "p004",
+      "context": "The fifth-century Armenian historian Łazar P‘arpec‘i includes two groups of captives in his History of the Armenians, one composed primarily of nobles who were initially sent to Gorgān (Latin. Hyrcania, the region north of the Alborz watershed and bordering the Caspian Sea to the south-east) and the other of noble children held in Khuzestan, with both groups also containing Christian priests. Łazar is a particularly valuable source for these captives, in part because he knew several of them personally. Most notably, his history was sponsored by Vahan Mamikonean – the eldest of three brothers who are some of the only identifiable captives of Khuzestan and who led his own rebellion against the Sasanians from AD 482–4. Łazar had been Vahan’s childhood playmate after the noble’s release, and was appointed as abbot of the monastery of Vałaršapat (modern Eǰmiacin) by Vahan c. 493 AD, writing to his patron to defend his conduct after the monks had him removed.",
+      "search_queries": [
+        "Łazar"
+      ],
+      "candidates": [
+        {
+          "id": "Q12794654",
+          "label": "Lazar",
+          "description": "male given name",
+          "url": "http://www.wikidata.org/entity/Q12794654",
+          "matched_queries": [
+            "Łazar"
+          ]
+        },
+        {
+          "id": "Q20519011",
+          "label": "Lazar",
+          "description": "family name",
+          "url": "http://www.wikidata.org/entity/Q20519011",
+          "matched_queries": [
+            "Łazar"
+          ]
+        },
+        {
+          "id": "Q28193005",
+          "label": "Lázár",
+          "description": "family name",
+          "url": "http://www.wikidata.org/entity/Q28193005",
+          "matched_queries": [
+            "Łazar"
+          ]
+        },
+        {
+          "id": "Q40201596",
+          "label": "Lazăr",
+          "description": "family name",
+          "url": "http://www.wikidata.org/entity/Q40201596",
+          "matched_queries": [
+            "Łazar"
+          ]
+        },
+        {
+          "id": "Q104638802",
+          "label": "Lazăr",
+          "description": "male given name",
+          "url": "http://www.wikidata.org/entity/Q104638802",
+          "matched_queries": [
+            "Łazar"
+          ]
+        },
+        {
+          "id": "Q21069165",
+          "label": "Lázár",
+          "description": "male given name",
+          "url": "http://www.wikidata.org/entity/Q21069165",
+          "matched_queries": [
+            "Łazar"
+          ]
+        },
+        {
+          "id": "Q310197",
+          "label": "Lazar Hrebeljanović",
+          "description": "Medieval Serbian ruler",
+          "url": "http://www.wikidata.org/entity/Q310197",
+          "matched_queries": [
+            "Łazar"
+          ]
+        },
+        {
+          "id": "Q26775128",
+          "label": "Lazarus",
+          "description": "family name",
+          "url": "http://www.wikidata.org/entity/Q26775128",
+          "matched_queries": [
+            "Łazar"
+          ]
+        },
+        {
+          "id": "Q310767",
+          "label": "Lazare Carnot",
+          "description": "French political, engineering and mathematical figure (1753–1823)",
+          "url": "http://www.wikidata.org/entity/Q310767",
+          "matched_queries": [
+            "Łazar"
+          ]
+        },
+        {
+          "id": "Q367042",
+          "label": "Lazare Hoche",
+          "description": "French general (1768–1797)",
+          "url": "http://www.wikidata.org/entity/Q367042",
+          "matched_queries": [
+            "Łazar"
+          ]
+        }
+      ],
+      "retrieval_status": "complete",
+      "failed_queries": [],
+      "ranked_candidates": [
+        {
+          "id": "Q12794654",
+          "label": "Lazar",
+          "description": "male given name",
+          "url": "http://www.wikidata.org/entity/Q12794654",
+          "matched_queries": [
+            "Łazar"
+          ],
+          "fuzzy_score": 0.8,
+          "bm25_score": 0.0,
+          "combined_score": 0.48
+        },
+        {
+          "id": "Q20519011",
+          "label": "Lazar",
+          "description": "family name",
+          "url": "http://www.wikidata.org/entity/Q20519011",
+          "matched_queries": [
+            "Łazar"
+          ],
+          "fuzzy_score": 0.8,
+          "bm25_score": 0.0,
+          "combined_score": 0.48
+        },
+        {
+          "id": "Q28193005",
+          "label": "Lázár",
+          "description": "family name",
+          "url": "http://www.wikidata.org/entity/Q28193005",
+          "matched_queries": [
+            "Łazar"
+          ],
+          "fuzzy_score": 0.8,
+          "bm25_score": 0.0,
+          "combined_score": 0.48
+        },
+        {
+          "id": "Q40201596",
+          "label": "Lazăr",
+          "description": "family name",
+          "url": "http://www.wikidata.org/entity/Q40201596",
+          "matched_queries": [
+            "Łazar"
+          ],
+          "fuzzy_score": 0.8,
+          "bm25_score": 0.0,
+          "combined_score": 0.48
+        },
+        {
+          "id": "Q104638802",
+          "label": "Lazăr",
+          "description": "male given name",
+          "url": "http://www.wikidata.org/entity/Q104638802",
+          "matched_queries": [
+            "Łazar"
+          ],
+          "fuzzy_score": 0.8,
+          "bm25_score": 0.0,
+          "combined_score": 0.48
+        }
+      ],
+      "entity_id": null,
+      "status": "nil",
+      "reason": "The mention refers to the specific 5th-century Armenian historian Lazar of Parpi (Lazar P'arpec'i). None of the provided candidates represent this specific historical person; they are all generic name entries (given or family names)."
+    },
+    {
+      "mention": "Vahan Mamikonean",
+      "label": "person",
+      "paragraph_id": "p004",
+      "context": "The fifth-century Armenian historian Łazar P‘arpec‘i includes two groups of captives in his History of the Armenians, one composed primarily of nobles who were initially sent to Gorgān (Latin. Hyrcania, the region north of the Alborz watershed and bordering the Caspian Sea to the south-east) and the other of noble children held in Khuzestan, with both groups also containing Christian priests. Łazar is a particularly valuable source for these captives, in part because he knew several of them personally. Most notably, his history was sponsored by Vahan Mamikonean – the eldest of three brothers who are some of the only identifiable captives of Khuzestan and who led his own rebellion against the Sasanians from AD 482–4. Łazar had been Vahan’s childhood playmate after the noble’s release, and was appointed as abbot of the monastery of Vałaršapat (modern Eǰmiacin) by Vahan c. 493 AD, writing to his patron to defend his conduct after the monks had him removed.",
+      "search_queries": [
+        "Vahan Mamikonean"
+      ],
+      "candidates": [
+        {
+          "id": "Q2085338",
+          "label": "Vahan I Mamikonian",
+          "description": "Armenian rebel",
+          "url": "http://www.wikidata.org/entity/Q2085338",
+          "matched_queries": [
+            "Vahan Mamikonean"
+          ]
+        },
+        {
+          "id": "Q3553280",
+          "label": "Vahan Mamikonian",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q3553280",
+          "matched_queries": [
+            "Vahan Mamikonean"
+          ]
+        }
+      ],
+      "retrieval_status": "complete",
+      "failed_queries": [],
+      "ranked_candidates": [
+        {
+          "id": "Q3553280",
+          "label": "Vahan Mamikonian",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q3553280",
+          "matched_queries": [
+            "Vahan Mamikonean"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": -0.3988,
+          "combined_score": 0.6
+        },
+        {
+          "id": "Q2085338",
+          "label": "Vahan I Mamikonian",
+          "description": "Armenian rebel",
+          "url": "http://www.wikidata.org/entity/Q2085338",
+          "matched_queries": [
+            "Vahan Mamikonean"
+          ],
+          "fuzzy_score": 0.9412,
+          "bm25_score": -0.2698,
+          "combined_score": 0.5647
+        }
+      ],
+      "entity_id": "Q2085338",
+      "status": "linked",
+      "reason": "The context describes Vahan Mamikonean as a rebel against the Sasanians (AD 482–4) and a noble captive, which matches the description of Vahan I Mamikonian (Armenian rebel). Q3553280 is a different historical figure (Vahan Mamikonian, 5th century general, not the rebel of 482)."
+    },
+    {
+      "mention": "Vahan",
+      "label": "person",
+      "paragraph_id": "p004",
+      "context": "The fifth-century Armenian historian Łazar P‘arpec‘i includes two groups of captives in his History of the Armenians, one composed primarily of nobles who were initially sent to Gorgān (Latin. Hyrcania, the region north of the Alborz watershed and bordering the Caspian Sea to the south-east) and the other of noble children held in Khuzestan, with both groups also containing Christian priests. Łazar is a particularly valuable source for these captives, in part because he knew several of them personally. Most notably, his history was sponsored by Vahan Mamikonean – the eldest of three brothers who are some of the only identifiable captives of Khuzestan and who led his own rebellion against the Sasanians from AD 482–4. Łazar had been Vahan’s childhood playmate after the noble’s release, and was appointed as abbot of the monastery of Vałaršapat (modern Eǰmiacin) by Vahan c. 493 AD, writing to his patron to defend his conduct after the monks had him removed.",
+      "search_queries": [
+        "Vahan"
+      ],
+      "candidates": [
+        {
+          "id": "Q16282297",
+          "label": "Vahan",
+          "description": "male given name",
+          "url": "http://www.wikidata.org/entity/Q16282297",
+          "matched_queries": [
+            "Vahan"
+          ]
+        },
+        {
+          "id": "Q21658283",
+          "label": "Vahan",
+          "description": "village in Belarus",
+          "url": "http://www.wikidata.org/entity/Q21658283",
+          "matched_queries": [
+            "Vahan"
+          ]
+        },
+        {
+          "id": "Q1024185",
+          "label": "Vahan",
+          "description": "village in Gegharkunik Province of Armenia",
+          "url": "http://www.wikidata.org/entity/Q1024185",
+          "matched_queries": [
+            "Vahan"
+          ]
+        },
+        {
+          "id": "Q13054920",
+          "label": "Vahan",
+          "description": "Byzantine Armenian military leader (d. 636)",
+          "url": "http://www.wikidata.org/entity/Q13054920",
+          "matched_queries": [
+            "Vahan"
+          ]
+        },
+        {
+          "id": "Q13054915",
+          "label": "Vahan",
+          "description": "male given name (Վահան)",
+          "url": "http://www.wikidata.org/entity/Q13054915",
+          "matched_queries": [
+            "Vahan"
+          ]
+        },
+        {
+          "id": "Q8197313",
+          "label": "Vahan",
+          "description": "assault rifle",
+          "url": "http://www.wikidata.org/entity/Q8197313",
+          "matched_queries": [
+            "Vahan"
+          ]
+        },
+        {
+          "id": "Q10388666",
+          "label": "Vahan Agopyan",
+          "description": "university administrator",
+          "url": "http://www.wikidata.org/entity/Q10388666",
+          "matched_queries": [
+            "Vahan"
+          ]
+        },
+        {
+          "id": "Q28213903",
+          "label": "Vahan",
+          "description": "1937 Indian film",
+          "url": "http://www.wikidata.org/entity/Q28213903",
+          "matched_queries": [
+            "Vahan"
+          ]
+        },
+        {
+          "id": "Q45206867",
+          "label": "Vahan Artsruni",
+          "description": "",
+          "url": "http://www.wikidata.org/entity/Q45206867",
+          "matched_queries": [
+            "Vahan"
+          ]
+        },
+        {
+          "id": "Q17308869",
+          "label": "Vahan Cardashian",
+          "description": "Armenian-American lawyer and political activist",
+          "url": "http://www.wikidata.org/entity/Q17308869",
+          "matched_queries": [
+            "Vahan"
+          ]
+        }
+      ],
+      "retrieval_status": "complete",
+      "failed_queries": [],
+      "ranked_candidates": [
+        {
+          "id": "Q8197313",
+          "label": "Vahan",
+          "description": "assault rifle",
+          "url": "http://www.wikidata.org/entity/Q8197313",
+          "matched_queries": [
+            "Vahan"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4766,
+          "combined_score": 0.9549
+        },
+        {
+          "id": "Q16282297",
+          "label": "Vahan",
+          "description": "male given name",
+          "url": "http://www.wikidata.org/entity/Q16282297",
+          "matched_queries": [
+            "Vahan"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4283,
+          "combined_score": 0.9189
+        },
+        {
+          "id": "Q21658283",
+          "label": "Vahan",
+          "description": "village in Belarus",
+          "url": "http://www.wikidata.org/entity/Q21658283",
+          "matched_queries": [
+            "Vahan"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4283,
+          "combined_score": 0.9189
+        },
+        {
+          "id": "Q28213903",
+          "label": "Vahan",
+          "description": "1937 Indian film",
+          "url": "http://www.wikidata.org/entity/Q28213903",
+          "matched_queries": [
+            "Vahan"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.4283,
+          "combined_score": 0.9189
+        },
+        {
+          "id": "Q13054915",
+          "label": "Vahan",
+          "description": "male given name (Վահան)",
+          "url": "http://www.wikidata.org/entity/Q13054915",
+          "matched_queries": [
+            "Vahan"
+          ],
+          "fuzzy_score": 1.0,
+          "bm25_score": 0.3888,
+          "combined_score": 0.8896
+        }
+      ],
+      "entity_id": null,
+      "status": "nil",
+      "reason": "The mention refers to Vahan Mamikonean, a specific 5th-century Armenian nobleman and rebel. None of the provided candidates represent this historical person; they are an assault rifle, a village, a film, or generic name entries."
+    }
+  ]
+}

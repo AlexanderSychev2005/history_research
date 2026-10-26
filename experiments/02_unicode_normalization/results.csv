@@ -1,0 +1,6 @@
+﻿original_mention,normalized_mention,gold_entity,baseline_prediction,normalized_prediction,baseline_correct,normalized_correct
+Łazar P‘arpec‘i,Lazar P'arpec'i,yago:Ghazar_Parpetsi,yago:Azar,yago:Azar,False,False
+Gorgān,Gorgan,yago:Hyrcania,yago:Go_GO_GO_Go,yago:Gorgan,False,False
+Sasanians,Sasanians,yago:Sasanian_Empire,yago:Asan,yago:Asan,False,False
+Vałaršapat,Valarsapat,yago:Vagharshapat,yago:Apate,yago:Alarsa,False,False
+Eǰmiacin,Ejmiacin,yago:Vagharshapat,yago:Emilcin,yago:Emilcin,False,False

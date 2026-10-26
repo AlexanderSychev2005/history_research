@@ -1,0 +1,36 @@
+﻿document,mention,gold_entity,predicted_entity,correct,gold_in_candidates,gold_rank,candidate_count,detected
+alford2026,Łazar P‘arpec‘i,yago:Ghazar_Parpetsi,yago:Azar,False,False,,20,True
+alford2026,History of the Armenians,,yago:History,False,False,,20,True
+alford2026,Gorgān,yago:Hyrcania,yago:Go_GO_GO_Go,False,False,,20,True
+alford2026,Hyrcania,yago:Hyrcania,yago:Hyrcania,True,True,1,20,True
+alford2026,Alborz,yago:Alborz,yago:Alborz,True,True,1,20,True
+alford2026,Caspian Sea,yago:Caspian_Sea,yago:Caspian_Sea,True,True,1,20,True
+alford2026,Khuzestan,yago:Khuzestan_province,yago:Ali_Khuzestan,False,False,,20,True
+alford2026,Łazar,yago:Ghazar_Parpetsi,yago:Wojciech_Łazarek,False,False,,20,True
+alford2026,Vahan Mamikonean,yago:Vahan_I_Mamikonian,yago:Miko,False,True,6,20,True
+alford2026,Khuzestan,yago:Khuzestan_province,yago:Ali_Khuzestan,False,False,,20,True
+alford2026,Sasanians,yago:Sasanian_Empire,yago:Asan,False,True,6,20,True
+alford2026,Łazar,yago:Ghazar_Parpetsi,,False,False,,0,False
+alford2026,Vahan,yago:Vahan_I_Mamikonian,yago:Vahnan,False,False,,20,True
+alford2026,Vałaršapat,yago:Vagharshapat,yago:Apate,False,True,20,20,True
+alford2026,Eǰmiacin,yago:Vagharshapat,yago:Emilcin,False,False,,20,True
+alford2026,Vahan,yago:Vahan_I_Mamikonian,yago:Vahnan,False,False,,20,True
+nechaeva2017,Agathias,yago:Agathias,yago:Agathias,True,True,1,20,True
+nechaeva2017,Damascius,yago:Damascius,yago:Damascius,True,True,1,20,True
+nechaeva2017,Syria,,yago:Syria,False,False,,20,True
+nechaeva2017,Simplicius,yago:Simplicius_of_Cilicia,yago:SIMPL,False,True,13,20,True
+nechaeva2017,Cilicia,yago:Cilicia,yago:Cilicia,True,True,1,20,True
+nechaeva2017,Eulamius,yago:Eulamius,yago:Eulamius,True,True,1,20,True
+nechaeva2017,Phrygia,yago:Phrygia,yago:Phrygia,True,True,1,20,True
+nechaeva2017,Priscian,yago:Priscian_of_Lydia,yago:Priscian,False,True,3,20,True
+nechaeva2017,Lydia,yago:Lydia,yago:Lydia,True,True,1,20,True
+nechaeva2017,Hermes,,yago:Hermes,False,False,,20,True
+nechaeva2017,Diogenes,yago:Diogenes_of_Phoenicia,yago:Diogenes,False,True,11,20,True
+nechaeva2017,Phoenicia,yago:Phoenicia,yago:Phoenicia,True,True,1,20,True
+nechaeva2017,Isidore,,yago:Isidorea,False,False,,20,True
+nechaeva2017,Gaza,yago:Gaza_City,yago:Gaza_City,True,True,1,20,True
+nechaeva2017,Persia,yago:Sasanian_Empire,yago:Perasia,False,False,,20,True
+nechaeva2017,Romans,yago:Byzantine_Empire,yago:BroMans,False,False,,20,True
+nechaeva2017,Plato,yago:Plato,yago:Plato,True,True,1,20,True
+nechaeva2017,Persia,yago:Sasanian_Empire,yago:Perasia,False,False,,20,True
+nechaeva2017,Agathias,yago:Agathias,yago:Agathias,True,True,1,20,True

@@ -1,0 +1,6 @@
+﻿original_mention,modified_mention,gold_entity,baseline_prediction,modified_prediction,baseline_correct,modified_correct
+Łazar P‘arpec‘i,Ghazar Parpetsi,yago:Ghazar_Parpetsi,yago:Azar,yago:Ghazar_Parpetsi,False,True
+Gorgān,Hyrcania,yago:Hyrcania,yago:Go_GO_GO_Go,yago:Hyrcania,False,True
+Sasanians,Sasanian Empire,yago:Sasanian_Empire,yago:Asan,yago:Sasanian_Empire,False,True
+Vałaršapat,Vagharshapat,yago:Vagharshapat,yago:Apate,yago:Vagharshapat,False,True
+Eǰmiacin,Vagharshapat,yago:Vagharshapat,yago:Emilcin,yago:Vagharshapat,False,True

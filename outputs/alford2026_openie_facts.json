@@ -1,0 +1,1545 @@
+{
+  "doc_id": "alford2026",
+  "extractor_version": "openie-v2",
+  "paragraphs": [
+    {
+      "paragraph_id": "p001",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Sasanian King Yazdgerd II",
+          "predicate": "was_rebelled_against_by",
+          "object_name": "Armenian rebellion",
+          "evidence": "the AD 450–1 Armenian rebellion against Sasanian King Yazdgerd II",
+          "paragraph_id": "p001",
+          "subject": "Q310303",
+          "object": "local_a82484364476da"
+        },
+        {
+          "subject_name": "Sasanian authorities",
+          "predicate": "delineated_between_the_treatment_of",
+          "object_name": "children, secular nobility, and Christian clerics",
+          "evidence": "Sasanian authorities carefully delineated between the treatment of children, secular nobility, and Christian clerics",
+          "paragraph_id": "p001",
+          "subject": "local_0ce8911e1482ec",
+          "object": "local_b2602db8401cec"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p002",
+      "status": "complete",
+      "relations": []
+    },
+    {
+      "paragraph_id": "p003",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Armenian rebellion",
+          "predicate": "was_crushed_by",
+          "object_name": "Sasanian forces",
+          "evidence": "an Armenian rebellion was crushed by Sasanian forces",
+          "paragraph_id": "p003",
+          "subject": "local_a82484364476da",
+          "object": "local_41ad2687132d47"
+        },
+        {
+          "subject_name": "Sasanian forces",
+          "predicate": "crushed",
+          "object_name": "Armenian rebellion",
+          "evidence": "an Armenian rebellion was crushed by Sasanian forces",
+          "paragraph_id": "p003",
+          "subject": "local_41ad2687132d47",
+          "object": "local_a82484364476da"
+        },
+        {
+          "subject_name": "Yazdgerd II",
+          "predicate": "attempted_to_convert",
+          "object_name": "Armenian nobility",
+          "evidence": "attempts by Yazdgerd II (r. AD 438–57) to convert the Armenian nobility",
+          "paragraph_id": "p003",
+          "subject": "Q310303",
+          "object": "local_4a28888444bf5e"
+        },
+        {
+          "subject_name": "Armenian Church",
+          "predicate": "canonised",
+          "object_name": "Vardan Mamikonean",
+          "evidence": "rebel leader Vardan Mamikonean and many of his allies, who were canonised by the Armenian Church",
+          "paragraph_id": "p003",
+          "subject": "local_ebfe338b24d561",
+          "object": "Q1280744"
+        },
+        {
+          "subject_name": "Armenian Church",
+          "predicate": "canonised",
+          "object_name": "allies",
+          "evidence": "rebel leader Vardan Mamikonean and many of his allies, who were canonised by the Armenian Church",
+          "paragraph_id": "p003",
+          "subject": "local_ebfe338b24d561",
+          "object": "local_c19ff2cfd53ba9"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p004",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Łazar P‘arpec‘i",
+          "predicate": "includes",
+          "object_name": "two groups of captives",
+          "evidence": "Łazar P‘arpec‘i includes two groups of captives",
+          "paragraph_id": "p004",
+          "subject": "local_6854251a5d12a4",
+          "object": "local_7f92f0125b746f"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p005",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Ełišē",
+          "predicate": "records",
+          "object_name": "captives sent to Gorgān",
+          "evidence": "Ełišē, only records the captives sent to Gorgān",
+          "paragraph_id": "p005",
+          "subject": "local_c914d55305f769",
+          "object": "local_bc1c3fef65ef1d"
+        },
+        {
+          "subject_name": "Robert Thomson",
+          "predicate": "concludes",
+          "object_name": "Ełišē wrote in the sixth century at the earliest",
+          "evidence": "Robert Thomson’s conclusion (following Akinean and Kiwlēsērean) that Ełišē wrote in the sixth century at the earliest",
+          "paragraph_id": "p005",
+          "subject": "local_ec22b1931a30fc",
+          "object": "local_429205d3300ba4"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p006",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Ełišē",
+          "predicate": "adds",
+          "object_name": "Meružan Arcruni",
+          "evidence": "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni",
+          "paragraph_id": "p006",
+          "subject": "local_c914d55305f769",
+          "object": "local_aedefa9e49ea47"
+        },
+        {
+          "subject_name": "Ełišē",
+          "predicate": "adds",
+          "object_name": "Nerseh",
+          "evidence": "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni, Nerseh",
+          "paragraph_id": "p006",
+          "subject": "local_c914d55305f769",
+          "object": "local_11b58b88d74f85"
+        },
+        {
+          "subject_name": "Ełišē",
+          "predicate": "adds",
+          "object_name": "Ašot Kamsarakan",
+          "evidence": "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni, Nerseh and Ašot Kamsarakan",
+          "paragraph_id": "p006",
+          "subject": "local_c914d55305f769",
+          "object": "local_4f1852509c67a7"
+        },
+        {
+          "subject_name": "Ełišē",
+          "predicate": "adds",
+          "object_name": "Zuarēn Anjewac‘i",
+          "evidence": "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni, Nerseh and Ašot Kamsarakan, and Zuarēn Anjewac‘i",
+          "paragraph_id": "p006",
+          "subject": "local_c914d55305f769",
+          "object": "local_7b1935fc3652cc"
+        },
+        {
+          "subject_name": "Robert Thomson",
+          "predicate": "elides",
+          "object_name": "Aṙawełean family",
+          "evidence": "A jump omission in Robert Thomson’s English translation elides the Aṙawełean family",
+          "paragraph_id": "p006",
+          "subject": "local_ec22b1931a30fc",
+          "object": "local_20cbc616930710"
+        },
+        {
+          "subject_name": "Robert Thomson",
+          "predicate": "fuses",
+          "object_name": "Aṙawan Anjewac‘i",
+          "evidence": "A jump omission in Robert Thomson’s English translation elides the Aṙawełean family, fusing Aṙawan Anjewac‘i and Dat Aṙawełean into Dat Anjewac‘i",
+          "paragraph_id": "p006",
+          "subject": "local_ec22b1931a30fc",
+          "object": "local_24bca40e2e2a72"
+        },
+        {
+          "subject_name": "Robert Thomson",
+          "predicate": "fuses",
+          "object_name": "Dat Aṙawełean",
+          "evidence": "A jump omission in Robert Thomson’s English translation elides the Aṙawełean family, fusing Aṙawan Anjewac‘i and Dat Aṙawełean into Dat Anjewac‘i",
+          "paragraph_id": "p006",
+          "subject": "local_ec22b1931a30fc",
+          "object": "local_c17006fcd0463b"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p007",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Vardan Mamikonean",
+          "predicate": "served",
+          "object_name": "Persians",
+          "evidence": "Vardan Mamikonean had himself served the Persians in campaigns",
+          "paragraph_id": "p007",
+          "subject": "Q1280744",
+          "object": "local_a8200508c20849"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "highlighted_a_campaign_at",
+          "object_name": "Marw-ī-Rōd",
+          "evidence": "with Łazar highlighting a campaign at Marw-ī-Rōd",
+          "paragraph_id": "p007",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_106bfc890eab9f"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "claims",
+          "object_name": "captives",
+          "evidence": "Łazar claims they captives did not return to their lands until AD 464/5",
+          "paragraph_id": "p007",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_69f3992ee07533"
+        },
+        {
+          "subject_name": "Ełišē",
+          "predicate": "held",
+          "object_name": "some",
+          "evidence": "while Ełišē held some returned the year before",
+          "paragraph_id": "p007",
+          "subject": "local_c914d55305f769",
+          "object": "local_eb875812858d27"
+        },
+        {
+          "subject_name": "Khuzestan captives",
+          "predicate": "returned_to",
+          "object_name": "Armenia",
+          "evidence": "The Khuzestan captives meanwhile returned to Armenia in AD 454/5",
+          "paragraph_id": "p007",
+          "subject": "local_b83315c0ca5c29",
+          "object": "local_4e486b4f86520b"
+        },
+        {
+          "subject_name": "first group",
+          "predicate": "were_used_to_prosecute_military_objectives_against",
+          "object_name": "Kidarite Hun confederacy",
+          "evidence": "the first group were imprisoned, in contrast, suggest they were used to prosecute military objectives against the Kidarite Hun confederacy",
+          "paragraph_id": "p007",
+          "subject": "local_47d75939a963c5",
+          "object": "local_873b7dd6f5f321"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p008",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Babgēn",
+          "predicate": "was_taken_from",
+          "object_name": "Siwni family",
+          "evidence": "Babgēn and Bakur – taken from the Siwni family",
+          "paragraph_id": "p008",
+          "subject": "local_56913cf8976dc4",
+          "object": "local_30b2a91ceb60fc"
+        },
+        {
+          "subject_name": "Bakur",
+          "predicate": "was_taken_from",
+          "object_name": "Siwni family",
+          "evidence": "Babgēn and Bakur – taken from the Siwni family",
+          "paragraph_id": "p008",
+          "subject": "local_29e2331915a995",
+          "object": "local_30b2a91ceb60fc"
+        },
+        {
+          "subject_name": "Ełišē",
+          "predicate": "included",
+          "object_name": "Vardan",
+          "evidence": "Ełišē included them in a vision alongside Vardan himself",
+          "paragraph_id": "p008",
+          "subject": "local_c914d55305f769",
+          "object": "local_800ffdc52257ac"
+        },
+        {
+          "subject_name": "Vasak Siwni",
+          "predicate": "was_removed_as",
+          "object_name": "Armenia’s leading noble",
+          "evidence": "Vasak Siwni’s removal as Armenia’s leading noble",
+          "paragraph_id": "p008",
+          "subject": "local_3022dd52b5d36f",
+          "object": "local_b9edbd8abad8e6"
+        },
+        {
+          "subject_name": "Babgēn",
+          "predicate": "was_the_same_person_as",
+          "object_name": "Babik Siwni",
+          "evidence": "Babgēn was the same person as Babik Siwni",
+          "paragraph_id": "p008",
+          "subject": "local_56913cf8976dc4",
+          "object": "local_c239a83229e9a8"
+        },
+        {
+          "subject_name": "Babik Siwni",
+          "predicate": "was_a_son_of",
+          "object_name": "Vasak",
+          "evidence": "Babik Siwni, a son of Vasak",
+          "paragraph_id": "p008",
+          "subject": "local_c239a83229e9a8",
+          "object": "local_86e16aed581418"
+        },
+        {
+          "subject_name": "Babik Siwni",
+          "predicate": "was_retained_at",
+          "object_name": "Ctesiphon",
+          "evidence": "Babik Siwni, a son of Vasak who had been retained at Ctesiphon",
+          "paragraph_id": "p008",
+          "subject": "local_c239a83229e9a8",
+          "object": "local_b36f19bd02dd6f"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p009",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Sasanians",
+          "predicate": "promoted",
+          "object_name": "Zoroastrian Armenian nobles",
+          "evidence": "the Sasanians prioritised promoting Zoroastrian Armenian nobles",
+          "paragraph_id": "p009",
+          "subject": "local_c32af63c0857c4",
+          "object": "local_d806040706994b"
+        },
+        {
+          "subject_name": "İlhami Cinemre",
+          "predicate": "estimated",
+          "object_name": "Armenian nobility",
+          "evidence": "İlhami Cinemre estimated that only at most half the Armenian nobility were Christian",
+          "paragraph_id": "p009",
+          "subject": "local_4400e29e242038",
+          "object": "local_4a28888444bf5e"
+        },
+        {
+          "subject_name": "Armenian Arsacid royal family",
+          "predicate": "was_abolished",
+          "object_name": "AD 428",
+          "evidence": "Armenian Arsacid royal family (abolished AD 428)",
+          "paragraph_id": "p009",
+          "subject": "local_c85f003502c720",
+          "object": "local_b3eb4823a8435c"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "complains_that",
+          "object_name": "Vahan Mamikonean",
+          "evidence": "Łazar complains that Vahan Mamikonean was unable to gain prestige",
+          "paragraph_id": "p009",
+          "subject": "local_d5ec3f64533613",
+          "object": "Q3553280"
+        },
+        {
+          "subject_name": "Vahan Mamikonean",
+          "predicate": "was_unable_to_gain_prestige_due_to",
+          "object_name": "clan’s rebellious reputation",
+          "evidence": "Vahan Mamikonean was unable to gain prestige even by apostatising due to his clan’s rebellious reputation",
+          "paragraph_id": "p009",
+          "subject": "Q3553280",
+          "object": "local_8e7f54fd478754"
+        },
+        {
+          "subject_name": "Vardan Mamikonean",
+          "predicate": "is_father_in_law_of",
+          "object_name": "Vazgen",
+          "evidence": "Vardan Mamikonean’s son-in-law – the Georgian bdeašx Vazgen",
+          "paragraph_id": "p009",
+          "subject": "Q1280744",
+          "object": "local_75fd60ece86b68"
+        },
+        {
+          "subject_name": "Vazgen",
+          "predicate": "is_depicted_as_converting_in",
+          "object_name": "Life of his wife, Šušanik",
+          "evidence": "Vazgen – is depicted as converting for social advancement in the Life of his wife, Šušanik",
+          "paragraph_id": "p009",
+          "subject": "local_75fd60ece86b68",
+          "object": "local_45cd4d1dfc8d3c"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "highlights",
+          "object_name": "Gadišo Xorxoṙuni",
+          "evidence": "Łazar highlights Gadišo Xorxoṙuni as the leading Zoroastrian magnate",
+          "paragraph_id": "p009",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_b29a9ed3db05fc"
+        },
+        {
+          "subject_name": "Gadišo Xorxoṙuni",
+          "predicate": "is_leading_zoroastrian_magnate_of",
+          "object_name": "Armenia",
+          "evidence": "Gadišo Xorxoṙuni as the leading Zoroastrian magnate of Armenia",
+          "paragraph_id": "p009",
+          "subject": "local_b29a9ed3db05fc",
+          "object": "local_4e486b4f86520b"
+        },
+        {
+          "subject_name": "Christiane Harzig",
+          "predicate": "call",
+          "object_name": "‘trans-local family’ structure",
+          "evidence": "Christiane Harzig and Dirk Hoerder call the ‘trans-local family’ structure",
+          "paragraph_id": "p009",
+          "subject": "local_6b30b3696962c3",
+          "object": "local_082ef6d88447bd"
+        },
+        {
+          "subject_name": "Dirk Hoerder",
+          "predicate": "call",
+          "object_name": "‘trans-local family’ structure",
+          "evidence": "Christiane Harzig and Dirk Hoerder call the ‘trans-local family’ structure",
+          "paragraph_id": "p009",
+          "subject": "local_3cc221bb804737",
+          "object": "local_082ef6d88447bd"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p010",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Hewsen",
+          "predicate": "identified",
+          "object_name": "Ṙop‘sean",
+          "evidence": "Hewsen identified only three noble families (Ṙop‘sean, Słkuni, and Ǝnc‘ayac‘i)",
+          "paragraph_id": "p010",
+          "subject": "local_bf995ebbcb0ef5",
+          "object": "local_8c6a61f167d6ad"
+        },
+        {
+          "subject_name": "Hewsen",
+          "predicate": "identified",
+          "object_name": "Słkuni",
+          "evidence": "Hewsen identified only three noble families (Ṙop‘sean, Słkuni, and Ǝnc‘ayac‘i)",
+          "paragraph_id": "p010",
+          "subject": "local_bf995ebbcb0ef5",
+          "object": "local_9abfc29634259f"
+        },
+        {
+          "subject_name": "Hewsen",
+          "predicate": "identified",
+          "object_name": "Ǝnc‘ayac‘i",
+          "evidence": "Hewsen identified only three noble families (Ṙop‘sean, Słkuni, and Ǝnc‘ayac‘i)",
+          "paragraph_id": "p010",
+          "subject": "local_bf995ebbcb0ef5",
+          "object": "local_a24fc3e8f40a2c"
+        },
+        {
+          "subject_name": "Mandakuni family",
+          "predicate": "died_out",
+          "object_name": "AD 490",
+          "evidence": "Mandakuni family (whose last attested kinsman died in AD 490)",
+          "paragraph_id": "p010",
+          "subject": "local_6591e7661b8c4c",
+          "object": "local_eb92da7a33fa55"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p011",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Łazar",
+          "predicate": "identified",
+          "object_name": "the other group",
+          "evidence": "Łazar identified the other group as children",
+          "paragraph_id": "p011",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_0c7d61eaa5f3cc"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "referred_to",
+          "object_name": "the young, imprisoned nobles",
+          "evidence": "Łazar referred to ‘the young, imprisoned nobles’",
+          "paragraph_id": "p011",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_f1866f43803080"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "referred_to",
+          "object_name": "the young, imprisoned priests",
+          "evidence": "Łazar referred to ‘the young, imprisoned nobles’ (manktwoy kapeloc‘ naxararac‘n) and ‘the young, imprisoned priests’",
+          "paragraph_id": "p011",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_c51d52172fc455"
+        },
+        {
+          "subject_name": "Ełišē",
+          "predicate": "juxtaposes",
+          "object_name": "the ‘very young’",
+          "evidence": "Ełišē juxtaposes the ‘very young’ (managoyn) and eldest (ceragoyn) captives",
+          "paragraph_id": "p011",
+          "subject": "local_c914d55305f769",
+          "object": "local_c6079b7b4cd8ad"
+        },
+        {
+          "subject_name": "Ełišē",
+          "predicate": "juxtaposes",
+          "object_name": "eldest (ceragoyn) captives",
+          "evidence": "Ełišē juxtaposes the ‘very young’ (managoyn) and eldest (ceragoyn) captives",
+          "paragraph_id": "p011",
+          "subject": "local_c914d55305f769",
+          "object": "local_856bf8ffc9a116"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p012",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Ełišē",
+          "predicate": "claims",
+          "object_name": "the Armenian nobility",
+          "evidence": "Ełišē claims that the Armenian nobility initially arraigned to the Persian court willingly",
+          "paragraph_id": "p012",
+          "subject": "local_c914d55305f769",
+          "object": "local_a892a078835681"
+        },
+        {
+          "subject_name": "the Armenian nobility",
+          "predicate": "arraigned_to",
+          "object_name": "the Persian court",
+          "evidence": "the Armenian nobility initially arraigned to the Persian court willingly",
+          "paragraph_id": "p012",
+          "subject": "local_a892a078835681",
+          "object": "local_1a17ad24a0f43c"
+        },
+        {
+          "subject_name": "the Armenian nobility",
+          "predicate": "brought",
+          "object_name": "their wives and children",
+          "evidence": "the Armenian nobility initially arraigned to the Persian court willingly and brought their wives and children with them",
+          "paragraph_id": "p012",
+          "subject": "local_a892a078835681",
+          "object": "local_edbf84a22db86e"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "does_not_mention",
+          "object_name": "women or children",
+          "evidence": "Łazar’s far less positive account of the same incident does not mention women or children",
+          "paragraph_id": "p012",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_04d585941935c4"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "claims",
+          "object_name": "three of the arraigned lords",
+          "evidence": "Łazar even claims that three of the arraigned lords he identified did not see captivity",
+          "paragraph_id": "p012",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_5b403eb333785b"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "identified",
+          "object_name": "three of the arraigned lords",
+          "evidence": "Łazar even claims that three of the arraigned lords he identified did not see captivity",
+          "paragraph_id": "p012",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_5b403eb333785b"
+        },
+        {
+          "subject_name": "three of the arraigned lords",
+          "predicate": "did_not_see",
+          "object_name": "captivity",
+          "evidence": "three of the arraigned lords he identified did not see captivity",
+          "paragraph_id": "p012",
+          "subject": "local_5b403eb333785b",
+          "object": "local_4b83f50af9cc88"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "claims",
+          "object_name": "any of their relatives",
+          "evidence": "Łazar even claims that three of the arraigned lords he identified did not see captivity, nor were any of their relatives taken to Gorgān",
+          "paragraph_id": "p012",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_4482fcacea7af7"
+        },
+        {
+          "subject_name": "any of their relatives",
+          "predicate": "were_taken_to",
+          "object_name": "Gorgān",
+          "evidence": "nor were any of their relatives taken to Gorgān",
+          "paragraph_id": "p012",
+          "subject": "local_4482fcacea7af7",
+          "object": "local_fd819372827620"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p013",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Nerseh Kamsarakan",
+          "predicate": "is_identified_as",
+          "object_name": "Nerseh of Širak",
+          "evidence": "Nerseh Kamsarakan, may be identified as the future lord Nerseh of Širak",
+          "paragraph_id": "p013",
+          "subject": "local_8650cb7f774bb2",
+          "object": "local_f540dab655fada"
+        },
+        {
+          "subject_name": "Nerseh of Širak",
+          "predicate": "is_son_of",
+          "object_name": "Aršawir Kamsarakan",
+          "evidence": "lord Nerseh of Širak, son of fellow captive Aršawir Kamsarakan",
+          "paragraph_id": "p013",
+          "subject": "local_f540dab655fada",
+          "object": "local_9d57d27fabde59"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "had_a_close_relationship_with",
+          "object_name": "Nerseh",
+          "evidence": "Łazar had a close relationship with Nerseh",
+          "paragraph_id": "p013",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_11b58b88d74f85"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "lived_with",
+          "object_name": "Nerseh",
+          "evidence": "Łazar lived with Nerseh and his brother Hrahat",
+          "paragraph_id": "p013",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_11b58b88d74f85"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "lived_with",
+          "object_name": "Hrahat",
+          "evidence": "Łazar lived with Nerseh and his brother Hrahat",
+          "paragraph_id": "p013",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_1fba4d5ada5ccc"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p014",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Nerseh",
+          "predicate": "was_present_at",
+          "object_name": "Sasanian capture of Balkh",
+          "evidence": "claims Nerseh was present at the Sasanian capture of Balkh",
+          "paragraph_id": "p014",
+          "subject": "local_11b58b88d74f85",
+          "object": "local_67e1e3182f98a9"
+        },
+        {
+          "subject_name": "Pērōz",
+          "predicate": "fought_against",
+          "object_name": "Kidarites",
+          "evidence": "campaign of Yazdgerd’s successor Pērōz against the Kidarites",
+          "paragraph_id": "p014",
+          "subject": "local_1473eee7fa3d28",
+          "object": "local_97b4446bfc839a"
+        },
+        {
+          "subject_name": "Nerseh",
+          "predicate": "donated_to",
+          "object_name": "Christian community of Vałaršapat",
+          "evidence": "Nerseh donated to the Christian community of Vałaršapat",
+          "paragraph_id": "p014",
+          "subject": "local_11b58b88d74f85",
+          "object": "local_cecf1ed93d253f"
+        },
+        {
+          "subject_name": "Vahan Mamikonean",
+          "predicate": "patronised",
+          "object_name": "Vałaršapat",
+          "evidence": "Vałaršapat, a site his ally Vahan Mamikonean patronised",
+          "paragraph_id": "p014",
+          "subject": "Q3553280",
+          "object": "local_f7d6984489495c"
+        },
+        {
+          "subject_name": "Nerseh",
+          "predicate": "negotiated_with",
+          "object_name": "Vahan",
+          "evidence": "Nerseh’ (Kamsarakann tērn Širakay Nersehn) leading a Persian delegation that negotiated with Vahan",
+          "paragraph_id": "p014",
+          "subject": "local_11b58b88d74f85",
+          "object": "local_0f1843c1acb13d"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p015",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Łazar",
+          "predicate": "mentions",
+          "object_name": "military service",
+          "evidence": "Only Łazar expressly mentions military service",
+          "paragraph_id": "p015",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_b15e247065c329"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "elides",
+          "object_name": "civil war between Yazdgerd’s sons",
+          "evidence": "civil war between Yazdgerd’s sons (AD 457–9, elided by Łazar)",
+          "paragraph_id": "p015",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_7fae799babb0eb"
+        },
+        {
+          "subject_name": "Yazdgerd’s sons",
+          "predicate": "fight",
+          "object_name": "civil war",
+          "evidence": "civil war between Yazdgerd’s sons",
+          "paragraph_id": "p015",
+          "subject": "local_a224221c0a4442",
+          "object": "local_a0d2a85d049c85"
+        },
+        {
+          "subject_name": "Caucasian Albanian king",
+          "predicate": "leads",
+          "object_name": "rebellion",
+          "evidence": "rebellion by the Caucasian Albanian king",
+          "paragraph_id": "p015",
+          "subject": "local_062cd32e4a9a2c",
+          "object": "local_6917033bf06842"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p016",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Yazdgerd II",
+          "predicate": "forced_to_join_armies",
+          "object_name": "Armenians",
+          "evidence": "Yazdgerd II forced the Armenians to join his armies",
+          "paragraph_id": "p016",
+          "subject": "Q310303",
+          "object": "local_f5ae35b9964c70"
+        },
+        {
+          "subject_name": "Sebeos",
+          "predicate": "recorded",
+          "object_name": "Smbat IV Bagratuni",
+          "evidence": "Sebeos recorded one of his protagonists, Smbat IV Bagratuni",
+          "paragraph_id": "p016",
+          "subject": "local_420725a973431d",
+          "object": "local_06c341c34ed831"
+        },
+        {
+          "subject_name": "Smbat IV Bagratuni",
+          "predicate": "recruited",
+          "object_name": "Armenian nobles",
+          "evidence": "Smbat IV Bagratuni, recruiting a host of Armenian nobles",
+          "paragraph_id": "p016",
+          "subject": "local_06c341c34ed831",
+          "object": "local_4d8034d8981464"
+        },
+        {
+          "subject_name": "Smbat",
+          "predicate": "converted",
+          "object_name": "Armenian captives",
+          "evidence": "This Smbat also (re)converted a group of Armenian captives",
+          "paragraph_id": "p016",
+          "subject": "local_38a3637875aea7",
+          "object": "local_b2d675dcf6e191"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p017",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Gorgān and Tammīseh Walls",
+          "predicate": "were_constructed_in_the_reigns_of",
+          "object_name": "Yazdgerd and Pērōz",
+          "evidence": "Construction of the famous Gorgān and Tammīseh Walls likely began in the reigns of Yazdgerd and Pērōz.",
+          "paragraph_id": "p017",
+          "subject": "local_8c431c16d0d70d",
+          "object": "local_e5ca0e119aac26"
+        },
+        {
+          "subject_name": "Eberhard Sauer",
+          "predicate": "remarked_that",
+          "object_name": "all the forts so far excavated",
+          "evidence": "Eberhard Sauer remarked that all the forts so far excavated may have been fifth-century constructions",
+          "paragraph_id": "p017",
+          "subject": "local_1930422efcc915",
+          "object": "local_542060fa68ae3e"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p018",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Yazdgerd",
+          "predicate": "abandoned_strategy_of_paying_off",
+          "object_name": "Kidarites",
+          "evidence": "Yazdgerd and Pērōz abandoned their predecessors’ strategy of paying off the Kidarites",
+          "paragraph_id": "p018",
+          "subject": "local_088e8cee0ed031",
+          "object": "local_97b4446bfc839a"
+        },
+        {
+          "subject_name": "Pērōz",
+          "predicate": "abandoned_strategy_of_paying_off",
+          "object_name": "Kidarites",
+          "evidence": "Yazdgerd and Pērōz abandoned their predecessors’ strategy of paying off the Kidarites",
+          "paragraph_id": "p018",
+          "subject": "local_1473eee7fa3d28",
+          "object": "local_97b4446bfc839a"
+        },
+        {
+          "subject_name": "Kidarites",
+          "predicate": "were_destroyed_and_replaced_by",
+          "object_name": "Hephthalite Huns",
+          "evidence": "ultimately resulting in the Kidarites’ destruction and replacement by the more powerful Hephthalite Huns",
+          "paragraph_id": "p018",
+          "subject": "local_97b4446bfc839a",
+          "object": "local_64fc8c318bf153"
+        },
+        {
+          "subject_name": "Yazdgerd",
+          "predicate": "promoted_connections_to",
+          "object_name": "Kayanian Zoroastrian dynasty",
+          "evidence": "Yazdgerd paired increasing Sasanian defensive capacity with Zoroastrianising policies and numismatic reforms promoting Sasanian connections to the mythical Kayanian Zoroastrian dynasty",
+          "paragraph_id": "p018",
+          "subject": "local_088e8cee0ed031",
+          "object": "local_232a5c8522071f"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p019",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Pērōz",
+          "predicate": "conducted_campaign_against",
+          "object_name": "Kidarites",
+          "evidence": "Pērōz’s victorious AD 462–6 campaign against the Kidarites",
+          "paragraph_id": "p019",
+          "subject": "local_1473eee7fa3d28",
+          "object": "local_97b4446bfc839a"
+        },
+        {
+          "subject_name": "Saraguri Huns",
+          "predicate": "attacked",
+          "object_name": "Armenia",
+          "evidence": "attacks by the Saraguri Huns on Armenia",
+          "paragraph_id": "p019",
+          "subject": "local_cd1f085f1945da",
+          "object": "local_4e486b4f86520b"
+        },
+        {
+          "subject_name": "Saraguri Huns",
+          "predicate": "attacked",
+          "object_name": "Iberia",
+          "evidence": "attacks by the Saraguri Huns on Armenia and Iberia",
+          "paragraph_id": "p019",
+          "subject": "local_cd1f085f1945da",
+          "object": "local_4cabad049c5684"
+        },
+        {
+          "subject_name": "Pērōz",
+          "predicate": "sought_aid_from",
+          "object_name": "Roman",
+          "evidence": "Pērōz unsuccessfully sought Roman aid",
+          "paragraph_id": "p019",
+          "subject": "local_1473eee7fa3d28",
+          "object": "local_238a1843d81dd7"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p020",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Yazdgerd",
+          "predicate": "moved_from",
+          "object_name": "Gorgān",
+          "evidence": "Yazdgerd’s move from Gorgān to Nishapur",
+          "paragraph_id": "p020",
+          "subject": "local_088e8cee0ed031",
+          "object": "local_fd819372827620"
+        },
+        {
+          "subject_name": "Yazdgerd",
+          "predicate": "moved_to",
+          "object_name": "Nishapur",
+          "evidence": "Yazdgerd’s move from Gorgān to Nishapur",
+          "paragraph_id": "p020",
+          "subject": "local_088e8cee0ed031",
+          "object": "local_f31510ae6dadcc"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p021",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "T‘ovma Arcruni",
+          "predicate": "claims",
+          "object_name": "Meršapuh",
+          "evidence": "T‘ovma Arcruni claims Meršapuh and Tačat Arcruni also survived",
+          "paragraph_id": "p021",
+          "subject": "local_c64ae0d3b9c02a",
+          "object": "local_181e100c37cf0e"
+        },
+        {
+          "subject_name": "T‘ovma Arcruni",
+          "predicate": "claims",
+          "object_name": "Tačat Arcruni",
+          "evidence": "T‘ovma Arcruni claims Meršapuh and Tačat Arcruni also survived",
+          "paragraph_id": "p021",
+          "subject": "local_c64ae0d3b9c02a",
+          "object": "local_9f69c1ca243941"
+        },
+        {
+          "subject_name": "T‘ovma Arcruni",
+          "predicate": "depict",
+          "object_name": "Šawasp Arcruni",
+          "evidence": "T‘ovma Arcruni and the early tenth-century Armenian History of Catholicos Yovhannēs V Drasxanakertc‘i depict Šawasp Arcruni",
+          "paragraph_id": "p021",
+          "subject": "local_c64ae0d3b9c02a",
+          "object": "local_cc40e96d22a2fa"
+        },
+        {
+          "subject_name": "Yovhannēs V Drasxanakertc‘i",
+          "predicate": "depict",
+          "object_name": "Šawasp Arcruni",
+          "evidence": "T‘ovma Arcruni and the early tenth-century Armenian History of Catholicos Yovhannēs V Drasxanakertc‘i depict Šawasp Arcruni",
+          "paragraph_id": "p021",
+          "subject": "local_c9fd5bc0317f29",
+          "object": "local_cc40e96d22a2fa"
+        },
+        {
+          "subject_name": "Vardan Mamikonean",
+          "predicate": "killed",
+          "object_name": "Šawasp Arcruni",
+          "evidence": "Šawasp Arcruni as a Zoroastrianiser killed by Vardan Mamikonean",
+          "paragraph_id": "p021",
+          "subject": "Q1280744",
+          "object": "local_cc40e96d22a2fa"
+        },
+        {
+          "subject_name": "Vardan Mamikonean",
+          "predicate": "led",
+          "object_name": "rebellion in AD 572",
+          "evidence": "a later rebellion in AD 572 led by a different Vardan Mamikonean",
+          "paragraph_id": "p021",
+          "subject": "Q1280744",
+          "object": "local_feffecae39a254"
+        },
+        {
+          "subject_name": "Sebeos",
+          "predicate": "recorded",
+          "object_name": "rebellion in AD 572",
+          "evidence": "a later rebellion in AD 572 led by a different Vardan Mamikonean and recorded by Sebeos",
+          "paragraph_id": "p021",
+          "subject": "local_420725a973431d",
+          "object": "local_feffecae39a254"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p022",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Vardan Mamikonean",
+          "predicate": "is_the_brother_of",
+          "object_name": "Vahan",
+          "evidence": "Vardan Mamikonean’s surviving brother and Vahan’s paternal uncle",
+          "paragraph_id": "p022",
+          "subject": "Q1280744",
+          "object": "local_0f1843c1acb13d"
+        },
+        {
+          "subject_name": "Aṙnak Amatuni",
+          "predicate": "led_scouts_before",
+          "object_name": "Battle of Awarayr",
+          "evidence": "Aṙnak Amatuni (a minor nobleman who led scouts before the Battle of Awarayr)",
+          "paragraph_id": "p022",
+          "subject": "local_612aef02b0e267",
+          "object": "local_1d822742623b95"
+        },
+        {
+          "subject_name": "P‘arsman Mandakuni",
+          "predicate": "represented",
+          "object_name": "Mandakuni clan",
+          "evidence": "P‘arsman Mandakuni, who may have been a clan head (as he represented the Mandakuni clan at Awarayr)",
+          "paragraph_id": "p022",
+          "subject": "local_cc09e46de3e49b",
+          "object": "local_c536e2e4b2d574"
+        },
+        {
+          "subject_name": "P‘arsman Mandakuni",
+          "predicate": "represented_the_mandakuni_clan_at",
+          "object_name": "Awarayr",
+          "evidence": "P‘arsman Mandakuni, who may have been a clan head (as he represented the Mandakuni clan at Awarayr)",
+          "paragraph_id": "p022",
+          "subject": "local_cc09e46de3e49b",
+          "object": "local_5f1f7cf0623c62"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p023",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Khuzestan",
+          "predicate": "neighboured",
+          "object_name": "Asorestan",
+          "evidence": "Khuzestan in southwestern Iran neighboured the imperial court centre of Asorestan",
+          "paragraph_id": "p023",
+          "subject": "local_5bbfdc14b92cd0",
+          "object": "local_2e0abb4fe937a8"
+        },
+        {
+          "subject_name": "Pērōz",
+          "predicate": "died_in",
+          "object_name": "AD 484",
+          "evidence": "Pērōz’s death in AD 484",
+          "paragraph_id": "p023",
+          "subject": "local_1473eee7fa3d28",
+          "object": "local_d49a05cc376f2b"
+        },
+        {
+          "subject_name": "Pērōz’s death",
+          "predicate": "caused",
+          "object_name": "collapse of Sasanian power",
+          "evidence": "Pērōz’s death in AD 484 caused a collapse of Sasanian power",
+          "paragraph_id": "p023",
+          "subject": "local_91df91199625d6",
+          "object": "local_dab4d759d3c488"
+        },
+        {
+          "subject_name": "Aršak II",
+          "predicate": "was_imprisoned_in",
+          "object_name": "AD 367",
+          "evidence": "Aršak II and Xosrov IV (imprisoned in AD 367 and 389, respectively)",
+          "paragraph_id": "p023",
+          "subject": "local_168c6b2654f47b",
+          "object": "local_1fc1ad746cdc9b"
+        },
+        {
+          "subject_name": "Kawād I",
+          "predicate": "was_imprisoned_in",
+          "object_name": "AD 496",
+          "evidence": "Kawād I (imprisoned AD 496)",
+          "paragraph_id": "p023",
+          "subject": "local_17983d29afe5ec",
+          "object": "local_0f404720f7bf99"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p024",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Łazar",
+          "predicate": "claims",
+          "object_name": "Vasak Siwni",
+          "evidence": "Łazar claims they were captured by Vasak Siwni",
+          "paragraph_id": "p024",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_3022dd52b5d36f"
+        },
+        {
+          "subject_name": "Vasak Siwni",
+          "predicate": "captured",
+          "object_name": "Vasak",
+          "evidence": "Łazar claims they were captured by Vasak Siwni",
+          "paragraph_id": "p024",
+          "subject": "local_3022dd52b5d36f",
+          "object": "local_86e16aed581418"
+        },
+        {
+          "subject_name": "Łazar",
+          "predicate": "claims",
+          "object_name": "Vahan",
+          "evidence": "Łazar claims he was older than Vahan",
+          "paragraph_id": "p024",
+          "subject": "local_d5ec3f64533613",
+          "object": "local_0f1843c1acb13d"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p025",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "the trio",
+          "predicate": "were_ransomed_by",
+          "object_name": "Ašuša of Gugark‘",
+          "evidence": "the trio were ransomed by their mother’s brother-in-law, a Georgian nobleman named Ašuša of Gugark‘",
+          "paragraph_id": "p025",
+          "subject": "local_d484dc8edf604c",
+          "object": "local_4a57314c5fa2ef"
+        },
+        {
+          "subject_name": "their father",
+          "predicate": "had_been_killed_during",
+          "object_name": "the rebellion",
+          "evidence": "their father and most senior uncle had been killed during the rebellion",
+          "paragraph_id": "p025",
+          "subject": "local_e658e6f3c2937d",
+          "object": "local_d366b5c4bf78e5"
+        },
+        {
+          "subject_name": "most senior uncle",
+          "predicate": "had_been_killed_during",
+          "object_name": "the rebellion",
+          "evidence": "their father and most senior uncle had been killed during the rebellion",
+          "paragraph_id": "p025",
+          "subject": "local_3789ba103a7b88",
+          "object": "local_d366b5c4bf78e5"
+        },
+        {
+          "subject_name": "their surviving paternal uncle",
+          "predicate": "was_imprisoned_with",
+          "object_name": "three of their kinsmen",
+          "evidence": "their surviving paternal uncle was imprisoned with three of their kinsmen",
+          "paragraph_id": "p025",
+          "subject": "local_13280ead5fbd7a",
+          "object": "local_efaf05ec75d3f5"
+        },
+        {
+          "subject_name": "Ašuša",
+          "predicate": "had_been_a_captive_at",
+          "object_name": "the Sasanian court",
+          "evidence": "Ašuša himself had been a captive at the Sasanian court",
+          "paragraph_id": "p025",
+          "subject": "local_2e9fc494183c11",
+          "object": "local_2c85776677a7d2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p026",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Mihrnerseh",
+          "predicate": "was_grand_vizier_of",
+          "object_name": "Yazdgerd",
+          "evidence": "Mihrnerseh – Yazdgerd’s influential grand-vizier",
+          "paragraph_id": "p026",
+          "subject": "local_30c763cce49770",
+          "object": "local_088e8cee0ed031"
+        },
+        {
+          "subject_name": "captives",
+          "predicate": "were_entrusted_to",
+          "object_name": "Mihrnerseh",
+          "evidence": "Mihrnerseh – Yazdgerd’s influential grand-vizier (wuzurg framadār) to whom the captives were entrusted",
+          "paragraph_id": "p026",
+          "subject": "local_69f3992ee07533",
+          "object": "local_30c763cce49770"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p027",
+      "status": "complete",
+      "relations": []
+    },
+    {
+      "paragraph_id": "p028",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Yazdgerd II",
+          "predicate": "threatened_to_send",
+          "object_name": "nobles",
+          "evidence": "Yazdgerd II first tried to impose Zoroastrianism on the Armenian elite, he threatened to send nobles who did not convert to the borderland of Sakastan",
+          "paragraph_id": "p028",
+          "subject": "Q310303",
+          "object": "local_cdfad138bc7081"
+        },
+        {
+          "subject_name": "Yazdgerd",
+          "predicate": "deported",
+          "object_name": "Georgians",
+          "evidence": "The same passage claimed Yazdgerd had already deported Georgians for refusing to convert",
+          "paragraph_id": "p028",
+          "subject": "local_088e8cee0ed031",
+          "object": "local_7a5facc65dc4af"
+        },
+        {
+          "subject_name": "William Wigram",
+          "predicate": "identified",
+          "object_name": "Belašpar",
+          "evidence": "William Wigram identified Belašpar as a community of captives",
+          "paragraph_id": "p028",
+          "subject": "local_225aba6c834232",
+          "object": "local_8c276bb0025e34"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p029",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Nine priests",
+          "predicate": "were_executed",
+          "object_name": "c. 454 AD",
+          "evidence": "Nine priests were executed over the course of c. 454 AD",
+          "paragraph_id": "p029",
+          "subject": "local_063ba1a7a94002",
+          "object": "local_b8d0a95d3d59fc"
+        },
+        {
+          "subject_name": "The pair",
+          "predicate": "were_taken_from",
+          "object_name": "Nishapur",
+          "evidence": "The pair who had been taken from Nishapur",
+          "paragraph_id": "p029",
+          "subject": "local_72c6ba3a88c6ee",
+          "object": "local_f31510ae6dadcc"
+        },
+        {
+          "subject_name": "six others",
+          "predicate": "were_executed_at",
+          "object_name": "Ṙewan",
+          "evidence": "six others from Nishapur were executed at a place nearby called Ṙewan",
+          "paragraph_id": "p029",
+          "subject": "local_29fefad777c198",
+          "object": "local_091f7c41bf01e4"
+        },
+        {
+          "subject_name": "the only known cleric in the Khuzestan group",
+          "predicate": "was_beheaded_at",
+          "object_name": "the Sasanian court",
+          "evidence": "the only known cleric in the Khuzestan group was beheaded at the Sasanian court",
+          "paragraph_id": "p029",
+          "subject": "local_60cc747c668438",
+          "object": "local_2c85776677a7d2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p030",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Xorēn of Orkovi",
+          "predicate": "was_mutilated_and_sent_to_work_with_royal_slaves_in",
+          "object_name": "province of Šap‘ul/Šahul",
+          "evidence": "Xorēn of Orkovi and Abraham of Zenakk‘, priests at Nishapur who accosted the executioners with the aim of being executed alongside their superiors, were instead mutilated and sent to work with royal slaves in the province of Šap‘ul/Šahul",
+          "paragraph_id": "p030",
+          "subject": "local_e9fb82acc6fab9",
+          "object": "local_1e16cc5bbb6837"
+        },
+        {
+          "subject_name": "Abraham of Zenakk‘",
+          "predicate": "was_mutilated_and_sent_to_work_with_royal_slaves_in",
+          "object_name": "province of Šap‘ul/Šahul",
+          "evidence": "Xorēn of Orkovi and Abraham of Zenakk‘, priests at Nishapur who accosted the executioners with the aim of being executed alongside their superiors, were instead mutilated and sent to work with royal slaves in the province of Šap‘ul/Šahul",
+          "paragraph_id": "p030",
+          "subject": "local_b297e1159c3289",
+          "object": "local_1e16cc5bbb6837"
+        },
+        {
+          "subject_name": "Abraham",
+          "predicate": "was_ransomed_by",
+          "object_name": "Asorestan’s Christians",
+          "evidence": "Only Abraham returned to Armenia – being ransomed by Asorestan’s Christians in AD 463/4",
+          "paragraph_id": "p030",
+          "subject": "local_1517d545cc1128",
+          "object": "local_4d389b56a0c5fe"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p031",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "the pair at Vardgēs",
+          "predicate": "destroyed",
+          "object_name": "a Zoroastrian fire-temple in Aštišat",
+          "evidence": "The pair at Vardgēs had destroyed a Zoroastrian fire-temple in Aštišat",
+          "paragraph_id": "p031",
+          "subject": "local_314b669e5cae26",
+          "object": "local_a2607efbf19742"
+        },
+        {
+          "subject_name": "two of those killed at Ṙewan",
+          "predicate": "destroyed",
+          "object_name": "fire-temples",
+          "evidence": "two of those killed at Ṙewan had destroyed fire-temples",
+          "paragraph_id": "p031",
+          "subject": "local_4d4be0d950eb40",
+          "object": "local_1a3d9dfb4e6348"
+        },
+        {
+          "subject_name": "two of those killed at Ṙewan",
+          "predicate": "tortured",
+          "object_name": "their priests",
+          "evidence": "two of those killed at Ṙewan had destroyed fire-temples and tortured their priests",
+          "paragraph_id": "p031",
+          "subject": "local_4d4be0d950eb40",
+          "object": "local_11a2cafa8196c4"
+        },
+        {
+          "subject_name": "Łewond",
+          "predicate": "gathered",
+          "object_name": "locals",
+          "evidence": "Łewond, after whom the group were later named the Łewondeank‘ (or ‘Leontine Martyrs’), had gathered locals",
+          "paragraph_id": "p031",
+          "subject": "local_f07fe76e67bdb8",
+          "object": "local_57b00f8643a965"
+        },
+        {
+          "subject_name": "locals",
+          "predicate": "stoned",
+          "object_name": "Zoroastrian priests",
+          "evidence": "had gathered locals to stone Zoroastrian priests",
+          "paragraph_id": "p031",
+          "subject": "local_57b00f8643a965",
+          "object": "local_77f44a749eb032"
+        },
+        {
+          "subject_name": "Yovsēp‘",
+          "predicate": "blessed",
+          "object_name": "rebel forces",
+          "evidence": "both he and Yovsēp‘ blessed rebel forces",
+          "paragraph_id": "p031",
+          "subject": "local_e60cef8ee34cd6",
+          "object": "local_b0054e829ecd45"
+        },
+        {
+          "subject_name": "Yazdgerd",
+          "predicate": "suffered_a_defeat_against",
+          "object_name": "the Kidarites",
+          "evidence": "Yazdgerd suffered a defeat against the Kidarites",
+          "paragraph_id": "p031",
+          "subject": "local_088e8cee0ed031",
+          "object": "local_b4461d739daace"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p032",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "T‘at‘ik of Basean",
+          "predicate": "was_executed_in",
+          "object_name": "Asorestan",
+          "evidence": "The sole bishop executed in Asorestan – T‘at‘ik of Basean",
+          "paragraph_id": "p032",
+          "subject": "local_f885d6354f9ead",
+          "object": "local_2e0abb4fe937a8"
+        },
+        {
+          "subject_name": "T‘at‘ik of Basean",
+          "predicate": "is_among",
+          "object_name": "the three priests",
+          "evidence": "T‘at‘ik of Basean – is among the three priests",
+          "paragraph_id": "p032",
+          "subject": "local_f885d6354f9ead",
+          "object": "local_1c6324bb20e2e7"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p033",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Alasdair Grant",
+          "predicate": "identifies",
+          "object_name": "Armenian clergy of the Islamic world",
+          "evidence": "Alasdair Grant identifies the Armenian clergy of the Islamic world",
+          "paragraph_id": "p033",
+          "subject": "local_83eb578a42ed05",
+          "object": "local_11fa74af4272a5"
+        },
+        {
+          "subject_name": "Yazdgerd I",
+          "predicate": "pioneered_the_use_of_christian_clerics_for_bureaucratic_purposes",
+          "object_name": "Christian clerics",
+          "evidence": "The use of Christian clerics for bureaucratic purposes had been pioneered by Yazdgerd II’s grandfather Yazdgerd I",
+          "paragraph_id": "p033",
+          "subject": "local_5855c54704578b",
+          "object": "local_07c85ecf365b25"
+        },
+        {
+          "subject_name": "Wahrām V",
+          "predicate": "expanded_his_control_to",
+          "object_name": "Armenian Church",
+          "evidence": "Wahrām V (r. AD 420–38) – had expanded his control to the Armenian Church",
+          "paragraph_id": "p033",
+          "subject": "local_9839a9a44d3f66",
+          "object": "local_ebfe338b24d561"
+        },
+        {
+          "subject_name": "Ełišē",
+          "predicate": "refers_to",
+          "object_name": "Yovsēp‘",
+          "evidence": "Ełišē refers to Yovsēp‘ as bishop of Ayrarat",
+          "paragraph_id": "p033",
+          "subject": "local_c914d55305f769",
+          "object": "local_e60cef8ee34cd6"
+        },
+        {
+          "subject_name": "Yovsēp‘",
+          "predicate": "presided_over",
+          "object_name": "Council of Šahapivan",
+          "evidence": "Yovsēp‘ presided over the Council of Šahapivan",
+          "paragraph_id": "p033",
+          "subject": "local_e60cef8ee34cd6",
+          "object": "local_b8aafc992b256d"
+        },
+        {
+          "subject_name": "Armenian clerics",
+          "predicate": "joined",
+          "object_name": "nobility",
+          "evidence": "Armenian clerics did join the nobility",
+          "paragraph_id": "p033",
+          "subject": "local_bf1a223444c38b",
+          "object": "local_f6be83a3177e40"
+        },
+        {
+          "subject_name": "Armenian clerics",
+          "predicate": "signed",
+          "object_name": "letters of complaint against Yazdgerd II",
+          "evidence": "Armenian clerics did join the nobility in signing letters of complaint against Yazdgerd II",
+          "paragraph_id": "p033",
+          "subject": "local_bf1a223444c38b",
+          "object": "local_3045d283d3ed1d"
+        },
+        {
+          "subject_name": "relative of the Albanian king",
+          "predicate": "was_used_as_an_ambassador_to",
+          "object_name": "Huns",
+          "evidence": "A relative of the Albanian king was used as an ambassador to the Huns",
+          "paragraph_id": "p033",
+          "subject": "local_9081d0929112ef",
+          "object": "local_a12c48cec5fab4"
+        },
+        {
+          "subject_name": "Armenian noblemen",
+          "predicate": "were_sent_to",
+          "object_name": "Theodosius II",
+          "evidence": "Armenian noblemen were sent to the Roman emperor Theodosius II",
+          "paragraph_id": "p033",
+          "subject": "local_4a32fd096c43e7",
+          "object": "local_9cea9fc39cb423"
+        },
+        {
+          "subject_name": "Ełišē",
+          "predicate": "adds_that_a_persian_captive_was_dispatched_as_a_messenger_to",
+          "object_name": "Yazdgerd",
+          "evidence": "Ełišē adds that a Persian captive was dispatched as a messenger to Yazdgerd himself",
+          "paragraph_id": "p033",
+          "subject": "local_c914d55305f769",
+          "object": "local_088e8cee0ed031"
+        },
+        {
+          "subject_name": "Vasak Siwni",
+          "predicate": "sent",
+          "object_name": "priests",
+          "evidence": "Vasak Siwni’s unsuccessful attempt to quell the rebellion by sending priests",
+          "paragraph_id": "p033",
+          "subject": "local_3022dd52b5d36f",
+          "object": "local_06ac58800abcb8"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p034",
+      "status": "complete",
+      "relations": []
+    },
+    {
+      "paragraph_id": "p035",
+      "status": "complete",
+      "relations": [
+        {
+          "subject_name": "Pērōz",
+          "predicate": "died_fighting",
+          "object_name": "Hephthalite Huns",
+          "evidence": "Pērōz died fighting Hephthalite Huns",
+          "paragraph_id": "p035",
+          "subject": "local_1473eee7fa3d28",
+          "object": "local_64fc8c318bf153"
+        },
+        {
+          "subject_name": "Pērōz",
+          "predicate": "died_in",
+          "object_name": "Tokharistan",
+          "evidence": "Pērōz died fighting Hephthalite Huns in Tokharistan",
+          "paragraph_id": "p035",
+          "subject": "local_1473eee7fa3d28",
+          "object": "local_b1ad973d8d8bd7"
+        },
+        {
+          "subject_name": "Walāxš",
+          "predicate": "sought",
+          "object_name": "peace",
+          "evidence": "his successor Walāxš sought a speedy peace",
+          "paragraph_id": "p035",
+          "subject": "local_67e00a09ebd957",
+          "object": "local_d7c50a080cb30e"
+        }
+      ]
+    }
+  ]
+}

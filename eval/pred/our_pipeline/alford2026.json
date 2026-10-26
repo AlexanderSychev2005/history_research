@@ -1,0 +1,6136 @@
+{
+  "doc_id": "alford2026",
+  "entities": [
+    {
+      "eid": "Q310303",
+      "label": "Sasanian King Yazdgerd II",
+      "qid": "Q310303"
+    },
+    {
+      "eid": "Q1280744",
+      "label": "Vardan Mamikonean",
+      "qid": "Q1280744"
+    },
+    {
+      "eid": "Q2085338",
+      "label": "Vahan Mamikonean",
+      "qid": "Q2085338"
+    },
+    {
+      "eid": "Q3553280",
+      "label": "Vahan Mamikonean",
+      "qid": "Q3553280"
+    },
+    {
+      "eid": "local_a82484364476da",
+      "label": "Armenian rebellion"
+    },
+    {
+      "eid": "local_0ce8911e1482ec",
+      "label": "Sasanian authorities"
+    },
+    {
+      "eid": "local_b2602db8401cec",
+      "label": "children, secular nobility, and Christian clerics"
+    },
+    {
+      "eid": "local_41ad2687132d47",
+      "label": "Sasanian forces"
+    },
+    {
+      "eid": "local_4a28888444bf5e",
+      "label": "Armenian nobility"
+    },
+    {
+      "eid": "local_ebfe338b24d561",
+      "label": "Armenian Church"
+    },
+    {
+      "eid": "local_c19ff2cfd53ba9",
+      "label": "allies"
+    },
+    {
+      "eid": "local_6854251a5d12a4",
+      "label": "Łazar P‘arpec‘i"
+    },
+    {
+      "eid": "local_7f92f0125b746f",
+      "label": "two groups of captives"
+    },
+    {
+      "eid": "local_c914d55305f769",
+      "label": "Ełišē"
+    },
+    {
+      "eid": "local_bc1c3fef65ef1d",
+      "label": "captives sent to Gorgān"
+    },
+    {
+      "eid": "local_ec22b1931a30fc",
+      "label": "Robert Thomson"
+    },
+    {
+      "eid": "local_429205d3300ba4",
+      "label": "Ełišē wrote in the sixth century at the earliest"
+    },
+    {
+      "eid": "local_aedefa9e49ea47",
+      "label": "Meružan Arcruni"
+    },
+    {
+      "eid": "local_11b58b88d74f85",
+      "label": "Nerseh"
+    },
+    {
+      "eid": "local_4f1852509c67a7",
+      "label": "Ašot Kamsarakan"
+    },
+    {
+      "eid": "local_7b1935fc3652cc",
+      "label": "Zuarēn Anjewac‘i"
+    },
+    {
+      "eid": "local_20cbc616930710",
+      "label": "Aṙawełean family"
+    },
+    {
+      "eid": "local_24bca40e2e2a72",
+      "label": "Aṙawan Anjewac‘i"
+    },
+    {
+      "eid": "local_c17006fcd0463b",
+      "label": "Dat Aṙawełean"
+    },
+    {
+      "eid": "local_a8200508c20849",
+      "label": "Persians"
+    },
+    {
+      "eid": "local_d5ec3f64533613",
+      "label": "Łazar"
+    },
+    {
+      "eid": "local_106bfc890eab9f",
+      "label": "Marw-ī-Rōd"
+    },
+    {
+      "eid": "local_69f3992ee07533",
+      "label": "captives"
+    },
+    {
+      "eid": "local_eb875812858d27",
+      "label": "some"
+    },
+    {
+      "eid": "local_b83315c0ca5c29",
+      "label": "Khuzestan captives"
+    },
+    {
+      "eid": "local_4e486b4f86520b",
+      "label": "Armenia"
+    },
+    {
+      "eid": "local_47d75939a963c5",
+      "label": "first group"
+    },
+    {
+      "eid": "local_873b7dd6f5f321",
+      "label": "Kidarite Hun confederacy"
+    },
+    {
+      "eid": "local_56913cf8976dc4",
+      "label": "Babgēn"
+    },
+    {
+      "eid": "local_30b2a91ceb60fc",
+      "label": "Siwni family"
+    },
+    {
+      "eid": "local_29e2331915a995",
+      "label": "Bakur"
+    },
+    {
+      "eid": "local_800ffdc52257ac",
+      "label": "Vardan"
+    },
+    {
+      "eid": "local_3022dd52b5d36f",
+      "label": "Vasak Siwni"
+    },
+    {
+      "eid": "local_b9edbd8abad8e6",
+      "label": "Armenia’s leading noble"
+    },
+    {
+      "eid": "local_c239a83229e9a8",
+      "label": "Babik Siwni"
+    },
+    {
+      "eid": "local_86e16aed581418",
+      "label": "Vasak"
+    },
+    {
+      "eid": "local_b36f19bd02dd6f",
+      "label": "Ctesiphon"
+    },
+    {
+      "eid": "local_c32af63c0857c4",
+      "label": "Sasanians"
+    },
+    {
+      "eid": "local_d806040706994b",
+      "label": "Zoroastrian Armenian nobles"
+    },
+    {
+      "eid": "local_4400e29e242038",
+      "label": "İlhami Cinemre"
+    },
+    {
+      "eid": "local_c85f003502c720",
+      "label": "Armenian Arsacid royal family"
+    },
+    {
+      "eid": "local_b3eb4823a8435c",
+      "label": "AD 428"
+    },
+    {
+      "eid": "local_8e7f54fd478754",
+      "label": "clan’s rebellious reputation"
+    },
+    {
+      "eid": "local_75fd60ece86b68",
+      "label": "Vazgen"
+    },
+    {
+      "eid": "local_45cd4d1dfc8d3c",
+      "label": "Life of his wife, Šušanik"
+    },
+    {
+      "eid": "local_b29a9ed3db05fc",
+      "label": "Gadišo Xorxoṙuni"
+    },
+    {
+      "eid": "local_6b30b3696962c3",
+      "label": "Christiane Harzig"
+    },
+    {
+      "eid": "local_082ef6d88447bd",
+      "label": "‘trans-local family’ structure"
+    },
+    {
+      "eid": "local_3cc221bb804737",
+      "label": "Dirk Hoerder"
+    },
+    {
+      "eid": "local_bf995ebbcb0ef5",
+      "label": "Hewsen"
+    },
+    {
+      "eid": "local_8c6a61f167d6ad",
+      "label": "Ṙop‘sean"
+    },
+    {
+      "eid": "local_9abfc29634259f",
+      "label": "Słkuni"
+    },
+    {
+      "eid": "local_a24fc3e8f40a2c",
+      "label": "Ǝnc‘ayac‘i"
+    },
+    {
+      "eid": "local_6591e7661b8c4c",
+      "label": "Mandakuni family"
+    },
+    {
+      "eid": "local_eb92da7a33fa55",
+      "label": "AD 490"
+    },
+    {
+      "eid": "local_0c7d61eaa5f3cc",
+      "label": "the other group"
+    },
+    {
+      "eid": "local_f1866f43803080",
+      "label": "the young, imprisoned nobles"
+    },
+    {
+      "eid": "local_c51d52172fc455",
+      "label": "the young, imprisoned priests"
+    },
+    {
+      "eid": "local_c6079b7b4cd8ad",
+      "label": "the ‘very young’"
+    },
+    {
+      "eid": "local_856bf8ffc9a116",
+      "label": "eldest (ceragoyn) captives"
+    },
+    {
+      "eid": "local_a892a078835681",
+      "label": "the Armenian nobility"
+    },
+    {
+      "eid": "local_1a17ad24a0f43c",
+      "label": "the Persian court"
+    },
+    {
+      "eid": "local_edbf84a22db86e",
+      "label": "their wives and children"
+    },
+    {
+      "eid": "local_04d585941935c4",
+      "label": "women or children"
+    },
+    {
+      "eid": "local_5b403eb333785b",
+      "label": "three of the arraigned lords"
+    },
+    {
+      "eid": "local_4b83f50af9cc88",
+      "label": "captivity"
+    },
+    {
+      "eid": "local_4482fcacea7af7",
+      "label": "any of their relatives"
+    },
+    {
+      "eid": "local_fd819372827620",
+      "label": "Gorgān"
+    },
+    {
+      "eid": "local_8650cb7f774bb2",
+      "label": "Nerseh Kamsarakan"
+    },
+    {
+      "eid": "local_f540dab655fada",
+      "label": "Nerseh of Širak"
+    },
+    {
+      "eid": "local_9d57d27fabde59",
+      "label": "Aršawir Kamsarakan"
+    },
+    {
+      "eid": "local_1fba4d5ada5ccc",
+      "label": "Hrahat"
+    },
+    {
+      "eid": "local_67e1e3182f98a9",
+      "label": "Sasanian capture of Balkh"
+    },
+    {
+      "eid": "local_1473eee7fa3d28",
+      "label": "Pērōz"
+    },
+    {
+      "eid": "local_97b4446bfc839a",
+      "label": "Kidarites"
+    },
+    {
+      "eid": "local_cecf1ed93d253f",
+      "label": "Christian community of Vałaršapat"
+    },
+    {
+      "eid": "local_f7d6984489495c",
+      "label": "Vałaršapat"
+    },
+    {
+      "eid": "local_0f1843c1acb13d",
+      "label": "Vahan"
+    },
+    {
+      "eid": "local_b15e247065c329",
+      "label": "military service"
+    },
+    {
+      "eid": "local_7fae799babb0eb",
+      "label": "civil war between Yazdgerd’s sons"
+    },
+    {
+      "eid": "local_a224221c0a4442",
+      "label": "Yazdgerd’s sons"
+    },
+    {
+      "eid": "local_a0d2a85d049c85",
+      "label": "civil war"
+    },
+    {
+      "eid": "local_062cd32e4a9a2c",
+      "label": "Caucasian Albanian king"
+    },
+    {
+      "eid": "local_6917033bf06842",
+      "label": "rebellion"
+    },
+    {
+      "eid": "local_f5ae35b9964c70",
+      "label": "Armenians"
+    },
+    {
+      "eid": "local_420725a973431d",
+      "label": "Sebeos"
+    },
+    {
+      "eid": "local_06c341c34ed831",
+      "label": "Smbat IV Bagratuni"
+    },
+    {
+      "eid": "local_4d8034d8981464",
+      "label": "Armenian nobles"
+    },
+    {
+      "eid": "local_38a3637875aea7",
+      "label": "Smbat"
+    },
+    {
+      "eid": "local_b2d675dcf6e191",
+      "label": "Armenian captives"
+    },
+    {
+      "eid": "local_8c431c16d0d70d",
+      "label": "Gorgān and Tammīseh Walls"
+    },
+    {
+      "eid": "local_e5ca0e119aac26",
+      "label": "Yazdgerd and Pērōz"
+    },
+    {
+      "eid": "local_1930422efcc915",
+      "label": "Eberhard Sauer"
+    },
+    {
+      "eid": "local_542060fa68ae3e",
+      "label": "all the forts so far excavated"
+    },
+    {
+      "eid": "local_088e8cee0ed031",
+      "label": "Yazdgerd"
+    },
+    {
+      "eid": "local_64fc8c318bf153",
+      "label": "Hephthalite Huns"
+    },
+    {
+      "eid": "local_232a5c8522071f",
+      "label": "Kayanian Zoroastrian dynasty"
+    },
+    {
+      "eid": "local_cd1f085f1945da",
+      "label": "Saraguri Huns"
+    },
+    {
+      "eid": "local_4cabad049c5684",
+      "label": "Iberia"
+    },
+    {
+      "eid": "local_238a1843d81dd7",
+      "label": "Roman"
+    },
+    {
+      "eid": "local_f31510ae6dadcc",
+      "label": "Nishapur"
+    },
+    {
+      "eid": "local_c64ae0d3b9c02a",
+      "label": "T‘ovma Arcruni"
+    },
+    {
+      "eid": "local_181e100c37cf0e",
+      "label": "Meršapuh"
+    },
+    {
+      "eid": "local_9f69c1ca243941",
+      "label": "Tačat Arcruni"
+    },
+    {
+      "eid": "local_cc40e96d22a2fa",
+      "label": "Šawasp Arcruni"
+    },
+    {
+      "eid": "local_c9fd5bc0317f29",
+      "label": "Yovhannēs V Drasxanakertc‘i"
+    },
+    {
+      "eid": "local_feffecae39a254",
+      "label": "rebellion in AD 572"
+    },
+    {
+      "eid": "local_612aef02b0e267",
+      "label": "Aṙnak Amatuni"
+    },
+    {
+      "eid": "local_1d822742623b95",
+      "label": "Battle of Awarayr"
+    },
+    {
+      "eid": "local_cc09e46de3e49b",
+      "label": "P‘arsman Mandakuni"
+    },
+    {
+      "eid": "local_c536e2e4b2d574",
+      "label": "Mandakuni clan"
+    },
+    {
+      "eid": "local_5f1f7cf0623c62",
+      "label": "Awarayr"
+    },
+    {
+      "eid": "local_5bbfdc14b92cd0",
+      "label": "Khuzestan"
+    },
+    {
+      "eid": "local_2e0abb4fe937a8",
+      "label": "Asorestan"
+    },
+    {
+      "eid": "local_d49a05cc376f2b",
+      "label": "AD 484"
+    },
+    {
+      "eid": "local_91df91199625d6",
+      "label": "Pērōz’s death"
+    },
+    {
+      "eid": "local_dab4d759d3c488",
+      "label": "collapse of Sasanian power"
+    },
+    {
+      "eid": "local_168c6b2654f47b",
+      "label": "Aršak II"
+    },
+    {
+      "eid": "local_1fc1ad746cdc9b",
+      "label": "AD 367"
+    },
+    {
+      "eid": "local_17983d29afe5ec",
+      "label": "Kawād I"
+    },
+    {
+      "eid": "local_0f404720f7bf99",
+      "label": "AD 496"
+    },
+    {
+      "eid": "local_d484dc8edf604c",
+      "label": "the trio"
+    },
+    {
+      "eid": "local_4a57314c5fa2ef",
+      "label": "Ašuša of Gugark‘"
+    },
+    {
+      "eid": "local_e658e6f3c2937d",
+      "label": "their father"
+    },
+    {
+      "eid": "local_d366b5c4bf78e5",
+      "label": "the rebellion"
+    },
+    {
+      "eid": "local_3789ba103a7b88",
+      "label": "most senior uncle"
+    },
+    {
+      "eid": "local_13280ead5fbd7a",
+      "label": "their surviving paternal uncle"
+    },
+    {
+      "eid": "local_efaf05ec75d3f5",
+      "label": "three of their kinsmen"
+    },
+    {
+      "eid": "local_2e9fc494183c11",
+      "label": "Ašuša"
+    },
+    {
+      "eid": "local_2c85776677a7d2",
+      "label": "the Sasanian court"
+    },
+    {
+      "eid": "local_30c763cce49770",
+      "label": "Mihrnerseh"
+    },
+    {
+      "eid": "local_cdfad138bc7081",
+      "label": "nobles"
+    },
+    {
+      "eid": "local_7a5facc65dc4af",
+      "label": "Georgians"
+    },
+    {
+      "eid": "local_225aba6c834232",
+      "label": "William Wigram"
+    },
+    {
+      "eid": "local_8c276bb0025e34",
+      "label": "Belašpar"
+    },
+    {
+      "eid": "local_063ba1a7a94002",
+      "label": "Nine priests"
+    },
+    {
+      "eid": "local_b8d0a95d3d59fc",
+      "label": "c. 454 AD"
+    },
+    {
+      "eid": "local_72c6ba3a88c6ee",
+      "label": "The pair"
+    },
+    {
+      "eid": "local_29fefad777c198",
+      "label": "six others"
+    },
+    {
+      "eid": "local_091f7c41bf01e4",
+      "label": "Ṙewan"
+    },
+    {
+      "eid": "local_60cc747c668438",
+      "label": "the only known cleric in the Khuzestan group"
+    },
+    {
+      "eid": "local_e9fb82acc6fab9",
+      "label": "Xorēn of Orkovi"
+    },
+    {
+      "eid": "local_1e16cc5bbb6837",
+      "label": "province of Šap‘ul/Šahul"
+    },
+    {
+      "eid": "local_b297e1159c3289",
+      "label": "Abraham of Zenakk‘"
+    },
+    {
+      "eid": "local_1517d545cc1128",
+      "label": "Abraham"
+    },
+    {
+      "eid": "local_4d389b56a0c5fe",
+      "label": "Asorestan’s Christians"
+    },
+    {
+      "eid": "local_314b669e5cae26",
+      "label": "the pair at Vardgēs"
+    },
+    {
+      "eid": "local_a2607efbf19742",
+      "label": "a Zoroastrian fire-temple in Aštišat"
+    },
+    {
+      "eid": "local_4d4be0d950eb40",
+      "label": "two of those killed at Ṙewan"
+    },
+    {
+      "eid": "local_1a3d9dfb4e6348",
+      "label": "fire-temples"
+    },
+    {
+      "eid": "local_11a2cafa8196c4",
+      "label": "their priests"
+    },
+    {
+      "eid": "local_f07fe76e67bdb8",
+      "label": "Łewond"
+    },
+    {
+      "eid": "local_57b00f8643a965",
+      "label": "locals"
+    },
+    {
+      "eid": "local_77f44a749eb032",
+      "label": "Zoroastrian priests"
+    },
+    {
+      "eid": "local_e60cef8ee34cd6",
+      "label": "Yovsēp‘"
+    },
+    {
+      "eid": "local_b0054e829ecd45",
+      "label": "rebel forces"
+    },
+    {
+      "eid": "local_b4461d739daace",
+      "label": "the Kidarites"
+    },
+    {
+      "eid": "local_f885d6354f9ead",
+      "label": "T‘at‘ik of Basean"
+    },
+    {
+      "eid": "local_1c6324bb20e2e7",
+      "label": "the three priests"
+    },
+    {
+      "eid": "local_83eb578a42ed05",
+      "label": "Alasdair Grant"
+    },
+    {
+      "eid": "local_11fa74af4272a5",
+      "label": "Armenian clergy of the Islamic world"
+    },
+    {
+      "eid": "local_5855c54704578b",
+      "label": "Yazdgerd I"
+    },
+    {
+      "eid": "local_07c85ecf365b25",
+      "label": "Christian clerics"
+    },
+    {
+      "eid": "local_9839a9a44d3f66",
+      "label": "Wahrām V"
+    },
+    {
+      "eid": "local_b8aafc992b256d",
+      "label": "Council of Šahapivan"
+    },
+    {
+      "eid": "local_bf1a223444c38b",
+      "label": "Armenian clerics"
+    },
+    {
+      "eid": "local_f6be83a3177e40",
+      "label": "nobility"
+    },
+    {
+      "eid": "local_3045d283d3ed1d",
+      "label": "letters of complaint against Yazdgerd II"
+    },
+    {
+      "eid": "local_9081d0929112ef",
+      "label": "relative of the Albanian king"
+    },
+    {
+      "eid": "local_a12c48cec5fab4",
+      "label": "Huns"
+    },
+    {
+      "eid": "local_4a32fd096c43e7",
+      "label": "Armenian noblemen"
+    },
+    {
+      "eid": "local_9cea9fc39cb423",
+      "label": "Theodosius II"
+    },
+    {
+      "eid": "local_06ac58800abcb8",
+      "label": "priests"
+    },
+    {
+      "eid": "local_b1ad973d8d8bd7",
+      "label": "Tokharistan"
+    },
+    {
+      "eid": "local_67e00a09ebd957",
+      "label": "Walāxš"
+    },
+    {
+      "eid": "local_d7c50a080cb30e",
+      "label": "peace"
+    }
+  ],
+  "mentions": [
+    {
+      "para": "p001",
+      "text": "AD 450–1",
+      "start": 97,
+      "end": 105,
+      "type": "event"
+    },
+    {
+      "para": "p001",
+      "text": "Armenian rebellion",
+      "start": 106,
+      "end": 124,
+      "type": "event"
+    },
+    {
+      "para": "p001",
+      "text": "Sasanian King Yazdgerd II",
+      "start": 133,
+      "end": 158,
+      "type": "person",
+      "entity": "Q310303"
+    },
+    {
+      "para": "p001",
+      "text": "destinations",
+      "start": 179,
+      "end": 191,
+      "type": "location"
+    },
+    {
+      "para": "p001",
+      "text": "Sasanian authorities",
+      "start": 362,
+      "end": 382,
+      "type": "organization"
+    },
+    {
+      "para": "p001",
+      "text": "children",
+      "start": 429,
+      "end": 437,
+      "type": "person"
+    },
+    {
+      "para": "p001",
+      "text": "secular nobility",
+      "start": 439,
+      "end": 455,
+      "type": "organization"
+    },
+    {
+      "para": "p001",
+      "text": "Christian clerics",
+      "start": 461,
+      "end": 478,
+      "type": "organization"
+    },
+    {
+      "para": "p001",
+      "text": "rebellion",
+      "start": 495,
+      "end": 504,
+      "type": "event"
+    },
+    {
+      "para": "p001",
+      "text": "rebellious region",
+      "start": 543,
+      "end": 560,
+      "type": "location"
+    },
+    {
+      "para": "p001",
+      "text": "empire",
+      "start": 612,
+      "end": 618,
+      "type": "location"
+    },
+    {
+      "para": "p001",
+      "text": "northern border",
+      "start": 621,
+      "end": 636,
+      "type": "location"
+    },
+    {
+      "para": "p002",
+      "text": "Armenia",
+      "start": 10,
+      "end": 17,
+      "type": "location"
+    },
+    {
+      "para": "p002",
+      "text": "Rebellion",
+      "start": 19,
+      "end": 28,
+      "type": "event"
+    },
+    {
+      "para": "p002",
+      "text": "Sasanian Empire",
+      "start": 30,
+      "end": 45,
+      "type": "organization"
+    },
+    {
+      "para": "p002",
+      "text": "Captives",
+      "start": 47,
+      "end": 55,
+      "type": "person"
+    },
+    {
+      "para": "p002",
+      "text": "Border Defence",
+      "start": 57,
+      "end": 71,
+      "type": "organization"
+    },
+    {
+      "para": "p002",
+      "text": "Huns",
+      "start": 73,
+      "end": 77,
+      "type": "organization"
+    },
+    {
+      "para": "p003",
+      "text": "Armenian rebellion",
+      "start": 22,
+      "end": 40,
+      "type": "event"
+    },
+    {
+      "para": "p003",
+      "text": "Sasanian forces",
+      "start": 56,
+      "end": 71,
+      "type": "organization"
+    },
+    {
+      "para": "p003",
+      "text": "Awarayr",
+      "start": 75,
+      "end": 82,
+      "type": "location"
+    },
+    {
+      "para": "p003",
+      "text": "Christian nobles",
+      "start": 173,
+      "end": 189,
+      "type": "organization"
+    },
+    {
+      "para": "p003",
+      "text": "Yazdgerd II",
+      "start": 247,
+      "end": 258,
+      "type": "person",
+      "entity": "Q310303"
+    },
+    {
+      "para": "p003",
+      "text": "Armenian nobility",
+      "start": 289,
+      "end": 306,
+      "type": "organization"
+    },
+    {
+      "para": "p003",
+      "text": "Vardan Mamikonean",
+      "start": 375,
+      "end": 392,
+      "type": "person",
+      "entity": "Q1280744"
+    },
+    {
+      "para": "p003",
+      "text": "Armenian Church",
+      "start": 443,
+      "end": 458,
+      "type": "organization"
+    },
+    {
+      "para": "p003",
+      "text": "foreign oppression",
+      "start": 503,
+      "end": 521,
+      "type": "event"
+    },
+    {
+      "para": "p003",
+      "text": "survivors",
+      "start": 600,
+      "end": 609,
+      "type": "person"
+    },
+    {
+      "para": "p003",
+      "text": "rebellion",
+      "start": 631,
+      "end": 640,
+      "type": "event"
+    },
+    {
+      "para": "p004",
+      "text": "Łazar P‘arpec‘i",
+      "start": 37,
+      "end": 52,
+      "type": "person"
+    },
+    {
+      "para": "p004",
+      "text": "Gorgān",
+      "start": 178,
+      "end": 184,
+      "type": "location"
+    },
+    {
+      "para": "p004",
+      "text": "Hyrcania",
+      "start": 193,
+      "end": 201,
+      "type": "location"
+    },
+    {
+      "para": "p004",
+      "text": "Alborz watershed",
+      "start": 227,
+      "end": 243,
+      "type": "location"
+    },
+    {
+      "para": "p004",
+      "text": "Caspian Sea",
+      "start": 262,
+      "end": 273,
+      "type": "location"
+    },
+    {
+      "para": "p004",
+      "text": "Khuzestan",
+      "start": 333,
+      "end": 342,
+      "type": "location"
+    },
+    {
+      "para": "p004",
+      "text": "Christian priests",
+      "start": 377,
+      "end": 394,
+      "type": "organization"
+    },
+    {
+      "para": "p004",
+      "text": "Łazar",
+      "start": 396,
+      "end": 401,
+      "type": "person"
+    },
+    {
+      "para": "p004",
+      "text": "Vahan Mamikonean",
+      "start": 551,
+      "end": 567,
+      "type": "person",
+      "entity": "Q2085338"
+    },
+    {
+      "para": "p004",
+      "text": "Khuzestan",
+      "start": 649,
+      "end": 658,
+      "type": "location"
+    },
+    {
+      "para": "p004",
+      "text": "Sasanians",
+      "start": 701,
+      "end": 710,
+      "type": "organization"
+    },
+    {
+      "para": "p004",
+      "text": "AD 482–4",
+      "start": 716,
+      "end": 724,
+      "type": "event"
+    },
+    {
+      "para": "p004",
+      "text": "Łazar",
+      "start": 726,
+      "end": 731,
+      "type": "person"
+    },
+    {
+      "para": "p004",
+      "text": "Vahan",
+      "start": 741,
+      "end": 746,
+      "type": "person"
+    },
+    {
+      "para": "p004",
+      "text": "Vałaršapat",
+      "start": 842,
+      "end": 852,
+      "type": "location"
+    },
+    {
+      "para": "p004",
+      "text": "Eǰmiacin",
+      "start": 861,
+      "end": 869,
+      "type": "location"
+    },
+    {
+      "para": "p004",
+      "text": "Vahan",
+      "start": 874,
+      "end": 879,
+      "type": "person"
+    },
+    {
+      "para": "p004",
+      "text": "monks",
+      "start": 945,
+      "end": 950,
+      "type": "organization"
+    },
+    {
+      "para": "p005",
+      "text": "AD 450–1 rebellion",
+      "start": 36,
+      "end": 54,
+      "type": "event"
+    },
+    {
+      "para": "p005",
+      "text": "Ełišē",
+      "start": 56,
+      "end": 61,
+      "type": "person"
+    },
+    {
+      "para": "p005",
+      "text": "Gorgān",
+      "start": 97,
+      "end": 103,
+      "type": "location"
+    },
+    {
+      "para": "p005",
+      "text": "Łazar",
+      "start": 141,
+      "end": 146,
+      "type": "person"
+    },
+    {
+      "para": "p005",
+      "text": "Ełišē",
+      "start": 188,
+      "end": 193,
+      "type": "person"
+    },
+    {
+      "para": "p005",
+      "text": "Robert Thomson",
+      "start": 324,
+      "end": 338,
+      "type": "person"
+    },
+    {
+      "para": "p005",
+      "text": "Ełišē",
+      "start": 393,
+      "end": 398,
+      "type": "person"
+    },
+    {
+      "para": "p005",
+      "text": "Philo",
+      "start": 514,
+      "end": 519,
+      "type": "person"
+    },
+    {
+      "para": "p005",
+      "text": "John of Ephesus",
+      "start": 541,
+      "end": 556,
+      "type": "organization"
+    },
+    {
+      "para": "p005",
+      "text": "Ecclesiastical Histories",
+      "start": 558,
+      "end": 582,
+      "type": "event"
+    },
+    {
+      "para": "p005",
+      "text": "Armenian community",
+      "start": 624,
+      "end": 642,
+      "type": "organization"
+    },
+    {
+      "para": "p005",
+      "text": "Persian court culture",
+      "start": 724,
+      "end": 745,
+      "type": "organization"
+    },
+    {
+      "para": "p005",
+      "text": "interfaith debates",
+      "start": 773,
+      "end": 791,
+      "type": "event"
+    },
+    {
+      "para": "p006",
+      "text": "Arcruni family",
+      "start": 164,
+      "end": 178,
+      "type": "organization"
+    },
+    {
+      "para": "p006",
+      "text": "Ełišē",
+      "start": 181,
+      "end": 186,
+      "type": "person"
+    },
+    {
+      "para": "p006",
+      "text": "Łazar",
+      "start": 263,
+      "end": 268,
+      "type": "location"
+    },
+    {
+      "para": "p006",
+      "text": "Meružan Arcruni",
+      "start": 271,
+      "end": 286,
+      "type": "person"
+    },
+    {
+      "para": "p006",
+      "text": "Nerseh",
+      "start": 288,
+      "end": 294,
+      "type": "person"
+    },
+    {
+      "para": "p006",
+      "text": "Ašot Kamsarakan",
+      "start": 299,
+      "end": 314,
+      "type": "person"
+    },
+    {
+      "para": "p006",
+      "text": "Zuarēn Anjewac",
+      "start": 320,
+      "end": 334,
+      "type": "person"
+    },
+    {
+      "para": "p006",
+      "text": "Robert Thomson",
+      "start": 434,
+      "end": 448,
+      "type": "person"
+    },
+    {
+      "para": "p007",
+      "text": "Nishapur",
+      "start": 104,
+      "end": 112,
+      "type": "location"
+    },
+    {
+      "para": "p007",
+      "text": "AD 453/4",
+      "start": 116,
+      "end": 124,
+      "type": "event"
+    },
+    {
+      "para": "p007",
+      "text": "Ełišē",
+      "start": 172,
+      "end": 177,
+      "type": "person"
+    },
+    {
+      "para": "p007",
+      "text": "Łazar",
+      "start": 203,
+      "end": 208,
+      "type": "person"
+    },
+    {
+      "para": "p007",
+      "text": "Herāt",
+      "start": 241,
+      "end": 246,
+      "type": "location"
+    },
+    {
+      "para": "p007",
+      "text": "Vardan Mamikonean",
+      "start": 330,
+      "end": 347,
+      "type": "person",
+      "entity": "Q1280744"
+    },
+    {
+      "para": "p007",
+      "text": "Persians",
+      "start": 371,
+      "end": 379,
+      "type": "organization"
+    },
+    {
+      "para": "p007",
+      "text": "rebellion",
+      "start": 428,
+      "end": 437,
+      "type": "event"
+    },
+    {
+      "para": "p007",
+      "text": "Łazar",
+      "start": 444,
+      "end": 449,
+      "type": "person"
+    },
+    {
+      "para": "p007",
+      "text": "campaign",
+      "start": 465,
+      "end": 473,
+      "type": "event"
+    },
+    {
+      "para": "p007",
+      "text": "Marw-ī-Rōd",
+      "start": 477,
+      "end": 487,
+      "type": "location"
+    },
+    {
+      "para": "p007",
+      "text": "Merv",
+      "start": 490,
+      "end": 494,
+      "type": "location"
+    },
+    {
+      "para": "p007",
+      "text": "Khurasan",
+      "start": 523,
+      "end": 531,
+      "type": "location"
+    },
+    {
+      "para": "p007",
+      "text": "Sasanian king",
+      "start": 543,
+      "end": 556,
+      "type": "person"
+    },
+    {
+      "para": "p007",
+      "text": "Armenia",
+      "start": 666,
+      "end": 673,
+      "type": "location"
+    },
+    {
+      "para": "p007",
+      "text": "Łazar",
+      "start": 683,
+      "end": 688,
+      "type": "person"
+    },
+    {
+      "para": "p007",
+      "text": "AD 464/5",
+      "start": 746,
+      "end": 754,
+      "type": "event"
+    },
+    {
+      "para": "p007",
+      "text": "Ełišē",
+      "start": 762,
+      "end": 767,
+      "type": "person"
+    },
+    {
+      "para": "p007",
+      "text": "Khuzestan",
+      "start": 808,
+      "end": 817,
+      "type": "location"
+    },
+    {
+      "para": "p007",
+      "text": "Armenia",
+      "start": 849,
+      "end": 856,
+      "type": "location"
+    },
+    {
+      "para": "p007",
+      "text": "AD 454/5",
+      "start": 860,
+      "end": 868,
+      "type": "event"
+    },
+    {
+      "para": "p007",
+      "text": "Armenia",
+      "start": 1015,
+      "end": 1022,
+      "type": "location"
+    },
+    {
+      "para": "p007",
+      "text": "military objectives",
+      "start": 1129,
+      "end": 1148,
+      "type": "event"
+    },
+    {
+      "para": "p007",
+      "text": "Kidarite Hun confederacy",
+      "start": 1161,
+      "end": 1185,
+      "type": "organization"
+    },
+    {
+      "para": "p007",
+      "text": "Sasanian Empire",
+      "start": 1193,
+      "end": 1208,
+      "type": "organization"
+    },
+    {
+      "para": "p008",
+      "text": "Gorgān",
+      "start": 47,
+      "end": 53,
+      "type": "location"
+    },
+    {
+      "para": "p008",
+      "text": "Armenia",
+      "start": 92,
+      "end": 99,
+      "type": "location"
+    },
+    {
+      "para": "p008",
+      "text": "rebellion",
+      "start": 112,
+      "end": 121,
+      "type": "event"
+    },
+    {
+      "para": "p008",
+      "text": "elite uprising",
+      "start": 139,
+      "end": 153,
+      "type": "event"
+    },
+    {
+      "para": "p008",
+      "text": "clans",
+      "start": 187,
+      "end": 192,
+      "type": "organization"
+    },
+    {
+      "para": "p008",
+      "text": "rebellious princes",
+      "start": 209,
+      "end": 227,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Babgēn",
+      "start": 266,
+      "end": 272,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Bakur",
+      "start": 277,
+      "end": 282,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Siwni family",
+      "start": 300,
+      "end": 312,
+      "type": "organization"
+    },
+    {
+      "para": "p008",
+      "text": "clans",
+      "start": 336,
+      "end": 341,
+      "type": "organization"
+    },
+    {
+      "para": "p008",
+      "text": "princes",
+      "start": 348,
+      "end": 355,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Sasanians",
+      "start": 382,
+      "end": 391,
+      "type": "organization"
+    },
+    {
+      "para": "p008",
+      "text": "rebellion",
+      "start": 403,
+      "end": 412,
+      "type": "event"
+    },
+    {
+      "para": "p008",
+      "text": "Xorēn Xorxoṙuni",
+      "start": 556,
+      "end": 571,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Artak Paluni",
+      "start": 576,
+      "end": 588,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Ełišē",
+      "start": 624,
+      "end": 629,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Vardan",
+      "start": 666,
+      "end": 672,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Arrests",
+      "start": 721,
+      "end": 728,
+      "type": "event"
+    },
+    {
+      "para": "p008",
+      "text": "Siwni family",
+      "start": 738,
+      "end": 750,
+      "type": "organization"
+    },
+    {
+      "para": "p008",
+      "text": "Vasak Siwni",
+      "start": 776,
+      "end": 787,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Siwni",
+      "start": 782,
+      "end": 787,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Armenia",
+      "start": 801,
+      "end": 808,
+      "type": "location"
+    },
+    {
+      "para": "p008",
+      "text": "marzbān",
+      "start": 826,
+      "end": 833,
+      "type": "organization"
+    },
+    {
+      "para": "p008",
+      "text": "uprising",
+      "start": 875,
+      "end": 883,
+      "type": "event"
+    },
+    {
+      "para": "p008",
+      "text": "Babgēn",
+      "start": 955,
+      "end": 961,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Babik Siwni",
+      "start": 985,
+      "end": 996,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Vasak",
+      "start": 1007,
+      "end": 1012,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Ctesiphon",
+      "start": 1038,
+      "end": 1047,
+      "type": "location"
+    },
+    {
+      "para": "p008",
+      "text": "rebellion",
+      "start": 1059,
+      "end": 1068,
+      "type": "event"
+    },
+    {
+      "para": "p008",
+      "text": "Vasak",
+      "start": 1152,
+      "end": 1157,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Ełišē",
+      "start": 1162,
+      "end": 1167,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Siwni",
+      "start": 1180,
+      "end": 1185,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "Siwni lord",
+      "start": 1180,
+      "end": 1190,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "exiled",
+      "start": 1195,
+      "end": 1201,
+      "type": "event"
+    },
+    {
+      "para": "p008",
+      "text": "Vasak",
+      "start": 1269,
+      "end": 1274,
+      "type": "person"
+    },
+    {
+      "para": "p008",
+      "text": "disenfranchisement",
+      "start": 1277,
+      "end": 1295,
+      "type": "event"
+    },
+    {
+      "para": "p008",
+      "text": "arrest",
+      "start": 1324,
+      "end": 1330,
+      "type": "event"
+    },
+    {
+      "para": "p009",
+      "text": "rebellion",
+      "start": 7,
+      "end": 16,
+      "type": "event"
+    },
+    {
+      "para": "p009",
+      "text": "Sasanians",
+      "start": 34,
+      "end": 43,
+      "type": "organization"
+    },
+    {
+      "para": "p009",
+      "text": "Armenian nobles",
+      "start": 78,
+      "end": 93,
+      "type": "organization"
+    },
+    {
+      "para": "p009",
+      "text": "İlhami Cinemre",
+      "start": 288,
+      "end": 302,
+      "type": "person"
+    },
+    {
+      "para": "p009",
+      "text": "Armenian Arsacid royal family",
+      "start": 466,
+      "end": 495,
+      "type": "organization"
+    },
+    {
+      "para": "p009",
+      "text": "Łazar",
+      "start": 670,
+      "end": 675,
+      "type": "person"
+    },
+    {
+      "para": "p009",
+      "text": "Vahan Mamikonean",
+      "start": 691,
+      "end": 707,
+      "type": "person",
+      "entity": "Q3553280"
+    },
+    {
+      "para": "p009",
+      "text": "apostatising",
+      "start": 744,
+      "end": 756,
+      "type": "event"
+    },
+    {
+      "para": "p009",
+      "text": "Vardan Mamikonean",
+      "start": 853,
+      "end": 870,
+      "type": "person",
+      "entity": "Q1280744"
+    },
+    {
+      "para": "p009",
+      "text": "Georgian bdeašx Vazgen",
+      "start": 890,
+      "end": 912,
+      "type": "person"
+    },
+    {
+      "para": "p009",
+      "text": "Šušanik",
+      "start": 989,
+      "end": 996,
+      "type": "person"
+    },
+    {
+      "para": "p009",
+      "text": "Łazar",
+      "start": 1008,
+      "end": 1013,
+      "type": "person"
+    },
+    {
+      "para": "p009",
+      "text": "Gadišo Xorxoṙuni",
+      "start": 1025,
+      "end": 1041,
+      "type": "person"
+    },
+    {
+      "para": "p009",
+      "text": "Armenia",
+      "start": 1080,
+      "end": 1087,
+      "type": "location"
+    },
+    {
+      "para": "p009",
+      "text": "antebellum period",
+      "start": 1095,
+      "end": 1112,
+      "type": "event"
+    },
+    {
+      "para": "p009",
+      "text": "Christiane Harzig",
+      "start": 1197,
+      "end": 1214,
+      "type": "person"
+    },
+    {
+      "para": "p009",
+      "text": "Dirk Hoerder",
+      "start": 1219,
+      "end": 1231,
+      "type": "person"
+    },
+    {
+      "para": "p009",
+      "text": "Armenian elite",
+      "start": 1279,
+      "end": 1293,
+      "type": "organization"
+    },
+    {
+      "para": "p009",
+      "text": "conflicts",
+      "start": 1426,
+      "end": 1435,
+      "type": "event"
+    },
+    {
+      "para": "p010",
+      "text": "Vardan",
+      "start": 104,
+      "end": 110,
+      "type": "person"
+    },
+    {
+      "para": "p010",
+      "text": "Vahan",
+      "start": 115,
+      "end": 120,
+      "type": "person"
+    },
+    {
+      "para": "p010",
+      "text": "Sasanian restructuring",
+      "start": 155,
+      "end": 177,
+      "type": "event"
+    },
+    {
+      "para": "p010",
+      "text": "Armenian nobility",
+      "start": 185,
+      "end": 202,
+      "type": "organization"
+    },
+    {
+      "para": "p010",
+      "text": "Hewsen",
+      "start": 225,
+      "end": 231,
+      "type": "person"
+    },
+    {
+      "para": "p010",
+      "text": "Ǝnc‘ayac‘i",
+      "start": 292,
+      "end": 302,
+      "type": "person"
+    },
+    {
+      "para": "p010",
+      "text": "AD 450–84",
+      "start": 325,
+      "end": 334,
+      "type": "event"
+    },
+    {
+      "para": "p010",
+      "text": "attested kinsman",
+      "start": 392,
+      "end": 408,
+      "type": "person"
+    },
+    {
+      "para": "p010",
+      "text": "AD 490",
+      "start": 417,
+      "end": 423,
+      "type": "event"
+    },
+    {
+      "para": "p010",
+      "text": "Mandakuni",
+      "start": 435,
+      "end": 444,
+      "type": "person"
+    },
+    {
+      "para": "p010",
+      "text": "Hewsen’s clans",
+      "start": 500,
+      "end": 514,
+      "type": "organization"
+    },
+    {
+      "para": "p011",
+      "text": "Placement for military service",
+      "start": 0,
+      "end": 30,
+      "type": "event"
+    },
+    {
+      "para": "p011",
+      "text": "Gorgān",
+      "start": 67,
+      "end": 73,
+      "type": "location"
+    },
+    {
+      "para": "p011",
+      "text": "Łazar",
+      "start": 137,
+      "end": 142,
+      "type": "person"
+    },
+    {
+      "para": "p011",
+      "text": "historians",
+      "start": 196,
+      "end": 206,
+      "type": "person"
+    },
+    {
+      "para": "p011",
+      "text": "Gorgān",
+      "start": 221,
+      "end": 227,
+      "type": "location"
+    },
+    {
+      "para": "p011",
+      "text": "Łazar",
+      "start": 243,
+      "end": 248,
+      "type": "person"
+    },
+    {
+      "para": "p011",
+      "text": "eric",
+      "start": 380,
+      "end": 384,
+      "type": "person"
+    },
+    {
+      "para": "p011",
+      "text": "Ełišē",
+      "start": 399,
+      "end": 404,
+      "type": "person"
+    },
+    {
+      "para": "p011",
+      "text": "Ełišē",
+      "start": 399,
+      "end": 404,
+      "type": "organization"
+    },
+    {
+      "para": "p011",
+      "text": "managoyn",
+      "start": 434,
+      "end": 442,
+      "type": "person"
+    },
+    {
+      "para": "p011",
+      "text": "ceragoyn",
+      "start": 456,
+      "end": 464,
+      "type": "person"
+    },
+    {
+      "para": "p011",
+      "text": "spiritual rejuvenation",
+      "start": 512,
+      "end": 534,
+      "type": "event"
+    },
+    {
+      "para": "p011",
+      "text": "Herāt",
+      "start": 544,
+      "end": 549,
+      "type": "location"
+    },
+    {
+      "para": "p011",
+      "text": "Priests",
+      "start": 591,
+      "end": 598,
+      "type": "organization"
+    },
+    {
+      "para": "p011",
+      "text": "Gorgān",
+      "start": 726,
+      "end": 732,
+      "type": "location"
+    },
+    {
+      "para": "p011",
+      "text": "arrests",
+      "start": 795,
+      "end": 802,
+      "type": "event"
+    },
+    {
+      "para": "p012",
+      "text": "Ełišē",
+      "start": 85,
+      "end": 90,
+      "type": "person"
+    },
+    {
+      "para": "p012",
+      "text": "Armenian nobility",
+      "start": 107,
+      "end": 124,
+      "type": "organization"
+    },
+    {
+      "para": "p012",
+      "text": "Persian court",
+      "start": 152,
+      "end": 165,
+      "type": "organization"
+    },
+    {
+      "para": "p012",
+      "text": "Łazar",
+      "start": 224,
+      "end": 229,
+      "type": "person"
+    },
+    {
+      "para": "p012",
+      "text": "arraignment",
+      "start": 382,
+      "end": 393,
+      "type": "event"
+    },
+    {
+      "para": "p012",
+      "text": "historian",
+      "start": 436,
+      "end": 445,
+      "type": "person"
+    },
+    {
+      "para": "p012",
+      "text": "Gorgān",
+      "start": 490,
+      "end": 496,
+      "type": "location"
+    },
+    {
+      "para": "p012",
+      "text": "deprivations",
+      "start": 545,
+      "end": 557,
+      "type": "event"
+    },
+    {
+      "para": "p012",
+      "text": "Armenia",
+      "start": 585,
+      "end": 592,
+      "type": "location"
+    },
+    {
+      "para": "p012",
+      "text": "Łazar",
+      "start": 594,
+      "end": 599,
+      "type": "person"
+    },
+    {
+      "para": "p012",
+      "text": "Gorgān",
+      "start": 724,
+      "end": 730,
+      "type": "location"
+    },
+    {
+      "para": "p013",
+      "text": "Nerseh Kamsarakan",
+      "start": 51,
+      "end": 68,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "Nerseh of Širak",
+      "start": 107,
+      "end": 122,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "Aršawir Kamsarakan",
+      "start": 146,
+      "end": 164,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "Nerseh",
+      "start": 227,
+      "end": 233,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "Łazar",
+      "start": 249,
+      "end": 254,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "Łazar",
+      "start": 290,
+      "end": 295,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "Nerseh",
+      "start": 326,
+      "end": 332,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "Łazar",
+      "start": 334,
+      "end": 339,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "Nerseh",
+      "start": 351,
+      "end": 357,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "Hrahat",
+      "start": 374,
+      "end": 380,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "they",
+      "start": 400,
+      "end": 404,
+      "type": "organization"
+    },
+    {
+      "para": "p013",
+      "text": "Vałaršapat",
+      "start": 452,
+      "end": 462,
+      "type": "location"
+    },
+    {
+      "para": "p013",
+      "text": "Nerseh",
+      "start": 477,
+      "end": 483,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "c. 482 AD",
+      "start": 504,
+      "end": 513,
+      "type": "event"
+    },
+    {
+      "para": "p013",
+      "text": "Battle of Akesga",
+      "start": 514,
+      "end": 530,
+      "type": "event"
+    },
+    {
+      "para": "p013",
+      "text": "Łazar",
+      "start": 532,
+      "end": 537,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "Nerseh",
+      "start": 578,
+      "end": 584,
+      "type": "person"
+    },
+    {
+      "para": "p013",
+      "text": "Aršamunik",
+      "start": 590,
+      "end": 599,
+      "type": "location"
+    },
+    {
+      "para": "p013",
+      "text": "southwestern Armenia",
+      "start": 666,
+      "end": 686,
+      "type": "location"
+    },
+    {
+      "para": "p013",
+      "text": "Nerseh",
+      "start": 718,
+      "end": 724,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Anania Širakac",
+      "start": 65,
+      "end": 79,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Nerseh",
+      "start": 89,
+      "end": 95,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Sasanian capture",
+      "start": 115,
+      "end": 131,
+      "type": "event"
+    },
+    {
+      "para": "p014",
+      "text": "Balkh",
+      "start": 135,
+      "end": 140,
+      "type": "location"
+    },
+    {
+      "para": "p014",
+      "text": "Herāt",
+      "start": 171,
+      "end": 176,
+      "type": "location"
+    },
+    {
+      "para": "p014",
+      "text": "AD 462–6 campaign",
+      "start": 242,
+      "end": 259,
+      "type": "event"
+    },
+    {
+      "para": "p014",
+      "text": "Yazdgerd",
+      "start": 263,
+      "end": 271,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Pērōz",
+      "start": 284,
+      "end": 289,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Kidarites",
+      "start": 302,
+      "end": 311,
+      "type": "organization"
+    },
+    {
+      "para": "p014",
+      "text": "Zara Pogossian",
+      "start": 331,
+      "end": 345,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "AD 484",
+      "start": 398,
+      "end": 404,
+      "type": "event"
+    },
+    {
+      "para": "p014",
+      "text": "Pērōz",
+      "start": 411,
+      "end": 416,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Anania",
+      "start": 448,
+      "end": 454,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Nerseh",
+      "start": 472,
+      "end": 478,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Christian community",
+      "start": 494,
+      "end": 513,
+      "type": "organization"
+    },
+    {
+      "para": "p014",
+      "text": "Vałaršapat",
+      "start": 517,
+      "end": 527,
+      "type": "location"
+    },
+    {
+      "para": "p014",
+      "text": "Vahan Mamikonean",
+      "start": 545,
+      "end": 561,
+      "type": "person",
+      "entity": "Q3553280"
+    },
+    {
+      "para": "p014",
+      "text": "Širak",
+      "start": 679,
+      "end": 684,
+      "type": "location"
+    },
+    {
+      "para": "p014",
+      "text": "Nerseh",
+      "start": 686,
+      "end": 692,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Nersehn",
+      "start": 720,
+      "end": 727,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Persian delegation",
+      "start": 739,
+      "end": 757,
+      "type": "organization"
+    },
+    {
+      "para": "p014",
+      "text": "Vahan",
+      "start": 779,
+      "end": 784,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "485",
+      "start": 788,
+      "end": 791,
+      "type": "event"
+    },
+    {
+      "para": "p014",
+      "text": "Łazar",
+      "start": 798,
+      "end": 803,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Vahan",
+      "start": 829,
+      "end": 834,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Ełišē",
+      "start": 875,
+      "end": 880,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Nerseh",
+      "start": 980,
+      "end": 986,
+      "type": "person"
+    },
+    {
+      "para": "p014",
+      "text": "Persia",
+      "start": 1036,
+      "end": 1042,
+      "type": "location"
+    },
+    {
+      "para": "p014",
+      "text": "Kamsarakan children",
+      "start": 1086,
+      "end": 1105,
+      "type": "organization"
+    },
+    {
+      "para": "p014",
+      "text": "Khuzestan",
+      "start": 1120,
+      "end": 1129,
+      "type": "location"
+    },
+    {
+      "para": "p015",
+      "text": "Łazar",
+      "start": 139,
+      "end": 144,
+      "type": "person"
+    },
+    {
+      "para": "p015",
+      "text": "troops",
+      "start": 201,
+      "end": 207,
+      "type": "organization"
+    },
+    {
+      "para": "p015",
+      "text": "Herāt",
+      "start": 255,
+      "end": 260,
+      "type": "location"
+    },
+    {
+      "para": "p015",
+      "text": "Ełišē",
+      "start": 262,
+      "end": 267,
+      "type": "person"
+    },
+    {
+      "para": "p015",
+      "text": "nobles",
+      "start": 344,
+      "end": 350,
+      "type": "organization"
+    },
+    {
+      "para": "p015",
+      "text": "Armenia",
+      "start": 362,
+      "end": 369,
+      "type": "location"
+    },
+    {
+      "para": "p015",
+      "text": "civil war",
+      "start": 385,
+      "end": 394,
+      "type": "event"
+    },
+    {
+      "para": "p015",
+      "text": "Yazdgerd",
+      "start": 403,
+      "end": 411,
+      "type": "person"
+    },
+    {
+      "para": "p015",
+      "text": "Yazdgerd’s sons",
+      "start": 403,
+      "end": 418,
+      "type": "person"
+    },
+    {
+      "para": "p015",
+      "text": "AD 457–9",
+      "start": 420,
+      "end": 428,
+      "type": "event"
+    },
+    {
+      "para": "p015",
+      "text": "Łazar",
+      "start": 440,
+      "end": 445,
+      "type": "person"
+    },
+    {
+      "para": "p015",
+      "text": "rebellion",
+      "start": 451,
+      "end": 460,
+      "type": "event"
+    },
+    {
+      "para": "p015",
+      "text": "Caucasian Albanian king",
+      "start": 468,
+      "end": 491,
+      "type": "person"
+    },
+    {
+      "para": "p015",
+      "text": "AD 461",
+      "start": 499,
+      "end": 505,
+      "type": "event"
+    },
+    {
+      "para": "p015",
+      "text": "Herāt",
+      "start": 534,
+      "end": 539,
+      "type": "location"
+    },
+    {
+      "para": "p016",
+      "text": "Gorgān",
+      "start": 43,
+      "end": 49,
+      "type": "location"
+    },
+    {
+      "para": "p016",
+      "text": "Nishapur",
+      "start": 54,
+      "end": 62,
+      "type": "location"
+    },
+    {
+      "para": "p016",
+      "text": "Yazdgerd II",
+      "start": 129,
+      "end": 140,
+      "type": "person",
+      "entity": "Q310303"
+    },
+    {
+      "para": "p016",
+      "text": "Armenians",
+      "start": 152,
+      "end": 161,
+      "type": "organization"
+    },
+    {
+      "para": "p016",
+      "text": "Nishapur",
+      "start": 208,
+      "end": 216,
+      "type": "location"
+    },
+    {
+      "para": "p016",
+      "text": "Armenians",
+      "start": 262,
+      "end": 271,
+      "type": "organization"
+    },
+    {
+      "para": "p016",
+      "text": "Sebeos",
+      "start": 352,
+      "end": 358,
+      "type": "person"
+    },
+    {
+      "para": "p016",
+      "text": "Smbat IV Bagratuni",
+      "start": 393,
+      "end": 411,
+      "type": "person"
+    },
+    {
+      "para": "p016",
+      "text": "Armenian nobles",
+      "start": 434,
+      "end": 449,
+      "type": "organization"
+    },
+    {
+      "para": "p016",
+      "text": "Gorgān",
+      "start": 455,
+      "end": 461,
+      "type": "location"
+    },
+    {
+      "para": "p016",
+      "text": "614–15",
+      "start": 465,
+      "end": 471,
+      "type": "event"
+    },
+    {
+      "para": "p016",
+      "text": "campaign",
+      "start": 493,
+      "end": 501,
+      "type": "event"
+    },
+    {
+      "para": "p016",
+      "text": "Nishapur",
+      "start": 507,
+      "end": 515,
+      "type": "location"
+    },
+    {
+      "para": "p016",
+      "text": "Smbat",
+      "start": 601,
+      "end": 606,
+      "type": "person"
+    },
+    {
+      "para": "p016",
+      "text": "Gorgān",
+      "start": 694,
+      "end": 700,
+      "type": "location"
+    },
+    {
+      "para": "p017",
+      "text": "Nishapur",
+      "start": 72,
+      "end": 80,
+      "type": "location"
+    },
+    {
+      "para": "p017",
+      "text": "Herāt",
+      "start": 85,
+      "end": 90,
+      "type": "location"
+    },
+    {
+      "para": "p017",
+      "text": "Herāt",
+      "start": 209,
+      "end": 214,
+      "type": "location"
+    },
+    {
+      "para": "p017",
+      "text": "Gorgān",
+      "start": 328,
+      "end": 334,
+      "type": "location"
+    },
+    {
+      "para": "p017",
+      "text": "Gorgān",
+      "start": 449,
+      "end": 455,
+      "type": "location"
+    },
+    {
+      "para": "p017",
+      "text": "Tammīseh",
+      "start": 460,
+      "end": 468,
+      "type": "location"
+    },
+    {
+      "para": "p017",
+      "text": "Yazdgerd",
+      "start": 505,
+      "end": 513,
+      "type": "person"
+    },
+    {
+      "para": "p017",
+      "text": "Pērōz",
+      "start": 518,
+      "end": 523,
+      "type": "person"
+    },
+    {
+      "para": "p017",
+      "text": "construction",
+      "start": 529,
+      "end": 541,
+      "type": "event"
+    },
+    {
+      "para": "p017",
+      "text": "Eberhard Sauer",
+      "start": 630,
+      "end": 644,
+      "type": "person"
+    },
+    {
+      "para": "p018",
+      "text": "Sasanians",
+      "start": 131,
+      "end": 140,
+      "type": "organization"
+    },
+    {
+      "para": "p018",
+      "text": "Kidarite Huns",
+      "start": 149,
+      "end": 162,
+      "type": "organization"
+    },
+    {
+      "para": "p018",
+      "text": "Sasanian eastern border",
+      "start": 208,
+      "end": 231,
+      "type": "location"
+    },
+    {
+      "para": "p018",
+      "text": "Yazdgerd",
+      "start": 250,
+      "end": 258,
+      "type": "person"
+    },
+    {
+      "para": "p018",
+      "text": "Pērōz",
+      "start": 263,
+      "end": 268,
+      "type": "person"
+    },
+    {
+      "para": "p018",
+      "text": "Kidarites",
+      "start": 326,
+      "end": 335,
+      "type": "organization"
+    },
+    {
+      "para": "p018",
+      "text": "Kidarites",
+      "start": 365,
+      "end": 374,
+      "type": "organization"
+    },
+    {
+      "para": "p018",
+      "text": "Hephthalite Huns",
+      "start": 425,
+      "end": 441,
+      "type": "organization"
+    },
+    {
+      "para": "p018",
+      "text": "Yazdgerd",
+      "start": 443,
+      "end": 451,
+      "type": "person"
+    },
+    {
+      "para": "p018",
+      "text": "Kayanian Zoroastrian dynasty",
+      "start": 599,
+      "end": 627,
+      "type": "organization"
+    },
+    {
+      "para": "p018",
+      "text": "Kidarites",
+      "start": 678,
+      "end": 687,
+      "type": "organization"
+    },
+    {
+      "para": "p018",
+      "text": "borderland elites",
+      "start": 840,
+      "end": 857,
+      "type": "organization"
+    },
+    {
+      "para": "p018",
+      "text": "Tokharistan",
+      "start": 959,
+      "end": 970,
+      "type": "location"
+    },
+    {
+      "para": "p018",
+      "text": "Hindu Kush",
+      "start": 983,
+      "end": 993,
+      "type": "location"
+    },
+    {
+      "para": "p018",
+      "text": "AD 440–57",
+      "start": 999,
+      "end": 1008,
+      "type": "event"
+    },
+    {
+      "para": "p019",
+      "text": "Pērōz",
+      "start": 64,
+      "end": 69,
+      "type": "person"
+    },
+    {
+      "para": "p019",
+      "text": "AD 462",
+      "start": 83,
+      "end": 89,
+      "type": "event"
+    },
+    {
+      "para": "p019",
+      "text": "Kidarites",
+      "start": 113,
+      "end": 122,
+      "type": "organization"
+    },
+    {
+      "para": "p019",
+      "text": "Saraguri Huns",
+      "start": 237,
+      "end": 250,
+      "type": "organization"
+    },
+    {
+      "para": "p019",
+      "text": "Armenia",
+      "start": 254,
+      "end": 261,
+      "type": "location"
+    },
+    {
+      "para": "p019",
+      "text": "Iberia",
+      "start": 266,
+      "end": 272,
+      "type": "location"
+    },
+    {
+      "para": "p019",
+      "text": "Pērōz",
+      "start": 284,
+      "end": 289,
+      "type": "person"
+    },
+    {
+      "para": "p019",
+      "text": "AD 466",
+      "start": 325,
+      "end": 331,
+      "type": "event"
+    },
+    {
+      "para": "p020",
+      "text": "Sasanian",
+      "start": 81,
+      "end": 89,
+      "type": "person"
+    },
+    {
+      "para": "p020",
+      "text": "Gorgān",
+      "start": 177,
+      "end": 183,
+      "type": "location"
+    },
+    {
+      "para": "p020",
+      "text": "Nishapur",
+      "start": 188,
+      "end": 196,
+      "type": "location"
+    },
+    {
+      "para": "p020",
+      "text": "Yazdgerd",
+      "start": 320,
+      "end": 328,
+      "type": "person"
+    },
+    {
+      "para": "p020",
+      "text": "anti-Kidarite campaigns",
+      "start": 331,
+      "end": 354,
+      "type": "event"
+    },
+    {
+      "para": "p020",
+      "text": "Gorgān",
+      "start": 478,
+      "end": 484,
+      "type": "location"
+    },
+    {
+      "para": "p020",
+      "text": "Shapur Shahbazi",
+      "start": 595,
+      "end": 610,
+      "type": "person"
+    },
+    {
+      "para": "p020",
+      "text": "Yazdgerd",
+      "start": 629,
+      "end": 637,
+      "type": "person"
+    },
+    {
+      "para": "p020",
+      "text": "Gorgān",
+      "start": 650,
+      "end": 656,
+      "type": "location"
+    },
+    {
+      "para": "p020",
+      "text": "Nishapur",
+      "start": 660,
+      "end": 668,
+      "type": "location"
+    },
+    {
+      "para": "p020",
+      "text": "Kidarite campaign",
+      "start": 698,
+      "end": 715,
+      "type": "event"
+    },
+    {
+      "para": "p020",
+      "text": "AD 450–4",
+      "start": 726,
+      "end": 734,
+      "type": "event"
+    },
+    {
+      "para": "p020",
+      "text": "Gorgān",
+      "start": 887,
+      "end": 893,
+      "type": "location"
+    },
+    {
+      "para": "p020",
+      "text": "Gorgān Wall’s construction",
+      "start": 887,
+      "end": 913,
+      "type": "event"
+    },
+    {
+      "para": "p020",
+      "text": "Łazar and Ełišē",
+      "start": 1006,
+      "end": 1021,
+      "type": "location"
+    },
+    {
+      "para": "p020",
+      "text": "failed campaign",
+      "start": 1045,
+      "end": 1060,
+      "type": "event"
+    },
+    {
+      "para": "p020",
+      "text": "Christian martyrdom",
+      "start": 1088,
+      "end": 1107,
+      "type": "event"
+    },
+    {
+      "para": "p020",
+      "text": "historians",
+      "start": 1150,
+      "end": 1160,
+      "type": "person"
+    },
+    {
+      "para": "p020",
+      "text": "Herāt",
+      "start": 1218,
+      "end": 1223,
+      "type": "location"
+    },
+    {
+      "para": "p020",
+      "text": "Armenians",
+      "start": 1247,
+      "end": 1256,
+      "type": "organization"
+    },
+    {
+      "para": "p020",
+      "text": "freedom and distinguished service",
+      "start": 1258,
+      "end": 1291,
+      "type": "event"
+    },
+    {
+      "para": "p020",
+      "text": "Łazar",
+      "start": 1293,
+      "end": 1298,
+      "type": "person"
+    },
+    {
+      "para": "p020",
+      "text": "Ełišē",
+      "start": 1351,
+      "end": 1356,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Gorgān",
+      "start": 145,
+      "end": 151,
+      "type": "location"
+    },
+    {
+      "para": "p021",
+      "text": "Herāt",
+      "start": 166,
+      "end": 171,
+      "type": "location"
+    },
+    {
+      "para": "p021",
+      "text": "Aršawir Kamsarakan",
+      "start": 240,
+      "end": 258,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Łazar",
+      "start": 282,
+      "end": 287,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "martyrdom",
+      "start": 318,
+      "end": 327,
+      "type": "event"
+    },
+    {
+      "para": "p021",
+      "text": "Armenian priests",
+      "start": 331,
+      "end": 347,
+      "type": "organization"
+    },
+    {
+      "para": "p021",
+      "text": "Nishapur",
+      "start": 351,
+      "end": 359,
+      "type": "location"
+    },
+    {
+      "para": "p021",
+      "text": "Babgēn Siwni",
+      "start": 376,
+      "end": 388,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Atom Gnuni",
+      "start": 394,
+      "end": 404,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Atom Gnuni",
+      "start": 394,
+      "end": 404,
+      "type": "organization"
+    },
+    {
+      "para": "p021",
+      "text": "Vahan’s rebellion",
+      "start": 465,
+      "end": 482,
+      "type": "event"
+    },
+    {
+      "para": "p021",
+      "text": "T‘ovma Arcruni",
+      "start": 512,
+      "end": 526,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Meršapuh",
+      "start": 534,
+      "end": 542,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Tačat Arcruni",
+      "start": 547,
+      "end": 560,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Vahan’s rebellion",
+      "start": 604,
+      "end": 621,
+      "type": "event"
+    },
+    {
+      "para": "p021",
+      "text": "Constantinople",
+      "start": 651,
+      "end": 665,
+      "type": "location"
+    },
+    {
+      "para": "p021",
+      "text": "Emperor Marcian",
+      "start": 673,
+      "end": 688,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Tačat",
+      "start": 779,
+      "end": 784,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Constantinople",
+      "start": 813,
+      "end": 827,
+      "type": "location"
+    },
+    {
+      "para": "p021",
+      "text": "Chalcedon",
+      "start": 920,
+      "end": 929,
+      "type": "location"
+    },
+    {
+      "para": "p021",
+      "text": "Meršapuh",
+      "start": 931,
+      "end": 939,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Armenian-Sasanian peace negotiations",
+      "start": 978,
+      "end": 1014,
+      "type": "event"
+    },
+    {
+      "para": "p021",
+      "text": "Arcruni clan",
+      "start": 1055,
+      "end": 1067,
+      "type": "organization"
+    },
+    {
+      "para": "p021",
+      "text": "Hamazasp Mamikonean",
+      "start": 1182,
+      "end": 1201,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Łazar",
+      "start": 1206,
+      "end": 1211,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Vahan",
+      "start": 1270,
+      "end": 1275,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Hamazasp",
+      "start": 1352,
+      "end": 1360,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Vahan",
+      "start": 1439,
+      "end": 1444,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "T‘ovma Arcruni",
+      "start": 1580,
+      "end": 1594,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Šawasp Arcruni",
+      "start": 1689,
+      "end": 1703,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "Vardan Mamikonean",
+      "start": 1735,
+      "end": 1752,
+      "type": "person",
+      "entity": "Q1280744"
+    },
+    {
+      "para": "p021",
+      "text": "Łazar and Ełišē",
+      "start": 1789,
+      "end": 1804,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "AD 450–1 rebellion",
+      "start": 1821,
+      "end": 1839,
+      "type": "event"
+    },
+    {
+      "para": "p021",
+      "text": "AD 572",
+      "start": 1866,
+      "end": 1872,
+      "type": "event"
+    },
+    {
+      "para": "p021",
+      "text": "Vardan Mamikonean",
+      "start": 1892,
+      "end": 1909,
+      "type": "person",
+      "entity": "Q1280744"
+    },
+    {
+      "para": "p021",
+      "text": "Sebeos",
+      "start": 1926,
+      "end": 1932,
+      "type": "person"
+    },
+    {
+      "para": "p021",
+      "text": "AD 451",
+      "start": 2038,
+      "end": 2044,
+      "type": "event"
+    },
+    {
+      "para": "p021",
+      "text": "AD 464",
+      "start": 2057,
+      "end": 2063,
+      "type": "event"
+    },
+    {
+      "para": "p022",
+      "text": "rebellion",
+      "start": 102,
+      "end": 111,
+      "type": "event"
+    },
+    {
+      "para": "p022",
+      "text": "Vardan Mamikonean",
+      "start": 223,
+      "end": 240,
+      "type": "person",
+      "entity": "Q1280744"
+    },
+    {
+      "para": "p022",
+      "text": "Vahan’s paternal uncle",
+      "start": 265,
+      "end": 287,
+      "type": "person"
+    },
+    {
+      "para": "p022",
+      "text": "Aṙnak Amatuni",
+      "start": 321,
+      "end": 334,
+      "type": "person"
+    },
+    {
+      "para": "p022",
+      "text": "Battle of Awarayr",
+      "start": 379,
+      "end": 396,
+      "type": "event"
+    },
+    {
+      "para": "p022",
+      "text": "Awarayr",
+      "start": 389,
+      "end": 396,
+      "type": "location"
+    },
+    {
+      "para": "p022",
+      "text": "P‘arsman Mandakuni",
+      "start": 402,
+      "end": 420,
+      "type": "person"
+    },
+    {
+      "para": "p022",
+      "text": "Mandakuni clan",
+      "start": 475,
+      "end": 489,
+      "type": "organization"
+    },
+    {
+      "para": "p022",
+      "text": "Awarayr",
+      "start": 493,
+      "end": 500,
+      "type": "location"
+    },
+    {
+      "para": "p022",
+      "text": "Sahak",
+      "start": 543,
+      "end": 548,
+      "type": "person"
+    },
+    {
+      "para": "p022",
+      "text": "rebellion",
+      "start": 732,
+      "end": 741,
+      "type": "event"
+    },
+    {
+      "para": "p023",
+      "text": "Gorgān",
+      "start": 26,
+      "end": 32,
+      "type": "location"
+    },
+    {
+      "para": "p023",
+      "text": "child captives",
+      "start": 38,
+      "end": 52,
+      "type": "person"
+    },
+    {
+      "para": "p023",
+      "text": "Armenia",
+      "start": 152,
+      "end": 159,
+      "type": "location"
+    },
+    {
+      "para": "p023",
+      "text": "captives",
+      "start": 186,
+      "end": 194,
+      "type": "person"
+    },
+    {
+      "para": "p023",
+      "text": "Khuzestan",
+      "start": 272,
+      "end": 281,
+      "type": "location"
+    },
+    {
+      "para": "p023",
+      "text": "southwestern Iran",
+      "start": 285,
+      "end": 302,
+      "type": "location"
+    },
+    {
+      "para": "p023",
+      "text": "Asorestan",
+      "start": 344,
+      "end": 353,
+      "type": "location"
+    },
+    {
+      "para": "p023",
+      "text": "court projects",
+      "start": 378,
+      "end": 392,
+      "type": "event"
+    },
+    {
+      "para": "p023",
+      "text": "Pērōz",
+      "start": 500,
+      "end": 505,
+      "type": "person"
+    },
+    {
+      "para": "p023",
+      "text": "AD 484",
+      "start": 517,
+      "end": 523,
+      "type": "event"
+    },
+    {
+      "para": "p023",
+      "text": "collapse",
+      "start": 533,
+      "end": 541,
+      "type": "event"
+    },
+    {
+      "para": "p023",
+      "text": "Sasanian power",
+      "start": 545,
+      "end": 559,
+      "type": "organization"
+    },
+    {
+      "para": "p023",
+      "text": "Khuzestan",
+      "start": 573,
+      "end": 582,
+      "type": "location"
+    },
+    {
+      "para": "p023",
+      "text": "Khodadad Rezakhani",
+      "start": 656,
+      "end": 674,
+      "type": "person"
+    },
+    {
+      "para": "p023",
+      "text": "Fars",
+      "start": 746,
+      "end": 750,
+      "type": "location"
+    },
+    {
+      "para": "p023",
+      "text": "Khuzestan",
+      "start": 753,
+      "end": 762,
+      "type": "location"
+    },
+    {
+      "para": "p023",
+      "text": "Castle of Oblivion",
+      "start": 1034,
+      "end": 1052,
+      "type": "location"
+    },
+    {
+      "para": "p023",
+      "text": "berd Anuš",
+      "start": 1055,
+      "end": 1064,
+      "type": "location"
+    },
+    {
+      "para": "p023",
+      "text": "Armenian kings",
+      "start": 1091,
+      "end": 1105,
+      "type": "person"
+    },
+    {
+      "para": "p023",
+      "text": "Aršak II",
+      "start": 1106,
+      "end": 1114,
+      "type": "person"
+    },
+    {
+      "para": "p023",
+      "text": "Xosrov IV",
+      "start": 1119,
+      "end": 1128,
+      "type": "person"
+    },
+    {
+      "para": "p023",
+      "text": "AD 367",
+      "start": 1144,
+      "end": 1150,
+      "type": "event"
+    },
+    {
+      "para": "p023",
+      "text": "Sasanian King of Kings",
+      "start": 1182,
+      "end": 1204,
+      "type": "organization"
+    },
+    {
+      "para": "p023",
+      "text": "Sasanian King of Kings Kawād I",
+      "start": 1182,
+      "end": 1212,
+      "type": "person"
+    },
+    {
+      "para": "p023",
+      "text": "Kawād I",
+      "start": 1205,
+      "end": 1212,
+      "type": "person"
+    },
+    {
+      "para": "p023",
+      "text": "AD 496",
+      "start": 1225,
+      "end": 1231,
+      "type": "event"
+    },
+    {
+      "para": "p023",
+      "text": "berd Anuš",
+      "start": 1308,
+      "end": 1317,
+      "type": "location"
+    },
+    {
+      "para": "p024",
+      "text": "Khuzestan",
+      "start": 16,
+      "end": 25,
+      "type": "location"
+    },
+    {
+      "para": "p024",
+      "text": "Vahan Mamikonean",
+      "start": 36,
+      "end": 52,
+      "type": "person",
+      "entity": "Q2085338"
+    },
+    {
+      "para": "p024",
+      "text": "Vasak",
+      "start": 75,
+      "end": 80,
+      "type": "person"
+    },
+    {
+      "para": "p024",
+      "text": "Artašēs",
+      "start": 85,
+      "end": 92,
+      "type": "person"
+    },
+    {
+      "para": "p024",
+      "text": "Kamsarakan family",
+      "start": 168,
+      "end": 185,
+      "type": "organization"
+    },
+    {
+      "para": "p024",
+      "text": "Bishop T",
+      "start": 192,
+      "end": 200,
+      "type": "person"
+    },
+    {
+      "para": "p024",
+      "text": "Basean",
+      "start": 210,
+      "end": 216,
+      "type": "location"
+    },
+    {
+      "para": "p024",
+      "text": "Łazar",
+      "start": 218,
+      "end": 223,
+      "type": "person"
+    },
+    {
+      "para": "p024",
+      "text": "Vasak Siwni",
+      "start": 253,
+      "end": 264,
+      "type": "person"
+    },
+    {
+      "para": "p024",
+      "text": "AD 450",
+      "start": 268,
+      "end": 274,
+      "type": "event"
+    },
+    {
+      "para": "p024",
+      "text": "Siwnik",
+      "start": 287,
+      "end": 293,
+      "type": "location"
+    },
+    {
+      "para": "p024",
+      "text": "Persian court",
+      "start": 320,
+      "end": 333,
+      "type": "organization"
+    },
+    {
+      "para": "p024",
+      "text": "Łazar",
+      "start": 637,
+      "end": 642,
+      "type": "person"
+    },
+    {
+      "para": "p024",
+      "text": "Vahan",
+      "start": 668,
+      "end": 673,
+      "type": "person"
+    },
+    {
+      "para": "p024",
+      "text": "AD 461",
+      "start": 742,
+      "end": 748,
+      "type": "event"
+    },
+    {
+      "para": "p025",
+      "text": "Mamikoneans",
+      "start": 39,
+      "end": 50,
+      "type": "organization"
+    },
+    {
+      "para": "p025",
+      "text": "AD 454/5",
+      "start": 65,
+      "end": 73,
+      "type": "event"
+    },
+    {
+      "para": "p025",
+      "text": "mother",
+      "start": 107,
+      "end": 113,
+      "type": "person"
+    },
+    {
+      "para": "p025",
+      "text": "Georgian nobleman",
+      "start": 134,
+      "end": 151,
+      "type": "person"
+    },
+    {
+      "para": "p025",
+      "text": "Gugark",
+      "start": 167,
+      "end": 173,
+      "type": "location"
+    },
+    {
+      "para": "p025",
+      "text": "Łazar P‘arpec‘i",
+      "start": 259,
+      "end": 274,
+      "type": "person"
+    },
+    {
+      "para": "p025",
+      "text": "most senior uncle",
+      "start": 421,
+      "end": 438,
+      "type": "person"
+    },
+    {
+      "para": "p025",
+      "text": "rebellion",
+      "start": 466,
+      "end": 475,
+      "type": "event"
+    },
+    {
+      "para": "p025",
+      "text": "surviving paternal uncle",
+      "start": 489,
+      "end": 513,
+      "type": "person"
+    },
+    {
+      "para": "p025",
+      "text": "Ašuša",
+      "start": 558,
+      "end": 563,
+      "type": "person"
+    },
+    {
+      "para": "p025",
+      "text": "Sasanian court",
+      "start": 598,
+      "end": 612,
+      "type": "organization"
+    },
+    {
+      "para": "p025",
+      "text": "rebellion",
+      "start": 626,
+      "end": 635,
+      "type": "event"
+    },
+    {
+      "para": "p025",
+      "text": "Persia",
+      "start": 729,
+      "end": 735,
+      "type": "location"
+    },
+    {
+      "para": "p026",
+      "text": "Łazar",
+      "start": 35,
+      "end": 40,
+      "type": "person"
+    },
+    {
+      "para": "p026",
+      "text": "Mihrnerseh",
+      "start": 292,
+      "end": 302,
+      "type": "person"
+    },
+    {
+      "para": "p026",
+      "text": "Yazdgerd",
+      "start": 305,
+      "end": 313,
+      "type": "person"
+    },
+    {
+      "para": "p026",
+      "text": "rebellion",
+      "start": 460,
+      "end": 469,
+      "type": "event"
+    },
+    {
+      "para": "p027",
+      "text": "royal court",
+      "start": 38,
+      "end": 49,
+      "type": "organization"
+    },
+    {
+      "para": "p027",
+      "text": "Parthian era",
+      "start": 94,
+      "end": 106,
+      "type": "event"
+    },
+    {
+      "para": "p027",
+      "text": "Sasanian period",
+      "start": 141,
+      "end": 156,
+      "type": "event"
+    },
+    {
+      "para": "p027",
+      "text": "Armenian troops",
+      "start": 191,
+      "end": 206,
+      "type": "organization"
+    },
+    {
+      "para": "p027",
+      "text": "Sasanian Empire",
+      "start": 214,
+      "end": 229,
+      "type": "organization"
+    },
+    {
+      "para": "p027",
+      "text": "Sasanian strategy",
+      "start": 284,
+      "end": 301,
+      "type": "event"
+    },
+    {
+      "para": "p027",
+      "text": "Armenian lords",
+      "start": 313,
+      "end": 327,
+      "type": "person"
+    },
+    {
+      "para": "p027",
+      "text": "central location",
+      "start": 395,
+      "end": 411,
+      "type": "location"
+    },
+    {
+      "para": "p027",
+      "text": "aggrievement",
+      "start": 417,
+      "end": 429,
+      "type": "event"
+    },
+    {
+      "para": "p027",
+      "text": "Armenian sources",
+      "start": 439,
+      "end": 455,
+      "type": "organization"
+    },
+    {
+      "para": "p027",
+      "text": "lords",
+      "start": 516,
+      "end": 521,
+      "type": "person"
+    },
+    {
+      "para": "p027",
+      "text": "threat",
+      "start": 593,
+      "end": 599,
+      "type": "event"
+    },
+    {
+      "para": "p027",
+      "text": "Hunnic confederacies",
+      "start": 603,
+      "end": 623,
+      "type": "organization"
+    },
+    {
+      "para": "p028",
+      "text": "Khuzestan",
+      "start": 96,
+      "end": 105,
+      "type": "location"
+    },
+    {
+      "para": "p028",
+      "text": "northern border",
+      "start": 114,
+      "end": 129,
+      "type": "location"
+    },
+    {
+      "para": "p028",
+      "text": "Khuzestan",
+      "start": 256,
+      "end": 265,
+      "type": "location"
+    },
+    {
+      "para": "p028",
+      "text": "Ełišē",
+      "start": 310,
+      "end": 315,
+      "type": "person"
+    },
+    {
+      "para": "p028",
+      "text": "Yazdgerd II",
+      "start": 334,
+      "end": 345,
+      "type": "person",
+      "entity": "Q310303"
+    },
+    {
+      "para": "p028",
+      "text": "Armenian elite",
+      "start": 390,
+      "end": 404,
+      "type": "organization"
+    },
+    {
+      "para": "p028",
+      "text": "Sakastan",
+      "start": 476,
+      "end": 484,
+      "type": "location"
+    },
+    {
+      "para": "p028",
+      "text": "Khuzestan",
+      "start": 524,
+      "end": 533,
+      "type": "location"
+    },
+    {
+      "para": "p028",
+      "text": "Yazdgerd",
+      "start": 560,
+      "end": 568,
+      "type": "person"
+    },
+    {
+      "para": "p028",
+      "text": "AD 424",
+      "start": 717,
+      "end": 723,
+      "type": "event"
+    },
+    {
+      "para": "p028",
+      "text": "Syriac Council of Mar Dadišo",
+      "start": 724,
+      "end": 752,
+      "type": "organization"
+    },
+    {
+      "para": "p028",
+      "text": "Domit",
+      "start": 807,
+      "end": 812,
+      "type": "person"
+    },
+    {
+      "para": "p028",
+      "text": "Domit ̣of the Captivity of Gorgān",
+      "start": 807,
+      "end": 840,
+      "type": "person"
+    },
+    {
+      "para": "p028",
+      "text": "Hatiṭ ạ of the captivity of Belašpar",
+      "start": 851,
+      "end": 887,
+      "type": "person"
+    },
+    {
+      "para": "p028",
+      "text": "William Wigram",
+      "start": 967,
+      "end": 981,
+      "type": "person"
+    },
+    {
+      "para": "p028",
+      "text": "Belašpar",
+      "start": 993,
+      "end": 1001,
+      "type": "person"
+    },
+    {
+      "para": "p028",
+      "text": "AD 420–1",
+      "start": 1046,
+      "end": 1054,
+      "type": "event"
+    },
+    {
+      "para": "p028",
+      "text": "Roman-Persian war",
+      "start": 1055,
+      "end": 1072,
+      "type": "event"
+    },
+    {
+      "para": "p028",
+      "text": "Khuzestan",
+      "start": 1088,
+      "end": 1097,
+      "type": "location"
+    },
+    {
+      "para": "p028",
+      "text": "Domit",
+      "start": 1123,
+      "end": 1128,
+      "type": "person"
+    },
+    {
+      "para": "p028",
+      "text": "bishop",
+      "start": 1187,
+      "end": 1193,
+      "type": "person"
+    },
+    {
+      "para": "p028",
+      "text": "Syriac canons",
+      "start": 1209,
+      "end": 1222,
+      "type": "organization"
+    },
+    {
+      "para": "p028",
+      "text": "communities",
+      "start": 1277,
+      "end": 1288,
+      "type": "organization"
+    },
+    {
+      "para": "p028",
+      "text": "adult men",
+      "start": 1319,
+      "end": 1328,
+      "type": "person"
+    },
+    {
+      "para": "p028",
+      "text": "Khuzestan",
+      "start": 1391,
+      "end": 1400,
+      "type": "location"
+    },
+    {
+      "para": "p028",
+      "text": "border",
+      "start": 1409,
+      "end": 1415,
+      "type": "location"
+    },
+    {
+      "para": "p028",
+      "text": "Caucasus",
+      "start": 1465,
+      "end": 1473,
+      "type": "location"
+    },
+    {
+      "para": "p029",
+      "text": "Christian clerics",
+      "start": 71,
+      "end": 88,
+      "type": "organization"
+    },
+    {
+      "para": "p029",
+      "text": "Nishapur",
+      "start": 180,
+      "end": 188,
+      "type": "location"
+    },
+    {
+      "para": "p029",
+      "text": "Yazdgerd",
+      "start": 202,
+      "end": 210,
+      "type": "person"
+    },
+    {
+      "para": "p029",
+      "text": "Vardgēs",
+      "start": 250,
+      "end": 257,
+      "type": "location"
+    },
+    {
+      "para": "p029",
+      "text": "Nishapur",
+      "start": 263,
+      "end": 271,
+      "type": "location"
+    },
+    {
+      "para": "p029",
+      "text": "Nishapur",
+      "start": 289,
+      "end": 297,
+      "type": "location"
+    },
+    {
+      "para": "p029",
+      "text": "Khuzestan group",
+      "start": 377,
+      "end": 392,
+      "type": "organization"
+    },
+    {
+      "para": "p029",
+      "text": "beheaded",
+      "start": 397,
+      "end": 405,
+      "type": "event"
+    },
+    {
+      "para": "p029",
+      "text": "Sasanian court",
+      "start": 413,
+      "end": 427,
+      "type": "organization"
+    },
+    {
+      "para": "p029",
+      "text": "Sasanian court",
+      "start": 413,
+      "end": 427,
+      "type": "location"
+    },
+    {
+      "para": "p029",
+      "text": "execution",
+      "start": 433,
+      "end": 442,
+      "type": "event"
+    },
+    {
+      "para": "p029",
+      "text": "clerics",
+      "start": 446,
+      "end": 453,
+      "type": "person"
+    },
+    {
+      "para": "p029",
+      "text": "fifth-century executions",
+      "start": 506,
+      "end": 530,
+      "type": "event"
+    },
+    {
+      "para": "p030",
+      "text": "Łazar",
+      "start": 119,
+      "end": 124,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Ełišē",
+      "start": 129,
+      "end": 134,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Xorēn of Orkovi",
+      "start": 148,
+      "end": 163,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Abraham of Zenakk",
+      "start": 168,
+      "end": 185,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Nishapur",
+      "start": 199,
+      "end": 207,
+      "type": "location"
+    },
+    {
+      "para": "p030",
+      "text": "executioners",
+      "start": 225,
+      "end": 237,
+      "type": "organization"
+    },
+    {
+      "para": "p030",
+      "text": "executed",
+      "start": 260,
+      "end": 268,
+      "type": "event"
+    },
+    {
+      "para": "p030",
+      "text": "Šap‘ul/Šahul",
+      "start": 373,
+      "end": 385,
+      "type": "location"
+    },
+    {
+      "para": "p030",
+      "text": "Ter-Minasean",
+      "start": 393,
+      "end": 405,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Bishapur",
+      "start": 420,
+      "end": 428,
+      "type": "location"
+    },
+    {
+      "para": "p030",
+      "text": "Fars",
+      "start": 432,
+      "end": 436,
+      "type": "location"
+    },
+    {
+      "para": "p030",
+      "text": "Abraham",
+      "start": 444,
+      "end": 451,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Armenia",
+      "start": 464,
+      "end": 471,
+      "type": "location"
+    },
+    {
+      "para": "p030",
+      "text": "Asorestan’s Christians",
+      "start": 492,
+      "end": 514,
+      "type": "organization"
+    },
+    {
+      "para": "p030",
+      "text": "AD 463/4",
+      "start": 518,
+      "end": 526,
+      "type": "event"
+    },
+    {
+      "para": "p030",
+      "text": "Łazar",
+      "start": 578,
+      "end": 583,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Ełišē",
+      "start": 611,
+      "end": 616,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Bznuni",
+      "start": 621,
+      "end": 627,
+      "type": "location"
+    },
+    {
+      "para": "p030",
+      "text": "Xorēn",
+      "start": 666,
+      "end": 671,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Ełišē",
+      "start": 710,
+      "end": 715,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Persian Gulf",
+      "start": 797,
+      "end": 809,
+      "type": "location"
+    },
+    {
+      "para": "p030",
+      "text": "priests",
+      "start": 829,
+      "end": 836,
+      "type": "organization"
+    },
+    {
+      "para": "p030",
+      "text": "Nishapur",
+      "start": 881,
+      "end": 889,
+      "type": "location"
+    },
+    {
+      "para": "p030",
+      "text": "executions",
+      "start": 905,
+      "end": 915,
+      "type": "event"
+    },
+    {
+      "para": "p030",
+      "text": "Łazar",
+      "start": 1002,
+      "end": 1007,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Xorēn",
+      "start": 1018,
+      "end": 1023,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Abraham",
+      "start": 1028,
+      "end": 1035,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "Nishapur",
+      "start": 1161,
+      "end": 1169,
+      "type": "location"
+    },
+    {
+      "para": "p030",
+      "text": "captivity",
+      "start": 1194,
+      "end": 1203,
+      "type": "location"
+    },
+    {
+      "para": "p030",
+      "text": "arbanekel noc",
+      "start": 1206,
+      "end": 1219,
+      "type": "person"
+    },
+    {
+      "para": "p030",
+      "text": "spasaworel i kapansn",
+      "start": 1225,
+      "end": 1245,
+      "type": "organization"
+    },
+    {
+      "para": "p030",
+      "text": "punishment",
+      "start": 1304,
+      "end": 1314,
+      "type": "event"
+    },
+    {
+      "para": "p031",
+      "text": "rebellion",
+      "start": 78,
+      "end": 87,
+      "type": "event"
+    },
+    {
+      "para": "p031",
+      "text": "Zoroastrians",
+      "start": 163,
+      "end": 175,
+      "type": "organization"
+    },
+    {
+      "para": "p031",
+      "text": "Vardgēs",
+      "start": 189,
+      "end": 196,
+      "type": "location"
+    },
+    {
+      "para": "p031",
+      "text": "Aštišat",
+      "start": 240,
+      "end": 247,
+      "type": "location"
+    },
+    {
+      "para": "p031",
+      "text": "Ełišē",
+      "start": 339,
+      "end": 344,
+      "type": "location"
+    },
+    {
+      "para": "p031",
+      "text": "Łewond",
+      "start": 361,
+      "end": 367,
+      "type": "person"
+    },
+    {
+      "para": "p031",
+      "text": "Łewondeank",
+      "start": 411,
+      "end": 421,
+      "type": "organization"
+    },
+    {
+      "para": "p031",
+      "text": "Zoroastrian priests",
+      "start": 477,
+      "end": 496,
+      "type": "organization"
+    },
+    {
+      "para": "p031",
+      "text": "Angł",
+      "start": 509,
+      "end": 513,
+      "type": "location"
+    },
+    {
+      "para": "p031",
+      "text": "Yovsēp",
+      "start": 531,
+      "end": 537,
+      "type": "person"
+    },
+    {
+      "para": "p031",
+      "text": "Awarayr",
+      "start": 563,
+      "end": 570,
+      "type": "location"
+    },
+    {
+      "para": "p031",
+      "text": "Ełišē",
+      "start": 572,
+      "end": 577,
+      "type": "person"
+    },
+    {
+      "para": "p031",
+      "text": "Yazdgerd",
+      "start": 628,
+      "end": 636,
+      "type": "person"
+    },
+    {
+      "para": "p031",
+      "text": "Kidarites",
+      "start": 667,
+      "end": 676,
+      "type": "organization"
+    },
+    {
+      "para": "p031",
+      "text": "Christian priests",
+      "start": 696,
+      "end": 713,
+      "type": "organization"
+    },
+    {
+      "para": "p031",
+      "text": "marzpet",
+      "start": 802,
+      "end": 809,
+      "type": "person"
+    },
+    {
+      "para": "p032",
+      "text": "Asorestan",
+      "start": 28,
+      "end": 37,
+      "type": "location"
+    },
+    {
+      "para": "p032",
+      "text": "T‘at‘ik",
+      "start": 40,
+      "end": 47,
+      "type": "person"
+    },
+    {
+      "para": "p032",
+      "text": "Basean",
+      "start": 51,
+      "end": 57,
+      "type": "location"
+    },
+    {
+      "para": "p032",
+      "text": "Sasanian authority",
+      "start": 116,
+      "end": 134,
+      "type": "organization"
+    },
+    {
+      "para": "p032",
+      "text": "Łewondeank",
+      "start": 164,
+      "end": 174,
+      "type": "organization"
+    },
+    {
+      "para": "p032",
+      "text": "executions",
+      "start": 235,
+      "end": 245,
+      "type": "event"
+    },
+    {
+      "para": "p032",
+      "text": "T‘at‘ik",
+      "start": 373,
+      "end": 380,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Alasdair Grant",
+      "start": 36,
+      "end": 50,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Armenian clergy",
+      "start": 66,
+      "end": 81,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Islamic world",
+      "start": 89,
+      "end": 102,
+      "type": "location"
+    },
+    {
+      "para": "p033",
+      "text": "Egypt",
+      "start": 150,
+      "end": 155,
+      "type": "location"
+    },
+    {
+      "para": "p033",
+      "text": "West Syria",
+      "start": 160,
+      "end": 170,
+      "type": "location"
+    },
+    {
+      "para": "p033",
+      "text": "upper echelons of the clergy",
+      "start": 202,
+      "end": 230,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Christian rebels",
+      "start": 261,
+      "end": 277,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Armenia",
+      "start": 344,
+      "end": 351,
+      "type": "location"
+    },
+    {
+      "para": "p033",
+      "text": "rebellions of the fifth century",
+      "start": 442,
+      "end": 473,
+      "type": "event"
+    },
+    {
+      "para": "p033",
+      "text": "Sasanian diplomacy",
+      "start": 535,
+      "end": 553,
+      "type": "event"
+    },
+    {
+      "para": "p033",
+      "text": "Armenian church",
+      "start": 621,
+      "end": 636,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Yazdgerd II",
+      "start": 728,
+      "end": 739,
+      "type": "person",
+      "entity": "Q310303"
+    },
+    {
+      "para": "p033",
+      "text": "Yazdgerd I",
+      "start": 754,
+      "end": 764,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Wahrām V",
+      "start": 814,
+      "end": 822,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "AD 420–38",
+      "start": 827,
+      "end": 836,
+      "type": "event"
+    },
+    {
+      "para": "p033",
+      "text": "Armenian Church",
+      "start": 872,
+      "end": 887,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Armenian clergy",
+      "start": 1005,
+      "end": 1020,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Sasanian administration",
+      "start": 1059,
+      "end": 1082,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Catholicos Yovsēp",
+      "start": 1101,
+      "end": 1118,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Sasanian authorities",
+      "start": 1157,
+      "end": 1177,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Ełišē",
+      "start": 1179,
+      "end": 1184,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Yovsēp",
+      "start": 1195,
+      "end": 1201,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Ayrarat",
+      "start": 1216,
+      "end": 1223,
+      "type": "location"
+    },
+    {
+      "para": "p033",
+      "text": "Łazar",
+      "start": 1251,
+      "end": 1256,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Yovsēp",
+      "start": 1321,
+      "end": 1327,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Council of Šahapivan",
+      "start": 1347,
+      "end": 1367,
+      "type": "event"
+    },
+    {
+      "para": "p033",
+      "text": "David Zakarian",
+      "start": 1375,
+      "end": 1389,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "East Syriac Church",
+      "start": 1449,
+      "end": 1467,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "world",
+      "start": 1581,
+      "end": 1586,
+      "type": "location"
+    },
+    {
+      "para": "p033",
+      "text": "bishops",
+      "start": 1588,
+      "end": 1595,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "rebellions",
+      "start": 1653,
+      "end": 1663,
+      "type": "event"
+    },
+    {
+      "para": "p033",
+      "text": "rebellions of the fifth century",
+      "start": 1653,
+      "end": 1684,
+      "type": "event"
+    },
+    {
+      "para": "p033",
+      "text": "Armenian clerics",
+      "start": 1695,
+      "end": 1711,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "nobility",
+      "start": 1725,
+      "end": 1733,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Yazdgerd II",
+      "start": 1774,
+      "end": 1785,
+      "type": "person",
+      "entity": "Q310303"
+    },
+    {
+      "para": "p033",
+      "text": "Albanian king",
+      "start": 1862,
+      "end": 1875,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Huns",
+      "start": 1909,
+      "end": 1913,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Armenian noblemen",
+      "start": 1915,
+      "end": 1932,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Roman emperor",
+      "start": 1950,
+      "end": 1963,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Theodosius II",
+      "start": 1964,
+      "end": 1977,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Ełišē",
+      "start": 1983,
+      "end": 1988,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Persian captive",
+      "start": 2001,
+      "end": 2016,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "Yazdgerd",
+      "start": 2050,
+      "end": 2058,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "rebellion of AD 482–4",
+      "start": 2120,
+      "end": 2141,
+      "type": "event"
+    },
+    {
+      "para": "p033",
+      "text": "secular nobles",
+      "start": 2178,
+      "end": 2192,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Armenian diplomacy",
+      "start": 2305,
+      "end": 2323,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Vasak Siwni",
+      "start": 2347,
+      "end": 2358,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "rebellion",
+      "start": 2395,
+      "end": 2404,
+      "type": "event"
+    },
+    {
+      "para": "p033",
+      "text": "priests",
+      "start": 2416,
+      "end": 2423,
+      "type": "person"
+    },
+    {
+      "para": "p033",
+      "text": "rebels",
+      "start": 2486,
+      "end": 2492,
+      "type": "organization"
+    },
+    {
+      "para": "p033",
+      "text": "Sasanians",
+      "start": 2548,
+      "end": 2557,
+      "type": "organization"
+    },
+    {
+      "para": "p034",
+      "text": "Sasanian Empire",
+      "start": 16,
+      "end": 31,
+      "type": "organization"
+    },
+    {
+      "para": "p034",
+      "text": "Vardan",
+      "start": 65,
+      "end": 71,
+      "type": "person"
+    },
+    {
+      "para": "p034",
+      "text": "rebellion",
+      "start": 74,
+      "end": 83,
+      "type": "event"
+    },
+    {
+      "para": "p034",
+      "text": "Khuzestan",
+      "start": 190,
+      "end": 199,
+      "type": "location"
+    },
+    {
+      "para": "p034",
+      "text": "captivity",
+      "start": 388,
+      "end": 397,
+      "type": "event"
+    },
+    {
+      "para": "p034",
+      "text": "northern border",
+      "start": 441,
+      "end": 456,
+      "type": "location"
+    },
+    {
+      "para": "p034",
+      "text": "empire",
+      "start": 512,
+      "end": 518,
+      "type": "location"
+    },
+    {
+      "para": "p034",
+      "text": "east",
+      "start": 521,
+      "end": 525,
+      "type": "location"
+    },
+    {
+      "para": "p034",
+      "text": "Sasanians",
+      "start": 542,
+      "end": 551,
+      "type": "person"
+    },
+    {
+      "para": "p034",
+      "text": "Sasanian",
+      "start": 667,
+      "end": 675,
+      "type": "person"
+    },
+    {
+      "para": "p034",
+      "text": "rebellion",
+      "start": 693,
+      "end": 702,
+      "type": "event"
+    },
+    {
+      "para": "p034",
+      "text": "empire",
+      "start": 761,
+      "end": 767,
+      "type": "location"
+    },
+    {
+      "para": "p035",
+      "text": "captivity",
+      "start": 5,
+      "end": 14,
+      "type": "event"
+    },
+    {
+      "para": "p035",
+      "text": "execution",
+      "start": 19,
+      "end": 28,
+      "type": "event"
+    },
+    {
+      "para": "p035",
+      "text": "captives",
+      "start": 69,
+      "end": 77,
+      "type": "person"
+    },
+    {
+      "para": "p035",
+      "text": "clans",
+      "start": 96,
+      "end": 101,
+      "type": "organization"
+    },
+    {
+      "para": "p035",
+      "text": "rebellion",
+      "start": 139,
+      "end": 148,
+      "type": "event"
+    },
+    {
+      "para": "p035",
+      "text": "recorded executions",
+      "start": 154,
+      "end": 173,
+      "type": "event"
+    },
+    {
+      "para": "p035",
+      "text": "priests",
+      "start": 195,
+      "end": 202,
+      "type": "person"
+    },
+    {
+      "para": "p035",
+      "text": "Armenian Christians",
+      "start": 364,
+      "end": 383,
+      "type": "organization"
+    },
+    {
+      "para": "p035",
+      "text": "Sasanian court",
+      "start": 392,
+      "end": 406,
+      "type": "organization"
+    },
+    {
+      "para": "p035",
+      "text": "rebellion",
+      "start": 537,
+      "end": 546,
+      "type": "event"
+    },
+    {
+      "para": "p035",
+      "text": "AD 482",
+      "start": 564,
+      "end": 570,
+      "type": "event"
+    },
+    {
+      "para": "p035",
+      "text": "AD 451",
+      "start": 618,
+      "end": 624,
+      "type": "event"
+    },
+    {
+      "para": "p035",
+      "text": "Hunnic border",
+      "start": 630,
+      "end": 643,
+      "type": "location"
+    },
+    {
+      "para": "p035",
+      "text": "rebellion",
+      "start": 675,
+      "end": 684,
+      "type": "event"
+    },
+    {
+      "para": "p035",
+      "text": "Sasanians",
+      "start": 730,
+      "end": 739,
+      "type": "organization"
+    },
+    {
+      "para": "p035",
+      "text": "Pērōz",
+      "start": 744,
+      "end": 749,
+      "type": "person"
+    },
+    {
+      "para": "p035",
+      "text": "Hephthalite Huns",
+      "start": 764,
+      "end": 780,
+      "type": "organization"
+    },
+    {
+      "para": "p035",
+      "text": "Tokharistan",
+      "start": 784,
+      "end": 795,
+      "type": "location"
+    },
+    {
+      "para": "p035",
+      "text": "Walāxš",
+      "start": 814,
+      "end": 820,
+      "type": "person"
+    }
+  ],
+  "facts": [
+    {
+      "para": "p001",
+      "subj": "Q310303",
+      "rel": "was_rebelled_against_by",
+      "obj": "local_a82484364476da",
+      "evidence_quote": "the AD 450–1 Armenian rebellion against Sasanian King Yazdgerd II"
+    },
+    {
+      "para": "p001",
+      "subj": "local_0ce8911e1482ec",
+      "rel": "delineated_between_the_treatment_of",
+      "obj": "local_b2602db8401cec",
+      "evidence_quote": "Sasanian authorities carefully delineated between the treatment of children, secular nobility, and Christian clerics"
+    },
+    {
+      "para": "p003",
+      "subj": "local_a82484364476da",
+      "rel": "was_crushed_by",
+      "obj": "local_41ad2687132d47",
+      "evidence_quote": "an Armenian rebellion was crushed by Sasanian forces"
+    },
+    {
+      "para": "p003",
+      "subj": "local_41ad2687132d47",
+      "rel": "crushed",
+      "obj": "local_a82484364476da",
+      "evidence_quote": "an Armenian rebellion was crushed by Sasanian forces"
+    },
+    {
+      "para": "p003",
+      "subj": "Q310303",
+      "rel": "attempted_to_convert",
+      "obj": "local_4a28888444bf5e",
+      "evidence_quote": "attempts by Yazdgerd II (r. AD 438–57) to convert the Armenian nobility"
+    },
+    {
+      "para": "p003",
+      "subj": "local_ebfe338b24d561",
+      "rel": "canonised",
+      "obj": "Q1280744",
+      "evidence_quote": "rebel leader Vardan Mamikonean and many of his allies, who were canonised by the Armenian Church"
+    },
+    {
+      "para": "p003",
+      "subj": "local_ebfe338b24d561",
+      "rel": "canonised",
+      "obj": "local_c19ff2cfd53ba9",
+      "evidence_quote": "rebel leader Vardan Mamikonean and many of his allies, who were canonised by the Armenian Church"
+    },
+    {
+      "para": "p004",
+      "subj": "local_6854251a5d12a4",
+      "rel": "includes",
+      "obj": "local_7f92f0125b746f",
+      "evidence_quote": "Łazar P‘arpec‘i includes two groups of captives"
+    },
+    {
+      "para": "p005",
+      "subj": "local_c914d55305f769",
+      "rel": "records",
+      "obj": "local_bc1c3fef65ef1d",
+      "evidence_quote": "Ełišē, only records the captives sent to Gorgān"
+    },
+    {
+      "para": "p005",
+      "subj": "local_ec22b1931a30fc",
+      "rel": "concludes",
+      "obj": "local_429205d3300ba4",
+      "evidence_quote": "Robert Thomson’s conclusion (following Akinean and Kiwlēsērean) that Ełišē wrote in the sixth century at the earliest"
+    },
+    {
+      "para": "p006",
+      "subj": "local_c914d55305f769",
+      "rel": "adds",
+      "obj": "local_aedefa9e49ea47",
+      "evidence_quote": "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni"
+    },
+    {
+      "para": "p006",
+      "subj": "local_c914d55305f769",
+      "rel": "adds",
+      "obj": "local_11b58b88d74f85",
+      "evidence_quote": "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni, Nerseh"
+    },
+    {
+      "para": "p006",
+      "subj": "local_c914d55305f769",
+      "rel": "adds",
+      "obj": "local_4f1852509c67a7",
+      "evidence_quote": "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni, Nerseh and Ašot Kamsarakan"
+    },
+    {
+      "para": "p006",
+      "subj": "local_c914d55305f769",
+      "rel": "adds",
+      "obj": "local_7b1935fc3652cc",
+      "evidence_quote": "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni, Nerseh and Ašot Kamsarakan, and Zuarēn Anjewac‘i"
+    },
+    {
+      "para": "p006",
+      "subj": "local_ec22b1931a30fc",
+      "rel": "elides",
+      "obj": "local_20cbc616930710",
+      "evidence_quote": "A jump omission in Robert Thomson’s English translation elides the Aṙawełean family"
+    },
+    {
+      "para": "p006",
+      "subj": "local_ec22b1931a30fc",
+      "rel": "fuses",
+      "obj": "local_24bca40e2e2a72",
+      "evidence_quote": "A jump omission in Robert Thomson’s English translation elides the Aṙawełean family, fusing Aṙawan Anjewac‘i and Dat Aṙawełean into Dat Anjewac‘i"
+    },
+    {
+      "para": "p006",
+      "subj": "local_ec22b1931a30fc",
+      "rel": "fuses",
+      "obj": "local_c17006fcd0463b",
+      "evidence_quote": "A jump omission in Robert Thomson’s English translation elides the Aṙawełean family, fusing Aṙawan Anjewac‘i and Dat Aṙawełean into Dat Anjewac‘i"
+    },
+    {
+      "para": "p007",
+      "subj": "Q1280744",
+      "rel": "served",
+      "obj": "local_a8200508c20849",
+      "evidence_quote": "Vardan Mamikonean had himself served the Persians in campaigns"
+    },
+    {
+      "para": "p007",
+      "subj": "local_d5ec3f64533613",
+      "rel": "highlighted_a_campaign_at",
+      "obj": "local_106bfc890eab9f",
+      "evidence_quote": "with Łazar highlighting a campaign at Marw-ī-Rōd"
+    },
+    {
+      "para": "p007",
+      "subj": "local_d5ec3f64533613",
+      "rel": "claims",
+      "obj": "local_69f3992ee07533",
+      "evidence_quote": "Łazar claims they captives did not return to their lands until AD 464/5"
+    },
+    {
+      "para": "p007",
+      "subj": "local_c914d55305f769",
+      "rel": "held",
+      "obj": "local_eb875812858d27",
+      "evidence_quote": "while Ełišē held some returned the year before"
+    },
+    {
+      "para": "p007",
+      "subj": "local_b83315c0ca5c29",
+      "rel": "returned_to",
+      "obj": "local_4e486b4f86520b",
+      "evidence_quote": "The Khuzestan captives meanwhile returned to Armenia in AD 454/5"
+    },
+    {
+      "para": "p007",
+      "subj": "local_47d75939a963c5",
+      "rel": "were_used_to_prosecute_military_objectives_against",
+      "obj": "local_873b7dd6f5f321",
+      "evidence_quote": "the first group were imprisoned, in contrast, suggest they were used to prosecute military objectives against the Kidarite Hun confederacy"
+    },
+    {
+      "para": "p008",
+      "subj": "local_56913cf8976dc4",
+      "rel": "was_taken_from",
+      "obj": "local_30b2a91ceb60fc",
+      "evidence_quote": "Babgēn and Bakur – taken from the Siwni family"
+    },
+    {
+      "para": "p008",
+      "subj": "local_29e2331915a995",
+      "rel": "was_taken_from",
+      "obj": "local_30b2a91ceb60fc",
+      "evidence_quote": "Babgēn and Bakur – taken from the Siwni family"
+    },
+    {
+      "para": "p008",
+      "subj": "local_c914d55305f769",
+      "rel": "included",
+      "obj": "local_800ffdc52257ac",
+      "evidence_quote": "Ełišē included them in a vision alongside Vardan himself"
+    },
+    {
+      "para": "p008",
+      "subj": "local_3022dd52b5d36f",
+      "rel": "was_removed_as",
+      "obj": "local_b9edbd8abad8e6",
+      "evidence_quote": "Vasak Siwni’s removal as Armenia’s leading noble"
+    },
+    {
+      "para": "p008",
+      "subj": "local_56913cf8976dc4",
+      "rel": "was_the_same_person_as",
+      "obj": "local_c239a83229e9a8",
+      "evidence_quote": "Babgēn was the same person as Babik Siwni"
+    },
+    {
+      "para": "p008",
+      "subj": "local_c239a83229e9a8",
+      "rel": "was_a_son_of",
+      "obj": "local_86e16aed581418",
+      "evidence_quote": "Babik Siwni, a son of Vasak"
+    },
+    {
+      "para": "p008",
+      "subj": "local_c239a83229e9a8",
+      "rel": "was_retained_at",
+      "obj": "local_b36f19bd02dd6f",
+      "evidence_quote": "Babik Siwni, a son of Vasak who had been retained at Ctesiphon"
+    },
+    {
+      "para": "p009",
+      "subj": "local_c32af63c0857c4",
+      "rel": "promoted",
+      "obj": "local_d806040706994b",
+      "evidence_quote": "the Sasanians prioritised promoting Zoroastrian Armenian nobles"
+    },
+    {
+      "para": "p009",
+      "subj": "local_4400e29e242038",
+      "rel": "estimated",
+      "obj": "local_4a28888444bf5e",
+      "evidence_quote": "İlhami Cinemre estimated that only at most half the Armenian nobility were Christian"
+    },
+    {
+      "para": "p009",
+      "subj": "local_c85f003502c720",
+      "rel": "was_abolished",
+      "obj": "local_b3eb4823a8435c",
+      "evidence_quote": "Armenian Arsacid royal family (abolished AD 428)"
+    },
+    {
+      "para": "p009",
+      "subj": "local_d5ec3f64533613",
+      "rel": "complains_that",
+      "obj": "Q3553280",
+      "evidence_quote": "Łazar complains that Vahan Mamikonean was unable to gain prestige"
+    },
+    {
+      "para": "p009",
+      "subj": "Q3553280",
+      "rel": "was_unable_to_gain_prestige_due_to",
+      "obj": "local_8e7f54fd478754",
+      "evidence_quote": "Vahan Mamikonean was unable to gain prestige even by apostatising due to his clan’s rebellious reputation"
+    },
+    {
+      "para": "p009",
+      "subj": "Q1280744",
+      "rel": "is_father_in_law_of",
+      "obj": "local_75fd60ece86b68",
+      "evidence_quote": "Vardan Mamikonean’s son-in-law – the Georgian bdeašx Vazgen"
+    },
+    {
+      "para": "p009",
+      "subj": "local_75fd60ece86b68",
+      "rel": "is_depicted_as_converting_in",
+      "obj": "local_45cd4d1dfc8d3c",
+      "evidence_quote": "Vazgen – is depicted as converting for social advancement in the Life of his wife, Šušanik"
+    },
+    {
+      "para": "p009",
+      "subj": "local_d5ec3f64533613",
+      "rel": "highlights",
+      "obj": "local_b29a9ed3db05fc",
+      "evidence_quote": "Łazar highlights Gadišo Xorxoṙuni as the leading Zoroastrian magnate"
+    },
+    {
+      "para": "p009",
+      "subj": "local_b29a9ed3db05fc",
+      "rel": "is_leading_zoroastrian_magnate_of",
+      "obj": "local_4e486b4f86520b",
+      "evidence_quote": "Gadišo Xorxoṙuni as the leading Zoroastrian magnate of Armenia"
+    },
+    {
+      "para": "p009",
+      "subj": "local_6b30b3696962c3",
+      "rel": "call",
+      "obj": "local_082ef6d88447bd",
+      "evidence_quote": "Christiane Harzig and Dirk Hoerder call the ‘trans-local family’ structure"
+    },
+    {
+      "para": "p009",
+      "subj": "local_3cc221bb804737",
+      "rel": "call",
+      "obj": "local_082ef6d88447bd",
+      "evidence_quote": "Christiane Harzig and Dirk Hoerder call the ‘trans-local family’ structure"
+    },
+    {
+      "para": "p010",
+      "subj": "local_bf995ebbcb0ef5",
+      "rel": "identified",
+      "obj": "local_8c6a61f167d6ad",
+      "evidence_quote": "Hewsen identified only three noble families (Ṙop‘sean, Słkuni, and Ǝnc‘ayac‘i)"
+    },
+    {
+      "para": "p010",
+      "subj": "local_bf995ebbcb0ef5",
+      "rel": "identified",
+      "obj": "local_9abfc29634259f",
+      "evidence_quote": "Hewsen identified only three noble families (Ṙop‘sean, Słkuni, and Ǝnc‘ayac‘i)"
+    },
+    {
+      "para": "p010",
+      "subj": "local_bf995ebbcb0ef5",
+      "rel": "identified",
+      "obj": "local_a24fc3e8f40a2c",
+      "evidence_quote": "Hewsen identified only three noble families (Ṙop‘sean, Słkuni, and Ǝnc‘ayac‘i)"
+    },
+    {
+      "para": "p010",
+      "subj": "local_6591e7661b8c4c",
+      "rel": "died_out",
+      "obj": "local_eb92da7a33fa55",
+      "evidence_quote": "Mandakuni family (whose last attested kinsman died in AD 490)"
+    },
+    {
+      "para": "p011",
+      "subj": "local_d5ec3f64533613",
+      "rel": "identified",
+      "obj": "local_0c7d61eaa5f3cc",
+      "evidence_quote": "Łazar identified the other group as children"
+    },
+    {
+      "para": "p011",
+      "subj": "local_d5ec3f64533613",
+      "rel": "referred_to",
+      "obj": "local_f1866f43803080",
+      "evidence_quote": "Łazar referred to ‘the young, imprisoned nobles’"
+    },
+    {
+      "para": "p011",
+      "subj": "local_d5ec3f64533613",
+      "rel": "referred_to",
+      "obj": "local_c51d52172fc455",
+      "evidence_quote": "Łazar referred to ‘the young, imprisoned nobles’ (manktwoy kapeloc‘ naxararac‘n) and ‘the young, imprisoned priests’"
+    },
+    {
+      "para": "p011",
+      "subj": "local_c914d55305f769",
+      "rel": "juxtaposes",
+      "obj": "local_c6079b7b4cd8ad",
+      "evidence_quote": "Ełišē juxtaposes the ‘very young’ (managoyn) and eldest (ceragoyn) captives"
+    },
+    {
+      "para": "p011",
+      "subj": "local_c914d55305f769",
+      "rel": "juxtaposes",
+      "obj": "local_856bf8ffc9a116",
+      "evidence_quote": "Ełišē juxtaposes the ‘very young’ (managoyn) and eldest (ceragoyn) captives"
+    },
+    {
+      "para": "p012",
+      "subj": "local_c914d55305f769",
+      "rel": "claims",
+      "obj": "local_a892a078835681",
+      "evidence_quote": "Ełišē claims that the Armenian nobility initially arraigned to the Persian court willingly"
+    },
+    {
+      "para": "p012",
+      "subj": "local_a892a078835681",
+      "rel": "arraigned_to",
+      "obj": "local_1a17ad24a0f43c",
+      "evidence_quote": "the Armenian nobility initially arraigned to the Persian court willingly"
+    },
+    {
+      "para": "p012",
+      "subj": "local_a892a078835681",
+      "rel": "brought",
+      "obj": "local_edbf84a22db86e",
+      "evidence_quote": "the Armenian nobility initially arraigned to the Persian court willingly and brought their wives and children with them"
+    },
+    {
+      "para": "p012",
+      "subj": "local_d5ec3f64533613",
+      "rel": "does_not_mention",
+      "obj": "local_04d585941935c4",
+      "evidence_quote": "Łazar’s far less positive account of the same incident does not mention women or children"
+    },
+    {
+      "para": "p012",
+      "subj": "local_d5ec3f64533613",
+      "rel": "claims",
+      "obj": "local_5b403eb333785b",
+      "evidence_quote": "Łazar even claims that three of the arraigned lords he identified did not see captivity"
+    },
+    {
+      "para": "p012",
+      "subj": "local_d5ec3f64533613",
+      "rel": "identified",
+      "obj": "local_5b403eb333785b",
+      "evidence_quote": "Łazar even claims that three of the arraigned lords he identified did not see captivity"
+    },
+    {
+      "para": "p012",
+      "subj": "local_5b403eb333785b",
+      "rel": "did_not_see",
+      "obj": "local_4b83f50af9cc88",
+      "evidence_quote": "three of the arraigned lords he identified did not see captivity"
+    },
+    {
+      "para": "p012",
+      "subj": "local_d5ec3f64533613",
+      "rel": "claims",
+      "obj": "local_4482fcacea7af7",
+      "evidence_quote": "Łazar even claims that three of the arraigned lords he identified did not see captivity, nor were any of their relatives taken to Gorgān"
+    },
+    {
+      "para": "p012",
+      "subj": "local_4482fcacea7af7",
+      "rel": "were_taken_to",
+      "obj": "local_fd819372827620",
+      "evidence_quote": "nor were any of their relatives taken to Gorgān"
+    },
+    {
+      "para": "p013",
+      "subj": "local_8650cb7f774bb2",
+      "rel": "is_identified_as",
+      "obj": "local_f540dab655fada",
+      "evidence_quote": "Nerseh Kamsarakan, may be identified as the future lord Nerseh of Širak"
+    },
+    {
+      "para": "p013",
+      "subj": "local_f540dab655fada",
+      "rel": "is_son_of",
+      "obj": "local_9d57d27fabde59",
+      "evidence_quote": "lord Nerseh of Širak, son of fellow captive Aršawir Kamsarakan"
+    },
+    {
+      "para": "p013",
+      "subj": "local_d5ec3f64533613",
+      "rel": "had_a_close_relationship_with",
+      "obj": "local_11b58b88d74f85",
+      "evidence_quote": "Łazar had a close relationship with Nerseh"
+    },
+    {
+      "para": "p013",
+      "subj": "local_d5ec3f64533613",
+      "rel": "lived_with",
+      "obj": "local_11b58b88d74f85",
+      "evidence_quote": "Łazar lived with Nerseh and his brother Hrahat"
+    },
+    {
+      "para": "p013",
+      "subj": "local_d5ec3f64533613",
+      "rel": "lived_with",
+      "obj": "local_1fba4d5ada5ccc",
+      "evidence_quote": "Łazar lived with Nerseh and his brother Hrahat"
+    },
+    {
+      "para": "p014",
+      "subj": "local_11b58b88d74f85",
+      "rel": "was_present_at",
+      "obj": "local_67e1e3182f98a9",
+      "evidence_quote": "claims Nerseh was present at the Sasanian capture of Balkh"
+    },
+    {
+      "para": "p014",
+      "subj": "local_1473eee7fa3d28",
+      "rel": "fought_against",
+      "obj": "local_97b4446bfc839a",
+      "evidence_quote": "campaign of Yazdgerd’s successor Pērōz against the Kidarites"
+    },
+    {
+      "para": "p014",
+      "subj": "local_11b58b88d74f85",
+      "rel": "donated_to",
+      "obj": "local_cecf1ed93d253f",
+      "evidence_quote": "Nerseh donated to the Christian community of Vałaršapat"
+    },
+    {
+      "para": "p014",
+      "subj": "Q3553280",
+      "rel": "patronised",
+      "obj": "local_f7d6984489495c",
+      "evidence_quote": "Vałaršapat, a site his ally Vahan Mamikonean patronised"
+    },
+    {
+      "para": "p014",
+      "subj": "local_11b58b88d74f85",
+      "rel": "negotiated_with",
+      "obj": "local_0f1843c1acb13d",
+      "evidence_quote": "Nerseh’ (Kamsarakann tērn Širakay Nersehn) leading a Persian delegation that negotiated with Vahan"
+    },
+    {
+      "para": "p015",
+      "subj": "local_d5ec3f64533613",
+      "rel": "mentions",
+      "obj": "local_b15e247065c329",
+      "evidence_quote": "Only Łazar expressly mentions military service"
+    },
+    {
+      "para": "p015",
+      "subj": "local_d5ec3f64533613",
+      "rel": "elides",
+      "obj": "local_7fae799babb0eb",
+      "evidence_quote": "civil war between Yazdgerd’s sons (AD 457–9, elided by Łazar)"
+    },
+    {
+      "para": "p015",
+      "subj": "local_a224221c0a4442",
+      "rel": "fight",
+      "obj": "local_a0d2a85d049c85",
+      "evidence_quote": "civil war between Yazdgerd’s sons"
+    },
+    {
+      "para": "p015",
+      "subj": "local_062cd32e4a9a2c",
+      "rel": "leads",
+      "obj": "local_6917033bf06842",
+      "evidence_quote": "rebellion by the Caucasian Albanian king"
+    },
+    {
+      "para": "p016",
+      "subj": "Q310303",
+      "rel": "forced_to_join_armies",
+      "obj": "local_f5ae35b9964c70",
+      "evidence_quote": "Yazdgerd II forced the Armenians to join his armies"
+    },
+    {
+      "para": "p016",
+      "subj": "local_420725a973431d",
+      "rel": "recorded",
+      "obj": "local_06c341c34ed831",
+      "evidence_quote": "Sebeos recorded one of his protagonists, Smbat IV Bagratuni"
+    },
+    {
+      "para": "p016",
+      "subj": "local_06c341c34ed831",
+      "rel": "recruited",
+      "obj": "local_4d8034d8981464",
+      "evidence_quote": "Smbat IV Bagratuni, recruiting a host of Armenian nobles"
+    },
+    {
+      "para": "p016",
+      "subj": "local_38a3637875aea7",
+      "rel": "converted",
+      "obj": "local_b2d675dcf6e191",
+      "evidence_quote": "This Smbat also (re)converted a group of Armenian captives"
+    },
+    {
+      "para": "p017",
+      "subj": "local_8c431c16d0d70d",
+      "rel": "were_constructed_in_the_reigns_of",
+      "obj": "local_e5ca0e119aac26",
+      "evidence_quote": "Construction of the famous Gorgān and Tammīseh Walls likely began in the reigns of Yazdgerd and Pērōz."
+    },
+    {
+      "para": "p017",
+      "subj": "local_1930422efcc915",
+      "rel": "remarked_that",
+      "obj": "local_542060fa68ae3e",
+      "evidence_quote": "Eberhard Sauer remarked that all the forts so far excavated may have been fifth-century constructions"
+    },
+    {
+      "para": "p018",
+      "subj": "local_088e8cee0ed031",
+      "rel": "abandoned_strategy_of_paying_off",
+      "obj": "local_97b4446bfc839a",
+      "evidence_quote": "Yazdgerd and Pērōz abandoned their predecessors’ strategy of paying off the Kidarites"
+    },
+    {
+      "para": "p018",
+      "subj": "local_1473eee7fa3d28",
+      "rel": "abandoned_strategy_of_paying_off",
+      "obj": "local_97b4446bfc839a",
+      "evidence_quote": "Yazdgerd and Pērōz abandoned their predecessors’ strategy of paying off the Kidarites"
+    },
+    {
+      "para": "p018",
+      "subj": "local_97b4446bfc839a",
+      "rel": "were_destroyed_and_replaced_by",
+      "obj": "local_64fc8c318bf153",
+      "evidence_quote": "ultimately resulting in the Kidarites’ destruction and replacement by the more powerful Hephthalite Huns"
+    },
+    {
+      "para": "p018",
+      "subj": "local_088e8cee0ed031",
+      "rel": "promoted_connections_to",
+      "obj": "local_232a5c8522071f",
+      "evidence_quote": "Yazdgerd paired increasing Sasanian defensive capacity with Zoroastrianising policies and numismatic reforms promoting Sasanian connections to the mythical Kayanian Zoroastrian dynasty"
+    },
+    {
+      "para": "p019",
+      "subj": "local_1473eee7fa3d28",
+      "rel": "conducted_campaign_against",
+      "obj": "local_97b4446bfc839a",
+      "evidence_quote": "Pērōz’s victorious AD 462–6 campaign against the Kidarites"
+    },
+    {
+      "para": "p019",
+      "subj": "local_cd1f085f1945da",
+      "rel": "attacked",
+      "obj": "local_4e486b4f86520b",
+      "evidence_quote": "attacks by the Saraguri Huns on Armenia"
+    },
+    {
+      "para": "p019",
+      "subj": "local_cd1f085f1945da",
+      "rel": "attacked",
+      "obj": "local_4cabad049c5684",
+      "evidence_quote": "attacks by the Saraguri Huns on Armenia and Iberia"
+    },
+    {
+      "para": "p019",
+      "subj": "local_1473eee7fa3d28",
+      "rel": "sought_aid_from",
+      "obj": "local_238a1843d81dd7",
+      "evidence_quote": "Pērōz unsuccessfully sought Roman aid"
+    },
+    {
+      "para": "p020",
+      "subj": "local_088e8cee0ed031",
+      "rel": "moved_from",
+      "obj": "local_fd819372827620",
+      "evidence_quote": "Yazdgerd’s move from Gorgān to Nishapur"
+    },
+    {
+      "para": "p020",
+      "subj": "local_088e8cee0ed031",
+      "rel": "moved_to",
+      "obj": "local_f31510ae6dadcc",
+      "evidence_quote": "Yazdgerd’s move from Gorgān to Nishapur"
+    },
+    {
+      "para": "p021",
+      "subj": "local_c64ae0d3b9c02a",
+      "rel": "claims",
+      "obj": "local_181e100c37cf0e",
+      "evidence_quote": "T‘ovma Arcruni claims Meršapuh and Tačat Arcruni also survived"
+    },
+    {
+      "para": "p021",
+      "subj": "local_c64ae0d3b9c02a",
+      "rel": "claims",
+      "obj": "local_9f69c1ca243941",
+      "evidence_quote": "T‘ovma Arcruni claims Meršapuh and Tačat Arcruni also survived"
+    },
+    {
+      "para": "p021",
+      "subj": "local_c64ae0d3b9c02a",
+      "rel": "depict",
+      "obj": "local_cc40e96d22a2fa",
+      "evidence_quote": "T‘ovma Arcruni and the early tenth-century Armenian History of Catholicos Yovhannēs V Drasxanakertc‘i depict Šawasp Arcruni"
+    },
+    {
+      "para": "p021",
+      "subj": "local_c9fd5bc0317f29",
+      "rel": "depict",
+      "obj": "local_cc40e96d22a2fa",
+      "evidence_quote": "T‘ovma Arcruni and the early tenth-century Armenian History of Catholicos Yovhannēs V Drasxanakertc‘i depict Šawasp Arcruni"
+    },
+    {
+      "para": "p021",
+      "subj": "Q1280744",
+      "rel": "killed",
+      "obj": "local_cc40e96d22a2fa",
+      "evidence_quote": "Šawasp Arcruni as a Zoroastrianiser killed by Vardan Mamikonean"
+    },
+    {
+      "para": "p021",
+      "subj": "Q1280744",
+      "rel": "led",
+      "obj": "local_feffecae39a254",
+      "evidence_quote": "a later rebellion in AD 572 led by a different Vardan Mamikonean"
+    },
+    {
+      "para": "p021",
+      "subj": "local_420725a973431d",
+      "rel": "recorded",
+      "obj": "local_feffecae39a254",
+      "evidence_quote": "a later rebellion in AD 572 led by a different Vardan Mamikonean and recorded by Sebeos"
+    },
+    {
+      "para": "p022",
+      "subj": "Q1280744",
+      "rel": "is_the_brother_of",
+      "obj": "local_0f1843c1acb13d",
+      "evidence_quote": "Vardan Mamikonean’s surviving brother and Vahan’s paternal uncle"
+    },
+    {
+      "para": "p022",
+      "subj": "local_612aef02b0e267",
+      "rel": "led_scouts_before",
+      "obj": "local_1d822742623b95",
+      "evidence_quote": "Aṙnak Amatuni (a minor nobleman who led scouts before the Battle of Awarayr)"
+    },
+    {
+      "para": "p022",
+      "subj": "local_cc09e46de3e49b",
+      "rel": "represented",
+      "obj": "local_c536e2e4b2d574",
+      "evidence_quote": "P‘arsman Mandakuni, who may have been a clan head (as he represented the Mandakuni clan at Awarayr)"
+    },
+    {
+      "para": "p022",
+      "subj": "local_cc09e46de3e49b",
+      "rel": "represented_the_mandakuni_clan_at",
+      "obj": "local_5f1f7cf0623c62",
+      "evidence_quote": "P‘arsman Mandakuni, who may have been a clan head (as he represented the Mandakuni clan at Awarayr)"
+    },
+    {
+      "para": "p023",
+      "subj": "local_5bbfdc14b92cd0",
+      "rel": "neighboured",
+      "obj": "local_2e0abb4fe937a8",
+      "evidence_quote": "Khuzestan in southwestern Iran neighboured the imperial court centre of Asorestan"
+    },
+    {
+      "para": "p023",
+      "subj": "local_1473eee7fa3d28",
+      "rel": "died_in",
+      "obj": "local_d49a05cc376f2b",
+      "evidence_quote": "Pērōz’s death in AD 484"
+    },
+    {
+      "para": "p023",
+      "subj": "local_91df91199625d6",
+      "rel": "caused",
+      "obj": "local_dab4d759d3c488",
+      "evidence_quote": "Pērōz’s death in AD 484 caused a collapse of Sasanian power"
+    },
+    {
+      "para": "p023",
+      "subj": "local_168c6b2654f47b",
+      "rel": "was_imprisoned_in",
+      "obj": "local_1fc1ad746cdc9b",
+      "evidence_quote": "Aršak II and Xosrov IV (imprisoned in AD 367 and 389, respectively)"
+    },
+    {
+      "para": "p023",
+      "subj": "local_17983d29afe5ec",
+      "rel": "was_imprisoned_in",
+      "obj": "local_0f404720f7bf99",
+      "evidence_quote": "Kawād I (imprisoned AD 496)"
+    },
+    {
+      "para": "p024",
+      "subj": "local_d5ec3f64533613",
+      "rel": "claims",
+      "obj": "local_3022dd52b5d36f",
+      "evidence_quote": "Łazar claims they were captured by Vasak Siwni"
+    },
+    {
+      "para": "p024",
+      "subj": "local_3022dd52b5d36f",
+      "rel": "captured",
+      "obj": "local_86e16aed581418",
+      "evidence_quote": "Łazar claims they were captured by Vasak Siwni"
+    },
+    {
+      "para": "p024",
+      "subj": "local_d5ec3f64533613",
+      "rel": "claims",
+      "obj": "local_0f1843c1acb13d",
+      "evidence_quote": "Łazar claims he was older than Vahan"
+    },
+    {
+      "para": "p025",
+      "subj": "local_d484dc8edf604c",
+      "rel": "were_ransomed_by",
+      "obj": "local_4a57314c5fa2ef",
+      "evidence_quote": "the trio were ransomed by their mother’s brother-in-law, a Georgian nobleman named Ašuša of Gugark‘"
+    },
+    {
+      "para": "p025",
+      "subj": "local_e658e6f3c2937d",
+      "rel": "had_been_killed_during",
+      "obj": "local_d366b5c4bf78e5",
+      "evidence_quote": "their father and most senior uncle had been killed during the rebellion"
+    },
+    {
+      "para": "p025",
+      "subj": "local_3789ba103a7b88",
+      "rel": "had_been_killed_during",
+      "obj": "local_d366b5c4bf78e5",
+      "evidence_quote": "their father and most senior uncle had been killed during the rebellion"
+    },
+    {
+      "para": "p025",
+      "subj": "local_13280ead5fbd7a",
+      "rel": "was_imprisoned_with",
+      "obj": "local_efaf05ec75d3f5",
+      "evidence_quote": "their surviving paternal uncle was imprisoned with three of their kinsmen"
+    },
+    {
+      "para": "p025",
+      "subj": "local_2e9fc494183c11",
+      "rel": "had_been_a_captive_at",
+      "obj": "local_2c85776677a7d2",
+      "evidence_quote": "Ašuša himself had been a captive at the Sasanian court"
+    },
+    {
+      "para": "p026",
+      "subj": "local_30c763cce49770",
+      "rel": "was_grand_vizier_of",
+      "obj": "local_088e8cee0ed031",
+      "evidence_quote": "Mihrnerseh – Yazdgerd’s influential grand-vizier"
+    },
+    {
+      "para": "p026",
+      "subj": "local_69f3992ee07533",
+      "rel": "were_entrusted_to",
+      "obj": "local_30c763cce49770",
+      "evidence_quote": "Mihrnerseh – Yazdgerd’s influential grand-vizier (wuzurg framadār) to whom the captives were entrusted"
+    },
+    {
+      "para": "p028",
+      "subj": "Q310303",
+      "rel": "threatened_to_send",
+      "obj": "local_cdfad138bc7081",
+      "evidence_quote": "Yazdgerd II first tried to impose Zoroastrianism on the Armenian elite, he threatened to send nobles who did not convert to the borderland of Sakastan"
+    },
+    {
+      "para": "p028",
+      "subj": "local_088e8cee0ed031",
+      "rel": "deported",
+      "obj": "local_7a5facc65dc4af",
+      "evidence_quote": "The same passage claimed Yazdgerd had already deported Georgians for refusing to convert"
+    },
+    {
+      "para": "p028",
+      "subj": "local_225aba6c834232",
+      "rel": "identified",
+      "obj": "local_8c276bb0025e34",
+      "evidence_quote": "William Wigram identified Belašpar as a community of captives"
+    },
+    {
+      "para": "p029",
+      "subj": "local_063ba1a7a94002",
+      "rel": "were_executed",
+      "obj": "local_b8d0a95d3d59fc",
+      "evidence_quote": "Nine priests were executed over the course of c. 454 AD"
+    },
+    {
+      "para": "p029",
+      "subj": "local_72c6ba3a88c6ee",
+      "rel": "were_taken_from",
+      "obj": "local_f31510ae6dadcc",
+      "evidence_quote": "The pair who had been taken from Nishapur"
+    },
+    {
+      "para": "p029",
+      "subj": "local_29fefad777c198",
+      "rel": "were_executed_at",
+      "obj": "local_091f7c41bf01e4",
+      "evidence_quote": "six others from Nishapur were executed at a place nearby called Ṙewan"
+    },
+    {
+      "para": "p029",
+      "subj": "local_60cc747c668438",
+      "rel": "was_beheaded_at",
+      "obj": "local_2c85776677a7d2",
+      "evidence_quote": "the only known cleric in the Khuzestan group was beheaded at the Sasanian court"
+    },
+    {
+      "para": "p030",
+      "subj": "local_e9fb82acc6fab9",
+      "rel": "was_mutilated_and_sent_to_work_with_royal_slaves_in",
+      "obj": "local_1e16cc5bbb6837",
+      "evidence_quote": "Xorēn of Orkovi and Abraham of Zenakk‘, priests at Nishapur who accosted the executioners with the aim of being executed alongside their superiors, were instead mutilated and sent to work with royal slaves in the province of Šap‘ul/Šahul"
+    },
+    {
+      "para": "p030",
+      "subj": "local_b297e1159c3289",
+      "rel": "was_mutilated_and_sent_to_work_with_royal_slaves_in",
+      "obj": "local_1e16cc5bbb6837",
+      "evidence_quote": "Xorēn of Orkovi and Abraham of Zenakk‘, priests at Nishapur who accosted the executioners with the aim of being executed alongside their superiors, were instead mutilated and sent to work with royal slaves in the province of Šap‘ul/Šahul"
+    },
+    {
+      "para": "p030",
+      "subj": "local_1517d545cc1128",
+      "rel": "was_ransomed_by",
+      "obj": "local_4d389b56a0c5fe",
+      "evidence_quote": "Only Abraham returned to Armenia – being ransomed by Asorestan’s Christians in AD 463/4"
+    },
+    {
+      "para": "p031",
+      "subj": "local_314b669e5cae26",
+      "rel": "destroyed",
+      "obj": "local_a2607efbf19742",
+      "evidence_quote": "The pair at Vardgēs had destroyed a Zoroastrian fire-temple in Aštišat"
+    },
+    {
+      "para": "p031",
+      "subj": "local_4d4be0d950eb40",
+      "rel": "destroyed",
+      "obj": "local_1a3d9dfb4e6348",
+      "evidence_quote": "two of those killed at Ṙewan had destroyed fire-temples"
+    },
+    {
+      "para": "p031",
+      "subj": "local_4d4be0d950eb40",
+      "rel": "tortured",
+      "obj": "local_11a2cafa8196c4",
+      "evidence_quote": "two of those killed at Ṙewan had destroyed fire-temples and tortured their priests"
+    },
+    {
+      "para": "p031",
+      "subj": "local_f07fe76e67bdb8",
+      "rel": "gathered",
+      "obj": "local_57b00f8643a965",
+      "evidence_quote": "Łewond, after whom the group were later named the Łewondeank‘ (or ‘Leontine Martyrs’), had gathered locals"
+    },
+    {
+      "para": "p031",
+      "subj": "local_57b00f8643a965",
+      "rel": "stoned",
+      "obj": "local_77f44a749eb032",
+      "evidence_quote": "had gathered locals to stone Zoroastrian priests"
+    },
+    {
+      "para": "p031",
+      "subj": "local_e60cef8ee34cd6",
+      "rel": "blessed",
+      "obj": "local_b0054e829ecd45",
+      "evidence_quote": "both he and Yovsēp‘ blessed rebel forces"
+    },
+    {
+      "para": "p031",
+      "subj": "local_088e8cee0ed031",
+      "rel": "suffered_a_defeat_against",
+      "obj": "local_b4461d739daace",
+      "evidence_quote": "Yazdgerd suffered a defeat against the Kidarites"
+    },
+    {
+      "para": "p032",
+      "subj": "local_f885d6354f9ead",
+      "rel": "was_executed_in",
+      "obj": "local_2e0abb4fe937a8",
+      "evidence_quote": "The sole bishop executed in Asorestan – T‘at‘ik of Basean"
+    },
+    {
+      "para": "p032",
+      "subj": "local_f885d6354f9ead",
+      "rel": "is_among",
+      "obj": "local_1c6324bb20e2e7",
+      "evidence_quote": "T‘at‘ik of Basean – is among the three priests"
+    },
+    {
+      "para": "p033",
+      "subj": "local_83eb578a42ed05",
+      "rel": "identifies",
+      "obj": "local_11fa74af4272a5",
+      "evidence_quote": "Alasdair Grant identifies the Armenian clergy of the Islamic world"
+    },
+    {
+      "para": "p033",
+      "subj": "local_5855c54704578b",
+      "rel": "pioneered_the_use_of_christian_clerics_for_bureaucratic_purposes",
+      "obj": "local_07c85ecf365b25",
+      "evidence_quote": "The use of Christian clerics for bureaucratic purposes had been pioneered by Yazdgerd II’s grandfather Yazdgerd I"
+    },
+    {
+      "para": "p033",
+      "subj": "local_9839a9a44d3f66",
+      "rel": "expanded_his_control_to",
+      "obj": "local_ebfe338b24d561",
+      "evidence_quote": "Wahrām V (r. AD 420–38) – had expanded his control to the Armenian Church"
+    },
+    {
+      "para": "p033",
+      "subj": "local_c914d55305f769",
+      "rel": "refers_to",
+      "obj": "local_e60cef8ee34cd6",
+      "evidence_quote": "Ełišē refers to Yovsēp‘ as bishop of Ayrarat"
+    },
+    {
+      "para": "p033",
+      "subj": "local_e60cef8ee34cd6",
+      "rel": "presided_over",
+      "obj": "local_b8aafc992b256d",
+      "evidence_quote": "Yovsēp‘ presided over the Council of Šahapivan"
+    },
+    {
+      "para": "p033",
+      "subj": "local_bf1a223444c38b",
+      "rel": "joined",
+      "obj": "local_f6be83a3177e40",
+      "evidence_quote": "Armenian clerics did join the nobility"
+    },
+    {
+      "para": "p033",
+      "subj": "local_bf1a223444c38b",
+      "rel": "signed",
+      "obj": "local_3045d283d3ed1d",
+      "evidence_quote": "Armenian clerics did join the nobility in signing letters of complaint against Yazdgerd II"
+    },
+    {
+      "para": "p033",
+      "subj": "local_9081d0929112ef",
+      "rel": "was_used_as_an_ambassador_to",
+      "obj": "local_a12c48cec5fab4",
+      "evidence_quote": "A relative of the Albanian king was used as an ambassador to the Huns"
+    },
+    {
+      "para": "p033",
+      "subj": "local_4a32fd096c43e7",
+      "rel": "were_sent_to",
+      "obj": "local_9cea9fc39cb423",
+      "evidence_quote": "Armenian noblemen were sent to the Roman emperor Theodosius II"
+    },
+    {
+      "para": "p033",
+      "subj": "local_c914d55305f769",
+      "rel": "adds_that_a_persian_captive_was_dispatched_as_a_messenger_to",
+      "obj": "local_088e8cee0ed031",
+      "evidence_quote": "Ełišē adds that a Persian captive was dispatched as a messenger to Yazdgerd himself"
+    },
+    {
+      "para": "p033",
+      "subj": "local_3022dd52b5d36f",
+      "rel": "sent",
+      "obj": "local_06ac58800abcb8",
+      "evidence_quote": "Vasak Siwni’s unsuccessful attempt to quell the rebellion by sending priests"
+    },
+    {
+      "para": "p035",
+      "subj": "local_1473eee7fa3d28",
+      "rel": "died_fighting",
+      "obj": "local_64fc8c318bf153",
+      "evidence_quote": "Pērōz died fighting Hephthalite Huns"
+    },
+    {
+      "para": "p035",
+      "subj": "local_1473eee7fa3d28",
+      "rel": "died_in",
+      "obj": "local_b1ad973d8d8bd7",
+      "evidence_quote": "Pērōz died fighting Hephthalite Huns in Tokharistan"
+    },
+    {
+      "para": "p035",
+      "subj": "local_67e00a09ebd957",
+      "rel": "sought",
+      "obj": "local_d7c50a080cb30e",
+      "evidence_quote": "his successor Walāxš sought a speedy peace"
+    }
+  ]
+}

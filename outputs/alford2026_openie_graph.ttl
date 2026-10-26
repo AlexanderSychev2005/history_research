@@ -1,0 +1,1699 @@
+@prefix ex: <https://example.org/history-research/> .
+@prefix ns1: <https://example.org/history-research/relation/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+<https://example.org/history-research/alford2026/statement/1> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_a82484364476da> ;
+    rdf:predicate ns1:was_rebelled_against_by ;
+    rdf:subject wd:Q310303 ;
+    ex:evidence "the AD 450–1 Armenian rebellion against Sasanian King Yazdgerd II" ;
+    ex:paragraphId "p001" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/10> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_429205d3300ba4> ;
+    rdf:predicate ns1:concludes ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_ec22b1931a30fc> ;
+    ex:evidence "Robert Thomson’s conclusion (following Akinean and Kiwlēsērean) that Ełišē wrote in the sixth century at the earliest" ;
+    ex:paragraphId "p005" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/100> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_5f1f7cf0623c62> ;
+    rdf:predicate ns1:represented_the_mandakuni_clan_at ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_cc09e46de3e49b> ;
+    ex:evidence "P‘arsman Mandakuni, who may have been a clan head (as he represented the Mandakuni clan at Awarayr)" ;
+    ex:paragraphId "p022" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/101> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_2e0abb4fe937a8> ;
+    rdf:predicate ns1:neighboured ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_5bbfdc14b92cd0> ;
+    ex:evidence "Khuzestan in southwestern Iran neighboured the imperial court centre of Asorestan" ;
+    ex:paragraphId "p023" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/102> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_d49a05cc376f2b> ;
+    rdf:predicate ns1:died_in ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_1473eee7fa3d28> ;
+    ex:evidence "Pērōz’s death in AD 484" ;
+    ex:paragraphId "p023" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/103> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_dab4d759d3c488> ;
+    rdf:predicate ns1:caused ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_91df91199625d6> ;
+    ex:evidence "Pērōz’s death in AD 484 caused a collapse of Sasanian power" ;
+    ex:paragraphId "p023" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/104> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_1fc1ad746cdc9b> ;
+    rdf:predicate ns1:was_imprisoned_in ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_168c6b2654f47b> ;
+    ex:evidence "Aršak II and Xosrov IV (imprisoned in AD 367 and 389, respectively)" ;
+    ex:paragraphId "p023" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/105> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_0f404720f7bf99> ;
+    rdf:predicate ns1:was_imprisoned_in ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_17983d29afe5ec> ;
+    ex:evidence "Kawād I (imprisoned AD 496)" ;
+    ex:paragraphId "p023" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/106> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_3022dd52b5d36f> ;
+    rdf:predicate ns1:claims ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar claims they were captured by Vasak Siwni" ;
+    ex:paragraphId "p024" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/107> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_86e16aed581418> ;
+    rdf:predicate ns1:captured ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_3022dd52b5d36f> ;
+    ex:evidence "Łazar claims they were captured by Vasak Siwni" ;
+    ex:paragraphId "p024" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/108> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_0f1843c1acb13d> ;
+    rdf:predicate ns1:claims ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar claims he was older than Vahan" ;
+    ex:paragraphId "p024" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/109> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4a57314c5fa2ef> ;
+    rdf:predicate ns1:were_ransomed_by ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d484dc8edf604c> ;
+    ex:evidence "the trio were ransomed by their mother’s brother-in-law, a Georgian nobleman named Ašuša of Gugark‘" ;
+    ex:paragraphId "p025" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/11> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_aedefa9e49ea47> ;
+    rdf:predicate ns1:adds ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni" ;
+    ex:paragraphId "p006" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/110> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_d366b5c4bf78e5> ;
+    rdf:predicate ns1:had_been_killed_during ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_e658e6f3c2937d> ;
+    ex:evidence "their father and most senior uncle had been killed during the rebellion" ;
+    ex:paragraphId "p025" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/111> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_d366b5c4bf78e5> ;
+    rdf:predicate ns1:had_been_killed_during ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_3789ba103a7b88> ;
+    ex:evidence "their father and most senior uncle had been killed during the rebellion" ;
+    ex:paragraphId "p025" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/112> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_efaf05ec75d3f5> ;
+    rdf:predicate ns1:was_imprisoned_with ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_13280ead5fbd7a> ;
+    ex:evidence "their surviving paternal uncle was imprisoned with three of their kinsmen" ;
+    ex:paragraphId "p025" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/113> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_2c85776677a7d2> ;
+    rdf:predicate ns1:had_been_a_captive_at ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_2e9fc494183c11> ;
+    ex:evidence "Ašuša himself had been a captive at the Sasanian court" ;
+    ex:paragraphId "p025" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/114> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_088e8cee0ed031> ;
+    rdf:predicate ns1:was_grand_vizier_of ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_30c763cce49770> ;
+    ex:evidence "Mihrnerseh – Yazdgerd’s influential grand-vizier" ;
+    ex:paragraphId "p026" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/115> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_30c763cce49770> ;
+    rdf:predicate ns1:were_entrusted_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_69f3992ee07533> ;
+    ex:evidence "Mihrnerseh – Yazdgerd’s influential grand-vizier (wuzurg framadār) to whom the captives were entrusted" ;
+    ex:paragraphId "p026" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/116> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_cdfad138bc7081> ;
+    rdf:predicate ns1:threatened_to_send ;
+    rdf:subject wd:Q310303 ;
+    ex:evidence "Yazdgerd II first tried to impose Zoroastrianism on the Armenian elite, he threatened to send nobles who did not convert to the borderland of Sakastan" ;
+    ex:paragraphId "p028" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/117> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_7a5facc65dc4af> ;
+    rdf:predicate ns1:deported ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_088e8cee0ed031> ;
+    ex:evidence "The same passage claimed Yazdgerd had already deported Georgians for refusing to convert" ;
+    ex:paragraphId "p028" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/118> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_8c276bb0025e34> ;
+    rdf:predicate ns1:identified ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_225aba6c834232> ;
+    ex:evidence "William Wigram identified Belašpar as a community of captives" ;
+    ex:paragraphId "p028" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/119> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b8d0a95d3d59fc> ;
+    rdf:predicate ns1:were_executed ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_063ba1a7a94002> ;
+    ex:evidence "Nine priests were executed over the course of c. 454 AD" ;
+    ex:paragraphId "p029" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/12> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_11b58b88d74f85> ;
+    rdf:predicate ns1:adds ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni, Nerseh" ;
+    ex:paragraphId "p006" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/120> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_f31510ae6dadcc> ;
+    rdf:predicate ns1:were_taken_from ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_72c6ba3a88c6ee> ;
+    ex:evidence "The pair who had been taken from Nishapur" ;
+    ex:paragraphId "p029" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/121> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_091f7c41bf01e4> ;
+    rdf:predicate ns1:were_executed_at ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_29fefad777c198> ;
+    ex:evidence "six others from Nishapur were executed at a place nearby called Ṙewan" ;
+    ex:paragraphId "p029" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/122> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_2c85776677a7d2> ;
+    rdf:predicate ns1:was_beheaded_at ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_60cc747c668438> ;
+    ex:evidence "the only known cleric in the Khuzestan group was beheaded at the Sasanian court" ;
+    ex:paragraphId "p029" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/123> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_1e16cc5bbb6837> ;
+    rdf:predicate ns1:was_mutilated_and_sent_to_work_with_royal_slaves_in ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_e9fb82acc6fab9> ;
+    ex:evidence "Xorēn of Orkovi and Abraham of Zenakk‘, priests at Nishapur who accosted the executioners with the aim of being executed alongside their superiors, were instead mutilated and sent to work with royal slaves in the province of Šap‘ul/Šahul" ;
+    ex:paragraphId "p030" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/124> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_1e16cc5bbb6837> ;
+    rdf:predicate ns1:was_mutilated_and_sent_to_work_with_royal_slaves_in ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_b297e1159c3289> ;
+    ex:evidence "Xorēn of Orkovi and Abraham of Zenakk‘, priests at Nishapur who accosted the executioners with the aim of being executed alongside their superiors, were instead mutilated and sent to work with royal slaves in the province of Šap‘ul/Šahul" ;
+    ex:paragraphId "p030" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/125> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4d389b56a0c5fe> ;
+    rdf:predicate ns1:was_ransomed_by ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_1517d545cc1128> ;
+    ex:evidence "Only Abraham returned to Armenia – being ransomed by Asorestan’s Christians in AD 463/4" ;
+    ex:paragraphId "p030" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/126> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_a2607efbf19742> ;
+    rdf:predicate ns1:destroyed ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_314b669e5cae26> ;
+    ex:evidence "The pair at Vardgēs had destroyed a Zoroastrian fire-temple in Aštišat" ;
+    ex:paragraphId "p031" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/127> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_1a3d9dfb4e6348> ;
+    rdf:predicate ns1:destroyed ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_4d4be0d950eb40> ;
+    ex:evidence "two of those killed at Ṙewan had destroyed fire-temples" ;
+    ex:paragraphId "p031" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/128> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_11a2cafa8196c4> ;
+    rdf:predicate ns1:tortured ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_4d4be0d950eb40> ;
+    ex:evidence "two of those killed at Ṙewan had destroyed fire-temples and tortured their priests" ;
+    ex:paragraphId "p031" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/129> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_57b00f8643a965> ;
+    rdf:predicate ns1:gathered ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_f07fe76e67bdb8> ;
+    ex:evidence "Łewond, after whom the group were later named the Łewondeank‘ (or ‘Leontine Martyrs’), had gathered locals" ;
+    ex:paragraphId "p031" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/13> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4f1852509c67a7> ;
+    rdf:predicate ns1:adds ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni, Nerseh and Ašot Kamsarakan" ;
+    ex:paragraphId "p006" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/130> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_77f44a749eb032> ;
+    rdf:predicate ns1:stoned ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_57b00f8643a965> ;
+    ex:evidence "had gathered locals to stone Zoroastrian priests" ;
+    ex:paragraphId "p031" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/131> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b0054e829ecd45> ;
+    rdf:predicate ns1:blessed ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_e60cef8ee34cd6> ;
+    ex:evidence "both he and Yovsēp‘ blessed rebel forces" ;
+    ex:paragraphId "p031" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/132> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b4461d739daace> ;
+    rdf:predicate ns1:suffered_a_defeat_against ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_088e8cee0ed031> ;
+    ex:evidence "Yazdgerd suffered a defeat against the Kidarites" ;
+    ex:paragraphId "p031" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/133> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_2e0abb4fe937a8> ;
+    rdf:predicate ns1:was_executed_in ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_f885d6354f9ead> ;
+    ex:evidence "The sole bishop executed in Asorestan – T‘at‘ik of Basean" ;
+    ex:paragraphId "p032" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/134> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_1c6324bb20e2e7> ;
+    rdf:predicate ns1:is_among ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_f885d6354f9ead> ;
+    ex:evidence "T‘at‘ik of Basean – is among the three priests" ;
+    ex:paragraphId "p032" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/135> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_11fa74af4272a5> ;
+    rdf:predicate ns1:identifies ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_83eb578a42ed05> ;
+    ex:evidence "Alasdair Grant identifies the Armenian clergy of the Islamic world" ;
+    ex:paragraphId "p033" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/136> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_07c85ecf365b25> ;
+    rdf:predicate ns1:pioneered_the_use_of_christian_clerics_for_bureaucratic_purposes ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_5855c54704578b> ;
+    ex:evidence "The use of Christian clerics for bureaucratic purposes had been pioneered by Yazdgerd II’s grandfather Yazdgerd I" ;
+    ex:paragraphId "p033" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/137> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_ebfe338b24d561> ;
+    rdf:predicate ns1:expanded_his_control_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_9839a9a44d3f66> ;
+    ex:evidence "Wahrām V (r. AD 420–38) – had expanded his control to the Armenian Church" ;
+    ex:paragraphId "p033" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/138> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_e60cef8ee34cd6> ;
+    rdf:predicate ns1:refers_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "Ełišē refers to Yovsēp‘ as bishop of Ayrarat" ;
+    ex:paragraphId "p033" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/139> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b8aafc992b256d> ;
+    rdf:predicate ns1:presided_over ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_e60cef8ee34cd6> ;
+    ex:evidence "Yovsēp‘ presided over the Council of Šahapivan" ;
+    ex:paragraphId "p033" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/14> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_7b1935fc3652cc> ;
+    rdf:predicate ns1:adds ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni, Nerseh and Ašot Kamsarakan, and Zuarēn Anjewac‘i" ;
+    ex:paragraphId "p006" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/140> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_f6be83a3177e40> ;
+    rdf:predicate ns1:joined ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_bf1a223444c38b> ;
+    ex:evidence "Armenian clerics did join the nobility" ;
+    ex:paragraphId "p033" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/141> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_3045d283d3ed1d> ;
+    rdf:predicate ns1:signed ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_bf1a223444c38b> ;
+    ex:evidence "Armenian clerics did join the nobility in signing letters of complaint against Yazdgerd II" ;
+    ex:paragraphId "p033" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/142> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_a12c48cec5fab4> ;
+    rdf:predicate ns1:was_used_as_an_ambassador_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_9081d0929112ef> ;
+    ex:evidence "A relative of the Albanian king was used as an ambassador to the Huns" ;
+    ex:paragraphId "p033" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/143> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_9cea9fc39cb423> ;
+    rdf:predicate ns1:were_sent_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_4a32fd096c43e7> ;
+    ex:evidence "Armenian noblemen were sent to the Roman emperor Theodosius II" ;
+    ex:paragraphId "p033" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/144> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_088e8cee0ed031> ;
+    rdf:predicate ns1:adds_that_a_persian_captive_was_dispatched_as_a_messenger_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "Ełišē adds that a Persian captive was dispatched as a messenger to Yazdgerd himself" ;
+    ex:paragraphId "p033" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/145> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_06ac58800abcb8> ;
+    rdf:predicate ns1:sent ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_3022dd52b5d36f> ;
+    ex:evidence "Vasak Siwni’s unsuccessful attempt to quell the rebellion by sending priests" ;
+    ex:paragraphId "p033" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/146> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_64fc8c318bf153> ;
+    rdf:predicate ns1:died_fighting ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_1473eee7fa3d28> ;
+    ex:evidence "Pērōz died fighting Hephthalite Huns" ;
+    ex:paragraphId "p035" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/147> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b1ad973d8d8bd7> ;
+    rdf:predicate ns1:died_in ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_1473eee7fa3d28> ;
+    ex:evidence "Pērōz died fighting Hephthalite Huns in Tokharistan" ;
+    ex:paragraphId "p035" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/148> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_d7c50a080cb30e> ;
+    rdf:predicate ns1:sought ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_67e00a09ebd957> ;
+    ex:evidence "his successor Walāxš sought a speedy peace" ;
+    ex:paragraphId "p035" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/15> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_20cbc616930710> ;
+    rdf:predicate ns1:elides ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_ec22b1931a30fc> ;
+    ex:evidence "A jump omission in Robert Thomson’s English translation elides the Aṙawełean family" ;
+    ex:paragraphId "p006" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/16> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_24bca40e2e2a72> ;
+    rdf:predicate ns1:fuses ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_ec22b1931a30fc> ;
+    ex:evidence "A jump omission in Robert Thomson’s English translation elides the Aṙawełean family, fusing Aṙawan Anjewac‘i and Dat Aṙawełean into Dat Anjewac‘i" ;
+    ex:paragraphId "p006" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/17> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_c17006fcd0463b> ;
+    rdf:predicate ns1:fuses ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_ec22b1931a30fc> ;
+    ex:evidence "A jump omission in Robert Thomson’s English translation elides the Aṙawełean family, fusing Aṙawan Anjewac‘i and Dat Aṙawełean into Dat Anjewac‘i" ;
+    ex:paragraphId "p006" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/18> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_a8200508c20849> ;
+    rdf:predicate ns1:served ;
+    rdf:subject wd:Q1280744 ;
+    ex:evidence "Vardan Mamikonean had himself served the Persians in campaigns" ;
+    ex:paragraphId "p007" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/19> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_106bfc890eab9f> ;
+    rdf:predicate ns1:highlighted_a_campaign_at ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "with Łazar highlighting a campaign at Marw-ī-Rōd" ;
+    ex:paragraphId "p007" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/2> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b2602db8401cec> ;
+    rdf:predicate ns1:delineated_between_the_treatment_of ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_0ce8911e1482ec> ;
+    ex:evidence "Sasanian authorities carefully delineated between the treatment of children, secular nobility, and Christian clerics" ;
+    ex:paragraphId "p001" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/20> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_69f3992ee07533> ;
+    rdf:predicate ns1:claims ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar claims they captives did not return to their lands until AD 464/5" ;
+    ex:paragraphId "p007" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/21> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_eb875812858d27> ;
+    rdf:predicate ns1:held ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "while Ełišē held some returned the year before" ;
+    ex:paragraphId "p007" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/22> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4e486b4f86520b> ;
+    rdf:predicate ns1:returned_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_b83315c0ca5c29> ;
+    ex:evidence "The Khuzestan captives meanwhile returned to Armenia in AD 454/5" ;
+    ex:paragraphId "p007" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/23> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_873b7dd6f5f321> ;
+    rdf:predicate ns1:were_used_to_prosecute_military_objectives_against ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_47d75939a963c5> ;
+    ex:evidence "the first group were imprisoned, in contrast, suggest they were used to prosecute military objectives against the Kidarite Hun confederacy" ;
+    ex:paragraphId "p007" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/24> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_30b2a91ceb60fc> ;
+    rdf:predicate ns1:was_taken_from ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_56913cf8976dc4> ;
+    ex:evidence "Babgēn and Bakur – taken from the Siwni family" ;
+    ex:paragraphId "p008" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/25> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_30b2a91ceb60fc> ;
+    rdf:predicate ns1:was_taken_from ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_29e2331915a995> ;
+    ex:evidence "Babgēn and Bakur – taken from the Siwni family" ;
+    ex:paragraphId "p008" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/26> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_800ffdc52257ac> ;
+    rdf:predicate ns1:included ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "Ełišē included them in a vision alongside Vardan himself" ;
+    ex:paragraphId "p008" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/27> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b9edbd8abad8e6> ;
+    rdf:predicate ns1:was_removed_as ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_3022dd52b5d36f> ;
+    ex:evidence "Vasak Siwni’s removal as Armenia’s leading noble" ;
+    ex:paragraphId "p008" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/28> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_c239a83229e9a8> ;
+    rdf:predicate ns1:was_the_same_person_as ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_56913cf8976dc4> ;
+    ex:evidence "Babgēn was the same person as Babik Siwni" ;
+    ex:paragraphId "p008" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/29> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_86e16aed581418> ;
+    rdf:predicate ns1:was_a_son_of ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c239a83229e9a8> ;
+    ex:evidence "Babik Siwni, a son of Vasak" ;
+    ex:paragraphId "p008" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/3> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_41ad2687132d47> ;
+    rdf:predicate ns1:was_crushed_by ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_a82484364476da> ;
+    ex:evidence "an Armenian rebellion was crushed by Sasanian forces" ;
+    ex:paragraphId "p003" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/30> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b36f19bd02dd6f> ;
+    rdf:predicate ns1:was_retained_at ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c239a83229e9a8> ;
+    ex:evidence "Babik Siwni, a son of Vasak who had been retained at Ctesiphon" ;
+    ex:paragraphId "p008" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/31> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_d806040706994b> ;
+    rdf:predicate ns1:promoted ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c32af63c0857c4> ;
+    ex:evidence "the Sasanians prioritised promoting Zoroastrian Armenian nobles" ;
+    ex:paragraphId "p009" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/32> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4a28888444bf5e> ;
+    rdf:predicate ns1:estimated ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_4400e29e242038> ;
+    ex:evidence "İlhami Cinemre estimated that only at most half the Armenian nobility were Christian" ;
+    ex:paragraphId "p009" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/33> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b3eb4823a8435c> ;
+    rdf:predicate ns1:was_abolished ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c85f003502c720> ;
+    ex:evidence "Armenian Arsacid royal family (abolished AD 428)" ;
+    ex:paragraphId "p009" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/34> a rdf:Statement ;
+    rdf:object wd:Q3553280 ;
+    rdf:predicate ns1:complains_that ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar complains that Vahan Mamikonean was unable to gain prestige" ;
+    ex:paragraphId "p009" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/35> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_8e7f54fd478754> ;
+    rdf:predicate ns1:was_unable_to_gain_prestige_due_to ;
+    rdf:subject wd:Q3553280 ;
+    ex:evidence "Vahan Mamikonean was unable to gain prestige even by apostatising due to his clan’s rebellious reputation" ;
+    ex:paragraphId "p009" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/36> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_75fd60ece86b68> ;
+    rdf:predicate ns1:is_father_in_law_of ;
+    rdf:subject wd:Q1280744 ;
+    ex:evidence "Vardan Mamikonean’s son-in-law – the Georgian bdeašx Vazgen" ;
+    ex:paragraphId "p009" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/37> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_45cd4d1dfc8d3c> ;
+    rdf:predicate ns1:is_depicted_as_converting_in ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_75fd60ece86b68> ;
+    ex:evidence "Vazgen – is depicted as converting for social advancement in the Life of his wife, Šušanik" ;
+    ex:paragraphId "p009" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/38> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b29a9ed3db05fc> ;
+    rdf:predicate ns1:highlights ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar highlights Gadišo Xorxoṙuni as the leading Zoroastrian magnate" ;
+    ex:paragraphId "p009" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/39> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4e486b4f86520b> ;
+    rdf:predicate ns1:is_leading_zoroastrian_magnate_of ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_b29a9ed3db05fc> ;
+    ex:evidence "Gadišo Xorxoṙuni as the leading Zoroastrian magnate of Armenia" ;
+    ex:paragraphId "p009" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/4> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_a82484364476da> ;
+    rdf:predicate ns1:crushed ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_41ad2687132d47> ;
+    ex:evidence "an Armenian rebellion was crushed by Sasanian forces" ;
+    ex:paragraphId "p003" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/40> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_082ef6d88447bd> ;
+    rdf:predicate ns1:call ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_6b30b3696962c3> ;
+    ex:evidence "Christiane Harzig and Dirk Hoerder call the ‘trans-local family’ structure" ;
+    ex:paragraphId "p009" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/41> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_082ef6d88447bd> ;
+    rdf:predicate ns1:call ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_3cc221bb804737> ;
+    ex:evidence "Christiane Harzig and Dirk Hoerder call the ‘trans-local family’ structure" ;
+    ex:paragraphId "p009" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/42> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_8c6a61f167d6ad> ;
+    rdf:predicate ns1:identified ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_bf995ebbcb0ef5> ;
+    ex:evidence "Hewsen identified only three noble families (Ṙop‘sean, Słkuni, and Ǝnc‘ayac‘i)" ;
+    ex:paragraphId "p010" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/43> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_9abfc29634259f> ;
+    rdf:predicate ns1:identified ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_bf995ebbcb0ef5> ;
+    ex:evidence "Hewsen identified only three noble families (Ṙop‘sean, Słkuni, and Ǝnc‘ayac‘i)" ;
+    ex:paragraphId "p010" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/44> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_a24fc3e8f40a2c> ;
+    rdf:predicate ns1:identified ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_bf995ebbcb0ef5> ;
+    ex:evidence "Hewsen identified only three noble families (Ṙop‘sean, Słkuni, and Ǝnc‘ayac‘i)" ;
+    ex:paragraphId "p010" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/45> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_eb92da7a33fa55> ;
+    rdf:predicate ns1:died_out ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_6591e7661b8c4c> ;
+    ex:evidence "Mandakuni family (whose last attested kinsman died in AD 490)" ;
+    ex:paragraphId "p010" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/46> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_0c7d61eaa5f3cc> ;
+    rdf:predicate ns1:identified ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar identified the other group as children" ;
+    ex:paragraphId "p011" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/47> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_f1866f43803080> ;
+    rdf:predicate ns1:referred_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar referred to ‘the young, imprisoned nobles’" ;
+    ex:paragraphId "p011" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/48> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_c51d52172fc455> ;
+    rdf:predicate ns1:referred_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar referred to ‘the young, imprisoned nobles’ (manktwoy kapeloc‘ naxararac‘n) and ‘the young, imprisoned priests’" ;
+    ex:paragraphId "p011" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/49> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_c6079b7b4cd8ad> ;
+    rdf:predicate ns1:juxtaposes ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "Ełišē juxtaposes the ‘very young’ (managoyn) and eldest (ceragoyn) captives" ;
+    ex:paragraphId "p011" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/5> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4a28888444bf5e> ;
+    rdf:predicate ns1:attempted_to_convert ;
+    rdf:subject wd:Q310303 ;
+    ex:evidence "attempts by Yazdgerd II (r. AD 438–57) to convert the Armenian nobility" ;
+    ex:paragraphId "p003" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/50> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_856bf8ffc9a116> ;
+    rdf:predicate ns1:juxtaposes ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "Ełišē juxtaposes the ‘very young’ (managoyn) and eldest (ceragoyn) captives" ;
+    ex:paragraphId "p011" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/51> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_a892a078835681> ;
+    rdf:predicate ns1:claims ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "Ełišē claims that the Armenian nobility initially arraigned to the Persian court willingly" ;
+    ex:paragraphId "p012" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/52> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_1a17ad24a0f43c> ;
+    rdf:predicate ns1:arraigned_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_a892a078835681> ;
+    ex:evidence "the Armenian nobility initially arraigned to the Persian court willingly" ;
+    ex:paragraphId "p012" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/53> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_edbf84a22db86e> ;
+    rdf:predicate ns1:brought ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_a892a078835681> ;
+    ex:evidence "the Armenian nobility initially arraigned to the Persian court willingly and brought their wives and children with them" ;
+    ex:paragraphId "p012" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/54> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_04d585941935c4> ;
+    rdf:predicate ns1:does_not_mention ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar’s far less positive account of the same incident does not mention women or children" ;
+    ex:paragraphId "p012" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/55> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_5b403eb333785b> ;
+    rdf:predicate ns1:claims ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar even claims that three of the arraigned lords he identified did not see captivity" ;
+    ex:paragraphId "p012" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/56> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_5b403eb333785b> ;
+    rdf:predicate ns1:identified ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar even claims that three of the arraigned lords he identified did not see captivity" ;
+    ex:paragraphId "p012" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/57> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4b83f50af9cc88> ;
+    rdf:predicate ns1:did_not_see ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_5b403eb333785b> ;
+    ex:evidence "three of the arraigned lords he identified did not see captivity" ;
+    ex:paragraphId "p012" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/58> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4482fcacea7af7> ;
+    rdf:predicate ns1:claims ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar even claims that three of the arraigned lords he identified did not see captivity, nor were any of their relatives taken to Gorgān" ;
+    ex:paragraphId "p012" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/59> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_fd819372827620> ;
+    rdf:predicate ns1:were_taken_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_4482fcacea7af7> ;
+    ex:evidence "nor were any of their relatives taken to Gorgān" ;
+    ex:paragraphId "p012" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/6> a rdf:Statement ;
+    rdf:object wd:Q1280744 ;
+    rdf:predicate ns1:canonised ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_ebfe338b24d561> ;
+    ex:evidence "rebel leader Vardan Mamikonean and many of his allies, who were canonised by the Armenian Church" ;
+    ex:paragraphId "p003" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/60> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_f540dab655fada> ;
+    rdf:predicate ns1:is_identified_as ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_8650cb7f774bb2> ;
+    ex:evidence "Nerseh Kamsarakan, may be identified as the future lord Nerseh of Širak" ;
+    ex:paragraphId "p013" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/61> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_9d57d27fabde59> ;
+    rdf:predicate ns1:is_son_of ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_f540dab655fada> ;
+    ex:evidence "lord Nerseh of Širak, son of fellow captive Aršawir Kamsarakan" ;
+    ex:paragraphId "p013" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/62> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_11b58b88d74f85> ;
+    rdf:predicate ns1:had_a_close_relationship_with ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar had a close relationship with Nerseh" ;
+    ex:paragraphId "p013" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/63> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_11b58b88d74f85> ;
+    rdf:predicate ns1:lived_with ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar lived with Nerseh and his brother Hrahat" ;
+    ex:paragraphId "p013" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/64> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_1fba4d5ada5ccc> ;
+    rdf:predicate ns1:lived_with ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Łazar lived with Nerseh and his brother Hrahat" ;
+    ex:paragraphId "p013" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/65> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_67e1e3182f98a9> ;
+    rdf:predicate ns1:was_present_at ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_11b58b88d74f85> ;
+    ex:evidence "claims Nerseh was present at the Sasanian capture of Balkh" ;
+    ex:paragraphId "p014" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/66> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_97b4446bfc839a> ;
+    rdf:predicate ns1:fought_against ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_1473eee7fa3d28> ;
+    ex:evidence "campaign of Yazdgerd’s successor Pērōz against the Kidarites" ;
+    ex:paragraphId "p014" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/67> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_cecf1ed93d253f> ;
+    rdf:predicate ns1:donated_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_11b58b88d74f85> ;
+    ex:evidence "Nerseh donated to the Christian community of Vałaršapat" ;
+    ex:paragraphId "p014" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/68> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_f7d6984489495c> ;
+    rdf:predicate ns1:patronised ;
+    rdf:subject wd:Q3553280 ;
+    ex:evidence "Vałaršapat, a site his ally Vahan Mamikonean patronised" ;
+    ex:paragraphId "p014" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/69> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_0f1843c1acb13d> ;
+    rdf:predicate ns1:negotiated_with ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_11b58b88d74f85> ;
+    ex:evidence "Nerseh’ (Kamsarakann tērn Širakay Nersehn) leading a Persian delegation that negotiated with Vahan" ;
+    ex:paragraphId "p014" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/7> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_c19ff2cfd53ba9> ;
+    rdf:predicate ns1:canonised ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_ebfe338b24d561> ;
+    ex:evidence "rebel leader Vardan Mamikonean and many of his allies, who were canonised by the Armenian Church" ;
+    ex:paragraphId "p003" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/70> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b15e247065c329> ;
+    rdf:predicate ns1:mentions ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "Only Łazar expressly mentions military service" ;
+    ex:paragraphId "p015" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/71> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_7fae799babb0eb> ;
+    rdf:predicate ns1:elides ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> ;
+    ex:evidence "civil war between Yazdgerd’s sons (AD 457–9, elided by Łazar)" ;
+    ex:paragraphId "p015" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/72> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_a0d2a85d049c85> ;
+    rdf:predicate ns1:fight ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_a224221c0a4442> ;
+    ex:evidence "civil war between Yazdgerd’s sons" ;
+    ex:paragraphId "p015" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/73> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_6917033bf06842> ;
+    rdf:predicate ns1:leads ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_062cd32e4a9a2c> ;
+    ex:evidence "rebellion by the Caucasian Albanian king" ;
+    ex:paragraphId "p015" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/74> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_f5ae35b9964c70> ;
+    rdf:predicate ns1:forced_to_join_armies ;
+    rdf:subject wd:Q310303 ;
+    ex:evidence "Yazdgerd II forced the Armenians to join his armies" ;
+    ex:paragraphId "p016" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/75> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_06c341c34ed831> ;
+    rdf:predicate ns1:recorded ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_420725a973431d> ;
+    ex:evidence "Sebeos recorded one of his protagonists, Smbat IV Bagratuni" ;
+    ex:paragraphId "p016" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/76> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4d8034d8981464> ;
+    rdf:predicate ns1:recruited ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_06c341c34ed831> ;
+    ex:evidence "Smbat IV Bagratuni, recruiting a host of Armenian nobles" ;
+    ex:paragraphId "p016" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/77> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_b2d675dcf6e191> ;
+    rdf:predicate ns1:converted ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_38a3637875aea7> ;
+    ex:evidence "This Smbat also (re)converted a group of Armenian captives" ;
+    ex:paragraphId "p016" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/78> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_e5ca0e119aac26> ;
+    rdf:predicate ns1:were_constructed_in_the_reigns_of ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_8c431c16d0d70d> ;
+    ex:evidence "Construction of the famous Gorgān and Tammīseh Walls likely began in the reigns of Yazdgerd and Pērōz." ;
+    ex:paragraphId "p017" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/79> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_542060fa68ae3e> ;
+    rdf:predicate ns1:remarked_that ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_1930422efcc915> ;
+    ex:evidence "Eberhard Sauer remarked that all the forts so far excavated may have been fifth-century constructions" ;
+    ex:paragraphId "p017" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/8> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_7f92f0125b746f> ;
+    rdf:predicate ns1:includes ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_6854251a5d12a4> ;
+    ex:evidence "Łazar P‘arpec‘i includes two groups of captives" ;
+    ex:paragraphId "p004" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/80> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_97b4446bfc839a> ;
+    rdf:predicate ns1:abandoned_strategy_of_paying_off ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_088e8cee0ed031> ;
+    ex:evidence "Yazdgerd and Pērōz abandoned their predecessors’ strategy of paying off the Kidarites" ;
+    ex:paragraphId "p018" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/81> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_97b4446bfc839a> ;
+    rdf:predicate ns1:abandoned_strategy_of_paying_off ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_1473eee7fa3d28> ;
+    ex:evidence "Yazdgerd and Pērōz abandoned their predecessors’ strategy of paying off the Kidarites" ;
+    ex:paragraphId "p018" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/82> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_64fc8c318bf153> ;
+    rdf:predicate ns1:were_destroyed_and_replaced_by ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_97b4446bfc839a> ;
+    ex:evidence "ultimately resulting in the Kidarites’ destruction and replacement by the more powerful Hephthalite Huns" ;
+    ex:paragraphId "p018" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/83> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_232a5c8522071f> ;
+    rdf:predicate ns1:promoted_connections_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_088e8cee0ed031> ;
+    ex:evidence "Yazdgerd paired increasing Sasanian defensive capacity with Zoroastrianising policies and numismatic reforms promoting Sasanian connections to the mythical Kayanian Zoroastrian dynasty" ;
+    ex:paragraphId "p018" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/84> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_97b4446bfc839a> ;
+    rdf:predicate ns1:conducted_campaign_against ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_1473eee7fa3d28> ;
+    ex:evidence "Pērōz’s victorious AD 462–6 campaign against the Kidarites" ;
+    ex:paragraphId "p019" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/85> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4e486b4f86520b> ;
+    rdf:predicate ns1:attacked ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_cd1f085f1945da> ;
+    ex:evidence "attacks by the Saraguri Huns on Armenia" ;
+    ex:paragraphId "p019" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/86> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_4cabad049c5684> ;
+    rdf:predicate ns1:attacked ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_cd1f085f1945da> ;
+    ex:evidence "attacks by the Saraguri Huns on Armenia and Iberia" ;
+    ex:paragraphId "p019" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/87> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_238a1843d81dd7> ;
+    rdf:predicate ns1:sought_aid_from ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_1473eee7fa3d28> ;
+    ex:evidence "Pērōz unsuccessfully sought Roman aid" ;
+    ex:paragraphId "p019" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/88> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_fd819372827620> ;
+    rdf:predicate ns1:moved_from ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_088e8cee0ed031> ;
+    ex:evidence "Yazdgerd’s move from Gorgān to Nishapur" ;
+    ex:paragraphId "p020" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/89> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_f31510ae6dadcc> ;
+    rdf:predicate ns1:moved_to ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_088e8cee0ed031> ;
+    ex:evidence "Yazdgerd’s move from Gorgān to Nishapur" ;
+    ex:paragraphId "p020" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/9> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_bc1c3fef65ef1d> ;
+    rdf:predicate ns1:records ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c914d55305f769> ;
+    ex:evidence "Ełišē, only records the captives sent to Gorgān" ;
+    ex:paragraphId "p005" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/90> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_181e100c37cf0e> ;
+    rdf:predicate ns1:claims ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c64ae0d3b9c02a> ;
+    ex:evidence "T‘ovma Arcruni claims Meršapuh and Tačat Arcruni also survived" ;
+    ex:paragraphId "p021" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/91> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_9f69c1ca243941> ;
+    rdf:predicate ns1:claims ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c64ae0d3b9c02a> ;
+    ex:evidence "T‘ovma Arcruni claims Meršapuh and Tačat Arcruni also survived" ;
+    ex:paragraphId "p021" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/92> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_cc40e96d22a2fa> ;
+    rdf:predicate ns1:depict ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c64ae0d3b9c02a> ;
+    ex:evidence "T‘ovma Arcruni and the early tenth-century Armenian History of Catholicos Yovhannēs V Drasxanakertc‘i depict Šawasp Arcruni" ;
+    ex:paragraphId "p021" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/93> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_cc40e96d22a2fa> ;
+    rdf:predicate ns1:depict ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_c9fd5bc0317f29> ;
+    ex:evidence "T‘ovma Arcruni and the early tenth-century Armenian History of Catholicos Yovhannēs V Drasxanakertc‘i depict Šawasp Arcruni" ;
+    ex:paragraphId "p021" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/94> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_cc40e96d22a2fa> ;
+    rdf:predicate ns1:killed ;
+    rdf:subject wd:Q1280744 ;
+    ex:evidence "Šawasp Arcruni as a Zoroastrianiser killed by Vardan Mamikonean" ;
+    ex:paragraphId "p021" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/95> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_feffecae39a254> ;
+    rdf:predicate ns1:led ;
+    rdf:subject wd:Q1280744 ;
+    ex:evidence "a later rebellion in AD 572 led by a different Vardan Mamikonean" ;
+    ex:paragraphId "p021" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/96> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_feffecae39a254> ;
+    rdf:predicate ns1:recorded ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_420725a973431d> ;
+    ex:evidence "a later rebellion in AD 572 led by a different Vardan Mamikonean and recorded by Sebeos" ;
+    ex:paragraphId "p021" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/97> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_0f1843c1acb13d> ;
+    rdf:predicate ns1:is_the_brother_of ;
+    rdf:subject wd:Q1280744 ;
+    ex:evidence "Vardan Mamikonean’s surviving brother and Vahan’s paternal uncle" ;
+    ex:paragraphId "p022" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/98> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_1d822742623b95> ;
+    rdf:predicate ns1:led_scouts_before ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_612aef02b0e267> ;
+    ex:evidence "Aṙnak Amatuni (a minor nobleman who led scouts before the Battle of Awarayr)" ;
+    ex:paragraphId "p022" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/99> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_c536e2e4b2d574> ;
+    rdf:predicate ns1:represented ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_cc09e46de3e49b> ;
+    ex:evidence "P‘arsman Mandakuni, who may have been a clan head (as he represented the Mandakuni clan at Awarayr)" ;
+    ex:paragraphId "p022" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/entity/local_062cd32e4a9a2c> rdfs:label "Caucasian Albanian king" ;
+    ns1:leads <https://example.org/history-research/alford2026/entity/local_6917033bf06842> .
+
+<https://example.org/history-research/alford2026/entity/local_063ba1a7a94002> rdfs:label "Nine priests" ;
+    ns1:were_executed <https://example.org/history-research/alford2026/entity/local_b8d0a95d3d59fc> .
+
+<https://example.org/history-research/alford2026/entity/local_0ce8911e1482ec> rdfs:label "Sasanian authorities" ;
+    ns1:delineated_between_the_treatment_of <https://example.org/history-research/alford2026/entity/local_b2602db8401cec> .
+
+<https://example.org/history-research/alford2026/entity/local_13280ead5fbd7a> rdfs:label "their surviving paternal uncle" ;
+    ns1:was_imprisoned_with <https://example.org/history-research/alford2026/entity/local_efaf05ec75d3f5> .
+
+<https://example.org/history-research/alford2026/entity/local_1517d545cc1128> rdfs:label "Abraham" ;
+    ns1:was_ransomed_by <https://example.org/history-research/alford2026/entity/local_4d389b56a0c5fe> .
+
+<https://example.org/history-research/alford2026/entity/local_168c6b2654f47b> rdfs:label "Aršak II" ;
+    ns1:was_imprisoned_in <https://example.org/history-research/alford2026/entity/local_1fc1ad746cdc9b> .
+
+<https://example.org/history-research/alford2026/entity/local_17983d29afe5ec> rdfs:label "Kawād I" ;
+    ns1:was_imprisoned_in <https://example.org/history-research/alford2026/entity/local_0f404720f7bf99> .
+
+<https://example.org/history-research/alford2026/entity/local_1930422efcc915> rdfs:label "Eberhard Sauer" ;
+    ns1:remarked_that <https://example.org/history-research/alford2026/entity/local_542060fa68ae3e> .
+
+<https://example.org/history-research/alford2026/entity/local_225aba6c834232> rdfs:label "William Wigram" ;
+    ns1:identified <https://example.org/history-research/alford2026/entity/local_8c276bb0025e34> .
+
+<https://example.org/history-research/alford2026/entity/local_29e2331915a995> rdfs:label "Bakur" ;
+    ns1:was_taken_from <https://example.org/history-research/alford2026/entity/local_30b2a91ceb60fc> .
+
+<https://example.org/history-research/alford2026/entity/local_29fefad777c198> rdfs:label "six others" ;
+    ns1:were_executed_at <https://example.org/history-research/alford2026/entity/local_091f7c41bf01e4> .
+
+<https://example.org/history-research/alford2026/entity/local_2e9fc494183c11> rdfs:label "Ašuša" ;
+    ns1:had_been_a_captive_at <https://example.org/history-research/alford2026/entity/local_2c85776677a7d2> .
+
+<https://example.org/history-research/alford2026/entity/local_314b669e5cae26> rdfs:label "the pair at Vardgēs" ;
+    ns1:destroyed <https://example.org/history-research/alford2026/entity/local_a2607efbf19742> .
+
+<https://example.org/history-research/alford2026/entity/local_3789ba103a7b88> rdfs:label "most senior uncle" ;
+    ns1:had_been_killed_during <https://example.org/history-research/alford2026/entity/local_d366b5c4bf78e5> .
+
+<https://example.org/history-research/alford2026/entity/local_38a3637875aea7> rdfs:label "Smbat" ;
+    ns1:converted <https://example.org/history-research/alford2026/entity/local_b2d675dcf6e191> .
+
+<https://example.org/history-research/alford2026/entity/local_3cc221bb804737> rdfs:label "Dirk Hoerder" ;
+    ns1:call <https://example.org/history-research/alford2026/entity/local_082ef6d88447bd> .
+
+<https://example.org/history-research/alford2026/entity/local_4400e29e242038> rdfs:label "İlhami Cinemre" ;
+    ns1:estimated <https://example.org/history-research/alford2026/entity/local_4a28888444bf5e> .
+
+<https://example.org/history-research/alford2026/entity/local_47d75939a963c5> rdfs:label "first group" ;
+    ns1:were_used_to_prosecute_military_objectives_against <https://example.org/history-research/alford2026/entity/local_873b7dd6f5f321> .
+
+<https://example.org/history-research/alford2026/entity/local_4a32fd096c43e7> rdfs:label "Armenian noblemen" ;
+    ns1:were_sent_to <https://example.org/history-research/alford2026/entity/local_9cea9fc39cb423> .
+
+<https://example.org/history-research/alford2026/entity/local_5855c54704578b> rdfs:label "Yazdgerd I" ;
+    ns1:pioneered_the_use_of_christian_clerics_for_bureaucratic_purposes <https://example.org/history-research/alford2026/entity/local_07c85ecf365b25> .
+
+<https://example.org/history-research/alford2026/entity/local_5bbfdc14b92cd0> rdfs:label "Khuzestan" ;
+    ns1:neighboured <https://example.org/history-research/alford2026/entity/local_2e0abb4fe937a8> .
+
+<https://example.org/history-research/alford2026/entity/local_60cc747c668438> rdfs:label "the only known cleric in the Khuzestan group" ;
+    ns1:was_beheaded_at <https://example.org/history-research/alford2026/entity/local_2c85776677a7d2> .
+
+<https://example.org/history-research/alford2026/entity/local_612aef02b0e267> rdfs:label "Aṙnak Amatuni" ;
+    ns1:led_scouts_before <https://example.org/history-research/alford2026/entity/local_1d822742623b95> .
+
+<https://example.org/history-research/alford2026/entity/local_6591e7661b8c4c> rdfs:label "Mandakuni family" ;
+    ns1:died_out <https://example.org/history-research/alford2026/entity/local_eb92da7a33fa55> .
+
+<https://example.org/history-research/alford2026/entity/local_67e00a09ebd957> rdfs:label "Walāxš" ;
+    ns1:sought <https://example.org/history-research/alford2026/entity/local_d7c50a080cb30e> .
+
+<https://example.org/history-research/alford2026/entity/local_6854251a5d12a4> rdfs:label "Łazar P‘arpec‘i" ;
+    ns1:includes <https://example.org/history-research/alford2026/entity/local_7f92f0125b746f> .
+
+<https://example.org/history-research/alford2026/entity/local_6b30b3696962c3> rdfs:label "Christiane Harzig" ;
+    ns1:call <https://example.org/history-research/alford2026/entity/local_082ef6d88447bd> .
+
+<https://example.org/history-research/alford2026/entity/local_72c6ba3a88c6ee> rdfs:label "The pair" ;
+    ns1:were_taken_from <https://example.org/history-research/alford2026/entity/local_f31510ae6dadcc> .
+
+<https://example.org/history-research/alford2026/entity/local_83eb578a42ed05> rdfs:label "Alasdair Grant" ;
+    ns1:identifies <https://example.org/history-research/alford2026/entity/local_11fa74af4272a5> .
+
+<https://example.org/history-research/alford2026/entity/local_8650cb7f774bb2> rdfs:label "Nerseh Kamsarakan" ;
+    ns1:is_identified_as <https://example.org/history-research/alford2026/entity/local_f540dab655fada> .
+
+<https://example.org/history-research/alford2026/entity/local_8c431c16d0d70d> rdfs:label "Gorgān and Tammīseh Walls" ;
+    ns1:were_constructed_in_the_reigns_of <https://example.org/history-research/alford2026/entity/local_e5ca0e119aac26> .
+
+<https://example.org/history-research/alford2026/entity/local_9081d0929112ef> rdfs:label "relative of the Albanian king" ;
+    ns1:was_used_as_an_ambassador_to <https://example.org/history-research/alford2026/entity/local_a12c48cec5fab4> .
+
+<https://example.org/history-research/alford2026/entity/local_91df91199625d6> rdfs:label "Pērōz’s death" ;
+    ns1:caused <https://example.org/history-research/alford2026/entity/local_dab4d759d3c488> .
+
+<https://example.org/history-research/alford2026/entity/local_9839a9a44d3f66> rdfs:label "Wahrām V" ;
+    ns1:expanded_his_control_to <https://example.org/history-research/alford2026/entity/local_ebfe338b24d561> .
+
+<https://example.org/history-research/alford2026/entity/local_a224221c0a4442> rdfs:label "Yazdgerd’s sons" ;
+    ns1:fight <https://example.org/history-research/alford2026/entity/local_a0d2a85d049c85> .
+
+<https://example.org/history-research/alford2026/entity/local_b297e1159c3289> rdfs:label "Abraham of Zenakk‘" ;
+    ns1:was_mutilated_and_sent_to_work_with_royal_slaves_in <https://example.org/history-research/alford2026/entity/local_1e16cc5bbb6837> .
+
+<https://example.org/history-research/alford2026/entity/local_b83315c0ca5c29> rdfs:label "Khuzestan captives" ;
+    ns1:returned_to <https://example.org/history-research/alford2026/entity/local_4e486b4f86520b> .
+
+<https://example.org/history-research/alford2026/entity/local_c32af63c0857c4> rdfs:label "Sasanians" ;
+    ns1:promoted <https://example.org/history-research/alford2026/entity/local_d806040706994b> .
+
+<https://example.org/history-research/alford2026/entity/local_c85f003502c720> rdfs:label "Armenian Arsacid royal family" ;
+    ns1:was_abolished <https://example.org/history-research/alford2026/entity/local_b3eb4823a8435c> .
+
+<https://example.org/history-research/alford2026/entity/local_c9fd5bc0317f29> rdfs:label "Yovhannēs V Drasxanakertc‘i" ;
+    ns1:depict <https://example.org/history-research/alford2026/entity/local_cc40e96d22a2fa> .
+
+<https://example.org/history-research/alford2026/entity/local_d484dc8edf604c> rdfs:label "the trio" ;
+    ns1:were_ransomed_by <https://example.org/history-research/alford2026/entity/local_4a57314c5fa2ef> .
+
+<https://example.org/history-research/alford2026/entity/local_e658e6f3c2937d> rdfs:label "their father" ;
+    ns1:had_been_killed_during <https://example.org/history-research/alford2026/entity/local_d366b5c4bf78e5> .
+
+<https://example.org/history-research/alford2026/entity/local_e9fb82acc6fab9> rdfs:label "Xorēn of Orkovi" ;
+    ns1:was_mutilated_and_sent_to_work_with_royal_slaves_in <https://example.org/history-research/alford2026/entity/local_1e16cc5bbb6837> .
+
+<https://example.org/history-research/alford2026/entity/local_f07fe76e67bdb8> rdfs:label "Łewond" ;
+    ns1:gathered <https://example.org/history-research/alford2026/entity/local_57b00f8643a965> .
+
+<https://example.org/history-research/alford2026/entity/local_04d585941935c4> rdfs:label "women or children" .
+
+<https://example.org/history-research/alford2026/entity/local_06ac58800abcb8> rdfs:label "priests" .
+
+<https://example.org/history-research/alford2026/entity/local_07c85ecf365b25> rdfs:label "Christian clerics" .
+
+<https://example.org/history-research/alford2026/entity/local_091f7c41bf01e4> rdfs:label "Ṙewan" .
+
+<https://example.org/history-research/alford2026/entity/local_0c7d61eaa5f3cc> rdfs:label "the other group" .
+
+<https://example.org/history-research/alford2026/entity/local_0f404720f7bf99> rdfs:label "AD 496" .
+
+<https://example.org/history-research/alford2026/entity/local_106bfc890eab9f> rdfs:label "Marw-ī-Rōd" .
+
+<https://example.org/history-research/alford2026/entity/local_11a2cafa8196c4> rdfs:label "their priests" .
+
+<https://example.org/history-research/alford2026/entity/local_11fa74af4272a5> rdfs:label "Armenian clergy of the Islamic world" .
+
+<https://example.org/history-research/alford2026/entity/local_181e100c37cf0e> rdfs:label "Meršapuh" .
+
+<https://example.org/history-research/alford2026/entity/local_1a17ad24a0f43c> rdfs:label "the Persian court" .
+
+<https://example.org/history-research/alford2026/entity/local_1a3d9dfb4e6348> rdfs:label "fire-temples" .
+
+<https://example.org/history-research/alford2026/entity/local_1c6324bb20e2e7> rdfs:label "the three priests" .
+
+<https://example.org/history-research/alford2026/entity/local_1d822742623b95> rdfs:label "Battle of Awarayr" .
+
+<https://example.org/history-research/alford2026/entity/local_1fba4d5ada5ccc> rdfs:label "Hrahat" .
+
+<https://example.org/history-research/alford2026/entity/local_1fc1ad746cdc9b> rdfs:label "AD 367" .
+
+<https://example.org/history-research/alford2026/entity/local_20cbc616930710> rdfs:label "Aṙawełean family" .
+
+<https://example.org/history-research/alford2026/entity/local_232a5c8522071f> rdfs:label "Kayanian Zoroastrian dynasty" .
+
+<https://example.org/history-research/alford2026/entity/local_238a1843d81dd7> rdfs:label "Roman" .
+
+<https://example.org/history-research/alford2026/entity/local_24bca40e2e2a72> rdfs:label "Aṙawan Anjewac‘i" .
+
+<https://example.org/history-research/alford2026/entity/local_3045d283d3ed1d> rdfs:label "letters of complaint against Yazdgerd II" .
+
+<https://example.org/history-research/alford2026/entity/local_420725a973431d> rdfs:label "Sebeos" ;
+    ns1:recorded <https://example.org/history-research/alford2026/entity/local_06c341c34ed831>,
+        <https://example.org/history-research/alford2026/entity/local_feffecae39a254> .
+
+<https://example.org/history-research/alford2026/entity/local_429205d3300ba4> rdfs:label "Ełišē wrote in the sixth century at the earliest" .
+
+<https://example.org/history-research/alford2026/entity/local_45cd4d1dfc8d3c> rdfs:label "Life of his wife, Šušanik" .
+
+<https://example.org/history-research/alford2026/entity/local_4a57314c5fa2ef> rdfs:label "Ašuša of Gugark‘" .
+
+<https://example.org/history-research/alford2026/entity/local_4b83f50af9cc88> rdfs:label "captivity" .
+
+<https://example.org/history-research/alford2026/entity/local_4cabad049c5684> rdfs:label "Iberia" .
+
+<https://example.org/history-research/alford2026/entity/local_4d389b56a0c5fe> rdfs:label "Asorestan’s Christians" .
+
+<https://example.org/history-research/alford2026/entity/local_4d4be0d950eb40> rdfs:label "two of those killed at Ṙewan" ;
+    ns1:destroyed <https://example.org/history-research/alford2026/entity/local_1a3d9dfb4e6348> ;
+    ns1:tortured <https://example.org/history-research/alford2026/entity/local_11a2cafa8196c4> .
+
+<https://example.org/history-research/alford2026/entity/local_4d8034d8981464> rdfs:label "Armenian nobles" .
+
+<https://example.org/history-research/alford2026/entity/local_4f1852509c67a7> rdfs:label "Ašot Kamsarakan" .
+
+<https://example.org/history-research/alford2026/entity/local_542060fa68ae3e> rdfs:label "all the forts so far excavated" .
+
+<https://example.org/history-research/alford2026/entity/local_56913cf8976dc4> rdfs:label "Babgēn" ;
+    ns1:was_taken_from <https://example.org/history-research/alford2026/entity/local_30b2a91ceb60fc> ;
+    ns1:was_the_same_person_as <https://example.org/history-research/alford2026/entity/local_c239a83229e9a8> .
+
+<https://example.org/history-research/alford2026/entity/local_5f1f7cf0623c62> rdfs:label "Awarayr" .
+
+<https://example.org/history-research/alford2026/entity/local_67e1e3182f98a9> rdfs:label "Sasanian capture of Balkh" .
+
+<https://example.org/history-research/alford2026/entity/local_6917033bf06842> rdfs:label "rebellion" .
+
+<https://example.org/history-research/alford2026/entity/local_77f44a749eb032> rdfs:label "Zoroastrian priests" .
+
+<https://example.org/history-research/alford2026/entity/local_7a5facc65dc4af> rdfs:label "Georgians" .
+
+<https://example.org/history-research/alford2026/entity/local_7b1935fc3652cc> rdfs:label "Zuarēn Anjewac‘i" .
+
+<https://example.org/history-research/alford2026/entity/local_7f92f0125b746f> rdfs:label "two groups of captives" .
+
+<https://example.org/history-research/alford2026/entity/local_7fae799babb0eb> rdfs:label "civil war between Yazdgerd’s sons" .
+
+<https://example.org/history-research/alford2026/entity/local_800ffdc52257ac> rdfs:label "Vardan" .
+
+<https://example.org/history-research/alford2026/entity/local_856bf8ffc9a116> rdfs:label "eldest (ceragoyn) captives" .
+
+<https://example.org/history-research/alford2026/entity/local_873b7dd6f5f321> rdfs:label "Kidarite Hun confederacy" .
+
+<https://example.org/history-research/alford2026/entity/local_8c276bb0025e34> rdfs:label "Belašpar" .
+
+<https://example.org/history-research/alford2026/entity/local_8c6a61f167d6ad> rdfs:label "Ṙop‘sean" .
+
+<https://example.org/history-research/alford2026/entity/local_8e7f54fd478754> rdfs:label "clan’s rebellious reputation" .
+
+<https://example.org/history-research/alford2026/entity/local_9abfc29634259f> rdfs:label "Słkuni" .
+
+<https://example.org/history-research/alford2026/entity/local_9cea9fc39cb423> rdfs:label "Theodosius II" .
+
+<https://example.org/history-research/alford2026/entity/local_9d57d27fabde59> rdfs:label "Aršawir Kamsarakan" .
+
+<https://example.org/history-research/alford2026/entity/local_9f69c1ca243941> rdfs:label "Tačat Arcruni" .
+
+<https://example.org/history-research/alford2026/entity/local_a0d2a85d049c85> rdfs:label "civil war" .
+
+<https://example.org/history-research/alford2026/entity/local_a12c48cec5fab4> rdfs:label "Huns" .
+
+<https://example.org/history-research/alford2026/entity/local_a24fc3e8f40a2c> rdfs:label "Ǝnc‘ayac‘i" .
+
+<https://example.org/history-research/alford2026/entity/local_a2607efbf19742> rdfs:label "a Zoroastrian fire-temple in Aštišat" .
+
+<https://example.org/history-research/alford2026/entity/local_a8200508c20849> rdfs:label "Persians" .
+
+<https://example.org/history-research/alford2026/entity/local_aedefa9e49ea47> rdfs:label "Meružan Arcruni" .
+
+<https://example.org/history-research/alford2026/entity/local_b0054e829ecd45> rdfs:label "rebel forces" .
+
+<https://example.org/history-research/alford2026/entity/local_b15e247065c329> rdfs:label "military service" .
+
+<https://example.org/history-research/alford2026/entity/local_b1ad973d8d8bd7> rdfs:label "Tokharistan" .
+
+<https://example.org/history-research/alford2026/entity/local_b2602db8401cec> rdfs:label "children, secular nobility, and Christian clerics" .
+
+<https://example.org/history-research/alford2026/entity/local_b2d675dcf6e191> rdfs:label "Armenian captives" .
+
+<https://example.org/history-research/alford2026/entity/local_b36f19bd02dd6f> rdfs:label "Ctesiphon" .
+
+<https://example.org/history-research/alford2026/entity/local_b3eb4823a8435c> rdfs:label "AD 428" .
+
+<https://example.org/history-research/alford2026/entity/local_b4461d739daace> rdfs:label "the Kidarites" .
+
+<https://example.org/history-research/alford2026/entity/local_b8aafc992b256d> rdfs:label "Council of Šahapivan" .
+
+<https://example.org/history-research/alford2026/entity/local_b8d0a95d3d59fc> rdfs:label "c. 454 AD" .
+
+<https://example.org/history-research/alford2026/entity/local_b9edbd8abad8e6> rdfs:label "Armenia’s leading noble" .
+
+<https://example.org/history-research/alford2026/entity/local_bc1c3fef65ef1d> rdfs:label "captives sent to Gorgān" .
+
+<https://example.org/history-research/alford2026/entity/local_bf1a223444c38b> rdfs:label "Armenian clerics" ;
+    ns1:joined <https://example.org/history-research/alford2026/entity/local_f6be83a3177e40> ;
+    ns1:signed <https://example.org/history-research/alford2026/entity/local_3045d283d3ed1d> .
+
+<https://example.org/history-research/alford2026/entity/local_c17006fcd0463b> rdfs:label "Dat Aṙawełean" .
+
+<https://example.org/history-research/alford2026/entity/local_c19ff2cfd53ba9> rdfs:label "allies" .
+
+<https://example.org/history-research/alford2026/entity/local_c51d52172fc455> rdfs:label "the young, imprisoned priests" .
+
+<https://example.org/history-research/alford2026/entity/local_c536e2e4b2d574> rdfs:label "Mandakuni clan" .
+
+<https://example.org/history-research/alford2026/entity/local_c6079b7b4cd8ad> rdfs:label "the ‘very young’" .
+
+<https://example.org/history-research/alford2026/entity/local_cc09e46de3e49b> rdfs:label "P‘arsman Mandakuni" ;
+    ns1:represented <https://example.org/history-research/alford2026/entity/local_c536e2e4b2d574> ;
+    ns1:represented_the_mandakuni_clan_at <https://example.org/history-research/alford2026/entity/local_5f1f7cf0623c62> .
+
+<https://example.org/history-research/alford2026/entity/local_cd1f085f1945da> rdfs:label "Saraguri Huns" ;
+    ns1:attacked <https://example.org/history-research/alford2026/entity/local_4cabad049c5684>,
+        <https://example.org/history-research/alford2026/entity/local_4e486b4f86520b> .
+
+<https://example.org/history-research/alford2026/entity/local_cdfad138bc7081> rdfs:label "nobles" .
+
+<https://example.org/history-research/alford2026/entity/local_cecf1ed93d253f> rdfs:label "Christian community of Vałaršapat" .
+
+<https://example.org/history-research/alford2026/entity/local_d49a05cc376f2b> rdfs:label "AD 484" .
+
+<https://example.org/history-research/alford2026/entity/local_d7c50a080cb30e> rdfs:label "peace" .
+
+<https://example.org/history-research/alford2026/entity/local_d806040706994b> rdfs:label "Zoroastrian Armenian nobles" .
+
+<https://example.org/history-research/alford2026/entity/local_dab4d759d3c488> rdfs:label "collapse of Sasanian power" .
+
+<https://example.org/history-research/alford2026/entity/local_e5ca0e119aac26> rdfs:label "Yazdgerd and Pērōz" .
+
+<https://example.org/history-research/alford2026/entity/local_eb875812858d27> rdfs:label "some" .
+
+<https://example.org/history-research/alford2026/entity/local_eb92da7a33fa55> rdfs:label "AD 490" .
+
+<https://example.org/history-research/alford2026/entity/local_edbf84a22db86e> rdfs:label "their wives and children" .
+
+<https://example.org/history-research/alford2026/entity/local_efaf05ec75d3f5> rdfs:label "three of their kinsmen" .
+
+<https://example.org/history-research/alford2026/entity/local_f1866f43803080> rdfs:label "the young, imprisoned nobles" .
+
+<https://example.org/history-research/alford2026/entity/local_f5ae35b9964c70> rdfs:label "Armenians" .
+
+<https://example.org/history-research/alford2026/entity/local_f6be83a3177e40> rdfs:label "nobility" .
+
+<https://example.org/history-research/alford2026/entity/local_f7d6984489495c> rdfs:label "Vałaršapat" .
+
+<https://example.org/history-research/alford2026/entity/local_f885d6354f9ead> rdfs:label "T‘at‘ik of Basean" ;
+    ns1:is_among <https://example.org/history-research/alford2026/entity/local_1c6324bb20e2e7> ;
+    ns1:was_executed_in <https://example.org/history-research/alford2026/entity/local_2e0abb4fe937a8> .
+
+<https://example.org/history-research/alford2026/entity/local_06c341c34ed831> rdfs:label "Smbat IV Bagratuni" ;
+    ns1:recruited <https://example.org/history-research/alford2026/entity/local_4d8034d8981464> .
+
+<https://example.org/history-research/alford2026/entity/local_30c763cce49770> rdfs:label "Mihrnerseh" ;
+    ns1:was_grand_vizier_of <https://example.org/history-research/alford2026/entity/local_088e8cee0ed031> .
+
+<https://example.org/history-research/alford2026/entity/local_41ad2687132d47> rdfs:label "Sasanian forces" ;
+    ns1:crushed <https://example.org/history-research/alford2026/entity/local_a82484364476da> .
+
+<https://example.org/history-research/alford2026/entity/local_4482fcacea7af7> rdfs:label "any of their relatives" ;
+    ns1:were_taken_to <https://example.org/history-research/alford2026/entity/local_fd819372827620> .
+
+<https://example.org/history-research/alford2026/entity/local_57b00f8643a965> rdfs:label "locals" ;
+    ns1:stoned <https://example.org/history-research/alford2026/entity/local_77f44a749eb032> .
+
+<https://example.org/history-research/alford2026/entity/local_69f3992ee07533> rdfs:label "captives" ;
+    ns1:were_entrusted_to <https://example.org/history-research/alford2026/entity/local_30c763cce49770> .
+
+<https://example.org/history-research/alford2026/entity/local_75fd60ece86b68> rdfs:label "Vazgen" ;
+    ns1:is_depicted_as_converting_in <https://example.org/history-research/alford2026/entity/local_45cd4d1dfc8d3c> .
+
+<https://example.org/history-research/alford2026/entity/local_b29a9ed3db05fc> rdfs:label "Gadišo Xorxoṙuni" ;
+    ns1:is_leading_zoroastrian_magnate_of <https://example.org/history-research/alford2026/entity/local_4e486b4f86520b> .
+
+<https://example.org/history-research/alford2026/entity/local_bf995ebbcb0ef5> rdfs:label "Hewsen" ;
+    ns1:identified <https://example.org/history-research/alford2026/entity/local_8c6a61f167d6ad>,
+        <https://example.org/history-research/alford2026/entity/local_9abfc29634259f>,
+        <https://example.org/history-research/alford2026/entity/local_a24fc3e8f40a2c> .
+
+<https://example.org/history-research/alford2026/entity/local_c64ae0d3b9c02a> rdfs:label "T‘ovma Arcruni" ;
+    ns1:claims <https://example.org/history-research/alford2026/entity/local_181e100c37cf0e>,
+        <https://example.org/history-research/alford2026/entity/local_9f69c1ca243941> ;
+    ns1:depict <https://example.org/history-research/alford2026/entity/local_cc40e96d22a2fa> .
+
+<https://example.org/history-research/alford2026/entity/local_f540dab655fada> rdfs:label "Nerseh of Širak" ;
+    ns1:is_son_of <https://example.org/history-research/alford2026/entity/local_9d57d27fabde59> .
+
+wd:Q310303 rdfs:label "Sasanian King Yazdgerd II",
+        "Yazdgerd II" ;
+    ns1:attempted_to_convert <https://example.org/history-research/alford2026/entity/local_4a28888444bf5e> ;
+    ns1:forced_to_join_armies <https://example.org/history-research/alford2026/entity/local_f5ae35b9964c70> ;
+    ns1:threatened_to_send <https://example.org/history-research/alford2026/entity/local_cdfad138bc7081> ;
+    ns1:was_rebelled_against_by <https://example.org/history-research/alford2026/entity/local_a82484364476da> .
+
+wd:Q3553280 rdfs:label "Vahan Mamikonean" ;
+    ns1:patronised <https://example.org/history-research/alford2026/entity/local_f7d6984489495c> ;
+    ns1:was_unable_to_gain_prestige_due_to <https://example.org/history-research/alford2026/entity/local_8e7f54fd478754> .
+
+<https://example.org/history-research/alford2026/entity/local_082ef6d88447bd> rdfs:label "‘trans-local family’ structure" .
+
+<https://example.org/history-research/alford2026/entity/local_1e16cc5bbb6837> rdfs:label "province of Šap‘ul/Šahul" .
+
+<https://example.org/history-research/alford2026/entity/local_2c85776677a7d2> rdfs:label "the Sasanian court" .
+
+<https://example.org/history-research/alford2026/entity/local_2e0abb4fe937a8> rdfs:label "Asorestan" .
+
+<https://example.org/history-research/alford2026/entity/local_30b2a91ceb60fc> rdfs:label "Siwni family" .
+
+<https://example.org/history-research/alford2026/entity/local_4a28888444bf5e> rdfs:label "Armenian nobility" .
+
+<https://example.org/history-research/alford2026/entity/local_64fc8c318bf153> rdfs:label "Hephthalite Huns" .
+
+<https://example.org/history-research/alford2026/entity/local_86e16aed581418> rdfs:label "Vasak" .
+
+<https://example.org/history-research/alford2026/entity/local_a892a078835681> rdfs:label "the Armenian nobility" ;
+    ns1:arraigned_to <https://example.org/history-research/alford2026/entity/local_1a17ad24a0f43c> ;
+    ns1:brought <https://example.org/history-research/alford2026/entity/local_edbf84a22db86e> .
+
+<https://example.org/history-research/alford2026/entity/local_c239a83229e9a8> rdfs:label "Babik Siwni" ;
+    ns1:was_a_son_of <https://example.org/history-research/alford2026/entity/local_86e16aed581418> ;
+    ns1:was_retained_at <https://example.org/history-research/alford2026/entity/local_b36f19bd02dd6f> .
+
+<https://example.org/history-research/alford2026/entity/local_d366b5c4bf78e5> rdfs:label "the rebellion" .
+
+<https://example.org/history-research/alford2026/entity/local_e60cef8ee34cd6> rdfs:label "Yovsēp‘" ;
+    ns1:blessed <https://example.org/history-research/alford2026/entity/local_b0054e829ecd45> ;
+    ns1:presided_over <https://example.org/history-research/alford2026/entity/local_b8aafc992b256d> .
+
+<https://example.org/history-research/alford2026/entity/local_ebfe338b24d561> rdfs:label "Armenian Church" ;
+    ns1:canonised wd:Q1280744,
+        <https://example.org/history-research/alford2026/entity/local_c19ff2cfd53ba9> .
+
+<https://example.org/history-research/alford2026/entity/local_ec22b1931a30fc> rdfs:label "Robert Thomson" ;
+    ns1:concludes <https://example.org/history-research/alford2026/entity/local_429205d3300ba4> ;
+    ns1:elides <https://example.org/history-research/alford2026/entity/local_20cbc616930710> ;
+    ns1:fuses <https://example.org/history-research/alford2026/entity/local_24bca40e2e2a72>,
+        <https://example.org/history-research/alford2026/entity/local_c17006fcd0463b> .
+
+<https://example.org/history-research/alford2026/entity/local_f31510ae6dadcc> rdfs:label "Nishapur" .
+
+<https://example.org/history-research/alford2026/entity/local_fd819372827620> rdfs:label "Gorgān" .
+
+<https://example.org/history-research/alford2026/entity/local_feffecae39a254> rdfs:label "rebellion in AD 572" .
+
+<https://example.org/history-research/alford2026/entity/local_3022dd52b5d36f> rdfs:label "Vasak Siwni" ;
+    ns1:captured <https://example.org/history-research/alford2026/entity/local_86e16aed581418> ;
+    ns1:sent <https://example.org/history-research/alford2026/entity/local_06ac58800abcb8> ;
+    ns1:was_removed_as <https://example.org/history-research/alford2026/entity/local_b9edbd8abad8e6> .
+
+<https://example.org/history-research/alford2026/entity/local_5b403eb333785b> rdfs:label "three of the arraigned lords" ;
+    ns1:did_not_see <https://example.org/history-research/alford2026/entity/local_4b83f50af9cc88> .
+
+<https://example.org/history-research/alford2026/entity/local_a82484364476da> rdfs:label "Armenian rebellion" ;
+    ns1:was_crushed_by <https://example.org/history-research/alford2026/entity/local_41ad2687132d47> .
+
+<https://example.org/history-research/alford2026/entity/local_0f1843c1acb13d> rdfs:label "Vahan" .
+
+<https://example.org/history-research/alford2026/entity/local_4e486b4f86520b> rdfs:label "Armenia" .
+
+<https://example.org/history-research/alford2026/entity/local_cc40e96d22a2fa> rdfs:label "Šawasp Arcruni" .
+
+wd:Q1280744 rdfs:label "Vardan Mamikonean" ;
+    ns1:is_father_in_law_of <https://example.org/history-research/alford2026/entity/local_75fd60ece86b68> ;
+    ns1:is_the_brother_of <https://example.org/history-research/alford2026/entity/local_0f1843c1acb13d> ;
+    ns1:killed <https://example.org/history-research/alford2026/entity/local_cc40e96d22a2fa> ;
+    ns1:led <https://example.org/history-research/alford2026/entity/local_feffecae39a254> ;
+    ns1:served <https://example.org/history-research/alford2026/entity/local_a8200508c20849> .
+
+<https://example.org/history-research/alford2026/entity/local_1473eee7fa3d28> rdfs:label "Pērōz" ;
+    ns1:abandoned_strategy_of_paying_off <https://example.org/history-research/alford2026/entity/local_97b4446bfc839a> ;
+    ns1:conducted_campaign_against <https://example.org/history-research/alford2026/entity/local_97b4446bfc839a> ;
+    ns1:died_fighting <https://example.org/history-research/alford2026/entity/local_64fc8c318bf153> ;
+    ns1:died_in <https://example.org/history-research/alford2026/entity/local_b1ad973d8d8bd7>,
+        <https://example.org/history-research/alford2026/entity/local_d49a05cc376f2b> ;
+    ns1:fought_against <https://example.org/history-research/alford2026/entity/local_97b4446bfc839a> ;
+    ns1:sought_aid_from <https://example.org/history-research/alford2026/entity/local_238a1843d81dd7> .
+
+<https://example.org/history-research/alford2026/entity/local_11b58b88d74f85> rdfs:label "Nerseh" ;
+    ns1:donated_to <https://example.org/history-research/alford2026/entity/local_cecf1ed93d253f> ;
+    ns1:negotiated_with <https://example.org/history-research/alford2026/entity/local_0f1843c1acb13d> ;
+    ns1:was_present_at <https://example.org/history-research/alford2026/entity/local_67e1e3182f98a9> .
+
+<https://example.org/history-research/alford2026/entity/local_97b4446bfc839a> rdfs:label "Kidarites" ;
+    ns1:were_destroyed_and_replaced_by <https://example.org/history-research/alford2026/entity/local_64fc8c318bf153> .
+
+<https://example.org/history-research/alford2026/entity/local_088e8cee0ed031> rdfs:label "Yazdgerd" ;
+    ns1:abandoned_strategy_of_paying_off <https://example.org/history-research/alford2026/entity/local_97b4446bfc839a> ;
+    ns1:deported <https://example.org/history-research/alford2026/entity/local_7a5facc65dc4af> ;
+    ns1:moved_from <https://example.org/history-research/alford2026/entity/local_fd819372827620> ;
+    ns1:moved_to <https://example.org/history-research/alford2026/entity/local_f31510ae6dadcc> ;
+    ns1:promoted_connections_to <https://example.org/history-research/alford2026/entity/local_232a5c8522071f> ;
+    ns1:suffered_a_defeat_against <https://example.org/history-research/alford2026/entity/local_b4461d739daace> .
+
+<https://example.org/history-research/alford2026/entity/local_c914d55305f769> rdfs:label "Ełišē" ;
+    ns1:adds <https://example.org/history-research/alford2026/entity/local_11b58b88d74f85>,
+        <https://example.org/history-research/alford2026/entity/local_4f1852509c67a7>,
+        <https://example.org/history-research/alford2026/entity/local_7b1935fc3652cc>,
+        <https://example.org/history-research/alford2026/entity/local_aedefa9e49ea47> ;
+    ns1:adds_that_a_persian_captive_was_dispatched_as_a_messenger_to <https://example.org/history-research/alford2026/entity/local_088e8cee0ed031> ;
+    ns1:claims <https://example.org/history-research/alford2026/entity/local_a892a078835681> ;
+    ns1:held <https://example.org/history-research/alford2026/entity/local_eb875812858d27> ;
+    ns1:included <https://example.org/history-research/alford2026/entity/local_800ffdc52257ac> ;
+    ns1:juxtaposes <https://example.org/history-research/alford2026/entity/local_856bf8ffc9a116>,
+        <https://example.org/history-research/alford2026/entity/local_c6079b7b4cd8ad> ;
+    ns1:records <https://example.org/history-research/alford2026/entity/local_bc1c3fef65ef1d> ;
+    ns1:refers_to <https://example.org/history-research/alford2026/entity/local_e60cef8ee34cd6> .
+
+<https://example.org/history-research/alford2026/entity/local_d5ec3f64533613> rdfs:label "Łazar" ;
+    ns1:claims <https://example.org/history-research/alford2026/entity/local_0f1843c1acb13d>,
+        <https://example.org/history-research/alford2026/entity/local_3022dd52b5d36f>,
+        <https://example.org/history-research/alford2026/entity/local_4482fcacea7af7>,
+        <https://example.org/history-research/alford2026/entity/local_5b403eb333785b>,
+        <https://example.org/history-research/alford2026/entity/local_69f3992ee07533> ;
+    ns1:complains_that wd:Q3553280 ;
+    ns1:does_not_mention <https://example.org/history-research/alford2026/entity/local_04d585941935c4> ;
+    ns1:elides <https://example.org/history-research/alford2026/entity/local_7fae799babb0eb> ;
+    ns1:had_a_close_relationship_with <https://example.org/history-research/alford2026/entity/local_11b58b88d74f85> ;
+    ns1:highlighted_a_campaign_at <https://example.org/history-research/alford2026/entity/local_106bfc890eab9f> ;
+    ns1:highlights <https://example.org/history-research/alford2026/entity/local_b29a9ed3db05fc> ;
+    ns1:identified <https://example.org/history-research/alford2026/entity/local_0c7d61eaa5f3cc>,
+        <https://example.org/history-research/alford2026/entity/local_5b403eb333785b> ;
+    ns1:lived_with <https://example.org/history-research/alford2026/entity/local_11b58b88d74f85>,
+        <https://example.org/history-research/alford2026/entity/local_1fba4d5ada5ccc> ;
+    ns1:mentions <https://example.org/history-research/alford2026/entity/local_b15e247065c329> ;
+    ns1:referred_to <https://example.org/history-research/alford2026/entity/local_c51d52172fc455>,
+        <https://example.org/history-research/alford2026/entity/local_f1866f43803080> .
+

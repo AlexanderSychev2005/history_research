@@ -1,0 +1,64 @@
+@prefix ex: <https://example.org/history-research/> .
+@prefix ns1: <https://example.org/history-research/relation/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+<https://example.org/history-research/alford2026/entity/local_1297cb4765a476> rdfs:label "Vahan" .
+
+<https://example.org/history-research/alford2026/entity/local_71c0f63822f05d> rdfs:label "Łazar" .
+
+<https://example.org/history-research/alford2026/statement/1> a rdf:Statement ;
+    rdf:object wd:Q310303 ;
+    rdf:predicate ns1:died_in_battle_against ;
+    rdf:subject wd:Q1280744 ;
+    ex:evidence "The battle resulted in the death of rebel leader Vardan Mamikonean" ;
+    ex:paragraphId "p003" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/2> a rdf:Statement ;
+    rdf:object wd:Q2085338 ;
+    rdf:predicate ns1:wrote_history_sponsored_by ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_22eca46dd2c751> ;
+    ex:evidence "his history was sponsored by Vahan Mamikonean" ;
+    ex:paragraphId "p004" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/3> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_22eca46dd2c751> ;
+    rdf:predicate ns1:led_rebellion_against ;
+    rdf:subject wd:Q2085338 ;
+    ex:evidence "led his own rebellion against the Sasanians" ;
+    ex:paragraphId "p004" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/4> a rdf:Statement ;
+    rdf:object wd:Q2085338 ;
+    rdf:predicate ns1:childhood_playmate_of ;
+    rdf:subject <https://example.org/history-research/alford2026/entity/local_22eca46dd2c751> ;
+    ex:evidence "Łazar had been Vahan’s childhood playmate" ;
+    ex:paragraphId "p004" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+<https://example.org/history-research/alford2026/statement/5> a rdf:Statement ;
+    rdf:object <https://example.org/history-research/alford2026/entity/local_22eca46dd2c751> ;
+    rdf:predicate ns1:appointed_abbot_of ;
+    rdf:subject wd:Q2085338 ;
+    ex:evidence "appointed as abbot of the monastery of Vałaršapat (modern Eǰmiacin) by Vahan" ;
+    ex:paragraphId "p004" ;
+    ex:sourceDocument <https://example.org/history-research/document/alford2026> .
+
+wd:Q1280744 rdfs:label "Vardan Mamikonean" ;
+    ns1:died_in_battle_against wd:Q310303 .
+
+wd:Q310303 rdfs:label "Sasanian King Yazdgerd II",
+        "Yazdgerd II" .
+
+wd:Q2085338 rdfs:label "Vahan Mamikonean" ;
+    ns1:appointed_abbot_of <https://example.org/history-research/alford2026/entity/local_22eca46dd2c751> ;
+    ns1:led_rebellion_against <https://example.org/history-research/alford2026/entity/local_22eca46dd2c751> .
+
+<https://example.org/history-research/alford2026/entity/local_22eca46dd2c751> rdfs:label "Łazar P‘arpec‘i" ;
+    ns1:childhood_playmate_of wd:Q2085338 ;
+    ns1:wrote_history_sponsored_by wd:Q2085338 .
+
