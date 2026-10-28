@@ -1,14 +1,16 @@
+"""GLiNER NER: texts/<doc>.json -> outputs/<doc>_ner_gliner[-clean].json.
 
+  uv run python pipeline/ner.py --doc alford2026 [--clean]
+"""
+import argparse
 import json
 import re
 from pathlib import Path
 
 from gliner import GLiNER
 
-INPUT = Path("texts/alford2026.json")
-OUTPUT = Path("outputs/alford2026_ner.json")
-
 LABELS = ["person", "location", "organization", "event"]
+CLEAN_LABELS = LABELS + ["written work"]
 MODEL_NAME = "urchade/gliner_medium-v2.1"
 
 # Conservative character limit to avoid token truncation.
@@ -50,13 +52,27 @@ def make_chunks(text):
     return chunks
 
 
-def extract_mentions(model, text):
+def model_text(text):
+    """Armenian transliteration writes aspiration with ‘ inside a word (P‘arpec‘i, eric‘anc‘s); GLiNER splits words
+    there. Swap it for the letter-like ʻ (same length, so offsets do not move); a possessive ’s is left alone."""
+    return re.sub(r"(?<=\w)[‘’](?=\w)(?!s\b)", "ʻ", text)
+
+
+def keep(mention_text):
+    """Drop generic nouns (no capital letter: 'rebellion', 'captives', 'they') and bare dates ('AD 450–1', 'c. 482')."""
+    if not any(c.isupper() for c in mention_text):
+        return False
+    return re.sub(r"\b(?:AD|BC|BCE|CE|c)\b|[\d\s.,/–-]", "", mention_text) != ""
+
+
+def extract_mentions(model, original, clean=False):
     mentions_by_span = {}
+    text = model_text(original) if clean else original
 
     for chunk_start, chunk in make_chunks(text):
         predictions = model.predict_entities(
             chunk,
-            LABELS,
+            CLEAN_LABELS if clean else LABELS,
             threshold=0.4,
         )
 
@@ -68,8 +84,11 @@ def extract_mentions(model, text):
             if text[start:end] != entity["text"]:
                 continue
 
+            if clean and not keep(entity["text"]):
+                continue
+
             mention = {
-                "text": entity["text"],
+                "text": original[start:end],
                 "start": start,
                 "end": end,
                 "label": entity["label"],
@@ -92,6 +111,13 @@ def extract_mentions(model, text):
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--doc", default="alford2026")
+    parser.add_argument("--clean", action="store_true", help="keep the transliteration ‘ inside words, drop generic nouns and dates, add a written work label")
+    args = parser.parse_args()
+    INPUT = Path(f"texts/{args.doc}.json")
+    OUTPUT = Path(f"outputs/{args.doc}_ner_gliner{'-clean' if args.clean else ''}.json")
+
     model = GLiNER.from_pretrained(MODEL_NAME)
 
     with INPUT.open(encoding="utf-8") as f:
@@ -100,7 +126,7 @@ def main():
     results = []
 
     for paragraph in document["paragraphs"]:
-        mentions = extract_mentions(model, paragraph["text"])
+        mentions = extract_mentions(model, paragraph["text"], args.clean)
 
         results.append({
             "paragraph_id": paragraph["id"],

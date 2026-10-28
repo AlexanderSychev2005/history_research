@@ -1,0 +1,900 @@
+{
+ "doc_id": "nechaeva2017",
+ "annotator": "claude-draft (from the text only, before seeing relation output); needs historian review",
+ "scope": {
+  "paragraphs": [
+   "p004",
+   "p013",
+   "p014",
+   "p018",
+   "p019"
+  ]
+ },
+ "entities": [
+  {
+   "eid": "AGA",
+   "label": "Agathias",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "DAM",
+   "label": "Damascius",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "SYR",
+   "label": "Syria",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "SIM",
+   "label": "Simplicius",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "CIL",
+   "label": "Cilicia",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "EUL",
+   "label": "Eulamius",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "PHR",
+   "label": "Phrygia",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "PRI",
+   "label": "Priscian",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "LYD",
+   "label": "Lydia",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "HER",
+   "label": "Hermes",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "DIO",
+   "label": "Diogenes",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "PHO",
+   "label": "Phoenicia",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "ISI",
+   "label": "Isidore",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "GAZ",
+   "label": "Gaza",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "PERS",
+   "label": "Sasanian Empire",
+   "type": "location",
+   "aliases": [
+    "Persia",
+    "Persians"
+   ]
+  },
+  {
+   "eid": "ROM",
+   "label": "Byzantine Empire",
+   "type": "location",
+   "aliases": [
+    "Roman Empire",
+    "Romans"
+   ]
+  },
+  {
+   "eid": "PLA",
+   "label": "Plato",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "DOM",
+   "label": "Domitziolus",
+   "type": "person",
+   "aliases": [
+    "Domnentiolus"
+   ]
+  },
+  {
+   "eid": "BUZ",
+   "label": "Buzes",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "CAL",
+   "label": "Callinicum",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "IZD",
+   "label": "Izdegerd",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "HOR",
+   "label": "Hormizd",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "ARZ",
+   "label": "Arzanene",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "PRM",
+   "label": "Persarmenia",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "PSZ",
+   "label": "Pseudo-Zacharias",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "PRO",
+   "label": "Procopius",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "DAG",
+   "label": "Dagaris",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "SIT",
+   "label": "Sittas",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "DOR",
+   "label": "Dorotheus",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "ARN",
+   "label": "Armenia",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "HUN",
+   "label": "Huns",
+   "type": "organization",
+   "aliases": []
+  },
+  {
+   "eid": "GRI",
+   "label": "Grigor",
+   "type": "person",
+   "aliases": [
+    "Mar Grigor",
+    "Pīrān-Gušnasp"
+   ]
+  },
+  {
+   "eid": "JUS",
+   "label": "Justinian",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "MART",
+   "label": "Martyrdom of Mar Grigor",
+   "type": "written work",
+   "aliases": [
+    "Martyrdom",
+    "Martyrium"
+   ]
+  },
+  {
+   "eid": "CHO",
+   "label": "Chosroes",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "ZAB",
+   "label": "Zabergān",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "COE",
+   "label": "Church of the East",
+   "type": "organization",
+   "aliases": []
+  },
+  {
+   "eid": "CON",
+   "label": "Constantinople",
+   "type": "location",
+   "aliases": []
+  }
+ ],
+ "mentions": [
+  {
+   "para": "p004",
+   "start": 13,
+   "end": 21,
+   "text": "Agathias",
+   "entity": "AGA"
+  },
+  {
+   "para": "p004",
+   "start": 55,
+   "end": 64,
+   "text": "Damascius",
+   "entity": "DAM"
+  },
+  {
+   "para": "p004",
+   "start": 68,
+   "end": 73,
+   "text": "Syria",
+   "entity": "SYR"
+  },
+  {
+   "para": "p004",
+   "start": 75,
+   "end": 85,
+   "text": "Simplicius",
+   "entity": "SIM"
+  },
+  {
+   "para": "p004",
+   "start": 89,
+   "end": 96,
+   "text": "Cilicia",
+   "entity": "CIL"
+  },
+  {
+   "para": "p004",
+   "start": 98,
+   "end": 106,
+   "text": "Eulamius",
+   "entity": "EUL"
+  },
+  {
+   "para": "p004",
+   "start": 110,
+   "end": 117,
+   "text": "Phrygia",
+   "entity": "PHR"
+  },
+  {
+   "para": "p004",
+   "start": 119,
+   "end": 127,
+   "text": "Priscian",
+   "entity": "PRI"
+  },
+  {
+   "para": "p004",
+   "start": 131,
+   "end": 136,
+   "text": "Lydia",
+   "entity": "LYD"
+  },
+  {
+   "para": "p004",
+   "start": 138,
+   "end": 144,
+   "text": "Hermes",
+   "entity": "HER"
+  },
+  {
+   "para": "p004",
+   "start": 149,
+   "end": 157,
+   "text": "Diogenes",
+   "entity": "DIO"
+  },
+  {
+   "para": "p004",
+   "start": 161,
+   "end": 170,
+   "text": "Phoenicia",
+   "entity": "PHO"
+  },
+  {
+   "para": "p004",
+   "start": 176,
+   "end": 183,
+   "text": "Isidore",
+   "entity": "ISI"
+  },
+  {
+   "para": "p004",
+   "start": 187,
+   "end": 191,
+   "text": "Gaza",
+   "entity": "GAZ"
+  },
+  {
+   "para": "p004",
+   "start": 201,
+   "end": 207,
+   "text": "Persia",
+   "entity": "PERS"
+  },
+  {
+   "para": "p004",
+   "start": 273,
+   "end": 279,
+   "text": "Romans",
+   "entity": "ROM"
+  },
+  {
+   "para": "p004",
+   "start": 383,
+   "end": 388,
+   "text": "Plato",
+   "entity": "PLA"
+  },
+  {
+   "para": "p004",
+   "start": 572,
+   "end": 578,
+   "text": "Persia",
+   "entity": "PERS"
+  },
+  {
+   "para": "p004",
+   "start": 676,
+   "end": 684,
+   "text": "Agathias",
+   "entity": "AGA"
+  },
+  {
+   "para": "p013",
+   "start": 137,
+   "end": 148,
+   "text": "Domitziolus",
+   "entity": "DOM"
+  },
+  {
+   "para": "p013",
+   "start": 153,
+   "end": 165,
+   "text": "Domnentiolus",
+   "entity": "DOM"
+  },
+  {
+   "para": "p013",
+   "start": 199,
+   "end": 204,
+   "text": "Buzes",
+   "entity": "BUZ"
+  },
+  {
+   "para": "p013",
+   "start": 232,
+   "end": 240,
+   "text": "Persians",
+   "entity": "PERS"
+  },
+  {
+   "para": "p013",
+   "start": 260,
+   "end": 270,
+   "text": "Callinicum",
+   "entity": "CAL"
+  },
+  {
+   "para": "p013",
+   "start": 329,
+   "end": 337,
+   "text": "Izdegerd",
+   "entity": "IZD"
+  },
+  {
+   "para": "p013",
+   "start": 351,
+   "end": 358,
+   "text": "Hormizd",
+   "entity": "HOR"
+  },
+  {
+   "para": "p013",
+   "start": 373,
+   "end": 381,
+   "text": "Arzanene",
+   "entity": "ARZ"
+  },
+  {
+   "para": "p013",
+   "start": 385,
+   "end": 396,
+   "text": "Persarmenia",
+   "entity": "PRM"
+  },
+  {
+   "para": "p013",
+   "start": 433,
+   "end": 439,
+   "text": "Romans",
+   "entity": "ROM"
+  },
+  {
+   "para": "p013",
+   "start": 462,
+   "end": 478,
+   "text": "Pseudo-Zacharias",
+   "entity": "PSZ"
+  },
+  {
+   "para": "p013",
+   "start": 531,
+   "end": 542,
+   "text": "Domitziolus",
+   "entity": "DOM"
+  },
+  {
+   "para": "p013",
+   "start": 622,
+   "end": 630,
+   "text": "Izdegerd",
+   "entity": "IZD"
+  },
+  {
+   "para": "p013",
+   "start": 671,
+   "end": 687,
+   "text": "Pseudo-Zacharias",
+   "entity": "PSZ"
+  },
+  {
+   "para": "p013",
+   "start": 721,
+   "end": 729,
+   "text": "Izdegerd",
+   "entity": "IZD"
+  },
+  {
+   "para": "p014",
+   "start": 45,
+   "end": 54,
+   "text": "Procopius",
+   "entity": "PRO"
+  },
+  {
+   "para": "p014",
+   "start": 75,
+   "end": 82,
+   "text": "Dagaris",
+   "entity": "DAG"
+  },
+  {
+   "para": "p014",
+   "start": 137,
+   "end": 143,
+   "text": "Sittas",
+   "entity": "SIT"
+  },
+  {
+   "para": "p014",
+   "start": 147,
+   "end": 156,
+   "text": "Dorotheus",
+   "entity": "DOR"
+  },
+  {
+   "para": "p014",
+   "start": 204,
+   "end": 211,
+   "text": "Armenia",
+   "entity": "ARN"
+  },
+  {
+   "para": "p014",
+   "start": 246,
+   "end": 252,
+   "text": "Persia",
+   "entity": "PERS"
+  },
+  {
+   "para": "p014",
+   "start": 293,
+   "end": 299,
+   "text": "Romans",
+   "entity": "ROM"
+  },
+  {
+   "para": "p014",
+   "start": 344,
+   "end": 352,
+   "text": "Persians",
+   "entity": "PERS"
+  },
+  {
+   "para": "p014",
+   "start": 396,
+   "end": 405,
+   "text": "Procopius",
+   "entity": "PRO"
+  },
+  {
+   "para": "p014",
+   "start": 433,
+   "end": 440,
+   "text": "Dagaris",
+   "entity": "DAG"
+  },
+  {
+   "para": "p014",
+   "start": 522,
+   "end": 526,
+   "text": "Huns",
+   "entity": "HUN"
+  },
+  {
+   "para": "p018",
+   "start": 27,
+   "end": 40,
+   "text": "Pīrān-Gušnasp",
+   "entity": "GRI"
+  },
+  {
+   "para": "p018",
+   "start": 84,
+   "end": 90,
+   "text": "Grigor",
+   "entity": "GRI"
+  },
+  {
+   "para": "p018",
+   "start": 145,
+   "end": 151,
+   "text": "Grigor",
+   "entity": "GRI"
+  },
+  {
+   "para": "p018",
+   "start": 269,
+   "end": 275,
+   "text": "Grigor",
+   "entity": "GRI"
+  },
+  {
+   "para": "p018",
+   "start": 445,
+   "end": 451,
+   "text": "Grigor",
+   "entity": "GRI"
+  },
+  {
+   "para": "p018",
+   "start": 597,
+   "end": 606,
+   "text": "Justinian",
+   "entity": "JUS"
+  },
+  {
+   "para": "p018",
+   "start": 666,
+   "end": 672,
+   "text": "Persia",
+   "entity": "PERS"
+  },
+  {
+   "para": "p018",
+   "start": 785,
+   "end": 791,
+   "text": "Grigor",
+   "entity": "GRI"
+  },
+  {
+   "para": "p018",
+   "start": 804,
+   "end": 810,
+   "text": "Persia",
+   "entity": "PERS"
+  },
+  {
+   "para": "p018",
+   "start": 913,
+   "end": 919,
+   "text": "Grigor",
+   "entity": "GRI"
+  },
+  {
+   "para": "p018",
+   "start": 927,
+   "end": 939,
+   "text": "Roman Empire",
+   "entity": "ROM"
+  },
+  {
+   "para": "p019",
+   "start": 4,
+   "end": 13,
+   "text": "Martyrium",
+   "entity": "MART"
+  },
+  {
+   "para": "p019",
+   "start": 59,
+   "end": 67,
+   "text": "Chosroes",
+   "entity": "CHO"
+  },
+  {
+   "para": "p019",
+   "start": 228,
+   "end": 236,
+   "text": "Zabergān",
+   "entity": "ZAB"
+  },
+  {
+   "para": "p019",
+   "start": 269,
+   "end": 279,
+   "text": "Mar Grigor",
+   "entity": "GRI"
+  },
+  {
+   "para": "p019",
+   "start": 389,
+   "end": 395,
+   "text": "Grigor",
+   "entity": "GRI"
+  },
+  {
+   "para": "p019",
+   "start": 424,
+   "end": 430,
+   "text": "Persia",
+   "entity": "PERS"
+  },
+  {
+   "para": "p019",
+   "start": 521,
+   "end": 530,
+   "text": "Martyrdom",
+   "entity": "MART"
+  },
+  {
+   "para": "p019",
+   "start": 541,
+   "end": 547,
+   "text": "Grigor",
+   "entity": "GRI"
+  },
+  {
+   "para": "p019",
+   "start": 598,
+   "end": 616,
+   "text": "Church of the East",
+   "entity": "COE"
+  },
+  {
+   "para": "p019",
+   "start": 669,
+   "end": 683,
+   "text": "Constantinople",
+   "entity": "CON"
+  },
+  {
+   "para": "p019",
+   "start": 729,
+   "end": 738,
+   "text": "Martyrdom",
+   "entity": "MART"
+  },
+  {
+   "para": "p019",
+   "start": 793,
+   "end": 799,
+   "text": "Grigor",
+   "entity": "GRI"
+  },
+  {
+   "para": "p019",
+   "start": 888,
+   "end": 896,
+   "text": "Zabergān",
+   "entity": "ZAB"
+  }
+ ],
+ "facts": [
+  {
+   "para": "p004",
+   "subj": "DAM",
+   "rel": "schema:location",
+   "obj": "SYR"
+  },
+  {
+   "para": "p004",
+   "subj": "SIM",
+   "rel": "schema:location",
+   "obj": "CIL"
+  },
+  {
+   "para": "p004",
+   "subj": "EUL",
+   "rel": "schema:location",
+   "obj": "PHR"
+  },
+  {
+   "para": "p004",
+   "subj": "PRI",
+   "rel": "schema:location",
+   "obj": "LYD"
+  },
+  {
+   "para": "p004",
+   "subj": "HER",
+   "rel": "schema:location",
+   "obj": "PHO"
+  },
+  {
+   "para": "p004",
+   "subj": "DIO",
+   "rel": "schema:location",
+   "obj": "PHO"
+  },
+  {
+   "para": "p004",
+   "subj": "ISI",
+   "rel": "schema:location",
+   "obj": "GAZ"
+  },
+  {
+   "para": "p004",
+   "subj": "DAM",
+   "rel": "schema:location",
+   "obj": "PERS"
+  },
+  {
+   "para": "p004",
+   "subj": "SIM",
+   "rel": "schema:location",
+   "obj": "PERS"
+  },
+  {
+   "para": "p004",
+   "subj": "EUL",
+   "rel": "schema:location",
+   "obj": "PERS"
+  },
+  {
+   "para": "p004",
+   "subj": "PRI",
+   "rel": "schema:location",
+   "obj": "PERS"
+  },
+  {
+   "para": "p004",
+   "subj": "HER",
+   "rel": "schema:location",
+   "obj": "PERS"
+  },
+  {
+   "para": "p004",
+   "subj": "DIO",
+   "rel": "schema:location",
+   "obj": "PERS"
+  },
+  {
+   "para": "p004",
+   "subj": "ISI",
+   "rel": "schema:location",
+   "obj": "PERS"
+  },
+  {
+   "para": "p013",
+   "subj": "DOM",
+   "rel": "ex:relativeOf",
+   "obj": "BUZ"
+  },
+  {
+   "para": "p013",
+   "subj": "DOM",
+   "rel": "ex:captiveIn",
+   "obj": "PERS"
+  },
+  {
+   "para": "p013",
+   "subj": "IZD",
+   "rel": "ex:relativeOf",
+   "obj": "HOR"
+  },
+  {
+   "para": "p013",
+   "subj": "ARZ",
+   "rel": "schema:location",
+   "obj": "PRM"
+  },
+  {
+   "para": "p013",
+   "subj": "IZD",
+   "rel": "ex:captiveIn",
+   "obj": "ROM"
+  },
+  {
+   "para": "p014",
+   "subj": "DAG",
+   "rel": "schema:location",
+   "obj": "ARN"
+  },
+  {
+   "para": "p014",
+   "subj": "DAG",
+   "rel": "ex:opposed",
+   "obj": "HUN"
+  },
+  {
+   "para": "p018",
+   "subj": "GRI",
+   "rel": "schema:worksFor",
+   "obj": "JUS"
+  },
+  {
+   "para": "p018",
+   "subj": "GRI",
+   "rel": "schema:location",
+   "obj": "PERS"
+  },
+  {
+   "para": "p018",
+   "subj": "GRI",
+   "rel": "schema:worksFor",
+   "obj": "ROM"
+  },
+  {
+   "para": "p019",
+   "subj": "GRI",
+   "rel": "schema:memberOf",
+   "obj": "COE"
+  },
+  {
+   "para": "p019",
+   "subj": "GRI",
+   "rel": "schema:location",
+   "obj": "CON"
+  }
+ ]
+}

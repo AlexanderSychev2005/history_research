@@ -1,35 +1,27 @@
-# Experiment 01: Historical Alias Diagnostic
+# Experiment 01: historical name variants (alias diagnostic)
 
-## Research question
-Do historical spelling variants contribute to incorrect entity linking in LELA?
+## Question
+Do historical spellings cause LELA's linking errors?
 
-## Configuration
-- NER: NuNER Zero-span, threshold 0.3
-- Candidate generation: fuzzy, top_k=20
-- Reranker: none
-- Disambiguator: first
-- Knowledge base: YAGO 4.5
-- Source: Alford 2026, paragraph p004
+## Setup
+LELA with NuNER Zero-span (threshold 0.3), fuzzy candidates (top 20), no reranker, `first` disambiguator, YAGO 4.5.
+Alford 2026, paragraph p004. The paragraph was run as it stands (`predictions/baseline_alford.jsonl`), and again
+with five historical names replaced by their canonical YAGO names (`alias_input.txt`,
+`predictions/alias_alford.jsonl`).
 
-## Method
-Compare LELA predictions on the original paragraph and a modified
-copy in which five historical mentions are replaced with canonical
-YAGO names. The same LELA configuration is used for both runs.
+## Results (`results.csv`)
 
-## Results
-- Original historical mentions: 0/5 correctly linked
-- Canonical replacements: 5/5 correctly linked
-- All five replacement mentions were detected and linked to the
-  expected YAGO entity.
+| mention in the paper | replaced by | original text links to | replaced text links to |
+|---|---|---|---|
+| Łazar P‘arpec‘i | Ghazar Parpetsi | Azar (wrong) | Ghazar_Parpetsi |
+| Gorgān | Hyrcania | Go_GO_GO_Go (wrong) | Hyrcania |
+| Sasanians | Sasanian Empire | Asan (wrong) | Sasanian_Empire |
+| Vałaršapat | Vagharshapat | Apate (wrong) | Vagharshapat |
+| Eǰmiacin | Vagharshapat | Emilcin (wrong) | Vagharshapat |
 
-## Interpretation
-The results support the hypothesis that historical spelling variants
-contribute to entity-linking failures.
+0/5 correct with the original names, 5/5 with the canonical ones.
 
-## Limitations
-This is an oracle-assisted diagnostic experiment: replacement names
-were chosen using known gold entities. It does not demonstrate
-generalizable improvement on unseen texts.
-
-## Next step
-Test automatic normalization without using gold entity names.
+## Reading and limits
+Spelling variants account for these failures. The test uses an oracle: the replacements were chosen from the gold
+entities, so it shows the size of the problem, not a method. Experiment 02 tries an automatic normalisation (removing
+diacritics); it fixes none of the five.

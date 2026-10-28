@@ -1,0 +1,3694 @@
+{
+ "doc_id": "nechaeva2017",
+ "entities": [
+  {
+   "eid": "m0",
+   "label": "Agathias"
+  },
+  {
+   "eid": "m1",
+   "label": "Agathias of Myrina"
+  },
+  {
+   "eid": "m2",
+   "label": "Amidan"
+  },
+  {
+   "eid": "m3",
+   "label": "An anonymous Eastern-Syriac account"
+  },
+  {
+   "eid": "m4",
+   "label": "Anthony Kaldellis"
+  },
+  {
+   "eid": "m5",
+   "label": "April of 531"
+  },
+  {
+   "eid": "m6",
+   "label": "Armenia"
+  },
+  {
+   "eid": "m7",
+   "label": "Arzanene"
+  },
+  {
+   "eid": "m8",
+   "label": "Athenian Neoplatonic School"
+  },
+  {
+   "eid": "m9",
+   "label": "Athens"
+  },
+  {
+   "eid": "m10",
+   "label": "Bolum"
+  },
+  {
+   "eid": "m11",
+   "label": "Buzes"
+  },
+  {
+   "eid": "m12",
+   "label": "Callinicum"
+  },
+  {
+   "eid": "m13",
+   "label": "Caucasus"
+  },
+  {
+   "eid": "m14",
+   "label": "Cavades"
+  },
+  {
+   "eid": "m15",
+   "label": "Chosroe"
+  },
+  {
+   "eid": "m16",
+   "label": "Chosroes"
+  },
+  {
+   "eid": "m17",
+   "label": "Chosroes I"
+  },
+  {
+   "eid": "m18",
+   "label": "Christian"
+  },
+  {
+   "eid": "m19",
+   "label": "Christian Persian general"
+  },
+  {
+   "eid": "m20",
+   "label": "Christian Roman Empire"
+  },
+  {
+   "eid": "m21",
+   "label": "Christian milieu"
+  },
+  {
+   "eid": "m22",
+   "label": "Christian persecutions"
+  },
+  {
+   "eid": "m23",
+   "label": "Christianity"
+  },
+  {
+   "eid": "m24",
+   "label": "Christians"
+  },
+  {
+   "eid": "m25",
+   "label": "Chrosroes"
+  },
+  {
+   "eid": "m26",
+   "label": "Church of the East"
+  },
+  {
+   "eid": "m27",
+   "label": "Constantinople"
+  },
+  {
+   "eid": "m28",
+   "label": "Dagaris"
+  },
+  {
+   "eid": "m29",
+   "label": "Damascius"
+  },
+  {
+   "eid": "m30",
+   "label": "Damascius of Syria"
+  },
+  {
+   "eid": "m31",
+   "label": "Diogenes of Phoenicia"
+  },
+  {
+   "eid": "m32",
+   "label": "Domitziolus"
+  },
+  {
+   "eid": "m33",
+   "label": "Domnentiolus"
+  },
+  {
+   "eid": "m34",
+   "label": "Dorotheus"
+  },
+  {
+   "eid": "m35",
+   "label": "Emperor"
+  },
+  {
+   "eid": "m36",
+   "label": "Empress"
+  },
+  {
+   "eid": "m37",
+   "label": "Endless Peace preparations"
+  },
+  {
+   "eid": "m38",
+   "label": "Endless Peace treaty"
+  },
+  {
+   "eid": "m39",
+   "label": "Endless Peace treaty of 532"
+  },
+  {
+   "eid": "m40",
+   "label": "Endless or Eternal Peace treaty"
+  },
+  {
+   "eid": "m41",
+   "label": "Eulamius of Phrygia"
+  },
+  {
+   "eid": "m42",
+   "label": "Florence Jullien"
+  },
+  {
+   "eid": "m43",
+   "label": "G. Greatrex"
+  },
+  {
+   "eid": "m44",
+   "label": "Grigor"
+  },
+  {
+   "eid": "m45",
+   "label": "Hellenic philosophers"
+  },
+  {
+   "eid": "m46",
+   "label": "Hermes"
+  },
+  {
+   "eid": "m47",
+   "label": "Hormizd"
+  },
+  {
+   "eid": "m48",
+   "label": "Hun allies"
+  },
+  {
+   "eid": "m49",
+   "label": "Huns"
+  },
+  {
+   "eid": "m50",
+   "label": "Iberia"
+  },
+  {
+   "eid": "m51",
+   "label": "Iberia and Albania"
+  },
+  {
+   "eid": "m52",
+   "label": "Iberian nobility"
+  },
+  {
+   "eid": "m53",
+   "label": "Isidore of Gaza"
+  },
+  {
+   "eid": "m54",
+   "label": "Izdegerd"
+  },
+  {
+   "eid": "m55",
+   "label": "John Malalas"
+  },
+  {
+   "eid": "m56",
+   "label": "Justinian"
+  },
+  {
+   "eid": "m57",
+   "label": "Kaldellis"
+  },
+  {
+   "eid": "m58",
+   "label": "Khusro"
+  },
+  {
+   "eid": "m59",
+   "label": "Lazica"
+  },
+  {
+   "eid": "m60",
+   "label": "Malalas"
+  },
+  {
+   "eid": "m61",
+   "label": "Mar Grigor"
+  },
+  {
+   "eid": "m62",
+   "label": "Mar Grigor/Pīrān-Gušnasp"
+  },
+  {
+   "eid": "m63",
+   "label": "Mart. Grig."
+  },
+  {
+   "eid": "m64",
+   "label": "Mart. Grig. 5–6"
+  },
+  {
+   "eid": "m65",
+   "label": "Mart. Grig. 8"
+  },
+  {
+   "eid": "m66",
+   "label": "Mart. Grig. 9"
+  },
+  {
+   "eid": "m67",
+   "label": "Martyrdom"
+  },
+  {
+   "eid": "m68",
+   "label": "Martyrdom of Mar Grigor"
+  },
+  {
+   "eid": "m69",
+   "label": "Menander"
+  },
+  {
+   "eid": "m70",
+   "label": "Negotiations"
+  },
+  {
+   "eid": "m71",
+   "label": "Nisibis"
+  },
+  {
+   "eid": "m72",
+   "label": "Persarmenia"
+  },
+  {
+   "eid": "m73",
+   "label": "Persia"
+  },
+  {
+   "eid": "m74",
+   "label": "Persian Empire"
+  },
+  {
+   "eid": "m75",
+   "label": "Persian ambassador"
+  },
+  {
+   "eid": "m76",
+   "label": "Persian asylum"
+  },
+  {
+   "eid": "m77",
+   "label": "Persian court"
+  },
+  {
+   "eid": "m78",
+   "label": "Persian emissary"
+  },
+  {
+   "eid": "m79",
+   "label": "Persian envoy"
+  },
+  {
+   "eid": "m80",
+   "label": "Persian generals"
+  },
+  {
+   "eid": "m81",
+   "label": "Persian hands"
+  },
+  {
+   "eid": "m82",
+   "label": "Persian shah"
+  },
+  {
+   "eid": "m83",
+   "label": "Persian territory"
+  },
+  {
+   "eid": "m84",
+   "label": "Persian way of life"
+  },
+  {
+   "eid": "m85",
+   "label": "Persians"
+  },
+  {
+   "eid": "m86",
+   "label": "Pharangium"
+  },
+  {
+   "eid": "m87",
+   "label": "Plato"
+  },
+  {
+   "eid": "m88",
+   "label": "Priscian of Lydia"
+  },
+  {
+   "eid": "m89",
+   "label": "Procopius"
+  },
+  {
+   "eid": "m90",
+   "label": "Procopius of Caesarea"
+  },
+  {
+   "eid": "m91",
+   "label": "Pseudo-Zacharias"
+  },
+  {
+   "eid": "m92",
+   "label": "Pīrān-Gušnasp"
+  },
+  {
+   "eid": "m93",
+   "label": "Roman Emperor"
+  },
+  {
+   "eid": "m94",
+   "label": "Roman Empire"
+  },
+  {
+   "eid": "m95",
+   "label": "Roman authorities"
+  },
+  {
+   "eid": "m96",
+   "label": "Roman court"
+  },
+  {
+   "eid": "m97",
+   "label": "Roman diplomats"
+  },
+  {
+   "eid": "m98",
+   "label": "Roman extradition demand"
+  },
+  {
+   "eid": "m99",
+   "label": "Roman incursion"
+  },
+  {
+   "eid": "m100",
+   "label": "Roman intervention of 526/527"
+  },
+  {
+   "eid": "m101",
+   "label": "Roman military commander"
+  },
+  {
+   "eid": "m102",
+   "label": "Romans"
+  },
+  {
+   "eid": "m103",
+   "label": "Roman–Persian peace treaty of 562"
+  },
+  {
+   "eid": "m104",
+   "label": "Rome"
+  },
+  {
+   "eid": "m105",
+   "label": "S. Lieu"
+  },
+  {
+   "eid": "m106",
+   "label": "Sarapanis"
+  },
+  {
+   "eid": "m107",
+   "label": "Sasanian"
+  },
+  {
+   "eid": "m108",
+   "label": "Sasanian administrative system"
+  },
+  {
+   "eid": "m109",
+   "label": "Scanda"
+  },
+  {
+   "eid": "m110",
+   "label": "Sebastian Brock"
+  },
+  {
+   "eid": "m111",
+   "label": "Secret History"
+  },
+  {
+   "eid": "m112",
+   "label": "Shah Cavades"
+  },
+  {
+   "eid": "m113",
+   "label": "Simplicius"
+  },
+  {
+   "eid": "m114",
+   "label": "Simplicius of Cilicia"
+  },
+  {
+   "eid": "m115",
+   "label": "Sittas"
+  },
+  {
+   "eid": "m116",
+   "label": "Sources"
+  },
+  {
+   "eid": "m117",
+   "label": "Syriac Martyrdom"
+  },
+  {
+   "eid": "m118",
+   "label": "Syriac Martyrdom account"
+  },
+  {
+   "eid": "m119",
+   "label": "Syriac hagiography"
+  },
+  {
+   "eid": "m120",
+   "label": "Syriac source"
+  },
+  {
+   "eid": "m121",
+   "label": "Syriac texts"
+  },
+  {
+   "eid": "m122",
+   "label": "The Martyrium"
+  },
+  {
+   "eid": "m123",
+   "label": "The embassy of Zabergan"
+  },
+  {
+   "eid": "m124",
+   "label": "The historian"
+  },
+  {
+   "eid": "m125",
+   "label": "The text"
+  },
+  {
+   "eid": "m126",
+   "label": "Theodora"
+  },
+  {
+   "eid": "m127",
+   "label": "Theodosius II"
+  },
+  {
+   "eid": "m128",
+   "label": "Vahram V"
+  },
+  {
+   "eid": "m129",
+   "label": "Zabergan"
+  },
+  {
+   "eid": "m130",
+   "label": "Zabergān"
+  },
+  {
+   "eid": "m131",
+   "label": "Zoroastrian religious practices"
+  },
+  {
+   "eid": "m132",
+   "label": "Zoroastrians"
+  },
+  {
+   "eid": "m133",
+   "label": "anonymous prominent Persian captive"
+  },
+  {
+   "eid": "m134",
+   "label": "author of the Martyrdom of Mar Grigor"
+  },
+  {
+   "eid": "m135",
+   "label": "court of Chosroes"
+  },
+  {
+   "eid": "m136",
+   "label": "demand for Grigor’s release"
+  },
+  {
+   "eid": "m137",
+   "label": "embassy of Zabergan"
+  },
+  {
+   "eid": "m138",
+   "label": "house of Mihrān"
+  },
+  {
+   "eid": "m139",
+   "label": "late Roman diplomatic context"
+  }
+ ],
+ "mentions": [
+  {
+   "para": "p001",
+   "start": 8,
+   "end": 23,
+   "text": "Sebastian Brock",
+   "entity": "m110"
+  },
+  {
+   "para": "p001",
+   "start": 34,
+   "end": 52,
+   "text": "Syriac hagiography",
+   "entity": "m119"
+  },
+  {
+   "para": "p001",
+   "start": 102,
+   "end": 114,
+   "text": "Syriac texts",
+   "entity": "m121"
+  },
+  {
+   "para": "p001",
+   "start": 444,
+   "end": 462,
+   "text": "Church of the East",
+   "entity": "m26"
+  },
+  {
+   "para": "p001",
+   "start": 518,
+   "end": 541,
+   "text": "Martyrdom of Mar Grigor",
+   "entity": "m68"
+  },
+  {
+   "para": "p001",
+   "start": 550,
+   "end": 566,
+   "text": "Florence Jullien",
+   "entity": "m42"
+  },
+  {
+   "para": "p001",
+   "start": 750,
+   "end": 759,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p001",
+   "start": 764,
+   "end": 772,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p002",
+   "start": 13,
+   "end": 31,
+   "text": "Agathias of Myrina",
+   "entity": "m1"
+  },
+  {
+   "para": "p002",
+   "start": 115,
+   "end": 124,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p002",
+   "start": 145,
+   "end": 158,
+   "text": "Persian court",
+   "entity": "m77"
+  },
+  {
+   "para": "p002",
+   "start": 168,
+   "end": 188,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p002",
+   "start": 259,
+   "end": 265,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p002",
+   "start": 279,
+   "end": 287,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p002",
+   "start": 591,
+   "end": 605,
+   "text": "Persian asylum",
+   "entity": "m76"
+  },
+  {
+   "para": "p002",
+   "start": 1010,
+   "end": 1022,
+   "text": "Persian shah",
+   "entity": "m82"
+  },
+  {
+   "para": "p003",
+   "start": 104,
+   "end": 117,
+   "text": "Syriac source",
+   "entity": "m120"
+  },
+  {
+   "para": "p003",
+   "start": 142,
+   "end": 152,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p003",
+   "start": 229,
+   "end": 238,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p003",
+   "start": 327,
+   "end": 335,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p003",
+   "start": 512,
+   "end": 532,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p003",
+   "start": 645,
+   "end": 665,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p003",
+   "start": 669,
+   "end": 678,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p003",
+   "start": 720,
+   "end": 730,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p003",
+   "start": 734,
+   "end": 740,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p003",
+   "start": 780,
+   "end": 790,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p003",
+   "start": 784,
+   "end": 790,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p004",
+   "start": 13,
+   "end": 21,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p004",
+   "start": 55,
+   "end": 73,
+   "text": "Damascius of Syria",
+   "entity": "m30"
+  },
+  {
+   "para": "p004",
+   "start": 75,
+   "end": 96,
+   "text": "Simplicius of Cilicia",
+   "entity": "m114"
+  },
+  {
+   "para": "p004",
+   "start": 98,
+   "end": 117,
+   "text": "Eulamius of Phrygia",
+   "entity": "m41"
+  },
+  {
+   "para": "p004",
+   "start": 119,
+   "end": 136,
+   "text": "Priscian of Lydia",
+   "entity": "m88"
+  },
+  {
+   "para": "p004",
+   "start": 138,
+   "end": 144,
+   "text": "Hermes",
+   "entity": "m46"
+  },
+  {
+   "para": "p004",
+   "start": 149,
+   "end": 170,
+   "text": "Diogenes of Phoenicia",
+   "entity": "m31"
+  },
+  {
+   "para": "p004",
+   "start": 176,
+   "end": 191,
+   "text": "Isidore of Gaza",
+   "entity": "m53"
+  },
+  {
+   "para": "p004",
+   "start": 201,
+   "end": 207,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p004",
+   "start": 383,
+   "end": 388,
+   "text": "Plato",
+   "entity": "m87"
+  },
+  {
+   "para": "p004",
+   "start": 572,
+   "end": 578,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p004",
+   "start": 676,
+   "end": 684,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p004",
+   "start": 781,
+   "end": 800,
+   "text": "Persian way of life",
+   "entity": "m84"
+  },
+  {
+   "para": "p004",
+   "start": 893,
+   "end": 906,
+   "text": "The historian",
+   "entity": "m124"
+  },
+  {
+   "para": "p005",
+   "start": 0,
+   "end": 8,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p005",
+   "start": 150,
+   "end": 158,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p005",
+   "start": 404,
+   "end": 413,
+   "text": "Damascius",
+   "entity": "m29"
+  },
+  {
+   "para": "p005",
+   "start": 417,
+   "end": 427,
+   "text": "Simplicius",
+   "entity": "m113"
+  },
+  {
+   "para": "p006",
+   "start": 25,
+   "end": 33,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p006",
+   "start": 202,
+   "end": 211,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p006",
+   "start": 282,
+   "end": 288,
+   "text": "Athens",
+   "entity": "m9"
+  },
+  {
+   "para": "p006",
+   "start": 471,
+   "end": 498,
+   "text": "Athenian Neoplatonic School",
+   "entity": "m8"
+  },
+  {
+   "para": "p007",
+   "start": 0,
+   "end": 8,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p007",
+   "start": 250,
+   "end": 256,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p007",
+   "start": 297,
+   "end": 319,
+   "text": "Christian Roman Empire",
+   "entity": "m20"
+  },
+  {
+   "para": "p007",
+   "start": 399,
+   "end": 416,
+   "text": "Roman authorities",
+   "entity": "m95"
+  },
+  {
+   "para": "p007",
+   "start": 418,
+   "end": 426,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p007",
+   "start": 482,
+   "end": 488,
+   "text": "Romans",
+   "entity": "m102"
+  },
+  {
+   "para": "p007",
+   "start": 497,
+   "end": 505,
+   "text": "Persians",
+   "entity": "m85"
+  },
+  {
+   "para": "p007",
+   "start": 779,
+   "end": 787,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p008",
+   "start": 52,
+   "end": 56,
+   "text": "Rome",
+   "entity": "m104"
+  },
+  {
+   "para": "p008",
+   "start": 61,
+   "end": 67,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p008",
+   "start": 200,
+   "end": 209,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p008",
+   "start": 214,
+   "end": 222,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p008",
+   "start": 282,
+   "end": 292,
+   "text": "Christians",
+   "entity": "m24"
+  },
+  {
+   "para": "p008",
+   "start": 296,
+   "end": 302,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p008",
+   "start": 339,
+   "end": 352,
+   "text": "Theodosius II",
+   "entity": "m127"
+  },
+  {
+   "para": "p008",
+   "start": 357,
+   "end": 365,
+   "text": "Vahram V",
+   "entity": "m128"
+  },
+  {
+   "para": "p008",
+   "start": 399,
+   "end": 409,
+   "text": "Christians",
+   "entity": "m24"
+  },
+  {
+   "para": "p008",
+   "start": 446,
+   "end": 458,
+   "text": "Zoroastrians",
+   "entity": "m132"
+  },
+  {
+   "para": "p008",
+   "start": 557,
+   "end": 565,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p008",
+   "start": 691,
+   "end": 720,
+   "text": "late Roman diplomatic context",
+   "entity": "m139"
+  },
+  {
+   "para": "p010",
+   "start": 55,
+   "end": 63,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p010",
+   "start": 82,
+   "end": 113,
+   "text": "Endless or Eternal Peace treaty",
+   "entity": "m40"
+  },
+  {
+   "para": "p010",
+   "start": 130,
+   "end": 134,
+   "text": "Rome",
+   "entity": "m104"
+  },
+  {
+   "para": "p010",
+   "start": 139,
+   "end": 145,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p010",
+   "start": 223,
+   "end": 235,
+   "text": "Negotiations",
+   "entity": "m70"
+  },
+  {
+   "para": "p010",
+   "start": 344,
+   "end": 364,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p010",
+   "start": 450,
+   "end": 471,
+   "text": "Procopius of Caesarea",
+   "entity": "m90"
+  },
+  {
+   "para": "p010",
+   "start": 476,
+   "end": 488,
+   "text": "John Malalas",
+   "entity": "m55"
+  },
+  {
+   "para": "p011",
+   "start": 109,
+   "end": 117,
+   "text": "Caucasus",
+   "entity": "m13"
+  },
+  {
+   "para": "p011",
+   "start": 163,
+   "end": 169,
+   "text": "Iberia",
+   "entity": "m50"
+  },
+  {
+   "para": "p011",
+   "start": 236,
+   "end": 265,
+   "text": "Roman intervention of 526/527",
+   "entity": "m100"
+  },
+  {
+   "para": "p011",
+   "start": 324,
+   "end": 340,
+   "text": "Iberian nobility",
+   "entity": "m52"
+  },
+  {
+   "para": "p011",
+   "start": 348,
+   "end": 360,
+   "text": "Roman Empire",
+   "entity": "m94"
+  },
+  {
+   "para": "p011",
+   "start": 379,
+   "end": 399,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p011",
+   "start": 419,
+   "end": 428,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p011",
+   "start": 436,
+   "end": 442,
+   "text": "Iberia",
+   "entity": "m50"
+  },
+  {
+   "para": "p011",
+   "start": 455,
+   "end": 468,
+   "text": "Persian hands",
+   "entity": "m81"
+  },
+  {
+   "para": "p011",
+   "start": 548,
+   "end": 557,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p012",
+   "start": 110,
+   "end": 116,
+   "text": "Romans",
+   "entity": "m102"
+  },
+  {
+   "para": "p012",
+   "start": 149,
+   "end": 159,
+   "text": "Pharangium",
+   "entity": "m86"
+  },
+  {
+   "para": "p012",
+   "start": 164,
+   "end": 169,
+   "text": "Bolum",
+   "entity": "m10"
+  },
+  {
+   "para": "p012",
+   "start": 181,
+   "end": 189,
+   "text": "Persians",
+   "entity": "m85"
+  },
+  {
+   "para": "p012",
+   "start": 199,
+   "end": 208,
+   "text": "Sarapanis",
+   "entity": "m106"
+  },
+  {
+   "para": "p012",
+   "start": 213,
+   "end": 219,
+   "text": "Scanda",
+   "entity": "m109"
+  },
+  {
+   "para": "p012",
+   "start": 223,
+   "end": 229,
+   "text": "Lazica",
+   "entity": "m59"
+  },
+  {
+   "para": "p012",
+   "start": 231,
+   "end": 238,
+   "text": "Malalas",
+   "entity": "m60"
+  },
+  {
+   "para": "p013",
+   "start": 0,
+   "end": 7,
+   "text": "Sources",
+   "entity": "m116"
+  },
+  {
+   "para": "p013",
+   "start": 111,
+   "end": 135,
+   "text": "Roman military commander",
+   "entity": "m101"
+  },
+  {
+   "para": "p013",
+   "start": 137,
+   "end": 148,
+   "text": "Domitziolus",
+   "entity": "m32"
+  },
+  {
+   "para": "p013",
+   "start": 153,
+   "end": 165,
+   "text": "Domnentiolus",
+   "entity": "m33"
+  },
+  {
+   "para": "p013",
+   "start": 199,
+   "end": 204,
+   "text": "Buzes",
+   "entity": "m11"
+  },
+  {
+   "para": "p013",
+   "start": 232,
+   "end": 240,
+   "text": "Persians",
+   "entity": "m85"
+  },
+  {
+   "para": "p013",
+   "start": 260,
+   "end": 270,
+   "text": "Callinicum",
+   "entity": "m12"
+  },
+  {
+   "para": "p013",
+   "start": 274,
+   "end": 286,
+   "text": "April of 531",
+   "entity": "m5"
+  },
+  {
+   "para": "p013",
+   "start": 329,
+   "end": 337,
+   "text": "Izdegerd",
+   "entity": "m54"
+  },
+  {
+   "para": "p013",
+   "start": 351,
+   "end": 358,
+   "text": "Hormizd",
+   "entity": "m47"
+  },
+  {
+   "para": "p013",
+   "start": 373,
+   "end": 381,
+   "text": "Arzanene",
+   "entity": "m7"
+  },
+  {
+   "para": "p013",
+   "start": 385,
+   "end": 396,
+   "text": "Persarmenia",
+   "entity": "m72"
+  },
+  {
+   "para": "p013",
+   "start": 433,
+   "end": 439,
+   "text": "Romans",
+   "entity": "m102"
+  },
+  {
+   "para": "p013",
+   "start": 462,
+   "end": 478,
+   "text": "Pseudo-Zacharias",
+   "entity": "m91"
+  },
+  {
+   "para": "p013",
+   "start": 531,
+   "end": 542,
+   "text": "Domitziolus",
+   "entity": "m32"
+  },
+  {
+   "para": "p013",
+   "start": 592,
+   "end": 598,
+   "text": "Amidan",
+   "entity": "m2"
+  },
+  {
+   "para": "p013",
+   "start": 622,
+   "end": 630,
+   "text": "Izdegerd",
+   "entity": "m54"
+  },
+  {
+   "para": "p013",
+   "start": 671,
+   "end": 687,
+   "text": "Pseudo-Zacharias",
+   "entity": "m91"
+  },
+  {
+   "para": "p013",
+   "start": 721,
+   "end": 729,
+   "text": "Izdegerd",
+   "entity": "m54"
+  },
+  {
+   "para": "p014",
+   "start": 45,
+   "end": 54,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p014",
+   "start": 75,
+   "end": 82,
+   "text": "Dagaris",
+   "entity": "m28"
+  },
+  {
+   "para": "p014",
+   "start": 137,
+   "end": 143,
+   "text": "Sittas",
+   "entity": "m115"
+  },
+  {
+   "para": "p014",
+   "start": 147,
+   "end": 156,
+   "text": "Dorotheus",
+   "entity": "m34"
+  },
+  {
+   "para": "p014",
+   "start": 204,
+   "end": 211,
+   "text": "Armenia",
+   "entity": "m6"
+  },
+  {
+   "para": "p014",
+   "start": 232,
+   "end": 242,
+   "text": "Hun allies",
+   "entity": "m48"
+  },
+  {
+   "para": "p014",
+   "start": 246,
+   "end": 252,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p014",
+   "start": 293,
+   "end": 299,
+   "text": "Romans",
+   "entity": "m102"
+  },
+  {
+   "para": "p014",
+   "start": 344,
+   "end": 352,
+   "text": "Persians",
+   "entity": "m85"
+  },
+  {
+   "para": "p014",
+   "start": 396,
+   "end": 405,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p014",
+   "start": 396,
+   "end": 405,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p014",
+   "start": 433,
+   "end": 440,
+   "text": "Dagaris",
+   "entity": "m28"
+  },
+  {
+   "para": "p014",
+   "start": 522,
+   "end": 526,
+   "text": "Huns",
+   "entity": "m49"
+  },
+  {
+   "para": "p015",
+   "start": 193,
+   "end": 213,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p016",
+   "start": 0,
+   "end": 35,
+   "text": "An anonymous Eastern-Syriac account",
+   "entity": "m3"
+  },
+  {
+   "para": "p016",
+   "start": 56,
+   "end": 62,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p016",
+   "start": 268,
+   "end": 284,
+   "text": "Christian milieu",
+   "entity": "m21"
+  },
+  {
+   "para": "p016",
+   "start": 292,
+   "end": 306,
+   "text": "Persian Empire",
+   "entity": "m74"
+  },
+  {
+   "para": "p017",
+   "start": 65,
+   "end": 71,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p017",
+   "start": 217,
+   "end": 227,
+   "text": "Chosroes I",
+   "entity": "m17"
+  },
+  {
+   "para": "p017",
+   "start": 326,
+   "end": 339,
+   "text": "Pīrān-Gušnasp",
+   "entity": "m92"
+  },
+  {
+   "para": "p017",
+   "start": 417,
+   "end": 432,
+   "text": "house of Mihrān",
+   "entity": "m138"
+  },
+  {
+   "para": "p017",
+   "start": 481,
+   "end": 493,
+   "text": "Shah Cavades",
+   "entity": "m112"
+  },
+  {
+   "para": "p017",
+   "start": 537,
+   "end": 555,
+   "text": "Iberia and Albania",
+   "entity": "m51"
+  },
+  {
+   "para": "p017",
+   "start": 581,
+   "end": 587,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p017",
+   "start": 681,
+   "end": 687,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p017",
+   "start": 804,
+   "end": 814,
+   "text": "Chosroes I",
+   "entity": "m17"
+  },
+  {
+   "para": "p018",
+   "start": 27,
+   "end": 40,
+   "text": "Pīrān-Gušnasp",
+   "entity": "m92"
+  },
+  {
+   "para": "p018",
+   "start": 54,
+   "end": 66,
+   "text": "Christianity",
+   "entity": "m23"
+  },
+  {
+   "para": "p018",
+   "start": 84,
+   "end": 90,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p018",
+   "start": 92,
+   "end": 107,
+   "text": "Mart. Grig. 5–6",
+   "entity": "m64"
+  },
+  {
+   "para": "p018",
+   "start": 145,
+   "end": 151,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p018",
+   "start": 218,
+   "end": 229,
+   "text": "Mart. Grig.",
+   "entity": "m63"
+  },
+  {
+   "para": "p018",
+   "start": 269,
+   "end": 275,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p018",
+   "start": 370,
+   "end": 381,
+   "text": "Mart. Grig.",
+   "entity": "m63"
+  },
+  {
+   "para": "p018",
+   "start": 395,
+   "end": 410,
+   "text": "Roman incursion",
+   "entity": "m99"
+  },
+  {
+   "para": "p018",
+   "start": 445,
+   "end": 451,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p018",
+   "start": 521,
+   "end": 534,
+   "text": "Mart. Grig. 8",
+   "entity": "m65"
+  },
+  {
+   "para": "p018",
+   "start": 568,
+   "end": 575,
+   "text": "Emperor",
+   "entity": "m35"
+  },
+  {
+   "para": "p018",
+   "start": 597,
+   "end": 606,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p018",
+   "start": 645,
+   "end": 651,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p018",
+   "start": 666,
+   "end": 672,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p018",
+   "start": 785,
+   "end": 791,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p018",
+   "start": 804,
+   "end": 810,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p018",
+   "start": 812,
+   "end": 825,
+   "text": "Mart. Grig. 8",
+   "entity": "m65"
+  },
+  {
+   "para": "p018",
+   "start": 913,
+   "end": 919,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p018",
+   "start": 927,
+   "end": 939,
+   "text": "Roman Empire",
+   "entity": "m94"
+  },
+  {
+   "para": "p019",
+   "start": 0,
+   "end": 13,
+   "text": "The Martyrium",
+   "entity": "m122"
+  },
+  {
+   "para": "p019",
+   "start": 59,
+   "end": 67,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p019",
+   "start": 78,
+   "end": 96,
+   "text": "Persian ambassador",
+   "entity": "m75"
+  },
+  {
+   "para": "p019",
+   "start": 113,
+   "end": 126,
+   "text": "Roman Emperor",
+   "entity": "m93"
+  },
+  {
+   "para": "p019",
+   "start": 228,
+   "end": 236,
+   "text": "Zabergān",
+   "entity": "m130"
+  },
+  {
+   "para": "p019",
+   "start": 269,
+   "end": 279,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p019",
+   "start": 285,
+   "end": 292,
+   "text": "Emperor",
+   "entity": "m35"
+  },
+  {
+   "para": "p019",
+   "start": 389,
+   "end": 395,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p019",
+   "start": 424,
+   "end": 430,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p019",
+   "start": 521,
+   "end": 530,
+   "text": "Martyrdom",
+   "entity": "m67"
+  },
+  {
+   "para": "p019",
+   "start": 541,
+   "end": 547,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p019",
+   "start": 598,
+   "end": 616,
+   "text": "Church of the East",
+   "entity": "m26"
+  },
+  {
+   "para": "p019",
+   "start": 669,
+   "end": 683,
+   "text": "Constantinople",
+   "entity": "m27"
+  },
+  {
+   "para": "p019",
+   "start": 729,
+   "end": 738,
+   "text": "Martyrdom",
+   "entity": "m67"
+  },
+  {
+   "para": "p019",
+   "start": 744,
+   "end": 751,
+   "text": "Emperor",
+   "entity": "m35"
+  },
+  {
+   "para": "p019",
+   "start": 761,
+   "end": 779,
+   "text": "Persian ambassador",
+   "entity": "m75"
+  },
+  {
+   "para": "p019",
+   "start": 793,
+   "end": 799,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p019",
+   "start": 829,
+   "end": 838,
+   "text": "Christian",
+   "entity": "m18"
+  },
+  {
+   "para": "p019",
+   "start": 888,
+   "end": 896,
+   "text": "Zabergān",
+   "entity": "m130"
+  },
+  {
+   "para": "p020",
+   "start": 72,
+   "end": 78,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p020",
+   "start": 97,
+   "end": 103,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p020",
+   "start": 273,
+   "end": 279,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p020",
+   "start": 304,
+   "end": 311,
+   "text": "Nisibis",
+   "entity": "m71"
+  },
+  {
+   "para": "p020",
+   "start": 411,
+   "end": 417,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p021",
+   "start": 0,
+   "end": 6,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p021",
+   "start": 85,
+   "end": 98,
+   "text": "Mart. Grig. 9",
+   "entity": "m66"
+  },
+  {
+   "para": "p021",
+   "start": 173,
+   "end": 179,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p021",
+   "start": 271,
+   "end": 293,
+   "text": "Christian persecutions",
+   "entity": "m22"
+  },
+  {
+   "para": "p021",
+   "start": 297,
+   "end": 303,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p021",
+   "start": 342,
+   "end": 348,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p022",
+   "start": 486,
+   "end": 494,
+   "text": "Sasanian",
+   "entity": "m107"
+  },
+  {
+   "para": "p022",
+   "start": 486,
+   "end": 516,
+   "text": "Sasanian administrative system",
+   "entity": "m108"
+  },
+  {
+   "para": "p022",
+   "start": 542,
+   "end": 573,
+   "text": "Zoroastrian religious practices",
+   "entity": "m131"
+  },
+  {
+   "para": "p022",
+   "start": 590,
+   "end": 599,
+   "text": "Martyrdom",
+   "entity": "m67"
+  },
+  {
+   "para": "p022",
+   "start": 812,
+   "end": 820,
+   "text": "The text",
+   "entity": "m125"
+  },
+  {
+   "para": "p022",
+   "start": 914,
+   "end": 923,
+   "text": "Martyrdom",
+   "entity": "m67"
+  },
+  {
+   "para": "p022",
+   "start": 1058,
+   "end": 1066,
+   "text": "The text",
+   "entity": "m125"
+  },
+  {
+   "para": "p023",
+   "start": 71,
+   "end": 77,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p023",
+   "start": 208,
+   "end": 216,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p023",
+   "start": 225,
+   "end": 233,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p023",
+   "start": 305,
+   "end": 316,
+   "text": "G. Greatrex",
+   "entity": "m43"
+  },
+  {
+   "para": "p023",
+   "start": 321,
+   "end": 328,
+   "text": "S. Lieu",
+   "entity": "m105"
+  },
+  {
+   "para": "p023",
+   "start": 485,
+   "end": 491,
+   "text": "Khusro",
+   "entity": "m58"
+  },
+  {
+   "para": "p023",
+   "start": 738,
+   "end": 746,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p023",
+   "start": 933,
+   "end": 941,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p024",
+   "start": 68,
+   "end": 77,
+   "text": "Martyrdom",
+   "entity": "m67"
+  },
+  {
+   "para": "p024",
+   "start": 148,
+   "end": 156,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p024",
+   "start": 290,
+   "end": 294,
+   "text": "Rome",
+   "entity": "m104"
+  },
+  {
+   "para": "p024",
+   "start": 299,
+   "end": 305,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p024",
+   "start": 326,
+   "end": 346,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p024",
+   "start": 489,
+   "end": 509,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p025",
+   "start": 120,
+   "end": 126,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p025",
+   "start": 128,
+   "end": 136,
+   "text": "Zabergan",
+   "entity": "m129"
+  },
+  {
+   "para": "p025",
+   "start": 162,
+   "end": 170,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p025",
+   "start": 201,
+   "end": 210,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p025",
+   "start": 219,
+   "end": 233,
+   "text": "Secret History",
+   "entity": "m111"
+  },
+  {
+   "para": "p025",
+   "start": 260,
+   "end": 268,
+   "text": "Zabergan",
+   "entity": "m129"
+  },
+  {
+   "para": "p025",
+   "start": 282,
+   "end": 296,
+   "text": "Constantinople",
+   "entity": "m27"
+  },
+  {
+   "para": "p025",
+   "start": 305,
+   "end": 313,
+   "text": "Zabergan",
+   "entity": "m129"
+  },
+  {
+   "para": "p025",
+   "start": 353,
+   "end": 361,
+   "text": "Theodora",
+   "entity": "m126"
+  },
+  {
+   "para": "p025",
+   "start": 367,
+   "end": 374,
+   "text": "Empress",
+   "entity": "m36"
+  },
+  {
+   "para": "p025",
+   "start": 437,
+   "end": 443,
+   "text": "Romans",
+   "entity": "m102"
+  },
+  {
+   "para": "p025",
+   "start": 615,
+   "end": 634,
+   "text": "embassy of Zabergan",
+   "entity": "m137"
+  },
+  {
+   "para": "p025",
+   "start": 650,
+   "end": 659,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p025",
+   "start": 689,
+   "end": 698,
+   "text": "Martyrdom",
+   "entity": "m67"
+  },
+  {
+   "para": "p025",
+   "start": 737,
+   "end": 745,
+   "text": "Theodora",
+   "entity": "m126"
+  },
+  {
+   "para": "p025",
+   "start": 902,
+   "end": 908,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p026",
+   "start": 23,
+   "end": 31,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p026",
+   "start": 94,
+   "end": 100,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p028",
+   "start": 2,
+   "end": 8,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p029",
+   "start": 23,
+   "end": 31,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p030",
+   "start": 61,
+   "end": 67,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p031",
+   "start": 23,
+   "end": 29,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p032",
+   "start": 74,
+   "end": 80,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p032",
+   "start": 144,
+   "end": 152,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p032",
+   "start": 217,
+   "end": 223,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p032",
+   "start": 345,
+   "end": 351,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p032",
+   "start": 386,
+   "end": 395,
+   "text": "Martyrdom",
+   "entity": "m67"
+  },
+  {
+   "para": "p032",
+   "start": 459,
+   "end": 468,
+   "text": "Chrosroes",
+   "entity": "m25"
+  },
+  {
+   "para": "p032",
+   "start": 538,
+   "end": 544,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p032",
+   "start": 587,
+   "end": 607,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p032",
+   "start": 712,
+   "end": 720,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p033",
+   "start": 0,
+   "end": 23,
+   "text": "The embassy of Zabergan",
+   "entity": "m123"
+  },
+  {
+   "para": "p033",
+   "start": 38,
+   "end": 47,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p033",
+   "start": 149,
+   "end": 155,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p033",
+   "start": 168,
+   "end": 187,
+   "text": "embassy of Zabergan",
+   "entity": "m137"
+  },
+  {
+   "para": "p033",
+   "start": 205,
+   "end": 214,
+   "text": "Martyrdom",
+   "entity": "m67"
+  },
+  {
+   "para": "p034",
+   "start": 51,
+   "end": 67,
+   "text": "Persian emissary",
+   "entity": "m78"
+  },
+  {
+   "para": "p034",
+   "start": 71,
+   "end": 85,
+   "text": "Constantinople",
+   "entity": "m27"
+  },
+  {
+   "para": "p034",
+   "start": 116,
+   "end": 136,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p034",
+   "start": 198,
+   "end": 213,
+   "text": "Roman diplomats",
+   "entity": "m97"
+  },
+  {
+   "para": "p034",
+   "start": 224,
+   "end": 236,
+   "text": "John Malalas",
+   "entity": "m55"
+  },
+  {
+   "para": "p034",
+   "start": 271,
+   "end": 278,
+   "text": "Cavades",
+   "entity": "m14"
+  },
+  {
+   "para": "p034",
+   "start": 282,
+   "end": 300,
+   "text": "Persian ambassador",
+   "entity": "m75"
+  },
+  {
+   "para": "p034",
+   "start": 313,
+   "end": 326,
+   "text": "Roman Emperor",
+   "entity": "m93"
+  },
+  {
+   "para": "p034",
+   "start": 407,
+   "end": 416,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p034",
+   "start": 466,
+   "end": 474,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p034",
+   "start": 596,
+   "end": 609,
+   "text": "Persian envoy",
+   "entity": "m79"
+  },
+  {
+   "para": "p034",
+   "start": 633,
+   "end": 642,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p034",
+   "start": 700,
+   "end": 715,
+   "text": "Roman diplomats",
+   "entity": "m97"
+  },
+  {
+   "para": "p034",
+   "start": 799,
+   "end": 807,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p034",
+   "start": 854,
+   "end": 870,
+   "text": "Persian generals",
+   "entity": "m80"
+  },
+  {
+   "para": "p034",
+   "start": 978,
+   "end": 1004,
+   "text": "Endless Peace preparations",
+   "entity": "m37"
+  },
+  {
+   "para": "p034",
+   "start": 1107,
+   "end": 1118,
+   "text": "Roman court",
+   "entity": "m96"
+  },
+  {
+   "para": "p034",
+   "start": 1172,
+   "end": 1178,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p035",
+   "start": 169,
+   "end": 179,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p035",
+   "start": 187,
+   "end": 207,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p035",
+   "start": 219,
+   "end": 227,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p035",
+   "start": 232,
+   "end": 241,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p035",
+   "start": 346,
+   "end": 356,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p035",
+   "start": 630,
+   "end": 650,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p036",
+   "start": 26,
+   "end": 42,
+   "text": "Syriac Martyrdom",
+   "entity": "m117"
+  },
+  {
+   "para": "p036",
+   "start": 48,
+   "end": 57,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p036",
+   "start": 96,
+   "end": 103,
+   "text": "Dagaris",
+   "entity": "m28"
+  },
+  {
+   "para": "p036",
+   "start": 219,
+   "end": 232,
+   "text": "Pīrān-Gušnasp",
+   "entity": "m92"
+  },
+  {
+   "para": "p036",
+   "start": 233,
+   "end": 243,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p036",
+   "start": 347,
+   "end": 353,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p036",
+   "start": 361,
+   "end": 365,
+   "text": "Rome",
+   "entity": "m104"
+  },
+  {
+   "para": "p036",
+   "start": 483,
+   "end": 492,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p036",
+   "start": 483,
+   "end": 492,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p036",
+   "start": 554,
+   "end": 561,
+   "text": "Dagaris",
+   "entity": "m28"
+  },
+  {
+   "para": "p036",
+   "start": 587,
+   "end": 593,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p037",
+   "start": 18,
+   "end": 27,
+   "text": "Martyrdom",
+   "entity": "m67"
+  },
+  {
+   "para": "p037",
+   "start": 31,
+   "end": 41,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p037",
+   "start": 47,
+   "end": 55,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p037",
+   "start": 162,
+   "end": 183,
+   "text": "Hellenic philosophers",
+   "entity": "m45"
+  },
+  {
+   "para": "p037",
+   "start": 208,
+   "end": 214,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p037",
+   "start": 283,
+   "end": 308,
+   "text": "Christian Persian general",
+   "entity": "m19"
+  },
+  {
+   "para": "p037",
+   "start": 346,
+   "end": 353,
+   "text": "Emperor",
+   "entity": "m35"
+  },
+  {
+   "para": "p037",
+   "start": 522,
+   "end": 530,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p037",
+   "start": 561,
+   "end": 581,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p037",
+   "start": 586,
+   "end": 593,
+   "text": "Chosroe",
+   "entity": "m15"
+  },
+  {
+   "para": "p037",
+   "start": 695,
+   "end": 719,
+   "text": "Syriac Martyrdom account",
+   "entity": "m118"
+  },
+  {
+   "para": "p037",
+   "start": 733,
+   "end": 743,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p037",
+   "start": 826,
+   "end": 835,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p037",
+   "start": 845,
+   "end": 853,
+   "text": "Persians",
+   "entity": "m85"
+  },
+  {
+   "para": "p037",
+   "start": 896,
+   "end": 902,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p037",
+   "start": 1162,
+   "end": 1174,
+   "text": "Roman Empire",
+   "entity": "m94"
+  },
+  {
+   "para": "p037",
+   "start": 1191,
+   "end": 1216,
+   "text": "Christian Persian general",
+   "entity": "m19"
+  },
+  {
+   "para": "p037",
+   "start": 1230,
+   "end": 1236,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p038",
+   "start": 6,
+   "end": 15,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p038",
+   "start": 90,
+   "end": 108,
+   "text": "Church of the East",
+   "entity": "m26"
+  },
+  {
+   "para": "p038",
+   "start": 191,
+   "end": 197,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p038",
+   "start": 203,
+   "end": 211,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p039",
+   "start": 392,
+   "end": 409,
+   "text": "court of Chosroes",
+   "entity": "m135"
+  },
+  {
+   "para": "p039",
+   "start": 392,
+   "end": 409,
+   "text": "court of Chosroes",
+   "entity": "m135"
+  },
+  {
+   "para": "p039",
+   "start": 528,
+   "end": 542,
+   "text": "Constantinople",
+   "entity": "m27"
+  },
+  {
+   "para": "p039",
+   "start": 569,
+   "end": 577,
+   "text": "Chosroes",
+   "entity": "m16"
+  },
+  {
+   "para": "p039",
+   "start": 717,
+   "end": 723,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p040",
+   "start": 36,
+   "end": 56,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p040",
+   "start": 174,
+   "end": 182,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p040",
+   "start": 342,
+   "end": 365,
+   "text": "Martyrdom of Mar Grigor",
+   "entity": "m68"
+  },
+  {
+   "para": "p040",
+   "start": 395,
+   "end": 401,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p040",
+   "start": 468,
+   "end": 477,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p040",
+   "start": 482,
+   "end": 489,
+   "text": "Malalas",
+   "entity": "m60"
+  },
+  {
+   "para": "p040",
+   "start": 554,
+   "end": 562,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p040",
+   "start": 664,
+   "end": 681,
+   "text": "Anthony Kaldellis",
+   "entity": "m4"
+  },
+  {
+   "para": "p040",
+   "start": 694,
+   "end": 703,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p040",
+   "start": 889,
+   "end": 898,
+   "text": "Kaldellis",
+   "entity": "m57"
+  },
+  {
+   "para": "p040",
+   "start": 982,
+   "end": 991,
+   "text": "Justinian",
+   "entity": "m56"
+  },
+  {
+   "para": "p040",
+   "start": 1039,
+   "end": 1059,
+   "text": "Endless Peace treaty",
+   "entity": "m38"
+  },
+  {
+   "para": "p040",
+   "start": 1090,
+   "end": 1098,
+   "text": "Menander",
+   "entity": "m69"
+  },
+  {
+   "para": "p040",
+   "start": 1134,
+   "end": 1167,
+   "text": "Roman–Persian peace treaty of 562",
+   "entity": "m103"
+  },
+  {
+   "para": "p040",
+   "start": 1437,
+   "end": 1447,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p041",
+   "start": 536,
+   "end": 542,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p041",
+   "start": 1117,
+   "end": 1127,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p041",
+   "start": 1238,
+   "end": 1275,
+   "text": "author of the Martyrdom of Mar Grigor",
+   "entity": "m134"
+  },
+  {
+   "para": "p041",
+   "start": 1265,
+   "end": 1275,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p042",
+   "start": 226,
+   "end": 232,
+   "text": "Persia",
+   "entity": "m73"
+  },
+  {
+   "para": "p042",
+   "start": 238,
+   "end": 247,
+   "text": "Martyrdom",
+   "entity": "m67"
+  },
+  {
+   "para": "p042",
+   "start": 264,
+   "end": 270,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p043",
+   "start": 61,
+   "end": 71,
+   "text": "Mar Grigor",
+   "entity": "m61"
+  },
+  {
+   "para": "p043",
+   "start": 201,
+   "end": 228,
+   "text": "Endless Peace treaty of 532",
+   "entity": "m39"
+  },
+  {
+   "para": "p043",
+   "start": 283,
+   "end": 304,
+   "text": "Hellenic philosophers",
+   "entity": "m45"
+  },
+  {
+   "para": "p044",
+   "start": 59,
+   "end": 67,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p044",
+   "start": 154,
+   "end": 166,
+   "text": "Roman Empire",
+   "entity": "m94"
+  },
+  {
+   "para": "p044",
+   "start": 270,
+   "end": 294,
+   "text": "Mar Grigor/Pīrān-Gušnasp",
+   "entity": "m62"
+  },
+  {
+   "para": "p044",
+   "start": 314,
+   "end": 331,
+   "text": "Persian territory",
+   "entity": "m83"
+  },
+  {
+   "para": "p045",
+   "start": 61,
+   "end": 96,
+   "text": "anonymous prominent Persian captive",
+   "entity": "m133"
+  },
+  {
+   "para": "p045",
+   "start": 122,
+   "end": 131,
+   "text": "Procopius",
+   "entity": "m89"
+  },
+  {
+   "para": "p045",
+   "start": 165,
+   "end": 172,
+   "text": "Dagaris",
+   "entity": "m28"
+  },
+  {
+   "para": "p045",
+   "start": 234,
+   "end": 258,
+   "text": "Mar Grigor/Pīrān-Gušnasp",
+   "entity": "m62"
+  },
+  {
+   "para": "p045",
+   "start": 357,
+   "end": 381,
+   "text": "Roman extradition demand",
+   "entity": "m98"
+  },
+  {
+   "para": "p045",
+   "start": 398,
+   "end": 425,
+   "text": "demand for Grigor’s release",
+   "entity": "m136"
+  },
+  {
+   "para": "p045",
+   "start": 409,
+   "end": 415,
+   "text": "Grigor",
+   "entity": "m44"
+  },
+  {
+   "para": "p045",
+   "start": 438,
+   "end": 446,
+   "text": "Persians",
+   "entity": "m85"
+  }
+ ],
+ "facts": [
+  {
+   "para": "p001",
+   "subj": "m68",
+   "rel": "yago:creator",
+   "obj": "m42"
+  },
+  {
+   "para": "p002",
+   "subj": "m38",
+   "rel": "yago:participant",
+   "obj": "m77"
+  },
+  {
+   "para": "p003",
+   "subj": "m61",
+   "rel": "schema:worksFor",
+   "obj": "m56"
+  },
+  {
+   "para": "p003",
+   "subj": "m61",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p004",
+   "subj": "m0",
+   "rel": "schema:about",
+   "obj": "m30"
+  },
+  {
+   "para": "p004",
+   "subj": "m0",
+   "rel": "schema:about",
+   "obj": "m114"
+  },
+  {
+   "para": "p004",
+   "subj": "m0",
+   "rel": "schema:about",
+   "obj": "m41"
+  },
+  {
+   "para": "p004",
+   "subj": "m0",
+   "rel": "schema:about",
+   "obj": "m46"
+  },
+  {
+   "para": "p004",
+   "subj": "m0",
+   "rel": "schema:about",
+   "obj": "m31"
+  },
+  {
+   "para": "p004",
+   "subj": "m0",
+   "rel": "schema:about",
+   "obj": "m73"
+  },
+  {
+   "para": "p004",
+   "subj": "m30",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p004",
+   "subj": "m114",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p004",
+   "subj": "m88",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p004",
+   "subj": "m46",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p004",
+   "subj": "m31",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p004",
+   "subj": "m53",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p008",
+   "subj": "m24",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p011",
+   "subj": "m52",
+   "rel": "yago:influencedBy",
+   "obj": "m100"
+  },
+  {
+   "para": "p011",
+   "subj": "m52",
+   "rel": "ex:captiveIn",
+   "obj": "m94"
+  },
+  {
+   "para": "p011",
+   "subj": "m50",
+   "rel": "yago:partOf",
+   "obj": "m81"
+  },
+  {
+   "para": "p013",
+   "subj": "m101",
+   "rel": "ex:relativeOf",
+   "obj": "m11"
+  },
+  {
+   "para": "p013",
+   "subj": "m101",
+   "rel": "ex:captiveIn",
+   "obj": "m85"
+  },
+  {
+   "para": "p013",
+   "subj": "m101",
+   "rel": "ex:captiveIn",
+   "obj": "m12"
+  },
+  {
+   "para": "p013",
+   "subj": "m5",
+   "rel": "yago:participant",
+   "obj": "m101"
+  },
+  {
+   "para": "p013",
+   "subj": "m32",
+   "rel": "ex:relativeOf",
+   "obj": "m11"
+  },
+  {
+   "para": "p013",
+   "subj": "m32",
+   "rel": "ex:captiveIn",
+   "obj": "m85"
+  },
+  {
+   "para": "p013",
+   "subj": "m32",
+   "rel": "ex:captiveIn",
+   "obj": "m12"
+  },
+  {
+   "para": "p013",
+   "subj": "m5",
+   "rel": "yago:participant",
+   "obj": "m32"
+  },
+  {
+   "para": "p013",
+   "subj": "m33",
+   "rel": "ex:relativeOf",
+   "obj": "m11"
+  },
+  {
+   "para": "p013",
+   "subj": "m33",
+   "rel": "ex:captiveIn",
+   "obj": "m85"
+  },
+  {
+   "para": "p013",
+   "subj": "m33",
+   "rel": "ex:captiveIn",
+   "obj": "m12"
+  },
+  {
+   "para": "p013",
+   "subj": "m5",
+   "rel": "yago:participant",
+   "obj": "m33"
+  },
+  {
+   "para": "p013",
+   "subj": "m11",
+   "rel": "ex:captiveIn",
+   "obj": "m85"
+  },
+  {
+   "para": "p013",
+   "subj": "m5",
+   "rel": "yago:participant",
+   "obj": "m11"
+  },
+  {
+   "para": "p013",
+   "subj": "m5",
+   "rel": "yago:participant",
+   "obj": "m85"
+  },
+  {
+   "para": "p013",
+   "subj": "m54",
+   "rel": "ex:relativeOf",
+   "obj": "m47"
+  },
+  {
+   "para": "p013",
+   "subj": "m54",
+   "rel": "schema:location",
+   "obj": "m7"
+  },
+  {
+   "para": "p013",
+   "subj": "m54",
+   "rel": "schema:location",
+   "obj": "m72"
+  },
+  {
+   "para": "p013",
+   "subj": "m54",
+   "rel": "ex:captiveIn",
+   "obj": "m102"
+  },
+  {
+   "para": "p013",
+   "subj": "m47",
+   "rel": "schema:location",
+   "obj": "m7"
+  },
+  {
+   "para": "p013",
+   "subj": "m47",
+   "rel": "schema:location",
+   "obj": "m72"
+  },
+  {
+   "para": "p013",
+   "subj": "m47",
+   "rel": "ex:captiveIn",
+   "obj": "m102"
+  },
+  {
+   "para": "p013",
+   "subj": "m7",
+   "rel": "yago:partOf",
+   "obj": "m72"
+  },
+  {
+   "para": "p013",
+   "subj": "m102",
+   "rel": "ex:captiveIn",
+   "obj": "m7"
+  },
+  {
+   "para": "p013",
+   "subj": "m102",
+   "rel": "ex:captiveIn",
+   "obj": "m72"
+  },
+  {
+   "para": "p013",
+   "subj": "m91",
+   "rel": "schema:about",
+   "obj": "m32"
+  },
+  {
+   "para": "p013",
+   "subj": "m91",
+   "rel": "yago:influencedBy",
+   "obj": "m2"
+  },
+  {
+   "para": "p013",
+   "subj": "m32",
+   "rel": "ex:captiveIn",
+   "obj": "m2"
+  },
+  {
+   "para": "p013",
+   "subj": "m91",
+   "rel": "schema:about",
+   "obj": "m54"
+  },
+  {
+   "para": "p014",
+   "subj": "m28",
+   "rel": "schema:worksFor",
+   "obj": "m115"
+  },
+  {
+   "para": "p014",
+   "subj": "m28",
+   "rel": "schema:worksFor",
+   "obj": "m34"
+  },
+  {
+   "para": "p014",
+   "subj": "m28",
+   "rel": "ex:captiveIn",
+   "obj": "m6"
+  },
+  {
+   "para": "p014",
+   "subj": "m28",
+   "rel": "ex:captiveIn",
+   "obj": "m48"
+  },
+  {
+   "para": "p014",
+   "subj": "m28",
+   "rel": "ex:captiveIn",
+   "obj": "m73"
+  },
+  {
+   "para": "p014",
+   "subj": "m115",
+   "rel": "ex:captiveIn",
+   "obj": "m48"
+  },
+  {
+   "para": "p014",
+   "subj": "m34",
+   "rel": "ex:captiveIn",
+   "obj": "m48"
+  },
+  {
+   "para": "p014",
+   "subj": "m89",
+   "rel": "schema:about",
+   "obj": "m28"
+  },
+  {
+   "para": "p014",
+   "subj": "m28",
+   "rel": "ex:opposed",
+   "obj": "m49"
+  },
+  {
+   "para": "p016",
+   "subj": "m3",
+   "rel": "schema:about",
+   "obj": "m44"
+  },
+  {
+   "para": "p016",
+   "subj": "m21",
+   "rel": "schema:location",
+   "obj": "m74"
+  },
+  {
+   "para": "p017",
+   "subj": "m92",
+   "rel": "schema:memberOf",
+   "obj": "m138"
+  },
+  {
+   "para": "p017",
+   "subj": "m51",
+   "rel": "yago:partOf",
+   "obj": "m73"
+  },
+  {
+   "para": "p018",
+   "subj": "m44",
+   "rel": "schema:memberOf",
+   "obj": "m23"
+  },
+  {
+   "para": "p018",
+   "subj": "m99",
+   "rel": "yago:participant",
+   "obj": "m44"
+  },
+  {
+   "para": "p018",
+   "subj": "m35",
+   "rel": "yago:influencedBy",
+   "obj": "m44"
+  },
+  {
+   "para": "p018",
+   "subj": "m44",
+   "rel": "ex:captiveIn",
+   "obj": "m73"
+  },
+  {
+   "para": "p019",
+   "subj": "m122",
+   "rel": "schema:about",
+   "obj": "m75"
+  },
+  {
+   "para": "p019",
+   "subj": "m122",
+   "rel": "schema:about",
+   "obj": "m93"
+  },
+  {
+   "para": "p019",
+   "subj": "m122",
+   "rel": "schema:about",
+   "obj": "m130"
+  },
+  {
+   "para": "p019",
+   "subj": "m122",
+   "rel": "schema:about",
+   "obj": "m61"
+  },
+  {
+   "para": "p019",
+   "subj": "m75",
+   "rel": "schema:worksFor",
+   "obj": "m16"
+  },
+  {
+   "para": "p019",
+   "subj": "m130",
+   "rel": "schema:worksFor",
+   "obj": "m16"
+  },
+  {
+   "para": "p019",
+   "subj": "m130",
+   "rel": "schema:worksFor",
+   "obj": "m93"
+  },
+  {
+   "para": "p019",
+   "subj": "m130",
+   "rel": "ex:opposed",
+   "obj": "m61"
+  },
+  {
+   "para": "p019",
+   "subj": "m35",
+   "rel": "yago:influencedBy",
+   "obj": "m73"
+  },
+  {
+   "para": "p019",
+   "subj": "m44",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p019",
+   "subj": "m67",
+   "rel": "schema:about",
+   "obj": "m44"
+  },
+  {
+   "para": "p019",
+   "subj": "m44",
+   "rel": "schema:memberOf",
+   "obj": "m26"
+  },
+  {
+   "para": "p019",
+   "subj": "m44",
+   "rel": "ex:captiveIn",
+   "obj": "m27"
+  },
+  {
+   "para": "p019",
+   "subj": "m67",
+   "rel": "schema:about",
+   "obj": "m44"
+  },
+  {
+   "para": "p019",
+   "subj": "m44",
+   "rel": "schema:memberOf",
+   "obj": "m18"
+  },
+  {
+   "para": "p020",
+   "subj": "m44",
+   "rel": "ex:captiveIn",
+   "obj": "m73"
+  },
+  {
+   "para": "p021",
+   "subj": "m22",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p022",
+   "subj": "m67",
+   "rel": "schema:about",
+   "obj": "m107"
+  },
+  {
+   "para": "p022",
+   "subj": "m67",
+   "rel": "schema:about",
+   "obj": "m108"
+  },
+  {
+   "para": "p024",
+   "subj": "m38",
+   "rel": "yago:participant",
+   "obj": "m16"
+  },
+  {
+   "para": "p025",
+   "subj": "m129",
+   "rel": "schema:worksFor",
+   "obj": "m44"
+  },
+  {
+   "para": "p025",
+   "subj": "m89",
+   "rel": "schema:about",
+   "obj": "m16"
+  },
+  {
+   "para": "p025",
+   "subj": "m129",
+   "rel": "ex:captiveIn",
+   "obj": "m27"
+  },
+  {
+   "para": "p032",
+   "subj": "m44",
+   "rel": "ex:captiveIn",
+   "obj": "m73"
+  },
+  {
+   "para": "p032",
+   "subj": "m44",
+   "rel": "yago:follows",
+   "obj": "m38"
+  },
+  {
+   "para": "p033",
+   "subj": "m67",
+   "rel": "schema:about",
+   "obj": "m44"
+  },
+  {
+   "para": "p034",
+   "subj": "m75",
+   "rel": "schema:worksFor",
+   "obj": "m14"
+  },
+  {
+   "para": "p034",
+   "subj": "m89",
+   "rel": "schema:about",
+   "obj": "m97"
+  },
+  {
+   "para": "p035",
+   "subj": "m38",
+   "rel": "yago:participant",
+   "obj": "m16"
+  },
+  {
+   "para": "p035",
+   "subj": "m38",
+   "rel": "yago:participant",
+   "obj": "m56"
+  },
+  {
+   "para": "p036",
+   "subj": "m117",
+   "rel": "schema:about",
+   "obj": "m92"
+  },
+  {
+   "para": "p036",
+   "subj": "m89",
+   "rel": "schema:about",
+   "obj": "m28"
+  },
+  {
+   "para": "p036",
+   "subj": "m89",
+   "rel": "schema:about",
+   "obj": "m92"
+  },
+  {
+   "para": "p036",
+   "subj": "m89",
+   "rel": "schema:about",
+   "obj": "m61"
+  },
+  {
+   "para": "p037",
+   "subj": "m67",
+   "rel": "schema:about",
+   "obj": "m61"
+  },
+  {
+   "para": "p037",
+   "subj": "m19",
+   "rel": "schema:worksFor",
+   "obj": "m35"
+  },
+  {
+   "para": "p037",
+   "subj": "m38",
+   "rel": "yago:influencedBy",
+   "obj": "m15"
+  },
+  {
+   "para": "p037",
+   "subj": "m118",
+   "rel": "schema:about",
+   "obj": "m61"
+  },
+  {
+   "para": "p037",
+   "subj": "m118",
+   "rel": "schema:about",
+   "obj": "m44"
+  },
+  {
+   "para": "p037",
+   "subj": "m85",
+   "rel": "yago:influencedBy",
+   "obj": "m56"
+  },
+  {
+   "para": "p039",
+   "subj": "m16",
+   "rel": "yago:influencedBy",
+   "obj": "m27"
+  },
+  {
+   "para": "p040",
+   "subj": "m103",
+   "rel": "yago:creator",
+   "obj": "m69"
+  },
+  {
+   "para": "p042",
+   "subj": "m44",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p042",
+   "subj": "m67",
+   "rel": "schema:about",
+   "obj": "m44"
+  },
+  {
+   "para": "p044",
+   "subj": "m62",
+   "rel": "ex:captiveIn",
+   "obj": "m83"
+  },
+  {
+   "para": "p045",
+   "subj": "m89",
+   "rel": "schema:about",
+   "obj": "m133"
+  },
+  {
+   "para": "p045",
+   "subj": "m89",
+   "rel": "schema:about",
+   "obj": "m28"
+  },
+  {
+   "para": "p045",
+   "subj": "m89",
+   "rel": "schema:about",
+   "obj": "m62"
+  },
+  {
+   "para": "p045",
+   "subj": "m136",
+   "rel": "schema:about",
+   "obj": "m44"
+  },
+  {
+   "para": "p045",
+   "subj": "m44",
+   "rel": "ex:captiveIn",
+   "obj": "m85"
+  }
+ ]
+}

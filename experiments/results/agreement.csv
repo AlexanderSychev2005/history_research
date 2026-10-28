@@ -1,0 +1,4 @@
+first,second,pairs,same,none_first,none_second
+gliner-clean__openjev,gliner-clean__jev-api,280,73.9%,110,144
+gold__openjev,gold__jev-api,322,79.2%,181,221
+gold__openjev,gold__jev-api-guided,322,71.1%,181,169

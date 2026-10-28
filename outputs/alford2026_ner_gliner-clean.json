@@ -1,0 +1,3491 @@
+{
+  "doc_id": "alford2026",
+  "paragraphs": [
+    {
+      "paragraph_id": "p001",
+      "page": 1,
+      "section": "abstract",
+      "text": "Abstract. This study examines the trajectory of two captive groups taken after the defeat of the AD 450–1 Armenian rebellion against Sasanian King Yazdgerd II and argues that the destinations and treatment of these captives must be understood in terms of their social positions, as well as when they were taken captive and the part they played in the rebellion. Sasanian authorities carefully delineated between the treatment of children, secular nobility, and Christian clerics involved in the rebellion, aiming both to regain control of the rebellious region and prosecute other defensive objectives along the empire’s northern border.",
+      "mentions": [
+        {
+          "text": "Armenian rebellion",
+          "start": 106,
+          "end": 124,
+          "label": "event",
+          "score": 0.8781010508537292
+        },
+        {
+          "text": "Sasanian King Yazdgerd II",
+          "start": 133,
+          "end": 158,
+          "label": "person",
+          "score": 0.8803012371063232
+        },
+        {
+          "text": "Sasanian authorities",
+          "start": 362,
+          "end": 382,
+          "label": "organization",
+          "score": 0.891265332698822
+        },
+        {
+          "text": "Christian clerics",
+          "start": 461,
+          "end": 478,
+          "label": "organization",
+          "score": 0.7556626200675964
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p002",
+      "page": 1,
+      "section": "keywords",
+      "text": "Keywords. Armenia, Rebellion, Sasanian Empire, Captives, Border Defence, Huns",
+      "mentions": [
+        {
+          "text": "Armenia",
+          "start": 10,
+          "end": 17,
+          "label": "location",
+          "score": 0.9658419489860535
+        },
+        {
+          "text": "Rebellion",
+          "start": 19,
+          "end": 28,
+          "label": "event",
+          "score": 0.9543024897575378
+        },
+        {
+          "text": "Sasanian Empire",
+          "start": 30,
+          "end": 45,
+          "label": "organization",
+          "score": 0.884585440158844
+        },
+        {
+          "text": "Captives",
+          "start": 47,
+          "end": 55,
+          "label": "person",
+          "score": 0.5482322573661804
+        },
+        {
+          "text": "Border Defence",
+          "start": 57,
+          "end": 71,
+          "label": "organization",
+          "score": 0.5084410905838013
+        },
+        {
+          "text": "Huns",
+          "start": 73,
+          "end": 77,
+          "label": "organization",
+          "score": 0.5572991967201233
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p003",
+      "page": 1,
+      "section": null,
+      "text": "On 2nd June 451 AD an Armenian rebellion was crushed by Sasanian forces at Awarayr near the region’s south-east border, decisively ending an uprising primarily comprised of Christian nobles that had begun the year prior in response to attempts by Yazdgerd II (r. AD 438–57) to convert the Armenian nobility to Zoroastrianism. The battle resulted in the death of rebel leader Vardan Mamikonean and many of his allies, who were canonised by the Armenian Church and became exemplars for resistance against foreign oppression. However, the following paper concerns itself not with these saints, but with survivors imprisoned after the rebellion.",
+      "mentions": [
+        {
+          "text": "Armenian rebellion",
+          "start": 22,
+          "end": 40,
+          "label": "event",
+          "score": 0.41314563155174255
+        },
+        {
+          "text": "Sasanian forces",
+          "start": 56,
+          "end": 71,
+          "label": "organization",
+          "score": 0.872779905796051
+        },
+        {
+          "text": "Awarayr",
+          "start": 75,
+          "end": 82,
+          "label": "location",
+          "score": 0.9079574346542358
+        },
+        {
+          "text": "Yazdgerd II",
+          "start": 247,
+          "end": 258,
+          "label": "person",
+          "score": 0.9058728218078613
+        },
+        {
+          "text": "Vardan Mamikonean",
+          "start": 375,
+          "end": 392,
+          "label": "person",
+          "score": 0.9328622221946716
+        },
+        {
+          "text": "Armenian Church",
+          "start": 443,
+          "end": 458,
+          "label": "organization",
+          "score": 0.9760138988494873
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p004",
+      "page": 2,
+      "section": null,
+      "text": "The fifth-century Armenian historian Łazar P‘arpec‘i includes two groups of captives in his History of the Armenians, one composed primarily of nobles who were initially sent to Gorgān (Latin. Hyrcania, the region north of the Alborz watershed and bordering the Caspian Sea to the south-east) and the other of noble children held in Khuzestan, with both groups also containing Christian priests. Łazar is a particularly valuable source for these captives, in part because he knew several of them personally. Most notably, his history was sponsored by Vahan Mamikonean – the eldest of three brothers who are some of the only identifiable captives of Khuzestan and who led his own rebellion against the Sasanians from AD 482–4. Łazar had been Vahan’s childhood playmate after the noble’s release, and was appointed as abbot of the monastery of Vałaršapat (modern Eǰmiacin) by Vahan c. 493 AD, writing to his patron to defend his conduct after the monks had him removed.",
+      "mentions": [
+        {
+          "text": "Łazar P‘arpec‘i",
+          "start": 37,
+          "end": 52,
+          "label": "person",
+          "score": 0.9702076315879822
+        },
+        {
+          "text": "History of the Armenians",
+          "start": 92,
+          "end": 116,
+          "label": "written work",
+          "score": 0.8920207023620605
+        },
+        {
+          "text": "Gorgān",
+          "start": 178,
+          "end": 184,
+          "label": "location",
+          "score": 0.9445289373397827
+        },
+        {
+          "text": "Hyrcania",
+          "start": 193,
+          "end": 201,
+          "label": "location",
+          "score": 0.8851925730705261
+        },
+        {
+          "text": "Alborz watershed",
+          "start": 227,
+          "end": 243,
+          "label": "location",
+          "score": 0.6630611419677734
+        },
+        {
+          "text": "Caspian Sea",
+          "start": 262,
+          "end": 273,
+          "label": "location",
+          "score": 0.8628930449485779
+        },
+        {
+          "text": "Khuzestan",
+          "start": 333,
+          "end": 342,
+          "label": "location",
+          "score": 0.9710185527801514
+        },
+        {
+          "text": "Christian priests",
+          "start": 377,
+          "end": 394,
+          "label": "organization",
+          "score": 0.42529141902923584
+        },
+        {
+          "text": "Łazar",
+          "start": 396,
+          "end": 401,
+          "label": "person",
+          "score": 0.9459190964698792
+        },
+        {
+          "text": "Vahan Mamikonean",
+          "start": 551,
+          "end": 567,
+          "label": "person",
+          "score": 0.9736360907554626
+        },
+        {
+          "text": "Khuzestan",
+          "start": 649,
+          "end": 658,
+          "label": "location",
+          "score": 0.8427801728248596
+        },
+        {
+          "text": "Sasanians",
+          "start": 701,
+          "end": 710,
+          "label": "organization",
+          "score": 0.8350242972373962
+        },
+        {
+          "text": "Łazar",
+          "start": 726,
+          "end": 731,
+          "label": "person",
+          "score": 0.9705436825752258
+        },
+        {
+          "text": "Vałaršapat",
+          "start": 842,
+          "end": 852,
+          "label": "location",
+          "score": 0.842422366142273
+        },
+        {
+          "text": "Eǰmiacin",
+          "start": 861,
+          "end": 869,
+          "label": "location",
+          "score": 0.7969071269035339
+        },
+        {
+          "text": "Vahan",
+          "start": 874,
+          "end": 879,
+          "label": "person",
+          "score": 0.9616333842277527
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p005",
+      "page": 2,
+      "section": null,
+      "text": "The other primary historian for the AD 450–1 rebellion, Ełišē, only records the captives sent to Gorgān, but the differences between his and Łazar’s narratives make for useful comparison. Ełišē’s dating is a matter of significant debate. While traditionally considered an eye-witness to the rebellion, I am inclined towards Robert Thomson’s conclusion (following Akinean and Kiwlēsērean) that Ełišē wrote in the sixth century at the earliest. Such a dating better explains his reliance on Armenian translations of Philo and his parallels to John of Ephesus’ Ecclesiastical Histories by placing his work in the context of an Armenian community that was engaged in translating Greek philosophical and theological texts, and a Persian court culture that increasingly promoted interfaith debates.",
+      "mentions": [
+        {
+          "text": "AD 450–1 rebellion",
+          "start": 36,
+          "end": 54,
+          "label": "event",
+          "score": 0.9185653328895569
+        },
+        {
+          "text": "Ełišē",
+          "start": 56,
+          "end": 61,
+          "label": "person",
+          "score": 0.9710025191307068
+        },
+        {
+          "text": "Gorgān",
+          "start": 97,
+          "end": 103,
+          "label": "location",
+          "score": 0.9043743014335632
+        },
+        {
+          "text": "Ełišē",
+          "start": 188,
+          "end": 193,
+          "label": "person",
+          "score": 0.9749094247817993
+        },
+        {
+          "text": "Robert Thomson",
+          "start": 324,
+          "end": 338,
+          "label": "person",
+          "score": 0.5729755163192749
+        },
+        {
+          "text": "Ełišē",
+          "start": 393,
+          "end": 398,
+          "label": "person",
+          "score": 0.973292350769043
+        },
+        {
+          "text": "Philo",
+          "start": 514,
+          "end": 519,
+          "label": "person",
+          "score": 0.819915235042572
+        },
+        {
+          "text": "Ecclesiastical Histories",
+          "start": 558,
+          "end": 582,
+          "label": "written work",
+          "score": 0.9107386469841003
+        },
+        {
+          "text": "Armenian community",
+          "start": 624,
+          "end": 642,
+          "label": "organization",
+          "score": 0.9533155560493469
+        },
+        {
+          "text": "Persian court culture",
+          "start": 724,
+          "end": 745,
+          "label": "organization",
+          "score": 0.8990391492843628
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p006",
+      "page": 3,
+      "section": null,
+      "text": "Both historians contain lists of the Gorgān captives that are for the most part identical, identifying prisoners from thirteen clans (including two branches of the Arcruni family). Ełišē’s list spells some names differently and adds four individuals not found in Łazar – Meružan Arcruni, Nerseh and Ašot Kamsarakan, and Zuarēn Anjewac‘i – bringing the total number of captive nobles from thirty-one to thirty-five. A jump omission in Robert Thomson’s English translation elides the Aṙawełean family, fusing Aṙawan Anjewac‘i and Dat Aṙawełean into Dat Anjewac‘i, but Thomson’s summary of the two lists’ differences is nonetheless accurate. The translations in this article are my own, but my bibliography also includes English editions to aid scholars unfamiliar with Armenian.",
+      "mentions": [
+        {
+          "text": "Arcruni family",
+          "start": 164,
+          "end": 178,
+          "label": "organization",
+          "score": 0.7077789902687073
+        },
+        {
+          "text": "Ełišē",
+          "start": 181,
+          "end": 186,
+          "label": "person",
+          "score": 0.68562251329422
+        },
+        {
+          "text": "Łazar",
+          "start": 263,
+          "end": 268,
+          "label": "location",
+          "score": 0.9034671187400818
+        },
+        {
+          "text": "Meružan Arcruni",
+          "start": 271,
+          "end": 286,
+          "label": "person",
+          "score": 0.9142532348632812
+        },
+        {
+          "text": "Nerseh",
+          "start": 288,
+          "end": 294,
+          "label": "person",
+          "score": 0.8152953386306763
+        },
+        {
+          "text": "Ašot Kamsarakan",
+          "start": 299,
+          "end": 314,
+          "label": "person",
+          "score": 0.8542839288711548
+        },
+        {
+          "text": "Zuarēn Anjewac‘i",
+          "start": 320,
+          "end": 336,
+          "label": "person",
+          "score": 0.8665835857391357
+        },
+        {
+          "text": "Robert Thomson",
+          "start": 434,
+          "end": 448,
+          "label": "person",
+          "score": 0.9630951881408691
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p007",
+      "page": 3,
+      "section": null,
+      "text": "The Gorgān captives were more mobile and imprisoned for longer than the other group. They were moved to Nishapur in AD 453/4 and released in either c. 457 AD (according to Ełišē) or c. 459 (according to Łazar), after which they were sent to Herāt to perform military service. Such service was not unusual for free Armenian lords. Vardan Mamikonean had himself served the Persians in campaigns on their eastern border before the rebellion, with Łazar highlighting a campaign at Marw-ī-Rōd (‘Merv on the [Murghab] River’) in Khurasan, where the Sasanian king had supposedly been in attendance. However, the deployment of these captives did extend their time away from Armenia, so that Łazar claims they captives did not return to their lands until AD 464/5, while Ełišē held some returned the year before. The Khuzestan captives meanwhile returned to Armenia in AD 454/5, and there is no evidence they were relocated. I argue these differences indicate only the second group were held simply to re-establish order in Armenia. The locations at which the first group were imprisoned, in contrast, suggest they were used to prosecute military objectives against the Kidarite Hun confederacy on the Sasanian Empire’s northern border, perhaps even prior to their release.",
+      "mentions": [
+        {
+          "text": "Nishapur",
+          "start": 104,
+          "end": 112,
+          "label": "location",
+          "score": 0.950186014175415
+        },
+        {
+          "text": "Ełišē",
+          "start": 172,
+          "end": 177,
+          "label": "person",
+          "score": 0.7273170948028564
+        },
+        {
+          "text": "Łazar",
+          "start": 203,
+          "end": 208,
+          "label": "person",
+          "score": 0.8615154027938843
+        },
+        {
+          "text": "Herāt",
+          "start": 241,
+          "end": 246,
+          "label": "location",
+          "score": 0.9261364936828613
+        },
+        {
+          "text": "Vardan Mamikonean",
+          "start": 330,
+          "end": 347,
+          "label": "person",
+          "score": 0.9581632614135742
+        },
+        {
+          "text": "Persians",
+          "start": 371,
+          "end": 379,
+          "label": "organization",
+          "score": 0.8233456611633301
+        },
+        {
+          "text": "Łazar",
+          "start": 444,
+          "end": 449,
+          "label": "written work",
+          "score": 0.8564387559890747
+        },
+        {
+          "text": "Łazar",
+          "start": 444,
+          "end": 449,
+          "label": "person",
+          "score": 0.9452291131019592
+        },
+        {
+          "text": "Marw-ī-Rōd",
+          "start": 477,
+          "end": 487,
+          "label": "location",
+          "score": 0.9389218091964722
+        },
+        {
+          "text": "Merv",
+          "start": 490,
+          "end": 494,
+          "label": "location",
+          "score": 0.8064833879470825
+        },
+        {
+          "text": "Khurasan",
+          "start": 523,
+          "end": 531,
+          "label": "location",
+          "score": 0.8893668055534363
+        },
+        {
+          "text": "Sasanian king",
+          "start": 543,
+          "end": 556,
+          "label": "person",
+          "score": 0.8408504128456116
+        },
+        {
+          "text": "Armenia",
+          "start": 666,
+          "end": 673,
+          "label": "location",
+          "score": 0.4202462136745453
+        },
+        {
+          "text": "Łazar",
+          "start": 683,
+          "end": 688,
+          "label": "person",
+          "score": 0.9400717616081238
+        },
+        {
+          "text": "Ełišē",
+          "start": 762,
+          "end": 767,
+          "label": "person",
+          "score": 0.8199909329414368
+        },
+        {
+          "text": "Khuzestan",
+          "start": 808,
+          "end": 817,
+          "label": "location",
+          "score": 0.6399604678153992
+        },
+        {
+          "text": "Armenia",
+          "start": 849,
+          "end": 856,
+          "label": "location",
+          "score": 0.8389217257499695
+        },
+        {
+          "text": "Armenia",
+          "start": 1015,
+          "end": 1022,
+          "label": "location",
+          "score": 0.7977591156959534
+        },
+        {
+          "text": "Kidarite Hun confederacy",
+          "start": 1161,
+          "end": 1185,
+          "label": "organization",
+          "score": 0.8867119550704956
+        },
+        {
+          "text": "Sasanian Empire",
+          "start": 1193,
+          "end": 1208,
+          "label": "organization",
+          "score": 0.8555130362510681
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p008",
+      "page": 3,
+      "section": null,
+      "text": "This is not to suggest that taking captives to Gorgān had no function in restoring order in Armenia itself. The rebellion was primarily an elite uprising, and captive selection targetted clans who were led by rebellious princes. With the exception of two brothers – Babgēn and Bakur – taken from the Siwni family, no captives came from clans whose princes had remained loyal to the Sasanians during the rebellion, even when other members of the clan were prominent rebels. There were no captives from the Paluni or Xorxoṙuni families, for example, despite Xorēn Xorxoṙuni and Artak Paluni being prominent enough rebels that Ełišē included them in a vision alongside Vardan himself as representative of Awarayr’s martyrs. Arrests from the Siwni family may have been related to Vasak Siwni’s removal as Armenia’s leading noble (marzbān, ‘margrave’), after he failed to end the uprising diplomatically. This is especially likely if Toumanoff is correct that Babgēn was the same person as Babik Siwni, a son of Vasak who had been retained at Ctesiphon before the rebellion to ensure his father’s loyalty. Alternatively, if the brothers were the nephews of Vasak who Ełišē claimed the Siwni lord had exiled and disinherited due to their Christian faith, an association with Vasak’s disenfranchisement is less probable, and their arrest may instead have been his doing.",
+      "mentions": [
+        {
+          "text": "Gorgān",
+          "start": 47,
+          "end": 53,
+          "label": "location",
+          "score": 0.7237392067909241
+        },
+        {
+          "text": "Armenia",
+          "start": 92,
+          "end": 99,
+          "label": "location",
+          "score": 0.6832748651504517
+        },
+        {
+          "text": "Babgēn",
+          "start": 266,
+          "end": 272,
+          "label": "person",
+          "score": 0.8272855877876282
+        },
+        {
+          "text": "Bakur",
+          "start": 277,
+          "end": 282,
+          "label": "person",
+          "score": 0.8450586199760437
+        },
+        {
+          "text": "Siwni family",
+          "start": 300,
+          "end": 312,
+          "label": "organization",
+          "score": 0.8690126538276672
+        },
+        {
+          "text": "Sasanians",
+          "start": 382,
+          "end": 391,
+          "label": "organization",
+          "score": 0.8864244818687439
+        },
+        {
+          "text": "Xorēn Xorxoṙuni",
+          "start": 556,
+          "end": 571,
+          "label": "person",
+          "score": 0.5663576126098633
+        },
+        {
+          "text": "Artak Paluni",
+          "start": 576,
+          "end": 588,
+          "label": "person",
+          "score": 0.5516746640205383
+        },
+        {
+          "text": "Ełišē",
+          "start": 624,
+          "end": 629,
+          "label": "person",
+          "score": 0.5792132616043091
+        },
+        {
+          "text": "Vardan",
+          "start": 666,
+          "end": 672,
+          "label": "person",
+          "score": 0.6213943958282471
+        },
+        {
+          "text": "Siwni family",
+          "start": 738,
+          "end": 750,
+          "label": "organization",
+          "score": 0.6300727128982544
+        },
+        {
+          "text": "Vasak Siwni",
+          "start": 776,
+          "end": 787,
+          "label": "person",
+          "score": 0.8849203586578369
+        },
+        {
+          "text": "Siwni",
+          "start": 782,
+          "end": 787,
+          "label": "person",
+          "score": 0.5034598708152771
+        },
+        {
+          "text": "Armenia",
+          "start": 801,
+          "end": 808,
+          "label": "location",
+          "score": 0.7588035464286804
+        },
+        {
+          "text": "Babgēn",
+          "start": 955,
+          "end": 961,
+          "label": "person",
+          "score": 0.5608336925506592
+        },
+        {
+          "text": "Babik Siwni",
+          "start": 985,
+          "end": 996,
+          "label": "person",
+          "score": 0.826249361038208
+        },
+        {
+          "text": "Vasak",
+          "start": 1007,
+          "end": 1012,
+          "label": "person",
+          "score": 0.8392281532287598
+        },
+        {
+          "text": "Ctesiphon",
+          "start": 1038,
+          "end": 1047,
+          "label": "location",
+          "score": 0.9208248853683472
+        },
+        {
+          "text": "Vasak",
+          "start": 1152,
+          "end": 1157,
+          "label": "person",
+          "score": 0.9243655204772949
+        },
+        {
+          "text": "Ełišē",
+          "start": 1162,
+          "end": 1167,
+          "label": "person",
+          "score": 0.5567325353622437
+        },
+        {
+          "text": "Siwni",
+          "start": 1180,
+          "end": 1185,
+          "label": "person",
+          "score": 0.693332850933075
+        },
+        {
+          "text": "Siwni lord",
+          "start": 1180,
+          "end": 1190,
+          "label": "person",
+          "score": 0.7383983731269836
+        },
+        {
+          "text": "Vasak",
+          "start": 1269,
+          "end": 1274,
+          "label": "person",
+          "score": 0.8816784620285034
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p009",
+      "page": 4,
+      "section": null,
+      "text": "In the rebellion’s aftermath, the Sasanians prioritised promoting Zoroastrian Armenian nobles to regaining the loyalty of the descendants of rebels. This was perhaps because Christians were still in the minority of the population despite the universally Christian bent of our sources, as İlhami Cinemre estimated that only at most half the Armenian nobility were Christian during the mid-fifth century. Stability was also preserved through placing a relative of the Armenian Arsacid royal family (abolished AD 428) in the position of marzbān. There is some evidence that the relatives of rebels were subject to suspicion at the royal court regardless of their faith, as Łazar complains that Vahan Mamikonean was unable to gain prestige even by apostatising due to his clan’s rebellious reputation. However, such exclusions were fairly narrowly focused. Vardan Mamikonean’s son-in-law – the Georgian bdeašx Vazgen – is depicted as converting for social advancement in the Life of his wife, Šušanik. Likewise, Łazar highlights Gadišo Xorxoṙuni as the leading Zoroastrian magnate of Armenia in the antebellum period despite his rebellious relative. Such promotions demonstrate the resilience of what Christiane Harzig and Dirk Hoerder call the ‘trans-local family’ structure of the Armenian elite, wherein clan decentralisation allowed individual members to serve different masters, insulating clans from adverse outcomes during conflicts.",
+      "mentions": [
+        {
+          "text": "Sasanians",
+          "start": 34,
+          "end": 43,
+          "label": "organization",
+          "score": 0.9026196599006653
+        },
+        {
+          "text": "Zoroastrian Armenian nobles",
+          "start": 66,
+          "end": 93,
+          "label": "organization",
+          "score": 0.4235508441925049
+        },
+        {
+          "text": "İlhami Cinemre",
+          "start": 288,
+          "end": 302,
+          "label": "person",
+          "score": 0.949445366859436
+        },
+        {
+          "text": "Armenian Arsacid royal family",
+          "start": 466,
+          "end": 495,
+          "label": "organization",
+          "score": 0.7922500371932983
+        },
+        {
+          "text": "Łazar",
+          "start": 670,
+          "end": 675,
+          "label": "person",
+          "score": 0.6932287812232971
+        },
+        {
+          "text": "Vahan Mamikonean",
+          "start": 691,
+          "end": 707,
+          "label": "person",
+          "score": 0.9136622548103333
+        },
+        {
+          "text": "Vardan Mamikonean",
+          "start": 853,
+          "end": 870,
+          "label": "person",
+          "score": 0.9493613243103027
+        },
+        {
+          "text": "Georgian bdeašx Vazgen",
+          "start": 890,
+          "end": 912,
+          "label": "person",
+          "score": 0.5222775340080261
+        },
+        {
+          "text": "Šušanik",
+          "start": 989,
+          "end": 996,
+          "label": "person",
+          "score": 0.7860043048858643
+        },
+        {
+          "text": "Łazar",
+          "start": 1008,
+          "end": 1013,
+          "label": "person",
+          "score": 0.6892401576042175
+        },
+        {
+          "text": "Gadišo Xorxoṙuni",
+          "start": 1025,
+          "end": 1041,
+          "label": "person",
+          "score": 0.8121910691261292
+        },
+        {
+          "text": "Armenia",
+          "start": 1080,
+          "end": 1087,
+          "label": "location",
+          "score": 0.9160382151603699
+        },
+        {
+          "text": "Christiane Harzig",
+          "start": 1197,
+          "end": 1214,
+          "label": "person",
+          "score": 0.9794744253158569
+        },
+        {
+          "text": "Dirk Hoerder",
+          "start": 1219,
+          "end": 1231,
+          "label": "person",
+          "score": 0.9557055234909058
+        },
+        {
+          "text": "Armenian elite",
+          "start": 1279,
+          "end": 1293,
+          "label": "organization",
+          "score": 0.7458927035331726
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p010",
+      "page": 5,
+      "section": null,
+      "text": "This trans-local structure, when combined with the narrow focus of arrests and the brief window between Vardan and Vahan’s rebellions, means the impact of Sasanian restructuring to the Armenian nobility was probably minimal. Hewsen identified only three noble families (Ṙop‘sean, Słkuni, and Ǝnc‘ayac‘i) who died out between AD 450–84, and to this we may add the Mandakuni family (whose last attested kinsman died in AD 490). Only the Mandakuni and Ṙop‘sean were among our captives, and all three of Hewsen’s clans were minor and poorly attested. Their disappearance therefore need not imply they were destroyed or lost prestige.",
+      "mentions": [
+        {
+          "text": "Vardan and Vahan",
+          "start": 104,
+          "end": 120,
+          "label": "person",
+          "score": 0.5689487457275391
+        },
+        {
+          "text": "Sasanian restructuring",
+          "start": 155,
+          "end": 177,
+          "label": "event",
+          "score": 0.8338287472724915
+        },
+        {
+          "text": "Armenian nobility",
+          "start": 185,
+          "end": 202,
+          "label": "organization",
+          "score": 0.898209810256958
+        },
+        {
+          "text": "Hewsen",
+          "start": 225,
+          "end": 231,
+          "label": "person",
+          "score": 0.8612224459648132
+        },
+        {
+          "text": "Mandakuni",
+          "start": 435,
+          "end": 444,
+          "label": "person",
+          "score": 0.7821215391159058
+        },
+        {
+          "text": "Hewsen’s clans",
+          "start": 500,
+          "end": 514,
+          "label": "organization",
+          "score": 0.5841119885444641
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p011",
+      "page": 5,
+      "section": "ADULT AND CHILD CAPTIVES",
+      "text": "Placement for military service would imply that the nobles sent to Gorgān were adults, but this does not necessarily follow just because Łazar identified the other group as children. Indeed, both historians emphasise the Gorgān group’s youth. Łazar referred to ‘the young, imprisoned nobles’ (manktwoy kapeloc‘ naxararac‘n) and ‘the young, imprisoned priests’ (mankanc‘ kapeloc‘n eric‘anc‘s), while Ełišē juxtaposes the ‘very young’ (managoyn) and eldest (ceragoyn) captives in a passage concerning the latter’s spiritual rejuvenation while at Herāt. These passages are probably hyperbolic. Priests especially cannot have been children and any child who was still underage by AD 457 would have been nine at most when taken to Gorgān, which would not seem to fit the otherwise targeted nature of arrests.",
+      "mentions": [
+        {
+          "text": "Placement for military service",
+          "start": 0,
+          "end": 30,
+          "label": "event",
+          "score": 0.525267481803894
+        },
+        {
+          "text": "Gorgān",
+          "start": 67,
+          "end": 73,
+          "label": "location",
+          "score": 0.9432165622711182
+        },
+        {
+          "text": "Łazar",
+          "start": 137,
+          "end": 142,
+          "label": "person",
+          "score": 0.9330496191978455
+        },
+        {
+          "text": "Gorgān",
+          "start": 221,
+          "end": 227,
+          "label": "location",
+          "score": 0.9377620816230774
+        },
+        {
+          "text": "Łazar",
+          "start": 243,
+          "end": 248,
+          "label": "person",
+          "score": 0.936581015586853
+        },
+        {
+          "text": "Ełišē",
+          "start": 399,
+          "end": 404,
+          "label": "person",
+          "score": 0.8175153136253357
+        },
+        {
+          "text": "Ełišē",
+          "start": 399,
+          "end": 404,
+          "label": "written work",
+          "score": 0.8921219706535339
+        },
+        {
+          "text": "Herāt",
+          "start": 544,
+          "end": 549,
+          "label": "location",
+          "score": 0.9526229500770569
+        },
+        {
+          "text": "Priests",
+          "start": 591,
+          "end": 598,
+          "label": "organization",
+          "score": 0.8530848622322083
+        },
+        {
+          "text": "Gorgān",
+          "start": 726,
+          "end": 732,
+          "label": "location",
+          "score": 0.8435271978378296
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p012",
+      "page": 6,
+      "section": "ADULT AND CHILD CAPTIVES",
+      "text": "Nonetheless, the presence of children among this group is possible, especially since Ełišē claims that the Armenian nobility initially arraigned to the Persian court willingly and brought their wives and children with them. Łazar’s far less positive account of the same incident does not mention women or children but, regardless of who is accurate, the presence of children at the arraignment need not imply any were arrested. Neither historian suggests the captives’ wives joined them in Gorgān, instead dedicating lengthy descriptions to the deprivations they suffered remaining in Armenia. Łazar even claims that three of the arraigned lords he identified did not see captivity, nor were any of their relatives taken to Gorgān.",
+      "mentions": [
+        {
+          "text": "Ełišē",
+          "start": 85,
+          "end": 90,
+          "label": "person",
+          "score": 0.91977858543396
+        },
+        {
+          "text": "Armenian nobility",
+          "start": 107,
+          "end": 124,
+          "label": "organization",
+          "score": 0.9028928875923157
+        },
+        {
+          "text": "Persian court",
+          "start": 152,
+          "end": 165,
+          "label": "organization",
+          "score": 0.8946148157119751
+        },
+        {
+          "text": "Łazar",
+          "start": 224,
+          "end": 229,
+          "label": "person",
+          "score": 0.7317768931388855
+        },
+        {
+          "text": "Gorgān",
+          "start": 490,
+          "end": 496,
+          "label": "location",
+          "score": 0.9734579920768738
+        },
+        {
+          "text": "Armenia",
+          "start": 585,
+          "end": 592,
+          "label": "location",
+          "score": 0.9016140103340149
+        },
+        {
+          "text": "Łazar",
+          "start": 594,
+          "end": 599,
+          "label": "person",
+          "score": 0.8625890612602234
+        },
+        {
+          "text": "Gorgān",
+          "start": 724,
+          "end": 730,
+          "label": "location",
+          "score": 0.961553692817688
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p013",
+      "page": 6,
+      "section": "ADULT AND CHILD CAPTIVES",
+      "text": "One Gorgān captive appearing only in Ełišē’s list, Nerseh Kamsarakan, may be identified as the future lord Nerseh of Širak, son of fellow captive Aršawir Kamsarakan and identifiably underage during his captivity. However, this Nerseh’s absence from Łazar’s list is extremely unusual, since Łazar had a close relationship with Nerseh. Łazar lived with Nerseh and his brother Hrahat from c. 470–82 AD, they continued to support him while he was abbot of Vałaršapat, and he cited Nerseh as a source for the c. 482 AD Battle of Akesga. Łazar elsewhere refers to a foster-brother of Nerseh from Aršamunik‘, indicating the lord had spent at least some of his childhood in southwestern Armenia. It is therefore unlikely that Nerseh spent fourteen years as a Persian captive.",
+      "mentions": [
+        {
+          "text": "Nerseh Kamsarakan",
+          "start": 51,
+          "end": 68,
+          "label": "person",
+          "score": 0.952348530292511
+        },
+        {
+          "text": "Aršawir Kamsarakan",
+          "start": 146,
+          "end": 164,
+          "label": "person",
+          "score": 0.8748947381973267
+        },
+        {
+          "text": "Nerseh",
+          "start": 227,
+          "end": 233,
+          "label": "person",
+          "score": 0.5860545039176941
+        },
+        {
+          "text": "Łazar",
+          "start": 249,
+          "end": 254,
+          "label": "person",
+          "score": 0.5654274821281433
+        },
+        {
+          "text": "Łazar",
+          "start": 290,
+          "end": 295,
+          "label": "person",
+          "score": 0.7667751312255859
+        },
+        {
+          "text": "Nerseh",
+          "start": 326,
+          "end": 332,
+          "label": "person",
+          "score": 0.6547605991363525
+        },
+        {
+          "text": "Łazar",
+          "start": 334,
+          "end": 339,
+          "label": "person",
+          "score": 0.8300323486328125
+        },
+        {
+          "text": "Nerseh",
+          "start": 351,
+          "end": 357,
+          "label": "person",
+          "score": 0.7214297652244568
+        },
+        {
+          "text": "Hrahat",
+          "start": 374,
+          "end": 380,
+          "label": "person",
+          "score": 0.7575213313102722
+        },
+        {
+          "text": "Vałaršapat",
+          "start": 452,
+          "end": 462,
+          "label": "location",
+          "score": 0.8902153372764587
+        },
+        {
+          "text": "Nerseh",
+          "start": 477,
+          "end": 483,
+          "label": "person",
+          "score": 0.9697218537330627
+        },
+        {
+          "text": "Battle of Akesga",
+          "start": 514,
+          "end": 530,
+          "label": "event",
+          "score": 0.8981077075004578
+        },
+        {
+          "text": "Łazar",
+          "start": 532,
+          "end": 537,
+          "label": "person",
+          "score": 0.7569330930709839
+        },
+        {
+          "text": "Nerseh",
+          "start": 578,
+          "end": 584,
+          "label": "person",
+          "score": 0.9641024470329285
+        },
+        {
+          "text": "Aršamunik",
+          "start": 590,
+          "end": 599,
+          "label": "location",
+          "score": 0.8615761399269104
+        },
+        {
+          "text": "southwestern Armenia",
+          "start": 666,
+          "end": 686,
+          "label": "location",
+          "score": 0.6082647442817688
+        },
+        {
+          "text": "Nerseh",
+          "start": 718,
+          "end": 724,
+          "label": "person",
+          "score": 0.9707221388816833
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p014",
+      "page": 7,
+      "section": "ADULT AND CHILD CAPTIVES",
+      "text": "The Mathematical Problems attributed to seventh-century polymath Anania Širakac‘i claims Nerseh was present at the Sasanian capture of Balkh, which may indicate he was in Herāt alongside other Armenian captives if the tradition refers to the AD 462–6 campaign of Yazdgerd’s successor Pērōz against the Kidarites. However, I accept Zara Pogossian’s suggestion that the relevant campaign occurred in AD 484 after Pērōz’s death, which is supported by Anania’s assertion that Nerseh donated to the Christian community of Vałaršapat, a site his ally Vahan Mamikonean patronised in this period. Such a timescale could also explain the unambiguous appearance of ‘the Kamsarakan lord of Širak, Nerseh’ (Kamsarakann tērn Širakay Nersehn) leading a Persian delegation that negotiated with Vahan in 485, when Łazar otherwise depicts him as Vahan’s stalwart ally. Ultimately, the figure Ełišē records was probably either added erroneously or a different individual bearing the common name of Nerseh. If the future lord of Širak was in captivity in Persia, he was more probably one of the anonymous Kamsarakan children imprisoned in Khuzestan.",
+      "mentions": [
+        {
+          "text": "The Mathematical Problems",
+          "start": 0,
+          "end": 25,
+          "label": "written work",
+          "score": 0.8931862711906433
+        },
+        {
+          "text": "Anania Širakac‘i",
+          "start": 65,
+          "end": 81,
+          "label": "person",
+          "score": 0.9313982725143433
+        },
+        {
+          "text": "Nerseh",
+          "start": 89,
+          "end": 95,
+          "label": "person",
+          "score": 0.8667630553245544
+        },
+        {
+          "text": "Sasanian capture",
+          "start": 115,
+          "end": 131,
+          "label": "event",
+          "score": 0.4272811710834503
+        },
+        {
+          "text": "Balkh",
+          "start": 135,
+          "end": 140,
+          "label": "location",
+          "score": 0.870293915271759
+        },
+        {
+          "text": "Herāt",
+          "start": 171,
+          "end": 176,
+          "label": "location",
+          "score": 0.9293215274810791
+        },
+        {
+          "text": "AD 462–6 campaign",
+          "start": 242,
+          "end": 259,
+          "label": "event",
+          "score": 0.8492169976234436
+        },
+        {
+          "text": "Yazdgerd",
+          "start": 263,
+          "end": 271,
+          "label": "person",
+          "score": 0.5376309752464294
+        },
+        {
+          "text": "Pērōz",
+          "start": 284,
+          "end": 289,
+          "label": "person",
+          "score": 0.9358434677124023
+        },
+        {
+          "text": "Kidarites",
+          "start": 302,
+          "end": 311,
+          "label": "organization",
+          "score": 0.827853798866272
+        },
+        {
+          "text": "Zara Pogossian",
+          "start": 331,
+          "end": 345,
+          "label": "person",
+          "score": 0.6209173202514648
+        },
+        {
+          "text": "Pērōz",
+          "start": 411,
+          "end": 416,
+          "label": "person",
+          "score": 0.9137688279151917
+        },
+        {
+          "text": "Anania",
+          "start": 448,
+          "end": 454,
+          "label": "person",
+          "score": 0.5841700434684753
+        },
+        {
+          "text": "Nerseh",
+          "start": 472,
+          "end": 478,
+          "label": "person",
+          "score": 0.9592950940132141
+        },
+        {
+          "text": "Christian community",
+          "start": 494,
+          "end": 513,
+          "label": "organization",
+          "score": 0.6969931721687317
+        },
+        {
+          "text": "Vałaršapat",
+          "start": 517,
+          "end": 527,
+          "label": "location",
+          "score": 0.8533002734184265
+        },
+        {
+          "text": "Vahan Mamikonean",
+          "start": 545,
+          "end": 561,
+          "label": "person",
+          "score": 0.9257435202598572
+        },
+        {
+          "text": "Širak",
+          "start": 679,
+          "end": 684,
+          "label": "location",
+          "score": 0.6132860779762268
+        },
+        {
+          "text": "Nerseh",
+          "start": 686,
+          "end": 692,
+          "label": "person",
+          "score": 0.9349613785743713
+        },
+        {
+          "text": "Nersehn",
+          "start": 720,
+          "end": 727,
+          "label": "person",
+          "score": 0.6191503405570984
+        },
+        {
+          "text": "Persian delegation",
+          "start": 739,
+          "end": 757,
+          "label": "organization",
+          "score": 0.5521788001060486
+        },
+        {
+          "text": "Vahan",
+          "start": 779,
+          "end": 784,
+          "label": "person",
+          "score": 0.9587174654006958
+        },
+        {
+          "text": "Łazar",
+          "start": 798,
+          "end": 803,
+          "label": "person",
+          "score": 0.6274828314781189
+        },
+        {
+          "text": "Vahan",
+          "start": 829,
+          "end": 834,
+          "label": "person",
+          "score": 0.9406841397285461
+        },
+        {
+          "text": "Nerseh",
+          "start": 980,
+          "end": 986,
+          "label": "person",
+          "score": 0.7336339950561523
+        },
+        {
+          "text": "Persia",
+          "start": 1036,
+          "end": 1042,
+          "label": "location",
+          "score": 0.9203872084617615
+        },
+        {
+          "text": "Khuzestan",
+          "start": 1120,
+          "end": 1129,
+          "label": "location",
+          "score": 0.9453346133232117
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p015",
+      "page": 7,
+      "section": "MILITARY SERVICE",
+      "text": "A plausible explanation for the adult captives’ greater mobility and longer sentence is that they were performing military functions. Only Łazar expressly mentions military service, and only after the troops had been technically freed and were serving in Herāt. Ełišē is not as explicit about what service was performed, but his claim that the nobles’ return to Armenia was delayed by civil war between Yazdgerd’s sons (AD 457–9, elided by Łazar) and rebellion by the Caucasian Albanian king (until AD 461) implies a military role at Herāt.",
+      "mentions": [
+        {
+          "text": "Łazar",
+          "start": 139,
+          "end": 144,
+          "label": "person",
+          "score": 0.8910796642303467
+        },
+        {
+          "text": "Herāt",
+          "start": 255,
+          "end": 260,
+          "label": "location",
+          "score": 0.941519558429718
+        },
+        {
+          "text": "Ełišē",
+          "start": 262,
+          "end": 267,
+          "label": "person",
+          "score": 0.7686846852302551
+        },
+        {
+          "text": "Armenia",
+          "start": 362,
+          "end": 369,
+          "label": "location",
+          "score": 0.6448826193809509
+        },
+        {
+          "text": "Yazdgerd",
+          "start": 403,
+          "end": 411,
+          "label": "person",
+          "score": 0.8520118594169617
+        },
+        {
+          "text": "Yazdgerd’s sons",
+          "start": 403,
+          "end": 418,
+          "label": "person",
+          "score": 0.5777119994163513
+        },
+        {
+          "text": "Łazar",
+          "start": 440,
+          "end": 445,
+          "label": "person",
+          "score": 0.8884588479995728
+        },
+        {
+          "text": "Caucasian Albanian king",
+          "start": 468,
+          "end": 491,
+          "label": "person",
+          "score": 0.6874673366546631
+        },
+        {
+          "text": "Herāt",
+          "start": 534,
+          "end": 539,
+          "label": "location",
+          "score": 0.9669291973114014
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p016",
+      "page": 7,
+      "section": "MILITARY SERVICE",
+      "text": "While military service is not described in Gorgān and Nishapur, the move between these locations occurred in a military context. Yazdgerd II forced the Armenians to join his armies on march then left them in Nishapur, taking two clerics from the group with him. Armenians frequently served as soldiers in both localities. The seventh-century historian Sebeos recorded one of his protagonists, Smbat IV Bagratuni, recruiting a host of Armenian nobles from Gorgān in 614–15 before travelling to campaign near Nishapur, retracing the same journey the captives had taken a century and a half before. This Smbat also (re)converted a group of Armenian captives he encountered while he was marzbān of Gorgān c. 599/600–606/7, indicating the longstanding presence of Armenian captives there.",
+      "mentions": [
+        {
+          "text": "Gorgān",
+          "start": 43,
+          "end": 49,
+          "label": "location",
+          "score": 0.9582496881484985
+        },
+        {
+          "text": "Nishapur",
+          "start": 54,
+          "end": 62,
+          "label": "location",
+          "score": 0.9609019756317139
+        },
+        {
+          "text": "Yazdgerd II",
+          "start": 129,
+          "end": 140,
+          "label": "person",
+          "score": 0.9470985531806946
+        },
+        {
+          "text": "Armenians",
+          "start": 152,
+          "end": 161,
+          "label": "organization",
+          "score": 0.6286870837211609
+        },
+        {
+          "text": "Nishapur",
+          "start": 208,
+          "end": 216,
+          "label": "location",
+          "score": 0.9683569669723511
+        },
+        {
+          "text": "Armenians",
+          "start": 262,
+          "end": 271,
+          "label": "organization",
+          "score": 0.4002310335636139
+        },
+        {
+          "text": "Sebeos",
+          "start": 352,
+          "end": 358,
+          "label": "person",
+          "score": 0.7872294187545776
+        },
+        {
+          "text": "Smbat IV Bagratuni",
+          "start": 393,
+          "end": 411,
+          "label": "person",
+          "score": 0.966579020023346
+        },
+        {
+          "text": "Armenian nobles",
+          "start": 434,
+          "end": 449,
+          "label": "organization",
+          "score": 0.5625798106193542
+        },
+        {
+          "text": "Gorgān",
+          "start": 455,
+          "end": 461,
+          "label": "location",
+          "score": 0.9768930673599243
+        },
+        {
+          "text": "Nishapur",
+          "start": 507,
+          "end": 515,
+          "label": "location",
+          "score": 0.9304952025413513
+        },
+        {
+          "text": "Smbat",
+          "start": 601,
+          "end": 606,
+          "label": "person",
+          "score": 0.41123369336128235
+        },
+        {
+          "text": "Gorgān",
+          "start": 694,
+          "end": 700,
+          "label": "location",
+          "score": 0.9534029960632324
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p017",
+      "page": 8,
+      "section": "MILITARY SERVICE",
+      "text": "All three cities were integral defensive points on the Sasanian border. Nishapur and Herāt’s square plans and corner citadels suggest they had been constructed as (or inspired by) military fortifications, and Herāt’s unusually large citadel especially is more comparable in size to those found on large Sasanian campaign bases. Gorgān meanwhile was witnessing a period of extensive fortification during the fifth century. Construction of the famous Gorgān and Tammīseh Walls likely began in the reigns of Yazdgerd and Pērōz. The construction of geometric lowland forts that supported these walls also peaked in the fifth century. Eberhard Sauer remarked that all the forts so far excavated may have been fifth-century constructions (although he thought it was probable that some were built in the sixth).",
+      "mentions": [
+        {
+          "text": "Nishapur",
+          "start": 72,
+          "end": 80,
+          "label": "location",
+          "score": 0.9385759830474854
+        },
+        {
+          "text": "Herāt",
+          "start": 85,
+          "end": 90,
+          "label": "location",
+          "score": 0.8210092782974243
+        },
+        {
+          "text": "Herāt",
+          "start": 209,
+          "end": 214,
+          "label": "location",
+          "score": 0.8255367279052734
+        },
+        {
+          "text": "Gorgān",
+          "start": 328,
+          "end": 334,
+          "label": "location",
+          "score": 0.9404309988021851
+        },
+        {
+          "text": "Gorgān",
+          "start": 449,
+          "end": 455,
+          "label": "location",
+          "score": 0.8288613557815552
+        },
+        {
+          "text": "Yazdgerd and Pērōz",
+          "start": 505,
+          "end": 523,
+          "label": "person",
+          "score": 0.6821726560592651
+        },
+        {
+          "text": "Eberhard Sauer",
+          "start": 630,
+          "end": 644,
+          "label": "person",
+          "score": 0.9051860570907593
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p018",
+      "page": 8,
+      "section": "MILITARY SERVICE",
+      "text": "The reason for this fortification and the probable conflict in which Armenian troops were used was the ongoing contest between the Sasanians and the Kidarite Huns. Competition between these two powers on the Sasanian eastern border intensified after Yazdgerd and Pērōz abandoned their predecessors’ strategy of paying off the Kidarites, ultimately resulting in the Kidarites’ destruction and replacement by the more powerful Hephthalite Huns. Yazdgerd paired increasing Sasanian defensive capacity with Zoroastrianising policies and numismatic reforms promoting Sasanian connections to the mythical Kayanian Zoroastrian dynasty whose foes had hailed from the same region as the Kidarites. In the long-term these transformed both the Sasanian ideology of power and defensive profile – solidifying borders and increasing imperial pressure on borderland elites – but in the short-term it probably also resulted in more-or-less constant conflict in the region of Tokharistan west of the Hindu Kush from AD 440–57.",
+      "mentions": [
+        {
+          "text": "Sasanians",
+          "start": 131,
+          "end": 140,
+          "label": "organization",
+          "score": 0.7916675806045532
+        },
+        {
+          "text": "Kidarite Huns",
+          "start": 149,
+          "end": 162,
+          "label": "organization",
+          "score": 0.871597409248352
+        },
+        {
+          "text": "Yazdgerd",
+          "start": 250,
+          "end": 258,
+          "label": "person",
+          "score": 0.9570195078849792
+        },
+        {
+          "text": "Pērōz",
+          "start": 263,
+          "end": 268,
+          "label": "person",
+          "score": 0.8810257911682129
+        },
+        {
+          "text": "Kidarites",
+          "start": 326,
+          "end": 335,
+          "label": "organization",
+          "score": 0.6357744932174683
+        },
+        {
+          "text": "Kidarites",
+          "start": 365,
+          "end": 374,
+          "label": "organization",
+          "score": 0.6396250128746033
+        },
+        {
+          "text": "Hephthalite Huns",
+          "start": 425,
+          "end": 441,
+          "label": "organization",
+          "score": 0.7565667033195496
+        },
+        {
+          "text": "Yazdgerd",
+          "start": 443,
+          "end": 451,
+          "label": "person",
+          "score": 0.9726629257202148
+        },
+        {
+          "text": "Kayanian Zoroastrian dynasty",
+          "start": 599,
+          "end": 627,
+          "label": "organization",
+          "score": 0.672978937625885
+        },
+        {
+          "text": "Kidarites",
+          "start": 678,
+          "end": 687,
+          "label": "organization",
+          "score": 0.6835548877716064
+        },
+        {
+          "text": "Tokharistan",
+          "start": 959,
+          "end": 970,
+          "label": "location",
+          "score": 0.8159216642379761
+        },
+        {
+          "text": "Hindu Kush",
+          "start": 983,
+          "end": 993,
+          "label": "location",
+          "score": 0.8372607827186584
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p019",
+      "page": 9,
+      "section": "MILITARY SERVICE",
+      "text": "The Armenian return to their homeland fits especially well with Pērōz’s victorious AD 462–6 campaign against the Kidarites, coming a year before he finally defeated them. Their return may also have been intended to combat attacks by the Saraguri Huns on Armenia and Iberia, for which Pērōz unsuccessfully sought Roman aid in AD 466.",
+      "mentions": [
+        {
+          "text": "Pērōz",
+          "start": 64,
+          "end": 69,
+          "label": "person",
+          "score": 0.9493421912193298
+        },
+        {
+          "text": "Kidarites",
+          "start": 113,
+          "end": 122,
+          "label": "organization",
+          "score": 0.8538273572921753
+        },
+        {
+          "text": "Saraguri Huns",
+          "start": 237,
+          "end": 250,
+          "label": "organization",
+          "score": 0.8122709393501282
+        },
+        {
+          "text": "Armenia",
+          "start": 254,
+          "end": 261,
+          "label": "location",
+          "score": 0.7977204322814941
+        },
+        {
+          "text": "Iberia",
+          "start": 266,
+          "end": 272,
+          "label": "location",
+          "score": 0.8197217583656311
+        },
+        {
+          "text": "Pērōz",
+          "start": 284,
+          "end": 289,
+          "label": "person",
+          "score": 0.9344290494918823
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p020",
+      "page": 9,
+      "section": "MILITARY SERVICE",
+      "text": "Given the captives were imprisoned in important borderlands during a period when Sasanian dominance over their northern border was experiencing its first significant challenge, Gorgān and Nishapur seem unlikely places to leave troops who were entirely uninvolved in defence. However, an absence of sources pertaining to Yazdgerd’s anti-Kidarite campaigns makes it difficult to establish what roles captives may have had. It is tempting to suggest they contributed to fortifying Gorgān, but the short duration of their stay means they cannot have had any significant role in this. If one accepts Shapur Shahbazi’s suggestion that Yazdgerd’s move from Gorgān to Nishapur was in fact a retreat from a Kidarite campaign fought in AD 450–4, the timing of their move makes more sense. In this case, the captives perhaps spent time in one of the semi-permanent military camps that preceded the Gorgān Wall’s construction. Such a narrative could also explain the absence of explicit mention of military service in Łazar and Ełišē, as participation in a failed campaign would not fit the image of Christian martyrdom they sought to construct. Certainly, both historians demonstrate ambiguous feelings about the group’s time in Herāt. While celebrating the Armenians’ freedom and distinguished service, Łazar still refers to them as ‘in fetters’ (i kapans) and Ełišē terms them ‘the condemned’ ( patžawork‘n).",
+      "mentions": [
+        {
+          "text": "Gorgān",
+          "start": 177,
+          "end": 183,
+          "label": "location",
+          "score": 0.9706588983535767
+        },
+        {
+          "text": "Nishapur",
+          "start": 188,
+          "end": 196,
+          "label": "location",
+          "score": 0.9621682167053223
+        },
+        {
+          "text": "Yazdgerd",
+          "start": 320,
+          "end": 328,
+          "label": "person",
+          "score": 0.8828001618385315
+        },
+        {
+          "text": "anti-Kidarite campaigns",
+          "start": 331,
+          "end": 354,
+          "label": "event",
+          "score": 0.8221198320388794
+        },
+        {
+          "text": "Gorgān",
+          "start": 478,
+          "end": 484,
+          "label": "location",
+          "score": 0.9777146577835083
+        },
+        {
+          "text": "Shapur Shahbazi",
+          "start": 595,
+          "end": 610,
+          "label": "person",
+          "score": 0.8850275278091431
+        },
+        {
+          "text": "Yazdgerd",
+          "start": 629,
+          "end": 637,
+          "label": "person",
+          "score": 0.8390392661094666
+        },
+        {
+          "text": "Gorgān",
+          "start": 650,
+          "end": 656,
+          "label": "location",
+          "score": 0.9585866332054138
+        },
+        {
+          "text": "Nishapur",
+          "start": 660,
+          "end": 668,
+          "label": "location",
+          "score": 0.9190418720245361
+        },
+        {
+          "text": "Kidarite campaign",
+          "start": 698,
+          "end": 715,
+          "label": "event",
+          "score": 0.8975573778152466
+        },
+        {
+          "text": "Gorgān",
+          "start": 887,
+          "end": 893,
+          "label": "location",
+          "score": 0.9600518941879272
+        },
+        {
+          "text": "Gorgān Wall’s construction",
+          "start": 887,
+          "end": 913,
+          "label": "event",
+          "score": 0.4945834279060364
+        },
+        {
+          "text": "Łazar and Ełišē",
+          "start": 1006,
+          "end": 1021,
+          "label": "location",
+          "score": 0.7294328808784485
+        },
+        {
+          "text": "Christian martyrdom",
+          "start": 1088,
+          "end": 1107,
+          "label": "event",
+          "score": 0.4350094497203827
+        },
+        {
+          "text": "Herāt",
+          "start": 1218,
+          "end": 1223,
+          "label": "location",
+          "score": 0.9637837409973145
+        },
+        {
+          "text": "Armenians",
+          "start": 1247,
+          "end": 1256,
+          "label": "organization",
+          "score": 0.7114997506141663
+        },
+        {
+          "text": "Łazar",
+          "start": 1293,
+          "end": 1298,
+          "label": "person",
+          "score": 0.964066207408905
+        },
+        {
+          "text": "Ełišē",
+          "start": 1351,
+          "end": 1356,
+          "label": "person",
+          "score": 0.964659571647644
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p021",
+      "page": 10,
+      "section": "MILITARY SERVICE",
+      "text": "If the captives were involved in combat while imprisoned, we are not given any list of the dead, but it is possible not all of those who went to Gorgān returned from Herāt. Few captives can be positively identified after the initial lists. Aršawir Kamsarakan must have survived, as Łazar cites him as a source for the martyrdom of Armenian priests at Nishapur. Aṙnak Amatuni, Babgēn Siwni, and Atom Gnuni are all also mentioned either in the late 460s AD or during Vahan’s rebellion. The ninth century historian T‘ovma Arcruni claims Meršapuh and Tačat Arcruni also survived, the former participating in Vahan’s rebellion and the latter travelling to Constantinople during Emperor Marcian’s reign (r. AD 450–7) and remaining there until his death. Both inclusions seem unlikely. Tačat could not have travelled to Constantinople while imprisoned, and T‘ovma’s narrative is based on an anachronistic Armenian rejection of Chalcedon. Meršapuh was also likely dead by AD 485, since Armenian-Sasanian peace negotiations that year discuss the leadership of the Arcruni clan. Finally, there are several ambiguous cases caused by individuals bearing common personal names. For example, the Hamazasp Mamikonean who Łazar mentions in his letter as a messenger between himself and Vahan may be the captive of the same name. However, it is likely that the captive Hamazasp would have been too old to be this individual, especially if the messenger is Vahan’s anonymous nephew mentioned elsewhere in the letter. Confusion between similarly named men is apparent even in medieval sources. Both T‘ovma Arcruni and the early tenth-century Armenian History of Catholicos Yovhannēs V Drasxanakertc‘i depict Šawasp Arcruni as a Zoroastrianiser killed by Vardan Mamikonean rather than the captive depicted by Łazar and Ełišē, conflating the AD 450–1 rebellion with a later rebellion in AD 572 led by a different Vardan Mamikonean and recorded by Sebeos. All of this creates an ambiguous portrait, where we cannot be certain all the noblemen taken captive in AD 451 returned in AD 464.",
+      "mentions": [
+        {
+          "text": "Gorgān",
+          "start": 145,
+          "end": 151,
+          "label": "location",
+          "score": 0.5570379495620728
+        },
+        {
+          "text": "Herāt",
+          "start": 166,
+          "end": 171,
+          "label": "location",
+          "score": 0.7728140950202942
+        },
+        {
+          "text": "Aršawir Kamsarakan",
+          "start": 240,
+          "end": 258,
+          "label": "person",
+          "score": 0.9000246524810791
+        },
+        {
+          "text": "Łazar",
+          "start": 282,
+          "end": 287,
+          "label": "person",
+          "score": 0.6884945034980774
+        },
+        {
+          "text": "Armenian priests",
+          "start": 331,
+          "end": 347,
+          "label": "organization",
+          "score": 0.52064448595047
+        },
+        {
+          "text": "Nishapur",
+          "start": 351,
+          "end": 359,
+          "label": "location",
+          "score": 0.9314262270927429
+        },
+        {
+          "text": "Babgēn Siwni",
+          "start": 376,
+          "end": 388,
+          "label": "person",
+          "score": 0.8911833167076111
+        },
+        {
+          "text": "Atom Gnuni",
+          "start": 394,
+          "end": 404,
+          "label": "person",
+          "score": 0.8415664434432983
+        },
+        {
+          "text": "Vahan’s rebellion",
+          "start": 465,
+          "end": 482,
+          "label": "event",
+          "score": 0.8310315012931824
+        },
+        {
+          "text": "T‘ovma Arcruni",
+          "start": 512,
+          "end": 526,
+          "label": "person",
+          "score": 0.9352297782897949
+        },
+        {
+          "text": "Meršapuh",
+          "start": 534,
+          "end": 542,
+          "label": "person",
+          "score": 0.76996910572052
+        },
+        {
+          "text": "Tačat Arcruni",
+          "start": 547,
+          "end": 560,
+          "label": "person",
+          "score": 0.946183979511261
+        },
+        {
+          "text": "Vahan’s rebellion",
+          "start": 604,
+          "end": 621,
+          "label": "event",
+          "score": 0.8193461298942566
+        },
+        {
+          "text": "Constantinople",
+          "start": 651,
+          "end": 665,
+          "label": "location",
+          "score": 0.9611542224884033
+        },
+        {
+          "text": "Emperor Marcian",
+          "start": 673,
+          "end": 688,
+          "label": "person",
+          "score": 0.6573097705841064
+        },
+        {
+          "text": "Tačat",
+          "start": 779,
+          "end": 784,
+          "label": "person",
+          "score": 0.9228866696357727
+        },
+        {
+          "text": "Constantinople",
+          "start": 813,
+          "end": 827,
+          "label": "location",
+          "score": 0.9457234740257263
+        },
+        {
+          "text": "T‘ovma",
+          "start": 850,
+          "end": 856,
+          "label": "person",
+          "score": 0.711810827255249
+        },
+        {
+          "text": "Chalcedon",
+          "start": 920,
+          "end": 929,
+          "label": "location",
+          "score": 0.9339910745620728
+        },
+        {
+          "text": "Meršapuh",
+          "start": 931,
+          "end": 939,
+          "label": "person",
+          "score": 0.9492945075035095
+        },
+        {
+          "text": "Armenian-Sasanian peace negotiations",
+          "start": 978,
+          "end": 1014,
+          "label": "event",
+          "score": 0.7442951798439026
+        },
+        {
+          "text": "Arcruni clan",
+          "start": 1055,
+          "end": 1067,
+          "label": "organization",
+          "score": 0.9384077787399292
+        },
+        {
+          "text": "Hamazasp Mamikonean",
+          "start": 1182,
+          "end": 1201,
+          "label": "person",
+          "score": 0.878775954246521
+        },
+        {
+          "text": "Łazar",
+          "start": 1206,
+          "end": 1211,
+          "label": "person",
+          "score": 0.7916412949562073
+        },
+        {
+          "text": "Vahan",
+          "start": 1270,
+          "end": 1275,
+          "label": "person",
+          "score": 0.9028452634811401
+        },
+        {
+          "text": "Hamazasp",
+          "start": 1352,
+          "end": 1360,
+          "label": "person",
+          "score": 0.7359616756439209
+        },
+        {
+          "text": "Vahan",
+          "start": 1439,
+          "end": 1444,
+          "label": "person",
+          "score": 0.9221125245094299
+        },
+        {
+          "text": "T‘ovma Arcruni",
+          "start": 1580,
+          "end": 1594,
+          "label": "written work",
+          "score": 0.8966819047927856
+        },
+        {
+          "text": "T‘ovma Arcruni",
+          "start": 1580,
+          "end": 1594,
+          "label": "person",
+          "score": 0.8988804817199707
+        },
+        {
+          "text": "early tenth-century Armenian History",
+          "start": 1603,
+          "end": 1639,
+          "label": "written work",
+          "score": 0.5469241738319397
+        },
+        {
+          "text": "Šawasp Arcruni",
+          "start": 1689,
+          "end": 1703,
+          "label": "person",
+          "score": 0.9091345071792603
+        },
+        {
+          "text": "Vardan Mamikonean",
+          "start": 1735,
+          "end": 1752,
+          "label": "person",
+          "score": 0.9757202863693237
+        },
+        {
+          "text": "Łazar and Ełišē",
+          "start": 1789,
+          "end": 1804,
+          "label": "person",
+          "score": 0.5667688250541687
+        },
+        {
+          "text": "AD 450–1 rebellion",
+          "start": 1821,
+          "end": 1839,
+          "label": "event",
+          "score": 0.9126710891723633
+        },
+        {
+          "text": "Vardan Mamikonean",
+          "start": 1892,
+          "end": 1909,
+          "label": "person",
+          "score": 0.9760749936103821
+        },
+        {
+          "text": "Sebeos",
+          "start": 1926,
+          "end": 1932,
+          "label": "person",
+          "score": 0.8110284209251404
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p022",
+      "page": 11,
+      "section": "MILITARY SERVICE",
+      "text": "Only twelve of the thirty-one captives in Łazar’s list appear in either his or Ełišē’s account of the rebellion, but it was likely more were present who went unrecorded. Nine of these twelve were clan heads and another was Vardan Mamikonean’s surviving brother and Vahan’s paternal uncle. The remaining two captives were Aṙnak Amatuni (a minor nobleman who led scouts before the Battle of Awarayr) and P‘arsman Mandakuni, who may have been a clan head (as he represented the Mandakuni clan at Awarayr) although his placement after his kinsman Sahak in the captive list would seem to contradict this. The identification of these nobles therefore indicates their status and it remains possible that other captives participated in the rebellion.",
+      "mentions": [
+        {
+          "text": "Łazar’s list",
+          "start": 42,
+          "end": 54,
+          "label": "written work",
+          "score": 0.4482737183570862
+        },
+        {
+          "text": "Ełišē’s account",
+          "start": 79,
+          "end": 94,
+          "label": "written work",
+          "score": 0.43409040570259094
+        },
+        {
+          "text": "Vardan Mamikonean",
+          "start": 223,
+          "end": 240,
+          "label": "person",
+          "score": 0.841073751449585
+        },
+        {
+          "text": "Vahan’s paternal uncle",
+          "start": 265,
+          "end": 287,
+          "label": "person",
+          "score": 0.5574038624763489
+        },
+        {
+          "text": "Aṙnak Amatuni",
+          "start": 321,
+          "end": 334,
+          "label": "person",
+          "score": 0.7311697602272034
+        },
+        {
+          "text": "Battle of Awarayr",
+          "start": 379,
+          "end": 396,
+          "label": "event",
+          "score": 0.742890477180481
+        },
+        {
+          "text": "Awarayr",
+          "start": 389,
+          "end": 396,
+          "label": "location",
+          "score": 0.9652405977249146
+        },
+        {
+          "text": "P‘arsman Mandakuni",
+          "start": 402,
+          "end": 420,
+          "label": "person",
+          "score": 0.9259548187255859
+        },
+        {
+          "text": "Mandakuni clan",
+          "start": 475,
+          "end": 489,
+          "label": "organization",
+          "score": 0.8995048999786377
+        },
+        {
+          "text": "Awarayr",
+          "start": 493,
+          "end": 500,
+          "label": "location",
+          "score": 0.9734296798706055
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p023",
+      "page": 11,
+      "section": "KHUZESTAN",
+      "text": "Unlike their relatives at Gorgān, the child captives were imprisoned in a region that was ideal for using them to exert leverage over their families in Armenia, a strategy that required captives remain relatively accessible to captors and protected from external threats. Khuzestan in southwestern Iran neighboured the imperial court centre of Asorestan and had benefitted from court projects to develop both regions as agricultural and population centres. Although its development only peaked after Pērōz’s death in AD 484 caused a collapse of Sasanian power in the east, Khuzestan was already well-developed in the early fifth century, to the point that Khodadad Rezakhani called it ‘perhaps the most important region of the early empire after Fars’. Khuzestan also had a long history of housing political prisoners, as its heavy irrigation and relative centrality ensured captives could be well-defended and transported quickly to the court if needed. Most famously, the region contained a prison known in Armenian sources as the ‘Castle of Oblivion’ (berd Anuš) whose residents included Armenian kings Aršak II and Xosrov IV (imprisoned in AD 367 and 389, respectively) and the Sasanian King of Kings Kawād I (imprisoned AD 496). The Armenian children taken captive are unlikely to have been held at the berd Anuš, which was something of a cliché in Byzantine accounts of Persian captives, but they may have been incarcerated in a similar fortress.",
+      "mentions": [
+        {
+          "text": "Gorgān",
+          "start": 26,
+          "end": 32,
+          "label": "location",
+          "score": 0.4898398816585541
+        },
+        {
+          "text": "Armenia",
+          "start": 152,
+          "end": 159,
+          "label": "location",
+          "score": 0.7593188285827637
+        },
+        {
+          "text": "Khuzestan",
+          "start": 272,
+          "end": 281,
+          "label": "location",
+          "score": 0.9496251940727234
+        },
+        {
+          "text": "southwestern Iran",
+          "start": 285,
+          "end": 302,
+          "label": "location",
+          "score": 0.6246209144592285
+        },
+        {
+          "text": "Asorestan",
+          "start": 344,
+          "end": 353,
+          "label": "location",
+          "score": 0.9509817361831665
+        },
+        {
+          "text": "Pērōz",
+          "start": 500,
+          "end": 505,
+          "label": "person",
+          "score": 0.770470142364502
+        },
+        {
+          "text": "Sasanian power",
+          "start": 545,
+          "end": 559,
+          "label": "organization",
+          "score": 0.6118810176849365
+        },
+        {
+          "text": "Khuzestan",
+          "start": 573,
+          "end": 582,
+          "label": "location",
+          "score": 0.9812706708908081
+        },
+        {
+          "text": "Khodadad Rezakhani",
+          "start": 656,
+          "end": 674,
+          "label": "person",
+          "score": 0.9300054311752319
+        },
+        {
+          "text": "Fars",
+          "start": 746,
+          "end": 750,
+          "label": "location",
+          "score": 0.7951610088348389
+        },
+        {
+          "text": "Khuzestan",
+          "start": 753,
+          "end": 762,
+          "label": "location",
+          "score": 0.9793532490730286
+        },
+        {
+          "text": "Armenian sources",
+          "start": 1009,
+          "end": 1025,
+          "label": "written work",
+          "score": 0.9388415813446045
+        },
+        {
+          "text": "Castle of Oblivion",
+          "start": 1034,
+          "end": 1052,
+          "label": "location",
+          "score": 0.8537423014640808
+        },
+        {
+          "text": "berd Anuš",
+          "start": 1055,
+          "end": 1064,
+          "label": "location",
+          "score": 0.8702520728111267
+        },
+        {
+          "text": "Armenian kings",
+          "start": 1091,
+          "end": 1105,
+          "label": "person",
+          "score": 0.4685187041759491
+        },
+        {
+          "text": "Aršak II",
+          "start": 1106,
+          "end": 1114,
+          "label": "person",
+          "score": 0.9282618761062622
+        },
+        {
+          "text": "Xosrov IV",
+          "start": 1119,
+          "end": 1128,
+          "label": "person",
+          "score": 0.9434329867362976
+        },
+        {
+          "text": "Sasanian King of Kings",
+          "start": 1182,
+          "end": 1204,
+          "label": "organization",
+          "score": 0.605130136013031
+        },
+        {
+          "text": "Sasanian King of Kings Kawād I",
+          "start": 1182,
+          "end": 1212,
+          "label": "person",
+          "score": 0.8276700377464294
+        },
+        {
+          "text": "Kawād I",
+          "start": 1205,
+          "end": 1212,
+          "label": "person",
+          "score": 0.9257364273071289
+        },
+        {
+          "text": "berd Anuš",
+          "start": 1308,
+          "end": 1317,
+          "label": "location",
+          "score": 0.8233752250671387
+        },
+        {
+          "text": "Byzantine accounts",
+          "start": 1354,
+          "end": 1372,
+          "label": "written work",
+          "score": 0.6948153376579285
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p024",
+      "page": 12,
+      "section": "KHUZESTAN",
+      "text": "The captives of Khuzestan comprised Vahan Mamikonean, his younger brothers Vasak and Artašēs, an unspecified number of children from other clans (including the related Kamsarakan family), and Bishop T‘at‘ik of Basean. Łazar claims they were captured by Vasak Siwni in AD 450 and kept in Siwnik‘ before being sent to the Persian court at some point before the other captives. He depicts the children being taken from their wet-nurses (dayeakk‘), although this does not necessarily signify they were infants, as dayeak could refer to more long-term childrearing or educational arrangements that sometimes continued until adulthood. Still, Łazar claims he was older than Vahan and that the children were still being educated by their mothers in AD 461 which, if accurate, would suggest all three were very young when captured.",
+      "mentions": [
+        {
+          "text": "Khuzestan",
+          "start": 16,
+          "end": 25,
+          "label": "location",
+          "score": 0.7797145843505859
+        },
+        {
+          "text": "Vahan Mamikonean",
+          "start": 36,
+          "end": 52,
+          "label": "person",
+          "score": 0.91684889793396
+        },
+        {
+          "text": "Vasak",
+          "start": 75,
+          "end": 80,
+          "label": "person",
+          "score": 0.7057046890258789
+        },
+        {
+          "text": "Artašēs",
+          "start": 85,
+          "end": 92,
+          "label": "person",
+          "score": 0.7232106924057007
+        },
+        {
+          "text": "Kamsarakan family",
+          "start": 168,
+          "end": 185,
+          "label": "organization",
+          "score": 0.4121580421924591
+        },
+        {
+          "text": "Bishop T‘at‘ik of Basean",
+          "start": 192,
+          "end": 216,
+          "label": "person",
+          "score": 0.5981254577636719
+        },
+        {
+          "text": "Łazar",
+          "start": 218,
+          "end": 223,
+          "label": "person",
+          "score": 0.7998178005218506
+        },
+        {
+          "text": "Vasak Siwni",
+          "start": 253,
+          "end": 264,
+          "label": "person",
+          "score": 0.9296948909759521
+        },
+        {
+          "text": "Siwnik",
+          "start": 287,
+          "end": 293,
+          "label": "location",
+          "score": 0.7706682682037354
+        },
+        {
+          "text": "Persian court",
+          "start": 320,
+          "end": 333,
+          "label": "organization",
+          "score": 0.8619936108589172
+        },
+        {
+          "text": "Łazar",
+          "start": 637,
+          "end": 642,
+          "label": "person",
+          "score": 0.9319869875907898
+        },
+        {
+          "text": "Vahan",
+          "start": 668,
+          "end": 673,
+          "label": "person",
+          "score": 0.8637298345565796
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p025",
+      "page": 12,
+      "section": "KHUZESTAN",
+      "text": "Of the children, only the fates of the Mamikoneans are known. In AD 454/5, the trio were ransomed by their mother’s brother-in-law, a Georgian nobleman named Ašuša of Gugark‘, who took them to his home, where they were soon joined by their mother and a young Łazar P‘arpec‘i. The boys’ were probably released because they no longer had paternal relatives over whom their captivity could be leveraged, as their father and most senior uncle had been killed during the rebellion, while their surviving paternal uncle was imprisoned with three of their kinsmen. Ašuša himself had been a captive at the Sasanian court prior to the rebellion, and it is unclear whether he was released prior to ransoming his nephews or had remained in Persia the entire time.",
+      "mentions": [
+        {
+          "text": "Georgian nobleman",
+          "start": 134,
+          "end": 151,
+          "label": "person",
+          "score": 0.5493558049201965
+        },
+        {
+          "text": "Gugark",
+          "start": 167,
+          "end": 173,
+          "label": "location",
+          "score": 0.5909143090248108
+        },
+        {
+          "text": "Łazar P‘arpec‘i",
+          "start": 259,
+          "end": 274,
+          "label": "person",
+          "score": 0.8212878704071045
+        },
+        {
+          "text": "Ašuša",
+          "start": 558,
+          "end": 563,
+          "label": "person",
+          "score": 0.7409248352050781
+        },
+        {
+          "text": "Sasanian court",
+          "start": 598,
+          "end": 612,
+          "label": "organization",
+          "score": 0.9291583895683289
+        },
+        {
+          "text": "Persia",
+          "start": 729,
+          "end": 735,
+          "label": "location",
+          "score": 0.7941323518753052
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p026",
+      "page": 12,
+      "section": "KHUZESTAN",
+      "text": "Threats to execute the boys, which Łazar references, may indicate that children who were not ransomed were killed so they would not further drain Sasanian resources. However, such threats could also motivate relatives to come forwards with a swift ransom. This was perhaps intended to reward Mihrnerseh – Yazdgerd’s influential grand-vizier (wuzurg framadār) to whom the captives were entrusted – with an additional revenue stream for his role in stopping the rebellion.",
+      "mentions": [
+        {
+          "text": "Łazar",
+          "start": 35,
+          "end": 40,
+          "label": "written work",
+          "score": 0.6572256088256836
+        },
+        {
+          "text": "Mihrnerseh",
+          "start": 292,
+          "end": 302,
+          "label": "person",
+          "score": 0.9161080121994019
+        },
+        {
+          "text": "Yazdgerd",
+          "start": 305,
+          "end": 313,
+          "label": "person",
+          "score": 0.7940855026245117
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p027",
+      "page": 13,
+      "section": "KHUZESTAN",
+      "text": "Keeping elite children in or near the royal court more generally had been practised since the Parthian era and would continue throughout the Sasanian period. As it was also common to station Armenian troops on the Sasanian Empire’s borders, there was nothing especially unique in the Sasanian strategy of sending Armenian lords to perform military service while maintaining their sons in a more central location. The aggrievement shown by Armenian sources therefore probably resulted from the lack of prestige their lords received as captives combined with the increased expectations that the threat of Hunnic confederacies placed on them.",
+      "mentions": [
+        {
+          "text": "Parthian era",
+          "start": 94,
+          "end": 106,
+          "label": "event",
+          "score": 0.808635413646698
+        },
+        {
+          "text": "Sasanian period",
+          "start": 141,
+          "end": 156,
+          "label": "event",
+          "score": 0.7343229055404663
+        },
+        {
+          "text": "Armenian troops",
+          "start": 191,
+          "end": 206,
+          "label": "organization",
+          "score": 0.6377246379852295
+        },
+        {
+          "text": "Sasanian Empire",
+          "start": 214,
+          "end": 229,
+          "label": "organization",
+          "score": 0.6864800453186035
+        },
+        {
+          "text": "Sasanian strategy",
+          "start": 284,
+          "end": 301,
+          "label": "event",
+          "score": 0.6223013997077942
+        },
+        {
+          "text": "Armenian lords",
+          "start": 313,
+          "end": 327,
+          "label": "person",
+          "score": 0.8259396553039551
+        },
+        {
+          "text": "Armenian sources",
+          "start": 439,
+          "end": 455,
+          "label": "written work",
+          "score": 0.9727151393890381
+        },
+        {
+          "text": "Hunnic confederacies",
+          "start": 603,
+          "end": 623,
+          "label": "organization",
+          "score": 0.9128039479255676
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p028",
+      "page": 13,
+      "section": "KHUZESTAN",
+      "text": "Other instances in Armenian and Syriac sources indicate that the separation of captives between Khuzestan and the northern border was a practice used broadly throughout the fifth century, with some references similarly showing that dependants were held in Khuzestan while adult men were exported to war zones. Ełišē claims that, when Yazdgerd II first tried to impose Zoroastrianism on the Armenian elite, he threatened to send nobles who did not convert to the borderland of Sakastan and deport their wives and children to Khuzestan. The same passage claimed Yazdgerd had already deported Georgians for refusing to convert, although Georgian sources themselves do not record such deportations. Less ambiguously, the AD 424 Syriac Council of Mar Dadišo contains two bishops associated with captive groups: ‘Domit ̣of the Captivity of Gorgān [...] and Hatiṭ ạ of the captivity of Belašpar’ (dwmt ̣ ’pysqwp’ d-šbyt’̣ d-gwrgn [...] w-htt’̣ ̣ ’pysqwp’ d-šbyt’̣ d-blšpr). William Wigram identified Belašpar as a community of captives taken during the AD 420–1 Roman-Persian war and settled in Khuzestan, and it is possible that Domit commanded a similar group. No further reference to either bishop appears in the Syriac canons and it cannot be established whether they represented communities that had been divided between adult men and their dependants. However, taken together we can see that Khuzestan and the border were frequent destinations for captives from the Caucasus and beyond throughout the first half of the fifth century.",
+      "mentions": [
+        {
+          "text": "Armenian and Syriac sources",
+          "start": 19,
+          "end": 46,
+          "label": "written work",
+          "score": 0.8232711553573608
+        },
+        {
+          "text": "Khuzestan",
+          "start": 96,
+          "end": 105,
+          "label": "location",
+          "score": 0.9595528841018677
+        },
+        {
+          "text": "Khuzestan",
+          "start": 256,
+          "end": 265,
+          "label": "location",
+          "score": 0.9605414271354675
+        },
+        {
+          "text": "Ełišē",
+          "start": 310,
+          "end": 315,
+          "label": "person",
+          "score": 0.9036903977394104
+        },
+        {
+          "text": "Yazdgerd II",
+          "start": 334,
+          "end": 345,
+          "label": "person",
+          "score": 0.9513251185417175
+        },
+        {
+          "text": "Armenian elite",
+          "start": 390,
+          "end": 404,
+          "label": "organization",
+          "score": 0.7553176879882812
+        },
+        {
+          "text": "Sakastan",
+          "start": 476,
+          "end": 484,
+          "label": "location",
+          "score": 0.8821374177932739
+        },
+        {
+          "text": "Khuzestan",
+          "start": 524,
+          "end": 533,
+          "label": "location",
+          "score": 0.9235016703605652
+        },
+        {
+          "text": "Yazdgerd",
+          "start": 560,
+          "end": 568,
+          "label": "person",
+          "score": 0.9464920163154602
+        },
+        {
+          "text": "Georgian sources",
+          "start": 634,
+          "end": 650,
+          "label": "written work",
+          "score": 0.8400426506996155
+        },
+        {
+          "text": "Syriac Council of Mar Dadišo",
+          "start": 724,
+          "end": 752,
+          "label": "organization",
+          "score": 0.6222668886184692
+        },
+        {
+          "text": "Domit",
+          "start": 807,
+          "end": 812,
+          "label": "person",
+          "score": 0.7146349549293518
+        },
+        {
+          "text": "Domit ̣of the Captivity of Gorgān",
+          "start": 807,
+          "end": 840,
+          "label": "person",
+          "score": 0.5467548370361328
+        },
+        {
+          "text": "Hatiṭ ạ of the captivity of Belašpar",
+          "start": 851,
+          "end": 887,
+          "label": "person",
+          "score": 0.8667296171188354
+        },
+        {
+          "text": "William Wigram",
+          "start": 967,
+          "end": 981,
+          "label": "person",
+          "score": 0.9356752038002014
+        },
+        {
+          "text": "Roman-Persian war",
+          "start": 1055,
+          "end": 1072,
+          "label": "event",
+          "score": 0.9022107720375061
+        },
+        {
+          "text": "Khuzestan",
+          "start": 1088,
+          "end": 1097,
+          "label": "location",
+          "score": 0.9593573212623596
+        },
+        {
+          "text": "Domit",
+          "start": 1123,
+          "end": 1128,
+          "label": "person",
+          "score": 0.8222490549087524
+        },
+        {
+          "text": "Syriac canons",
+          "start": 1209,
+          "end": 1222,
+          "label": "written work",
+          "score": 0.9548870325088501
+        },
+        {
+          "text": "Khuzestan",
+          "start": 1391,
+          "end": 1400,
+          "label": "location",
+          "score": 0.9660038352012634
+        },
+        {
+          "text": "Caucasus",
+          "start": 1465,
+          "end": 1473,
+          "label": "location",
+          "score": 0.6796684861183167
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p029",
+      "page": 14,
+      "section": "PRIESTLY CAPTIVES",
+      "text": "The only confirmed executions carried out in either group were against Christian clerics. Nine priests were executed over the course of c. 454 AD. The pair who had been taken from Nishapur to accompany Yazdgerd’s armies were killed at the village of Vardgēs near Nishapur, six others from Nishapur were executed at a place nearby called Ṙewan, and the only known cleric in the Khuzestan group was beheaded at the Sasanian court. The execution of clerics was not exceptional in a Sasanian context, although fifth-century executions were less systemic than those committed in the fourth century.",
+      "mentions": [
+        {
+          "text": "Nishapur",
+          "start": 180,
+          "end": 188,
+          "label": "location",
+          "score": 0.897228479385376
+        },
+        {
+          "text": "Vardgēs",
+          "start": 250,
+          "end": 257,
+          "label": "location",
+          "score": 0.7569835186004639
+        },
+        {
+          "text": "Nishapur",
+          "start": 263,
+          "end": 271,
+          "label": "location",
+          "score": 0.8780392408370972
+        },
+        {
+          "text": "Nishapur",
+          "start": 289,
+          "end": 297,
+          "label": "location",
+          "score": 0.9209715723991394
+        },
+        {
+          "text": "Khuzestan group",
+          "start": 377,
+          "end": 392,
+          "label": "organization",
+          "score": 0.6096075177192688
+        },
+        {
+          "text": "Sasanian court",
+          "start": 413,
+          "end": 427,
+          "label": "organization",
+          "score": 0.6288893818855286
+        },
+        {
+          "text": "Sasanian court",
+          "start": 413,
+          "end": 427,
+          "label": "location",
+          "score": 0.7538783550262451
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p030",
+      "page": 14,
+      "section": "PRIESTLY CAPTIVES",
+      "text": "While few other priests are mentioned among the captives, it is clear that not all captive priests were executed. Both Łazar and Ełišē describe how Xorēn of Orkovi and Abraham of Zenakk‘, priests at Nishapur who accosted the executioners with the aim of being executed alongside their superiors, were instead mutilated and sent to work with royal slaves in the province of Šap‘ul/Šahul (which Ter-Minasean identified as Bishapur in Fars). Only Abraham returned to Armenia – being ransomed by Asorestan’s Christians in AD 463/4 and becoming either the local bishop (according to Łazar) or a hermit (according to Ełišē) in Bznuni. However, there is no indication that Xorēn’s death in c. 461 AD was intentional. Ełišē attributed it to a mixture of heat and the slaves’ constant relocation along the Persian Gulf. The appearance of priests who were not executed among the captives at Nishapur indicates that executions were targeted against specific clerics. The distinction may have been prestige based. Łazar describes Xorēn and Abraham as ‘boys from among the servants of the blessed ones’ (mankunk‘ i spasaworac‘n eraneleac‘n) accompanying those imprisoned at Nishapur ‘to serve them in their captivity’ (arbanekel noc‘a ew spasaworel i kapansn), so they may not have been significant enough to warrant punishment.",
+      "mentions": [
+        {
+          "text": "Łazar",
+          "start": 119,
+          "end": 124,
+          "label": "person",
+          "score": 0.73212069272995
+        },
+        {
+          "text": "Ełišē",
+          "start": 129,
+          "end": 134,
+          "label": "person",
+          "score": 0.6518073678016663
+        },
+        {
+          "text": "Xorēn of Orkovi",
+          "start": 148,
+          "end": 163,
+          "label": "person",
+          "score": 0.8418130278587341
+        },
+        {
+          "text": "Abraham of Zenakk",
+          "start": 168,
+          "end": 185,
+          "label": "person",
+          "score": 0.8846291303634644
+        },
+        {
+          "text": "Nishapur",
+          "start": 199,
+          "end": 207,
+          "label": "location",
+          "score": 0.9409357905387878
+        },
+        {
+          "text": "Šap‘ul/Šahul",
+          "start": 373,
+          "end": 385,
+          "label": "location",
+          "score": 0.8236889243125916
+        },
+        {
+          "text": "Ter-Minasean",
+          "start": 393,
+          "end": 405,
+          "label": "person",
+          "score": 0.8759514093399048
+        },
+        {
+          "text": "Bishapur",
+          "start": 420,
+          "end": 428,
+          "label": "location",
+          "score": 0.8497204780578613
+        },
+        {
+          "text": "Fars",
+          "start": 432,
+          "end": 436,
+          "label": "location",
+          "score": 0.7352811098098755
+        },
+        {
+          "text": "Abraham",
+          "start": 444,
+          "end": 451,
+          "label": "person",
+          "score": 0.9147124886512756
+        },
+        {
+          "text": "Armenia",
+          "start": 464,
+          "end": 471,
+          "label": "location",
+          "score": 0.6836101412773132
+        },
+        {
+          "text": "Asorestan’s Christians",
+          "start": 492,
+          "end": 514,
+          "label": "organization",
+          "score": 0.8225519061088562
+        },
+        {
+          "text": "Łazar",
+          "start": 578,
+          "end": 583,
+          "label": "person",
+          "score": 0.8307524919509888
+        },
+        {
+          "text": "Ełišē",
+          "start": 611,
+          "end": 616,
+          "label": "person",
+          "score": 0.9352750182151794
+        },
+        {
+          "text": "Bznuni",
+          "start": 621,
+          "end": 627,
+          "label": "location",
+          "score": 0.9362592101097107
+        },
+        {
+          "text": "Xorēn",
+          "start": 666,
+          "end": 671,
+          "label": "person",
+          "score": 0.7431684732437134
+        },
+        {
+          "text": "Ełišē",
+          "start": 710,
+          "end": 715,
+          "label": "person",
+          "score": 0.9422711133956909
+        },
+        {
+          "text": "Persian Gulf",
+          "start": 797,
+          "end": 809,
+          "label": "location",
+          "score": 0.845417857170105
+        },
+        {
+          "text": "Nishapur",
+          "start": 881,
+          "end": 889,
+          "label": "location",
+          "score": 0.9615262746810913
+        },
+        {
+          "text": "Łazar",
+          "start": 1002,
+          "end": 1007,
+          "label": "person",
+          "score": 0.7903974056243896
+        },
+        {
+          "text": "Xorēn",
+          "start": 1018,
+          "end": 1023,
+          "label": "person",
+          "score": 0.9143986105918884
+        },
+        {
+          "text": "Abraham",
+          "start": 1028,
+          "end": 1035,
+          "label": "person",
+          "score": 0.9506040215492249
+        },
+        {
+          "text": "Nishapur",
+          "start": 1161,
+          "end": 1169,
+          "label": "location",
+          "score": 0.9600769281387329
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p031",
+      "page": 14,
+      "section": "PRIESTLY CAPTIVES",
+      "text": "Alternatively, it may be that only clerics deemed especially culpable for the rebellion were executed. Over half the victims stood accused of actively persecuting Zoroastrians. The pair at Vardgēs had destroyed a Zoroastrian fire-temple in Aštišat, while two of those killed at Ṙewan had destroyed fire-temples and tortured their priests. Ełišē says the priest Łewond, after whom the group were later named the Łewondeank‘ (or ‘Leontine Martyrs’), had gathered locals to stone Zoroastrian priests arriving in Angł, and both he and Yovsēp‘ blessed rebel forces at Awarayr. Ełišē additionally claims the executions occurred after Yazdgerd suffered a defeat against the Kidarites that was blamed on Christian priests. Such perceived military importance may explain his claim that a ‘chief of the border’ (marzpet) was among the officials who judged the priests at Ṙewan.",
+      "mentions": [
+        {
+          "text": "Vardgēs",
+          "start": 189,
+          "end": 196,
+          "label": "location",
+          "score": 0.8920696973800659
+        },
+        {
+          "text": "Aštišat",
+          "start": 240,
+          "end": 247,
+          "label": "location",
+          "score": 0.8739374279975891
+        },
+        {
+          "text": "Ełišē",
+          "start": 339,
+          "end": 344,
+          "label": "location",
+          "score": 0.4102683961391449
+        },
+        {
+          "text": "Łewond",
+          "start": 361,
+          "end": 367,
+          "label": "person",
+          "score": 0.525245726108551
+        },
+        {
+          "text": "Zoroastrian priests",
+          "start": 477,
+          "end": 496,
+          "label": "organization",
+          "score": 0.5035985112190247
+        },
+        {
+          "text": "Angł",
+          "start": 509,
+          "end": 513,
+          "label": "location",
+          "score": 0.8766606450080872
+        },
+        {
+          "text": "Yovsēp",
+          "start": 531,
+          "end": 537,
+          "label": "person",
+          "score": 0.8265291452407837
+        },
+        {
+          "text": "Awarayr",
+          "start": 563,
+          "end": 570,
+          "label": "location",
+          "score": 0.9181294441223145
+        },
+        {
+          "text": "Ełišē",
+          "start": 572,
+          "end": 577,
+          "label": "person",
+          "score": 0.8138468265533447
+        },
+        {
+          "text": "Yazdgerd",
+          "start": 628,
+          "end": 636,
+          "label": "person",
+          "score": 0.889441192150116
+        },
+        {
+          "text": "Kidarites",
+          "start": 667,
+          "end": 676,
+          "label": "organization",
+          "score": 0.829630970954895
+        },
+        {
+          "text": "Christian priests",
+          "start": 696,
+          "end": 713,
+          "label": "organization",
+          "score": 0.6150205135345459
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p032",
+      "page": 15,
+      "section": "PRIESTLY CAPTIVES",
+      "text": "The sole bishop executed in Asorestan – T‘at‘ik of Basean – is among the three priests who had not clearly breached Sasanian authority. While treated as one of the Łewondeank‘ by our sources, his death may have had more to do with the executions levied against his fellow Khuzestan captives. This would both imply that the risk to the Mamikonean boys was genuine, and that T‘at‘ik’s death was about removing unnecessary captives rather than taking vengeance on destructive clerics.",
+      "mentions": [
+        {
+          "text": "Asorestan",
+          "start": 28,
+          "end": 37,
+          "label": "location",
+          "score": 0.8759665489196777
+        },
+        {
+          "text": "T‘at‘ik of Basean",
+          "start": 40,
+          "end": 57,
+          "label": "person",
+          "score": 0.6980794072151184
+        },
+        {
+          "text": "Sasanian authority",
+          "start": 116,
+          "end": 134,
+          "label": "organization",
+          "score": 0.6413031220436096
+        },
+        {
+          "text": "Łewondeank",
+          "start": 164,
+          "end": 174,
+          "label": "organization",
+          "score": 0.5756978988647461
+        },
+        {
+          "text": "T‘at‘ik",
+          "start": 373,
+          "end": 380,
+          "label": "person",
+          "score": 0.887113094329834
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p033",
+      "page": 15,
+      "section": "PRIESTLY CAPTIVES",
+      "text": "In his contribution to this volume, Alasdair Grant identifies the Armenian clergy of the Islamic world as unique compared to their co-religionists in Egypt and West Syria, as only in the former did the upper echelons of the clergy occasionally actively support Christian rebels. Grant is no doubt right to seek the origin of this difference in Armenia’s Sasanian past, and the involvement of the catholicos and other prominent clerics in the rebellions of the fifth century is likely connected to the fact that clerical involvement in Sasanian diplomacy was relatively new and yet to be successfully implemented with the Armenian church specifically. The use of Christian clerics for bureaucratic purposes had been pioneered by Yazdgerd II’s grandfather Yazdgerd I (r. AD 399–420) and while the intervening king – Wahrām V (r. AD 420–38) – had expanded his control to the Armenian Church, he had done this through imposing unpopular Syriac catholicoses at the exclusion of Armenians. In this context, the Armenian clergy were relatively disconnected from the Sasanian administration to the point that Catholicos Yovsēp‘ appears to have been unsanctioned by Sasanian authorities. Ełišē refers to Yovsēp‘ as bishop of Ayrarat instead of catholicos, and Łazar claimed he had been made catholicos despite not being a bishop. Yovsēp‘ presided over the Council of Šahapivan, which David Zakarian argues was in part a repudiation of practices found in the East Syriac Church. Such a situation may explain why, in contrast to the situation that developed in the later Sasanian and Islamic world, bishops played little diplomatic role either during or after the rebellions of the fifth century. Although Armenian clerics did join the nobility in signing letters of complaint against Yazdgerd II, none of the envoys sent to foreign powers were clerical. A relative of the Albanian king was used as an ambassador to the Huns, Armenian noblemen were sent to the Roman emperor Theodosius II, and Ełišē adds that a Persian captive was dispatched as a messenger to Yazdgerd himself. This was also the case in peace talks following the rebellion of AD 482–4, when all attested ambassadors were secular nobles who established their credibility through banqueting in Persian fashion. The only significant use of clerics in Armenian diplomacy during this period was Vasak Siwni’s unsuccessful attempt to quell the rebellion by sending priests to assure the population Christianity would be permitted. The rebels’ rejection of these overtures may have disinclined the Sasanians from pursuing such a strategy thereafter.",
+      "mentions": [
+        {
+          "text": "Alasdair Grant",
+          "start": 36,
+          "end": 50,
+          "label": "person",
+          "score": 0.9839454293251038
+        },
+        {
+          "text": "Armenian clergy",
+          "start": 66,
+          "end": 81,
+          "label": "organization",
+          "score": 0.8538768291473389
+        },
+        {
+          "text": "Islamic world",
+          "start": 89,
+          "end": 102,
+          "label": "location",
+          "score": 0.8119555711746216
+        },
+        {
+          "text": "Egypt",
+          "start": 150,
+          "end": 155,
+          "label": "location",
+          "score": 0.903499960899353
+        },
+        {
+          "text": "West Syria",
+          "start": 160,
+          "end": 170,
+          "label": "location",
+          "score": 0.8550235033035278
+        },
+        {
+          "text": "Christian rebels",
+          "start": 261,
+          "end": 277,
+          "label": "organization",
+          "score": 0.6764709949493408
+        },
+        {
+          "text": "Armenia",
+          "start": 344,
+          "end": 351,
+          "label": "location",
+          "score": 0.7490076422691345
+        },
+        {
+          "text": "Armenian church",
+          "start": 621,
+          "end": 636,
+          "label": "organization",
+          "score": 0.951639711856842
+        },
+        {
+          "text": "Yazdgerd II",
+          "start": 728,
+          "end": 739,
+          "label": "person",
+          "score": 0.934317409992218
+        },
+        {
+          "text": "Yazdgerd I",
+          "start": 754,
+          "end": 764,
+          "label": "person",
+          "score": 0.9196061491966248
+        },
+        {
+          "text": "Wahrām V",
+          "start": 814,
+          "end": 822,
+          "label": "person",
+          "score": 0.897974967956543
+        },
+        {
+          "text": "Armenian Church",
+          "start": 872,
+          "end": 887,
+          "label": "organization",
+          "score": 0.9564724564552307
+        },
+        {
+          "text": "Armenian clergy",
+          "start": 1005,
+          "end": 1020,
+          "label": "organization",
+          "score": 0.6372932195663452
+        },
+        {
+          "text": "Sasanian administration",
+          "start": 1059,
+          "end": 1082,
+          "label": "organization",
+          "score": 0.6510844826698303
+        },
+        {
+          "text": "Catholicos Yovsēp",
+          "start": 1101,
+          "end": 1118,
+          "label": "person",
+          "score": 0.9452292323112488
+        },
+        {
+          "text": "Sasanian authorities",
+          "start": 1157,
+          "end": 1177,
+          "label": "organization",
+          "score": 0.513884425163269
+        },
+        {
+          "text": "Ełišē",
+          "start": 1179,
+          "end": 1184,
+          "label": "person",
+          "score": 0.6597657799720764
+        },
+        {
+          "text": "Yovsēp",
+          "start": 1195,
+          "end": 1201,
+          "label": "person",
+          "score": 0.973859429359436
+        },
+        {
+          "text": "Ayrarat",
+          "start": 1216,
+          "end": 1223,
+          "label": "location",
+          "score": 0.8368567228317261
+        },
+        {
+          "text": "Łazar",
+          "start": 1251,
+          "end": 1256,
+          "label": "person",
+          "score": 0.8789635896682739
+        },
+        {
+          "text": "Yovsēp",
+          "start": 1321,
+          "end": 1327,
+          "label": "person",
+          "score": 0.9719879627227783
+        },
+        {
+          "text": "Council of Šahapivan",
+          "start": 1347,
+          "end": 1367,
+          "label": "event",
+          "score": 0.9242384433746338
+        },
+        {
+          "text": "David Zakarian",
+          "start": 1375,
+          "end": 1389,
+          "label": "written work",
+          "score": 0.8297343850135803
+        },
+        {
+          "text": "East Syriac Church",
+          "start": 1449,
+          "end": 1467,
+          "label": "organization",
+          "score": 0.9465450644493103
+        },
+        {
+          "text": "Armenian clerics",
+          "start": 1695,
+          "end": 1711,
+          "label": "organization",
+          "score": 0.6546613574028015
+        },
+        {
+          "text": "Yazdgerd II",
+          "start": 1774,
+          "end": 1785,
+          "label": "person",
+          "score": 0.9216589331626892
+        },
+        {
+          "text": "Albanian king",
+          "start": 1862,
+          "end": 1875,
+          "label": "person",
+          "score": 0.48745259642601013
+        },
+        {
+          "text": "Huns",
+          "start": 1909,
+          "end": 1913,
+          "label": "organization",
+          "score": 0.6063126921653748
+        },
+        {
+          "text": "Armenian noblemen",
+          "start": 1915,
+          "end": 1932,
+          "label": "organization",
+          "score": 0.6325087547302246
+        },
+        {
+          "text": "Theodosius II",
+          "start": 1964,
+          "end": 1977,
+          "label": "person",
+          "score": 0.8387686014175415
+        },
+        {
+          "text": "II",
+          "start": 1975,
+          "end": 1977,
+          "label": "written work",
+          "score": 0.5135402083396912
+        },
+        {
+          "text": "Ełišē",
+          "start": 1983,
+          "end": 1988,
+          "label": "person",
+          "score": 0.6993758678436279
+        },
+        {
+          "text": "Ełišē",
+          "start": 1983,
+          "end": 1988,
+          "label": "written work",
+          "score": 0.5993770956993103
+        },
+        {
+          "text": "Persian captive",
+          "start": 2001,
+          "end": 2016,
+          "label": "person",
+          "score": 0.6127476096153259
+        },
+        {
+          "text": "Yazdgerd",
+          "start": 2050,
+          "end": 2058,
+          "label": "person",
+          "score": 0.8226606249809265
+        },
+        {
+          "text": "rebellion of AD 482–4",
+          "start": 2120,
+          "end": 2141,
+          "label": "event",
+          "score": 0.7386069893836975
+        },
+        {
+          "text": "Armenian diplomacy",
+          "start": 2305,
+          "end": 2323,
+          "label": "organization",
+          "score": 0.4814557731151581
+        },
+        {
+          "text": "Vasak Siwni",
+          "start": 2347,
+          "end": 2358,
+          "label": "person",
+          "score": 0.8733128309249878
+        },
+        {
+          "text": "Sasanians",
+          "start": 2548,
+          "end": 2557,
+          "label": "organization",
+          "score": 0.8527677655220032
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p034",
+      "page": 16,
+      "section": "CONCLUSION",
+      "text": "Ultimately, the Sasanian Empire’s handling of captives following Vardan’s rebellion was only partially influenced by concerns for re-establishing order in the rebellious region. Captives in Khuzestan – who were mostly children – saw a relatively brief period of captivity in a central and secure region of the empire, but adult men could be more useful elsewhere. Their lengthy period of captivity and post-captivity military service on the northern border was more concerned with the political situation in the empire’s east and allowed the Sasanians to prosecute broader military objectives in a period when their control in that region was tenuous. In this sense, Sasanian reactions to the rebellion had implications for two borders at different ends of the empire.",
+      "mentions": [
+        {
+          "text": "Sasanian Empire",
+          "start": 16,
+          "end": 31,
+          "label": "organization",
+          "score": 0.9610318541526794
+        },
+        {
+          "text": "Vardan",
+          "start": 65,
+          "end": 71,
+          "label": "person",
+          "score": 0.865048885345459
+        },
+        {
+          "text": "Khuzestan",
+          "start": 190,
+          "end": 199,
+          "label": "location",
+          "score": 0.8669463992118835
+        },
+        {
+          "text": "Sasanians",
+          "start": 542,
+          "end": 551,
+          "label": "person",
+          "score": 0.7938690781593323
+        },
+        {
+          "text": "Sasanian",
+          "start": 667,
+          "end": 675,
+          "label": "person",
+          "score": 0.7226384282112122
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p035",
+      "page": 17,
+      "section": "CONCLUSION",
+      "text": "Both captivity and execution were wielded in a targeted manner, with captives being chosen from clans who had been heavily involved in the rebellion, and recorded executions being exclusively of priests (primarily those accused of anti-Zoroastrian violence). Such targeting was valuable in the short term but, when combined with a general absence of trust between Armenian Christians and the Sasanian court, may have led to greater instability in the longer term by disenfranchising specific powerful families and creating martyrs. When rebellion erupted again in AD 482, it included many of the surviving captives of AD 451. The Hunnic border once again came to bear on the rebellion’s outcome, this time to the detriment of the Sasanians, as Pērōz died fighting Hephthalite Huns in Tokharistan and his successor Walāxš sought a speedy peace.",
+      "mentions": [
+        {
+          "text": "Armenian Christians",
+          "start": 364,
+          "end": 383,
+          "label": "organization",
+          "score": 0.8918702006340027
+        },
+        {
+          "text": "Sasanian court",
+          "start": 392,
+          "end": 406,
+          "label": "organization",
+          "score": 0.9163424968719482
+        },
+        {
+          "text": "Hunnic border",
+          "start": 630,
+          "end": 643,
+          "label": "location",
+          "score": 0.6271640658378601
+        },
+        {
+          "text": "Sasanians",
+          "start": 730,
+          "end": 739,
+          "label": "organization",
+          "score": 0.6494491100311279
+        },
+        {
+          "text": "Pērōz",
+          "start": 744,
+          "end": 749,
+          "label": "person",
+          "score": 0.9085958003997803
+        },
+        {
+          "text": "Hephthalite Huns",
+          "start": 764,
+          "end": 780,
+          "label": "organization",
+          "score": 0.7607896327972412
+        },
+        {
+          "text": "Tokharistan",
+          "start": 784,
+          "end": 795,
+          "label": "location",
+          "score": 0.8555755019187927
+        },
+        {
+          "text": "Walāxš",
+          "start": 814,
+          "end": 820,
+          "label": "person",
+          "score": 0.9024484753608704
+        }
+      ]
+    }
+  ]
+}

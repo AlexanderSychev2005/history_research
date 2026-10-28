@@ -1,0 +1,518 @@
+{
+ "doc_id": "nechaeva2017",
+ "paragraphs": [
+  {
+   "paragraph_id": "p004",
+   "text": "According to Agathias, the seven Hellenic philosophers—Damascius of Syria, Simplicius of Cilicia, Eulamius of Phrygia, Priscian of Lydia, Hermes and Diogenes of Phoenicia, and Isidore of Gaza—moved to Persia “because they did not share the view of God prevailing among the Romans and thought that the Persian state was far better.” Attracted by the idealized picture of the land of “Plato’s philosopher king” and also because “they had been forbidden by law to live here in security since they did not subscribe to the existing order,” the seven are said to have moved to Persia with an intention to stay there permanently. We do not know any details about how they traveled. Agathias tells us, however, that although well received, the philosophers soon became disillusioned: the Persian way of life, religious practices, customs, and the king himself proved to be sources of disappointment. The historian concludes that for all these reasons the philosophers returned home as soon as possible.",
+   "mentions": [
+    {
+     "text": "Agathias",
+     "start": 13,
+     "end": 21,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Damascius",
+     "start": 55,
+     "end": 64,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Syria",
+     "start": 68,
+     "end": 73,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Simplicius",
+     "start": 75,
+     "end": 85,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Cilicia",
+     "start": 89,
+     "end": 96,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Eulamius",
+     "start": 98,
+     "end": 106,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Phrygia",
+     "start": 110,
+     "end": 117,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Priscian",
+     "start": 119,
+     "end": 127,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Lydia",
+     "start": 131,
+     "end": 136,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Hermes",
+     "start": 138,
+     "end": 144,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Diogenes",
+     "start": 149,
+     "end": 157,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Phoenicia",
+     "start": 161,
+     "end": 170,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Isidore",
+     "start": 176,
+     "end": 183,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Gaza",
+     "start": 187,
+     "end": 191,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Persia",
+     "start": 201,
+     "end": 207,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Romans",
+     "start": 273,
+     "end": 279,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Plato",
+     "start": 383,
+     "end": 388,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Persia",
+     "start": 572,
+     "end": 578,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Agathias",
+     "start": 676,
+     "end": 684,
+     "label": "person",
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "paragraph_id": "p013",
+   "text": "Sources also mention two individual exchanges of prominent captives that occurred as a result of this peace. A Roman military commander, Domitziolus (or Domnentiolus), a nephew of military commander Buzes, was taken prisoner by the Persians in the battle near Callinicum in April of 531. He was exchanged for a Persian nobleman, Izdegerd, a nephew of Hormizd, the ruler of Arzanene in Persarmenia, who had been taken prisoner by the Romans in the summer of 531. Pseudo-Zacharias’ description of the circumstances of the capture of Domitziolus is very detailed and probably follows some local Amidan source. The capture of Izdegerd is also referred to comprehensively and Pseudo-Zacharias is the only source that mentions Izdegerd and this exchange.",
+   "mentions": [
+    {
+     "text": "Domitziolus",
+     "start": 137,
+     "end": 148,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Domnentiolus",
+     "start": 153,
+     "end": 165,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Buzes",
+     "start": 199,
+     "end": 204,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Persians",
+     "start": 232,
+     "end": 240,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Callinicum",
+     "start": 260,
+     "end": 270,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Izdegerd",
+     "start": 329,
+     "end": 337,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Hormizd",
+     "start": 351,
+     "end": 358,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Arzanene",
+     "start": 373,
+     "end": 381,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Persarmenia",
+     "start": 385,
+     "end": 396,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Romans",
+     "start": 433,
+     "end": 439,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Pseudo-Zacharias",
+     "start": 462,
+     "end": 478,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Domitziolus",
+     "start": 531,
+     "end": 542,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Izdegerd",
+     "start": 622,
+     "end": 630,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Pseudo-Zacharias",
+     "start": 671,
+     "end": 687,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Izdegerd",
+     "start": 721,
+     "end": 729,
+     "label": "person",
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "paragraph_id": "p014",
+   "text": "Another exchange of captives is described by Procopius. He informs us that Dagaris, a bodyguard of one of the Roman military commanders (Sittas or Dorotheus), had previously been sent on a spy mission in Armenia and was captured by Hun allies of Persia in 530. He was then was returned to the Romans as a result of the treaty. In exchange, the Persians received “another man of no mean station.” Procopius characterizes the returned Dagaris as “an exceptionally able warrior” who later several times defeated the invading Huns. The historian, however, never mentions the name of the “prominent” Persian exchanged for him.",
+   "mentions": [
+    {
+     "text": "Procopius",
+     "start": 45,
+     "end": 54,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Dagaris",
+     "start": 75,
+     "end": 82,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Sittas",
+     "start": 137,
+     "end": 143,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Dorotheus",
+     "start": 147,
+     "end": 156,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Armenia",
+     "start": 204,
+     "end": 211,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Persia",
+     "start": 246,
+     "end": 252,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Romans",
+     "start": 293,
+     "end": 299,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Persians",
+     "start": 344,
+     "end": 352,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Procopius",
+     "start": 396,
+     "end": 405,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Dagaris",
+     "start": 433,
+     "end": 440,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Huns",
+     "start": 522,
+     "end": 526,
+     "label": "organization",
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "paragraph_id": "p018",
+   "text": "Around the year 518 or 521 Pīrān-Gušnasp converted to Christianity, taking the name Grigor (Mart. Grig. 5–6). The conversion led to persecution: Grigor’s property was confiscated and he was imprisoned for three years (Mart. Grig. 7). After three years of imprisonment, Grigor was pardoned and restored to his previous position, which he held for a long time afterwards (Mart. Grig. 8). During a Roman incursion into the region under his charge, Grigor was taken prisoner and deported, along with numerous other captives (Mart. Grig. 8). The general was brought to the Emperor (most likely already Justinian), who, impressed by the prominence of Grigor’s position in Persia, and especially by his faith, welcomed the captive with numerous gifts and an even more important position than Grigor had held in Persia (Mart. Grig. 8). Nothing is known from other sources about the allegedly high military appointment of Grigor in the Roman Empire. It was, however, not unusual for both states to employ renegades, defectors, and captives from the adversary’s state to utilize their expertise, especially in military affairs.",
+   "mentions": [
+    {
+     "text": "Pīrān-Gušnasp",
+     "start": 27,
+     "end": 40,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Grigor",
+     "start": 84,
+     "end": 90,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Grigor",
+     "start": 145,
+     "end": 151,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Grigor",
+     "start": 269,
+     "end": 275,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Grigor",
+     "start": 445,
+     "end": 451,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Justinian",
+     "start": 597,
+     "end": 606,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Persia",
+     "start": 666,
+     "end": 672,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Grigor",
+     "start": 785,
+     "end": 791,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Persia",
+     "start": 804,
+     "end": 810,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Grigor",
+     "start": 913,
+     "end": 919,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Roman Empire",
+     "start": 927,
+     "end": 939,
+     "label": "location",
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "paragraph_id": "p019",
+   "text": "The Martyrium further informs us that in the third year of Chosroes’ reign, a Persian ambassador was sent to the Roman Emperor to conclude a peace treaty (“so that the peace spreads over the two kingdoms”), and that this envoy, Zabergān, asked the Emperor to extradite Mar Grigor. The Emperor was reluctant: first, because of the general’s military merits and, second, due to concern that Grigor would renounce his faith in Persia, where a person of his stature would not be allowed to remain Christian. According to the Martyrdom, however, Grigor himself asked to be released: as a convert of the Church of the East he was unhappy with the Chalcedonian environment in Constantinople. A remarkable detail is also reported by the Martyrdom: the Emperor made the Persian ambassador promise that Grigor would not be persecuted as a Christian “once he returns to the country of his fathers.” Zabergān agreed and ensured that everything necessary was done.",
+   "mentions": [
+    {
+     "text": "Martyrium",
+     "start": 4,
+     "end": 13,
+     "label": "written work",
+     "score": 1.0
+    },
+    {
+     "text": "Chosroes",
+     "start": 59,
+     "end": 67,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Zabergān",
+     "start": 228,
+     "end": 236,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Mar Grigor",
+     "start": 269,
+     "end": 279,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Grigor",
+     "start": 389,
+     "end": 395,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Persia",
+     "start": 424,
+     "end": 430,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Martyrdom",
+     "start": 521,
+     "end": 530,
+     "label": "written work",
+     "score": 1.0
+    },
+    {
+     "text": "Grigor",
+     "start": 541,
+     "end": 547,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Church of the East",
+     "start": 598,
+     "end": 616,
+     "label": "organization",
+     "score": 1.0
+    },
+    {
+     "text": "Constantinople",
+     "start": 669,
+     "end": 683,
+     "label": "location",
+     "score": 1.0
+    },
+    {
+     "text": "Martyrdom",
+     "start": 729,
+     "end": 738,
+     "label": "written work",
+     "score": 1.0
+    },
+    {
+     "text": "Grigor",
+     "start": 793,
+     "end": 799,
+     "label": "person",
+     "score": 1.0
+    },
+    {
+     "text": "Zabergān",
+     "start": 888,
+     "end": 896,
+     "label": "person",
+     "score": 1.0
+    }
+   ]
+  }
+ ]
+}

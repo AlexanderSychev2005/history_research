@@ -1,0 +1,2792 @@
+{
+  "doc_id": "nechaeva2017",
+  "paragraphs": [
+    {
+      "paragraph_id": "p001",
+      "page": 2,
+      "section": "INTRODUCTION",
+      "text": "In 2008 Sebastian Brock described Syriac hagiography as “a little-tapped resource” and noted that the Syriac texts remained largely marginalized by historians of late antiquity, despite representing the third largest surviving literature from the epoch. The dynamic developments of Syriac studies and new publications are rapidly changing this situation. Among the recent publications of the sixth-century martyrological hagiographies from the Church of the East is the new edition, translation, and commentary of the Martyrdom of Mar Grigor made by Florence Jullien. In this article I seek to integrate the material provided by the anonymous martyrdom account into the historical reconstruction of the terms of the diplomatic agreement concluded by Justinian and Chosroes in 532 C.E.",
+      "mentions": [
+        {
+          "text": "Sebastian Brock",
+          "start": 8,
+          "end": 23,
+          "label": "person",
+          "score": 0.9921495914459229
+        },
+        {
+          "text": "Syriac hagiography",
+          "start": 34,
+          "end": 52,
+          "label": "written work",
+          "score": 0.6466621160507202
+        },
+        {
+          "text": "Syriac texts",
+          "start": 102,
+          "end": 114,
+          "label": "written work",
+          "score": 0.5993400812149048
+        },
+        {
+          "text": "Church of the East",
+          "start": 444,
+          "end": 462,
+          "label": "organization",
+          "score": 0.9382228255271912
+        },
+        {
+          "text": "Martyrdom of Mar Grigor",
+          "start": 518,
+          "end": 541,
+          "label": "written work",
+          "score": 0.522758424282074
+        },
+        {
+          "text": "Florence Jullien",
+          "start": 550,
+          "end": 566,
+          "label": "person",
+          "score": 0.8657597899436951
+        },
+        {
+          "text": "Justinian",
+          "start": 750,
+          "end": 759,
+          "label": "person",
+          "score": 0.9416278004646301
+        },
+        {
+          "text": "Chosroes",
+          "start": 764,
+          "end": 772,
+          "label": "person",
+          "score": 0.9222769737243652
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p002",
+      "page": 2,
+      "section": "INTRODUCTION",
+      "text": "According to Agathias of Myrina, seven Neoplatonic philosophers—refugees from the increasingly Christian Empire of Justinian—were present at the Persian court when the Endless Peace treaty was being negotiated and signed. The seven Hellenes did not remain in Persia for long and Agathias mentions a diplomatic deal struck on their behalf to facilitate the return. On the insistence of the shah, a peculiar condition was inserted in the contract to guarantee the security and, using an anachronistic expression, the “freedom of religion” of the philosophers upon their return home from their Persian asylum. Targeting a small group of individuals and seemingly unilateral, this clause in the treaty appears unprecedented for late antique diplomacy. The reasons for the philosophers’ departure and the consequences of their return have long puzzled scholars. However, the culmination of their emigration, crucial for the subsequent fate of the seven Hellenes—the diplomatic provision made on their behalf by the Persian shah—has attracted less scholarly attention, not least due to the lack of data.",
+      "mentions": [
+        {
+          "text": "Agathias of Myrina",
+          "start": 13,
+          "end": 31,
+          "label": "person",
+          "score": 0.8131952285766602
+        },
+        {
+          "text": "Justinian",
+          "start": 115,
+          "end": 124,
+          "label": "person",
+          "score": 0.48765742778778076
+        },
+        {
+          "text": "Persian court",
+          "start": 145,
+          "end": 158,
+          "label": "organization",
+          "score": 0.5917066931724548
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 168,
+          "end": 188,
+          "label": "event",
+          "score": 0.9247915148735046
+        },
+        {
+          "text": "Persia",
+          "start": 259,
+          "end": 265,
+          "label": "location",
+          "score": 0.8229889869689941
+        },
+        {
+          "text": "Agathias",
+          "start": 279,
+          "end": 287,
+          "label": "person",
+          "score": 0.78168123960495
+        },
+        {
+          "text": "Persian asylum",
+          "start": 591,
+          "end": 605,
+          "label": "location",
+          "score": 0.9125137329101562
+        },
+        {
+          "text": "Persian shah",
+          "start": 1010,
+          "end": 1022,
+          "label": "person",
+          "score": 0.9396215677261353
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p003",
+      "page": 3,
+      "section": "INTRODUCTION",
+      "text": "To some extent, this scarcity of information can be compensated by introducing additional data from the Syriac source. Details of the life of Mar Grigor, a Persian general, a Christian, and a high-ranking captive at the court of Justinian, have never been previously scrutinized to complement the apparently unique evidence by Agathias. Analysis of the Syriac “martyrdom” in this context can improve our understanding of Roman-Persian diplomatic relations by supplementing our knowledge of the conditions of the Endless Peace treaty. I suggest that another clause of protection, reciprocating the philosophers’ safe conduct, was inserted in the Endless Peace treaty at Justinian’s insistence to ensure the protection of Mar Grigor in Persia. Conjectures based on the Martyrdom of Mar Grigor can bring a new perspective into the discussion on the circumstances of the repatriation of the seven Platonists.",
+      "mentions": [
+        {
+          "text": "Syriac source",
+          "start": 104,
+          "end": 117,
+          "label": "written work",
+          "score": 0.6632749438285828
+        },
+        {
+          "text": "Mar Grigor",
+          "start": 142,
+          "end": 152,
+          "label": "person",
+          "score": 0.9569482207298279
+        },
+        {
+          "text": "Justinian",
+          "start": 229,
+          "end": 238,
+          "label": "person",
+          "score": 0.5329897403717041
+        },
+        {
+          "text": "Agathias",
+          "start": 327,
+          "end": 335,
+          "label": "person",
+          "score": 0.8440554738044739
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 512,
+          "end": 532,
+          "label": "event",
+          "score": 0.8908936381340027
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 645,
+          "end": 665,
+          "label": "event",
+          "score": 0.8878389596939087
+        },
+        {
+          "text": "Justinian",
+          "start": 669,
+          "end": 678,
+          "label": "person",
+          "score": 0.9014195799827576
+        },
+        {
+          "text": "Mar Grigor",
+          "start": 720,
+          "end": 730,
+          "label": "person",
+          "score": 0.9705807566642761
+        },
+        {
+          "text": "Persia",
+          "start": 734,
+          "end": 740,
+          "label": "location",
+          "score": 0.936797559261322
+        },
+        {
+          "text": "Mar Grigor",
+          "start": 780,
+          "end": 790,
+          "label": "person",
+          "score": 0.9729865193367004
+        },
+        {
+          "text": "Grigor",
+          "start": 784,
+          "end": 790,
+          "label": "person",
+          "score": 0.9748631715774536
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p004",
+      "page": 3,
+      "section": "1. AGATHIAS 2.30—31",
+      "text": "According to Agathias, the seven Hellenic philosophers—Damascius of Syria, Simplicius of Cilicia, Eulamius of Phrygia, Priscian of Lydia, Hermes and Diogenes of Phoenicia, and Isidore of Gaza—moved to Persia “because they did not share the view of God prevailing among the Romans and thought that the Persian state was far better.” Attracted by the idealized picture of the land of “Plato’s philosopher king” and also because “they had been forbidden by law to live here in security since they did not subscribe to the existing order,” the seven are said to have moved to Persia with an intention to stay there permanently. We do not know any details about how they traveled. Agathias tells us, however, that although well received, the philosophers soon became disillusioned: the Persian way of life, religious practices, customs, and the king himself proved to be sources of disappointment. The historian concludes that for all these reasons the philosophers returned home as soon as possible.",
+      "mentions": [
+        {
+          "text": "Agathias",
+          "start": 13,
+          "end": 21,
+          "label": "written work",
+          "score": 0.5608567595481873
+        },
+        {
+          "text": "Damascius of Syria",
+          "start": 55,
+          "end": 73,
+          "label": "person",
+          "score": 0.6095091104507446
+        },
+        {
+          "text": "Simplicius of Cilicia",
+          "start": 75,
+          "end": 96,
+          "label": "person",
+          "score": 0.6013928651809692
+        },
+        {
+          "text": "Eulamius of Phrygia",
+          "start": 98,
+          "end": 117,
+          "label": "person",
+          "score": 0.680954098701477
+        },
+        {
+          "text": "Priscian of Lydia",
+          "start": 119,
+          "end": 136,
+          "label": "person",
+          "score": 0.6880939602851868
+        },
+        {
+          "text": "Hermes",
+          "start": 138,
+          "end": 144,
+          "label": "person",
+          "score": 0.9617330431938171
+        },
+        {
+          "text": "Diogenes of Phoenicia",
+          "start": 149,
+          "end": 170,
+          "label": "person",
+          "score": 0.5390080213546753
+        },
+        {
+          "text": "Isidore of Gaza",
+          "start": 176,
+          "end": 191,
+          "label": "person",
+          "score": 0.4033600389957428
+        },
+        {
+          "text": "Persia",
+          "start": 201,
+          "end": 207,
+          "label": "location",
+          "score": 0.8875976204872131
+        },
+        {
+          "text": "Plato",
+          "start": 383,
+          "end": 388,
+          "label": "person",
+          "score": 0.8939945101737976
+        },
+        {
+          "text": "Persia",
+          "start": 572,
+          "end": 578,
+          "label": "location",
+          "score": 0.9568459391593933
+        },
+        {
+          "text": "Agathias",
+          "start": 676,
+          "end": 684,
+          "label": "written work",
+          "score": 0.7917128205299377
+        },
+        {
+          "text": "Persian way of life",
+          "start": 781,
+          "end": 800,
+          "label": "location",
+          "score": 0.4673965573310852
+        },
+        {
+          "text": "The historian",
+          "start": 893,
+          "end": 906,
+          "label": "written work",
+          "score": 0.8219851851463318
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p005",
+      "page": 3,
+      "section": "1. AGATHIAS 2.30—31",
+      "text": "Agathias’ text is the only surviving source that describes the philosophers’ emigration and return. This account longprecedes the events described in Agathias’ main narrative and appears as an appendix to the strongly biased anti-Chosores and anti-Persian excursus on Iranian history and religious customs. While the evidence—which probably originates from an account written by one of the philosophers (Damascius or Simplicius)—is mostly considered trustworthy, debates on its content continue.",
+      "mentions": [
+        {
+          "text": "Agathias",
+          "start": 0,
+          "end": 8,
+          "label": "person",
+          "score": 0.9426634907722473
+        },
+        {
+          "text": "Agathias",
+          "start": 150,
+          "end": 158,
+          "label": "person",
+          "score": 0.9348037242889404
+        },
+        {
+          "text": "Damascius",
+          "start": 404,
+          "end": 413,
+          "label": "person",
+          "score": 0.8053713440895081
+        },
+        {
+          "text": "Simplicius",
+          "start": 417,
+          "end": 427,
+          "label": "person",
+          "score": 0.8611357808113098
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p006",
+      "page": 4,
+      "section": "1. AGATHIAS 2.30—31",
+      "text": "The episode described by Agathias, taken in the context of the evidence provided by other sources, makes it possible to suggest that the move of the philosophers was triggered by the intensification of Justinian’s persecution of pagans, the prohibition of philosophical teaching in Athens and the restrictions of anti-pagan legislation. The possible connection between the events which took place in 529, the departure of the philosophers, and the alleged closure of the Athenian Neoplatonic School, has incited an extensive scholarly discussion. The homecoming of the philosophers, and in particular the place to which they returned and their activities afterwards, are also the subject of numerous debates.",
+      "mentions": [
+        {
+          "text": "Agathias",
+          "start": 25,
+          "end": 33,
+          "label": "person",
+          "score": 0.90092933177948
+        },
+        {
+          "text": "Justinian",
+          "start": 202,
+          "end": 211,
+          "label": "person",
+          "score": 0.933975338935852
+        },
+        {
+          "text": "Athens",
+          "start": 282,
+          "end": 288,
+          "label": "location",
+          "score": 0.95667964220047
+        },
+        {
+          "text": "Athenian Neoplatonic School",
+          "start": 471,
+          "end": 498,
+          "label": "organization",
+          "score": 0.9153175354003906
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p007",
+      "page": 5,
+      "section": "Clause of protection",
+      "text": "Agathias remarks that the philosophers “benefited from their stay abroad in an important and conspicuous way, such that their life from then on ended in the most pleasant and agreeable manner.” While the primary impulse causing the initial flight to Persia was the philosophers’ insecurity in the Christian Roman Empire, the move abroad was likely further to compromise their loyalty in the eyes of Roman authorities. Agathias further clarifies that “. . . when about this time the Romans and the Persians made a peace treaty, there was a clause in the agreement which stipulated that these men should be allowed to return to their own country and live there henceforth in safety, without being forced to adopt opinions which they did not hold, or to change their own faith, For Chosroes would only settle and ratify the peace on these terms.” This condition of the peace treaty seems quite remarkable and deserves special consideration. Being unique in late antique diplomacy, it has, nevertheless, attracted little scholarly attention.",
+      "mentions": [
+        {
+          "text": "Agathias",
+          "start": 0,
+          "end": 8,
+          "label": "person",
+          "score": 0.9573718309402466
+        },
+        {
+          "text": "Persia",
+          "start": 250,
+          "end": 256,
+          "label": "location",
+          "score": 0.8623612523078918
+        },
+        {
+          "text": "Christian Roman Empire",
+          "start": 297,
+          "end": 319,
+          "label": "location",
+          "score": 0.7615471482276917
+        },
+        {
+          "text": "Roman authorities",
+          "start": 399,
+          "end": 416,
+          "label": "organization",
+          "score": 0.8104775547981262
+        },
+        {
+          "text": "Agathias",
+          "start": 418,
+          "end": 426,
+          "label": "person",
+          "score": 0.9351859092712402
+        },
+        {
+          "text": "Romans",
+          "start": 482,
+          "end": 488,
+          "label": "organization",
+          "score": 0.7144039273262024
+        },
+        {
+          "text": "Persians",
+          "start": 497,
+          "end": 505,
+          "label": "organization",
+          "score": 0.518185019493103
+        },
+        {
+          "text": "Chosroes",
+          "start": 779,
+          "end": 787,
+          "label": "person",
+          "score": 0.9013565182685852
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p008",
+      "page": 6,
+      "section": "Clause of protection",
+      "text": "It may be argued that diplomatic agreements between Rome and Persia, which included articles protecting religious groups, bear some similarity to the clause in question. Thus, the treaty made between Justinian and Chosroes in 562 had an annex guaranteeing freedom of worship to the Christians in Persia. The peace agreement of 422 between Theodosius II and Vahram V included a clause protecting the Christians, and probably a similar one for the Zoroastrians. There is, however, a significant difference between those agreements and the clause described by Agathias: the latter was meant to protect not a religious community, but only the seven individuals, which seems unprecedented in the late Roman diplomatic context.",
+      "mentions": [
+        {
+          "text": "Rome",
+          "start": 52,
+          "end": 56,
+          "label": "location",
+          "score": 0.9046382904052734
+        },
+        {
+          "text": "Persia",
+          "start": 61,
+          "end": 67,
+          "label": "location",
+          "score": 0.9558155536651611
+        },
+        {
+          "text": "Justinian",
+          "start": 200,
+          "end": 209,
+          "label": "person",
+          "score": 0.9665766954421997
+        },
+        {
+          "text": "Chosroes",
+          "start": 214,
+          "end": 222,
+          "label": "person",
+          "score": 0.9660688042640686
+        },
+        {
+          "text": "Christians",
+          "start": 282,
+          "end": 292,
+          "label": "organization",
+          "score": 0.7668278217315674
+        },
+        {
+          "text": "Persia",
+          "start": 296,
+          "end": 302,
+          "label": "location",
+          "score": 0.951795756816864
+        },
+        {
+          "text": "Theodosius II",
+          "start": 339,
+          "end": 352,
+          "label": "person",
+          "score": 0.9637864232063293
+        },
+        {
+          "text": "Vahram V",
+          "start": 357,
+          "end": 365,
+          "label": "person",
+          "score": 0.9581493139266968
+        },
+        {
+          "text": "Christians",
+          "start": 399,
+          "end": 409,
+          "label": "organization",
+          "score": 0.860657274723053
+        },
+        {
+          "text": "Zoroastrians",
+          "start": 446,
+          "end": 458,
+          "label": "organization",
+          "score": 0.8235521912574768
+        },
+        {
+          "text": "Agathias",
+          "start": 557,
+          "end": 565,
+          "label": "person",
+          "score": 0.959962010383606
+        },
+        {
+          "text": "late Roman diplomatic context",
+          "start": 691,
+          "end": 720,
+          "label": "event",
+          "score": 0.4126632511615753
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p009",
+      "page": 7,
+      "section": "Clause of protection",
+      "text": "Another striking feature is the apparently unilateral character of the clause. While matters of political, military, territorial, or financial concessions agreed upon in diplomatic contracts could be inequitable, depending on the balance of forces between the partners, communication on a symbolic level tended to maintain parity between the two states. Due to the unprecedented character of the clause, it is hard to provide a correct analogy; however, it seems that this protection of individuals should rather be referred to the latter category. The condition envisioned an intrusion into the affairs of one side. Unreciprocated, such intrusion would have created an imbalance of status between the realms, which appears highly unlikely.",
+      "mentions": []
+    },
+    {
+      "paragraph_id": "p010",
+      "page": 7,
+      "section": "2. THE ENDLESS PEACE TREATY AND THE STATUS OF DISPLACED PEOPLE",
+      "text": "The peace treaty that included the clause described by Agathias was the so-called Endless or Eternal Peace treaty, signed between Rome and Persia, most likely in the summer of 532, to end the long period of confrontations. Negotiations took several months before the sides managed to agree on the terms. Information about the conditions of the Endless Peace treaty is scattered through several sources, with the most detailed accounts being given by Procopius of Caesarea and John Malalas. The treaty regulated territorial, financial, and military arrangements and concessions. It also included several articles regarding the exchange of captives and other displaced people. It seems important to look at the “protecting clause” against the background of other articles concerning the status of different categories of “migrants.”",
+      "mentions": [
+        {
+          "text": "Agathias",
+          "start": 55,
+          "end": 63,
+          "label": "person",
+          "score": 0.8595153093338013
+        },
+        {
+          "text": "Endless or Eternal Peace treaty",
+          "start": 82,
+          "end": 113,
+          "label": "event",
+          "score": 0.6205240488052368
+        },
+        {
+          "text": "Rome",
+          "start": 130,
+          "end": 134,
+          "label": "location",
+          "score": 0.9474402070045471
+        },
+        {
+          "text": "Persia",
+          "start": 139,
+          "end": 145,
+          "label": "location",
+          "score": 0.8630329966545105
+        },
+        {
+          "text": "Negotiations",
+          "start": 223,
+          "end": 235,
+          "label": "event",
+          "score": 0.41652360558509827
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 344,
+          "end": 364,
+          "label": "event",
+          "score": 0.4854154586791992
+        },
+        {
+          "text": "Procopius of Caesarea",
+          "start": 450,
+          "end": 471,
+          "label": "person",
+          "score": 0.6473350524902344
+        },
+        {
+          "text": "John Malalas",
+          "start": 476,
+          "end": 488,
+          "label": "person",
+          "score": 0.9767239093780518
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p011",
+      "page": 8,
+      "section": "Iberian refugees",
+      "text": "One of the major causes of tension between the powers was the competition for influence and control over the Caucasus. In the early 520s, the Christian kingdom of Iberia attempted to escape Persian control by seeking Roman support. The Roman intervention of 526/527 was indirect and unsuccessful, resulting in the flight of Iberian nobility in the Roman Empire. According to the Endless Peace treaty as recounted to by Procopius, while Iberia remained in Persian hands, these refugees were free to choose whether to stay or to come back and, notes Procopius, “there were many who remained and many also who returned to their ancestral homes.”",
+      "mentions": [
+        {
+          "text": "Caucasus",
+          "start": 109,
+          "end": 117,
+          "label": "location",
+          "score": 0.8897671103477478
+        },
+        {
+          "text": "Iberia",
+          "start": 163,
+          "end": 169,
+          "label": "location",
+          "score": 0.9027629494667053
+        },
+        {
+          "text": "Roman intervention of 526/527",
+          "start": 236,
+          "end": 265,
+          "label": "event",
+          "score": 0.5884114503860474
+        },
+        {
+          "text": "Iberian nobility",
+          "start": 324,
+          "end": 340,
+          "label": "organization",
+          "score": 0.49645230174064636
+        },
+        {
+          "text": "Roman Empire",
+          "start": 348,
+          "end": 360,
+          "label": "organization",
+          "score": 0.8764298558235168
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 379,
+          "end": 399,
+          "label": "event",
+          "score": 0.8048059940338135
+        },
+        {
+          "text": "Procopius",
+          "start": 419,
+          "end": 428,
+          "label": "person",
+          "score": 0.976409912109375
+        },
+        {
+          "text": "Iberia",
+          "start": 436,
+          "end": 442,
+          "label": "location",
+          "score": 0.9831523895263672
+        },
+        {
+          "text": "Persian hands",
+          "start": 455,
+          "end": 468,
+          "label": "organization",
+          "score": 0.7808560132980347
+        },
+        {
+          "text": "Procopius",
+          "start": 548,
+          "end": 557,
+          "label": "person",
+          "score": 0.9658447504043579
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p012",
+      "page": 8,
+      "section": "Return of captured forts and prisoners",
+      "text": "After tense negotiations, the sides agreed to return to each other the forts that were seized during war. The Romans gave back the Armenian forts of Pharangium and Bolum, while the Persians returned Sarapanis and Scanda in Lazica. Malalas mentions that the forts were mutually returned together with the captured inhabitants.",
+      "mentions": [
+        {
+          "text": "Romans",
+          "start": 110,
+          "end": 116,
+          "label": "organization",
+          "score": 0.8655717372894287
+        },
+        {
+          "text": "Pharangium",
+          "start": 149,
+          "end": 159,
+          "label": "location",
+          "score": 0.9244225025177002
+        },
+        {
+          "text": "Bolum",
+          "start": 164,
+          "end": 169,
+          "label": "location",
+          "score": 0.9441535472869873
+        },
+        {
+          "text": "Persians",
+          "start": 181,
+          "end": 189,
+          "label": "organization",
+          "score": 0.7646459341049194
+        },
+        {
+          "text": "Sarapanis",
+          "start": 199,
+          "end": 208,
+          "label": "location",
+          "score": 0.8854441046714783
+        },
+        {
+          "text": "Scanda",
+          "start": 213,
+          "end": 219,
+          "label": "location",
+          "score": 0.9173951745033264
+        },
+        {
+          "text": "Lazica",
+          "start": 223,
+          "end": 229,
+          "label": "location",
+          "score": 0.9481461048126221
+        },
+        {
+          "text": "Malalas",
+          "start": 231,
+          "end": 238,
+          "label": "person",
+          "score": 0.970737636089325
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p013",
+      "page": 8,
+      "section": "Captive exchanges",
+      "text": "Sources also mention two individual exchanges of prominent captives that occurred as a result of this peace. A Roman military commander, Domitziolus (or Domnentiolus), a nephew of military commander Buzes, was taken prisoner by the Persians in the battle near Callinicum in April of 531. He was exchanged for a Persian nobleman, Izdegerd, a nephew of Hormizd, the ruler of Arzanene in Persarmenia, who had been taken prisoner by the Romans in the summer of 531. Pseudo-Zacharias’ description of the circumstances of the capture of Domitziolus is very detailed and probably follows some local Amidan source. The capture of Izdegerd is also referred to comprehensively and Pseudo-Zacharias is the only source that mentions Izdegerd and this exchange.",
+      "mentions": [
+        {
+          "text": "Sources",
+          "start": 0,
+          "end": 7,
+          "label": "written work",
+          "score": 0.5567837357521057
+        },
+        {
+          "text": "Roman military commander",
+          "start": 111,
+          "end": 135,
+          "label": "person",
+          "score": 0.5122951865196228
+        },
+        {
+          "text": "Domitziolus",
+          "start": 137,
+          "end": 148,
+          "label": "person",
+          "score": 0.935639500617981
+        },
+        {
+          "text": "Domnentiolus",
+          "start": 153,
+          "end": 165,
+          "label": "person",
+          "score": 0.4691380560398102
+        },
+        {
+          "text": "Buzes",
+          "start": 199,
+          "end": 204,
+          "label": "person",
+          "score": 0.9338905215263367
+        },
+        {
+          "text": "Persians",
+          "start": 232,
+          "end": 240,
+          "label": "organization",
+          "score": 0.7247283458709717
+        },
+        {
+          "text": "Callinicum",
+          "start": 260,
+          "end": 270,
+          "label": "location",
+          "score": 0.9388739466667175
+        },
+        {
+          "text": "April of 531",
+          "start": 274,
+          "end": 286,
+          "label": "event",
+          "score": 0.7460106015205383
+        },
+        {
+          "text": "Izdegerd",
+          "start": 329,
+          "end": 337,
+          "label": "person",
+          "score": 0.9535960555076599
+        },
+        {
+          "text": "Hormizd",
+          "start": 351,
+          "end": 358,
+          "label": "person",
+          "score": 0.9369960427284241
+        },
+        {
+          "text": "Arzanene",
+          "start": 373,
+          "end": 381,
+          "label": "location",
+          "score": 0.9190699458122253
+        },
+        {
+          "text": "Persarmenia",
+          "start": 385,
+          "end": 396,
+          "label": "location",
+          "score": 0.4857514500617981
+        },
+        {
+          "text": "Romans",
+          "start": 433,
+          "end": 439,
+          "label": "organization",
+          "score": 0.9090437293052673
+        },
+        {
+          "text": "Pseudo-Zacharias",
+          "start": 462,
+          "end": 478,
+          "label": "written work",
+          "score": 0.9668538570404053
+        },
+        {
+          "text": "Domitziolus",
+          "start": 531,
+          "end": 542,
+          "label": "person",
+          "score": 0.8440981507301331
+        },
+        {
+          "text": "Amidan",
+          "start": 592,
+          "end": 598,
+          "label": "location",
+          "score": 0.8012665510177612
+        },
+        {
+          "text": "Izdegerd",
+          "start": 622,
+          "end": 630,
+          "label": "person",
+          "score": 0.6452863812446594
+        },
+        {
+          "text": "Pseudo-Zacharias",
+          "start": 671,
+          "end": 687,
+          "label": "written work",
+          "score": 0.9433633685112
+        },
+        {
+          "text": "Izdegerd",
+          "start": 721,
+          "end": 729,
+          "label": "person",
+          "score": 0.5990279912948608
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p014",
+      "page": 9,
+      "section": "Captive exchanges",
+      "text": "Another exchange of captives is described by Procopius. He informs us that Dagaris, a bodyguard of one of the Roman military commanders (Sittas or Dorotheus), had previously been sent on a spy mission in Armenia and was captured by Hun allies of Persia in 530. He was then was returned to the Romans as a result of the treaty. In exchange, the Persians received “another man of no mean station.” Procopius characterizes the returned Dagaris as “an exceptionally able warrior” who later several times defeated the invading Huns. The historian, however, never mentions the name of the “prominent” Persian exchanged for him.",
+      "mentions": [
+        {
+          "text": "Procopius",
+          "start": 45,
+          "end": 54,
+          "label": "written work",
+          "score": 0.9240046739578247
+        },
+        {
+          "text": "Dagaris",
+          "start": 75,
+          "end": 82,
+          "label": "person",
+          "score": 0.9802542328834534
+        },
+        {
+          "text": "Sittas",
+          "start": 137,
+          "end": 143,
+          "label": "person",
+          "score": 0.8679165840148926
+        },
+        {
+          "text": "Dorotheus",
+          "start": 147,
+          "end": 156,
+          "label": "person",
+          "score": 0.890289843082428
+        },
+        {
+          "text": "Armenia",
+          "start": 204,
+          "end": 211,
+          "label": "location",
+          "score": 0.9496127963066101
+        },
+        {
+          "text": "Hun allies",
+          "start": 232,
+          "end": 242,
+          "label": "organization",
+          "score": 0.7217736840248108
+        },
+        {
+          "text": "Persia",
+          "start": 246,
+          "end": 252,
+          "label": "location",
+          "score": 0.9400594234466553
+        },
+        {
+          "text": "Romans",
+          "start": 293,
+          "end": 299,
+          "label": "organization",
+          "score": 0.7477466464042664
+        },
+        {
+          "text": "Persians",
+          "start": 344,
+          "end": 352,
+          "label": "organization",
+          "score": 0.7270185947418213
+        },
+        {
+          "text": "Procopius",
+          "start": 396,
+          "end": 405,
+          "label": "written work",
+          "score": 0.8760877847671509
+        },
+        {
+          "text": "Procopius",
+          "start": 396,
+          "end": 405,
+          "label": "person",
+          "score": 0.758886456489563
+        },
+        {
+          "text": "Dagaris",
+          "start": 433,
+          "end": 440,
+          "label": "person",
+          "score": 0.9795755743980408
+        },
+        {
+          "text": "Huns",
+          "start": 522,
+          "end": 526,
+          "label": "organization",
+          "score": 0.6882299780845642
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p015",
+      "page": 10,
+      "section": "Captive exchanges",
+      "text": "Remarkably, none of the sources mentions the clause protecting the philosophers. There might, however, be a missing piece in this mosaic of sources and evidence regarding the conditions of the Endless Peace treaty.",
+      "mentions": [
+        {
+          "text": "Endless Peace treaty",
+          "start": 193,
+          "end": 213,
+          "label": "event",
+          "score": 0.9110357761383057
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p016",
+      "page": 10,
+      "section": "3. THE MARTYRDOM OF MAR GRIGOR",
+      "text": "An anonymous Eastern-Syriac account of the martyrdom of Grigor could perhaps offer some additional information on the clauses of protection within the peace treaty. The text was written most likely in the second half of the sixth century by an author belonging to the Christian milieu of the Persian Empire.",
+      "mentions": [
+        {
+          "text": "An anonymous Eastern-Syriac account",
+          "start": 0,
+          "end": 35,
+          "label": "written work",
+          "score": 0.44230151176452637
+        },
+        {
+          "text": "Grigor",
+          "start": 56,
+          "end": 62,
+          "label": "person",
+          "score": 0.6953231692314148
+        },
+        {
+          "text": "Christian milieu",
+          "start": 268,
+          "end": 284,
+          "label": "organization",
+          "score": 0.45217448472976685
+        },
+        {
+          "text": "Persian Empire",
+          "start": 292,
+          "end": 306,
+          "label": "location",
+          "score": 0.8756539225578308
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p017",
+      "page": 10,
+      "section": "3. THE MARTYRDOM OF MAR GRIGOR",
+      "text": "Apart from the religious matters and the actual circumstances of Grigor’s martyrdom, the account provides rich data on the political, military, and diplomatic affairs of the reigns of Cavades I (488–496; 498–531) and Chosroes I (531–579)—in particular, of the period between the 520s and 540s. The protagonist of the account, Pīrān-Gušnasp, was a noble Persian who came from an old and famous Zoroastrian family: the house of Mihrān, one the seven most powerful Iranian dynasties. Shah Cavades appointed him a high military commander of Iberia and Albania, the northern regions of Persia. It was a high appointment, probably that of a spāhbed, one of the four superior generals of Persia. Sigillographic evidence confirms that the Mihrāns continued to be appointed spāhbeds of the north into the time of Chosroes I and probably after.",
+      "mentions": [
+        {
+          "text": "Grigor",
+          "start": 65,
+          "end": 71,
+          "label": "person",
+          "score": 0.451141893863678
+        },
+        {
+          "text": "Chosroes I",
+          "start": 217,
+          "end": 227,
+          "label": "person",
+          "score": 0.5471805334091187
+        },
+        {
+          "text": "Pīrān-Gušnasp",
+          "start": 326,
+          "end": 339,
+          "label": "person",
+          "score": 0.9145179390907288
+        },
+        {
+          "text": "house of Mihrān",
+          "start": 417,
+          "end": 432,
+          "label": "organization",
+          "score": 0.6248247623443604
+        },
+        {
+          "text": "Shah Cavades",
+          "start": 481,
+          "end": 493,
+          "label": "person",
+          "score": 0.9360028505325317
+        },
+        {
+          "text": "Iberia and Albania",
+          "start": 537,
+          "end": 555,
+          "label": "location",
+          "score": 0.7409197688102722
+        },
+        {
+          "text": "Persia",
+          "start": 581,
+          "end": 587,
+          "label": "location",
+          "score": 0.8043338060379028
+        },
+        {
+          "text": "Persia",
+          "start": 681,
+          "end": 687,
+          "label": "location",
+          "score": 0.7530742287635803
+        },
+        {
+          "text": "Chosroes I",
+          "start": 804,
+          "end": 814,
+          "label": "person",
+          "score": 0.8013690710067749
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p018",
+      "page": 11,
+      "section": "3. THE MARTYRDOM OF MAR GRIGOR",
+      "text": "Around the year 518 or 521 Pīrān-Gušnasp converted to Christianity, taking the name Grigor (Mart. Grig. 5–6). The conversion led to persecution: Grigor’s property was confiscated and he was imprisoned for three years (Mart. Grig. 7). After three years of imprisonment, Grigor was pardoned and restored to his previous position, which he held for a long time afterwards (Mart. Grig. 8). During a Roman incursion into the region under his charge, Grigor was taken prisoner and deported, along with numerous other captives (Mart. Grig. 8). The general was brought to the Emperor (most likely already Justinian), who, impressed by the prominence of Grigor’s position in Persia, and especially by his faith, welcomed the captive with numerous gifts and an even more important position than Grigor had held in Persia (Mart. Grig. 8). Nothing is known from other sources about the allegedly high military appointment of Grigor in the Roman Empire. It was, however, not unusual for both states to employ renegades, defectors, and captives from the adversary’s state to utilize their expertise, especially in military affairs.",
+      "mentions": [
+        {
+          "text": "Pīrān-Gušnasp",
+          "start": 27,
+          "end": 40,
+          "label": "person",
+          "score": 0.9280546307563782
+        },
+        {
+          "text": "Christianity",
+          "start": 54,
+          "end": 66,
+          "label": "organization",
+          "score": 0.5444552302360535
+        },
+        {
+          "text": "Grigor",
+          "start": 84,
+          "end": 90,
+          "label": "person",
+          "score": 0.8661840558052063
+        },
+        {
+          "text": "Mart. Grig. 5–6",
+          "start": 92,
+          "end": 107,
+          "label": "written work",
+          "score": 0.8163658380508423
+        },
+        {
+          "text": "Grigor",
+          "start": 145,
+          "end": 151,
+          "label": "person",
+          "score": 0.8951162695884705
+        },
+        {
+          "text": "Mart. Grig.",
+          "start": 218,
+          "end": 229,
+          "label": "written work",
+          "score": 0.7856649160385132
+        },
+        {
+          "text": "Grigor",
+          "start": 269,
+          "end": 275,
+          "label": "person",
+          "score": 0.9396002292633057
+        },
+        {
+          "text": "Mart. Grig.",
+          "start": 370,
+          "end": 381,
+          "label": "written work",
+          "score": 0.7961869835853577
+        },
+        {
+          "text": "Roman incursion",
+          "start": 395,
+          "end": 410,
+          "label": "event",
+          "score": 0.849612832069397
+        },
+        {
+          "text": "Grigor",
+          "start": 445,
+          "end": 451,
+          "label": "person",
+          "score": 0.9738333225250244
+        },
+        {
+          "text": "Mart. Grig. 8",
+          "start": 521,
+          "end": 534,
+          "label": "written work",
+          "score": 0.8967747688293457
+        },
+        {
+          "text": "Emperor",
+          "start": 568,
+          "end": 575,
+          "label": "person",
+          "score": 0.7838821411132812
+        },
+        {
+          "text": "Justinian",
+          "start": 597,
+          "end": 606,
+          "label": "person",
+          "score": 0.9353792071342468
+        },
+        {
+          "text": "Grigor",
+          "start": 645,
+          "end": 651,
+          "label": "person",
+          "score": 0.9627899527549744
+        },
+        {
+          "text": "Persia",
+          "start": 666,
+          "end": 672,
+          "label": "location",
+          "score": 0.947891116142273
+        },
+        {
+          "text": "Grigor",
+          "start": 785,
+          "end": 791,
+          "label": "person",
+          "score": 0.9942400455474854
+        },
+        {
+          "text": "Persia",
+          "start": 804,
+          "end": 810,
+          "label": "location",
+          "score": 0.9638973474502563
+        },
+        {
+          "text": "Mart. Grig. 8",
+          "start": 812,
+          "end": 825,
+          "label": "written work",
+          "score": 0.9159055948257446
+        },
+        {
+          "text": "Grigor",
+          "start": 913,
+          "end": 919,
+          "label": "person",
+          "score": 0.9837146401405334
+        },
+        {
+          "text": "Roman Empire",
+          "start": 927,
+          "end": 939,
+          "label": "location",
+          "score": 0.7567430138587952
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p019",
+      "page": 12,
+      "section": "3. THE MARTYRDOM OF MAR GRIGOR",
+      "text": "The Martyrium further informs us that in the third year of Chosroes’ reign, a Persian ambassador was sent to the Roman Emperor to conclude a peace treaty (“so that the peace spreads over the two kingdoms”), and that this envoy, Zabergān, asked the Emperor to extradite Mar Grigor. The Emperor was reluctant: first, because of the general’s military merits and, second, due to concern that Grigor would renounce his faith in Persia, where a person of his stature would not be allowed to remain Christian. According to the Martyrdom, however, Grigor himself asked to be released: as a convert of the Church of the East he was unhappy with the Chalcedonian environment in Constantinople. A remarkable detail is also reported by the Martyrdom: the Emperor made the Persian ambassador promise that Grigor would not be persecuted as a Christian “once he returns to the country of his fathers.” Zabergān agreed and ensured that everything necessary was done.",
+      "mentions": [
+        {
+          "text": "The Martyrium",
+          "start": 0,
+          "end": 13,
+          "label": "written work",
+          "score": 0.9496206641197205
+        },
+        {
+          "text": "Chosroes",
+          "start": 59,
+          "end": 67,
+          "label": "person",
+          "score": 0.8323302268981934
+        },
+        {
+          "text": "Persian ambassador",
+          "start": 78,
+          "end": 96,
+          "label": "person",
+          "score": 0.47218605875968933
+        },
+        {
+          "text": "Roman Emperor",
+          "start": 113,
+          "end": 126,
+          "label": "person",
+          "score": 0.6734951734542847
+        },
+        {
+          "text": "Zabergān",
+          "start": 228,
+          "end": 236,
+          "label": "person",
+          "score": 0.9391071200370789
+        },
+        {
+          "text": "Mar Grigor",
+          "start": 269,
+          "end": 279,
+          "label": "person",
+          "score": 0.840977132320404
+        },
+        {
+          "text": "Emperor",
+          "start": 285,
+          "end": 292,
+          "label": "person",
+          "score": 0.5471925735473633
+        },
+        {
+          "text": "Grigor",
+          "start": 389,
+          "end": 395,
+          "label": "person",
+          "score": 0.9812840819358826
+        },
+        {
+          "text": "Persia",
+          "start": 424,
+          "end": 430,
+          "label": "location",
+          "score": 0.9447489380836487
+        },
+        {
+          "text": "Martyrdom",
+          "start": 521,
+          "end": 530,
+          "label": "written work",
+          "score": 0.9065770506858826
+        },
+        {
+          "text": "Grigor",
+          "start": 541,
+          "end": 547,
+          "label": "person",
+          "score": 0.983433723449707
+        },
+        {
+          "text": "Church of the East",
+          "start": 598,
+          "end": 616,
+          "label": "organization",
+          "score": 0.968213677406311
+        },
+        {
+          "text": "Constantinople",
+          "start": 669,
+          "end": 683,
+          "label": "location",
+          "score": 0.9548630118370056
+        },
+        {
+          "text": "Martyrdom",
+          "start": 729,
+          "end": 738,
+          "label": "written work",
+          "score": 0.9034745693206787
+        },
+        {
+          "text": "Emperor",
+          "start": 744,
+          "end": 751,
+          "label": "person",
+          "score": 0.8593989610671997
+        },
+        {
+          "text": "Persian ambassador",
+          "start": 761,
+          "end": 779,
+          "label": "person",
+          "score": 0.42533406615257263
+        },
+        {
+          "text": "Grigor",
+          "start": 793,
+          "end": 799,
+          "label": "person",
+          "score": 0.9802842736244202
+        },
+        {
+          "text": "Christian",
+          "start": 829,
+          "end": 838,
+          "label": "organization",
+          "score": 0.5295531749725342
+        },
+        {
+          "text": "Zabergān",
+          "start": 888,
+          "end": 896,
+          "label": "person",
+          "score": 0.963801383972168
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p020",
+      "page": 12,
+      "section": "3. THE MARTYRDOM OF MAR GRIGOR",
+      "text": "It seems plausible that this promise was confirmed by the peace treaty. Grigor did not return to Persia immediately together with the envoy: he was released only after the treaty was concluded. The text mentions the establishment of an agreement between the two states and Grigor’s subsequent journey to Nisibis, where he joined the ambassador. The text also makes it possible to suggest that the safeguard for Grigor was included as a clause or a condition of the treaty.",
+      "mentions": [
+        {
+          "text": "Grigor",
+          "start": 72,
+          "end": 78,
+          "label": "person",
+          "score": 0.9844240546226501
+        },
+        {
+          "text": "Persia",
+          "start": 97,
+          "end": 103,
+          "label": "location",
+          "score": 0.9164184927940369
+        },
+        {
+          "text": "Grigor",
+          "start": 273,
+          "end": 279,
+          "label": "person",
+          "score": 0.9804117679595947
+        },
+        {
+          "text": "Nisibis",
+          "start": 304,
+          "end": 311,
+          "label": "location",
+          "score": 0.9728845953941345
+        },
+        {
+          "text": "Grigor",
+          "start": 411,
+          "end": 417,
+          "label": "person",
+          "score": 0.9650782942771912
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p021",
+      "page": 12,
+      "section": "3. THE MARTYRDOM OF MAR GRIGOR",
+      "text": "Grigor was welcomed back by the shah and was once again restored in a high position (Mart. Grig. 9). The text of the Martyrdom continues, describing the new imprisonment of Grigor, the resuming of hostilities (now those of 540) between the empires, the following wave of Christian persecutions in Persia in 541, and the martyrdom suffered by Grigor in 542.",
+      "mentions": [
+        {
+          "text": "Grigor",
+          "start": 0,
+          "end": 6,
+          "label": "person",
+          "score": 0.9854685664176941
+        },
+        {
+          "text": "Mart. Grig. 9",
+          "start": 85,
+          "end": 98,
+          "label": "written work",
+          "score": 0.8808380961418152
+        },
+        {
+          "text": "Grigor",
+          "start": 173,
+          "end": 179,
+          "label": "person",
+          "score": 0.9689314365386963
+        },
+        {
+          "text": "Christian persecutions",
+          "start": 271,
+          "end": 293,
+          "label": "event",
+          "score": 0.630887508392334
+        },
+        {
+          "text": "Persia",
+          "start": 297,
+          "end": 303,
+          "label": "location",
+          "score": 0.9610783457756042
+        },
+        {
+          "text": "Grigor",
+          "start": 342,
+          "end": 348,
+          "label": "person",
+          "score": 0.9810135960578918
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p022",
+      "page": 13,
+      "section": "3. THE MARTYRDOM OF MAR GRIGOR",
+      "text": "The Martyrdom of Mar Grigor should be considered for wider incorporation into the body of historical sources, with the necessary methodological reservations and caution. The focus of the account is certainly placed on the story of the life, miracles, and martyrdom of Grigor, while other events remain a background. This background, however, is described rather thoroughly and is in line with information provided by other sources. The rich and valuable data on the organization of the Sasanian administrative system, military hierarchy, and Zoroastrian religious practices provided by the Martyrdom is consistent and can be confirmed by other independent sources. The historical material included shows a good knowledge on the part of the anonymous author regarding interimperial politics and military affairs. The text also shows awareness of diplomatic practices. The historicity of the events described in the Martyrdom, generally accepted by scholars, justifies an integration of the data provided by the account into the available historical evidence. The text, however, is not free from some chronological inconsistencies.",
+      "mentions": [
+        {
+          "text": "Sasanian",
+          "start": 486,
+          "end": 494,
+          "label": "organization",
+          "score": 0.6224109530448914
+        },
+        {
+          "text": "Sasanian administrative system",
+          "start": 486,
+          "end": 516,
+          "label": "organization",
+          "score": 0.8094021081924438
+        },
+        {
+          "text": "Zoroastrian religious practices",
+          "start": 542,
+          "end": 573,
+          "label": "organization",
+          "score": 0.48862794041633606
+        },
+        {
+          "text": "Martyrdom",
+          "start": 590,
+          "end": 599,
+          "label": "event",
+          "score": 0.9616464972496033
+        },
+        {
+          "text": "The text",
+          "start": 812,
+          "end": 820,
+          "label": "written work",
+          "score": 0.7735104560852051
+        },
+        {
+          "text": "Martyrdom",
+          "start": 914,
+          "end": 923,
+          "label": "event",
+          "score": 0.6951285600662231
+        },
+        {
+          "text": "The text",
+          "start": 1058,
+          "end": 1066,
+          "label": "written work",
+          "score": 0.7866813540458679
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p023",
+      "page": 13,
+      "section": "The date of the negotiations and of the peace treaty",
+      "text": "The date of the peace negotiations that resulted in the extradition of Grigor raises questions and has been variously interpreted in historiography. The mission is said to have been sent on the third year of Chosroes’ reign. Chosroes became king in September of 531, which would place the event in 533/4. G. Greatrex and S. Lieu note that “the author of the martyrium appears to synchronize the Seleucid year 850 (538/9), referred to at the opening of the work, with the tenth year of Khusro’s reign (540/1), since he uses both datings for the renewal of persecutions.” Thus, they conclude that “this embassy should be dated to the mid-530s.” The mis-synchronisation could indeed result in a two-year gap between the actual tenth year of Chosroes’ reign (i.e. 540/1) and the 850 year of the Seleucid era (i.e. the year 538/9). However, these two years of difference should be subtracted from the year 533/4 (the actual third year of Chosroes’ reign), resulting in 531/2, not added to it—resulting in “mid-530” (i.e. 535/6).",
+      "mentions": [
+        {
+          "text": "Grigor",
+          "start": 71,
+          "end": 77,
+          "label": "person",
+          "score": 0.7168695330619812
+        },
+        {
+          "text": "Chosroes",
+          "start": 208,
+          "end": 216,
+          "label": "person",
+          "score": 0.8952608108520508
+        },
+        {
+          "text": "Chosroes",
+          "start": 225,
+          "end": 233,
+          "label": "person",
+          "score": 0.9166994690895081
+        },
+        {
+          "text": "G. Greatrex",
+          "start": 305,
+          "end": 316,
+          "label": "person",
+          "score": 0.7872053384780884
+        },
+        {
+          "text": "S. Lieu",
+          "start": 321,
+          "end": 328,
+          "label": "person",
+          "score": 0.6909807324409485
+        },
+        {
+          "text": "Khusro",
+          "start": 485,
+          "end": 491,
+          "label": "person",
+          "score": 0.6775942444801331
+        },
+        {
+          "text": "Chosroes",
+          "start": 738,
+          "end": 746,
+          "label": "person",
+          "score": 0.8809925317764282
+        },
+        {
+          "text": "Chosroes",
+          "start": 933,
+          "end": 941,
+          "label": "person",
+          "score": 0.9245996475219727
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p024",
+      "page": 14,
+      "section": "Comparison of chronologies within the Martyrdom of Mar Grigor.",
+      "text": "Whether we assume that, according to the intended chronology of the Martyrdom, the peace negotiations happened in the year 533/4 (the third year of Chosroes’ actual reign) or in the year 531/2 (according to the distorted chronology), we are only aware of one peace treaty concluded between Rome and Persia in these years: the Endless Peace treaty, which was most likely signed in September of 532. It thus seems possible to identify the diplomatic agreement mentioned in the text with the Endless Peace treaty.",
+      "mentions": [
+        {
+          "text": "Martyrdom",
+          "start": 68,
+          "end": 77,
+          "label": "written work",
+          "score": 0.5785440802574158
+        },
+        {
+          "text": "Chosroes",
+          "start": 148,
+          "end": 156,
+          "label": "person",
+          "score": 0.9599999189376831
+        },
+        {
+          "text": "Rome",
+          "start": 290,
+          "end": 294,
+          "label": "location",
+          "score": 0.9532215595245361
+        },
+        {
+          "text": "Persia",
+          "start": 299,
+          "end": 305,
+          "label": "location",
+          "score": 0.9586113095283508
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 326,
+          "end": 346,
+          "label": "event",
+          "score": 0.64007169008255
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 489,
+          "end": 509,
+          "label": "event",
+          "score": 0.5789863467216492
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p025",
+      "page": 15,
+      "section": "Comparison of chronologies within the Martyrdom of Mar Grigor.",
+      "text": "Another apparent discrepancy in the Syriac account regards the figure of the envoy who conducted the talks on behalf of Grigor, Zabergan. This close associate of Chosroes is mentioned several times by Procopius. In the Secret History Procopius alludes also to Zabergan’s embassy to Constantinople. In 541 Zabergan is said to have received a letter from Theodora: the Empress asked him to argue before the shah in favor of peace with the Romans and mentioned his recent visit. Nothing else is known about this mission, which might have been connected to the hostilities of 540/541. It seems highly unlikely that the embassy of Zabergan, alluded to by Procopius and the one described in the Martyrdom, should be identified as the same. In Theodora’s letter the visit of Zabergan was referred to as “recent, ” so it must have taken place in 541 or not long before. However, placing the negotiations about Grigor’s fate around the years 540/541 would contradict the following internal chronology and logic of the Martyrdom:",
+      "mentions": [
+        {
+          "text": "Grigor",
+          "start": 120,
+          "end": 126,
+          "label": "person",
+          "score": 0.6445235013961792
+        },
+        {
+          "text": "Zabergan",
+          "start": 128,
+          "end": 136,
+          "label": "person",
+          "score": 0.8419783711433411
+        },
+        {
+          "text": "Chosroes",
+          "start": 162,
+          "end": 170,
+          "label": "person",
+          "score": 0.8487967252731323
+        },
+        {
+          "text": "Procopius",
+          "start": 201,
+          "end": 210,
+          "label": "written work",
+          "score": 0.6006295680999756
+        },
+        {
+          "text": "Secret History",
+          "start": 219,
+          "end": 233,
+          "label": "written work",
+          "score": 0.8506360054016113
+        },
+        {
+          "text": "Zabergan",
+          "start": 260,
+          "end": 268,
+          "label": "person",
+          "score": 0.8467506766319275
+        },
+        {
+          "text": "Constantinople",
+          "start": 282,
+          "end": 296,
+          "label": "location",
+          "score": 0.9706488251686096
+        },
+        {
+          "text": "Zabergan",
+          "start": 305,
+          "end": 313,
+          "label": "person",
+          "score": 0.9341975450515747
+        },
+        {
+          "text": "Theodora",
+          "start": 353,
+          "end": 361,
+          "label": "person",
+          "score": 0.9597513675689697
+        },
+        {
+          "text": "Empress",
+          "start": 367,
+          "end": 374,
+          "label": "person",
+          "score": 0.6207761764526367
+        },
+        {
+          "text": "Romans",
+          "start": 437,
+          "end": 443,
+          "label": "organization",
+          "score": 0.6952990889549255
+        },
+        {
+          "text": "embassy of Zabergan",
+          "start": 615,
+          "end": 634,
+          "label": "location",
+          "score": 0.5455042123794556
+        },
+        {
+          "text": "Procopius",
+          "start": 650,
+          "end": 659,
+          "label": "person",
+          "score": 0.940911054611206
+        },
+        {
+          "text": "Martyrdom",
+          "start": 689,
+          "end": 698,
+          "label": "written work",
+          "score": 0.7930682301521301
+        },
+        {
+          "text": "Theodora",
+          "start": 737,
+          "end": 745,
+          "label": "person",
+          "score": 0.881911039352417
+        },
+        {
+          "text": "Grigor",
+          "start": 902,
+          "end": 908,
+          "label": "person",
+          "score": 0.7819788455963135
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p026",
+      "page": 15,
+      "section": "Comparison of chronologies within the Martyrdom of Mar Grigor.",
+      "text": "- in the third year of Chosroes’ reign the peace treaty between the empires was concluded and Grigor was released",
+      "mentions": [
+        {
+          "text": "Chosroes",
+          "start": 23,
+          "end": 31,
+          "label": "person",
+          "score": 0.8630622625350952
+        },
+        {
+          "text": "Grigor",
+          "start": 94,
+          "end": 100,
+          "label": "person",
+          "score": 0.9449573159217834
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p027",
+      "page": 15,
+      "section": "Comparison of chronologies within the Martyrdom of Mar Grigor.",
+      "text": "- a “long time” passed",
+      "mentions": []
+    },
+    {
+      "paragraph_id": "p028",
+      "page": 15,
+      "section": "Comparison of chronologies within the Martyrdom of Mar Grigor.",
+      "text": "- Grigor was arrested and afterwards spent seven years in prison",
+      "mentions": [
+        {
+          "text": "Grigor",
+          "start": 2,
+          "end": 8,
+          "label": "person",
+          "score": 0.9766141772270203
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p029",
+      "page": 15,
+      "section": "Comparison of chronologies within the Martyrdom of Mar Grigor.",
+      "text": "- on the ninth year of Chosroes’ reign the hostilities between the empires resumed",
+      "mentions": [
+        {
+          "text": "Chosroes",
+          "start": 23,
+          "end": 31,
+          "label": "person",
+          "score": 0.9235142469406128
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p030",
+      "page": 16,
+      "section": "Comparison of chronologies within the Martyrdom of Mar Grigor.",
+      "text": "- in the next year the shah unsuccessfully tried to convince Grigor to denounce his faith",
+      "mentions": [
+        {
+          "text": "Grigor",
+          "start": 61,
+          "end": 67,
+          "label": "person",
+          "score": 0.9380868673324585
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p031",
+      "page": 16,
+      "section": "Comparison of chronologies within the Martyrdom of Mar Grigor.",
+      "text": "- after many tortures, Grigor was executed",
+      "mentions": [
+        {
+          "text": "Grigor",
+          "start": 23,
+          "end": 29,
+          "label": "person",
+          "score": 0.9757458567619324
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p032",
+      "page": 16,
+      "section": "Comparison of chronologies within the Martyrdom of Mar Grigor.",
+      "text": "This internal chronology leaves almost no slot for that “long time” after Grigor’s return and before his arrest. If by the time of meeting with Chosroes (in the tenth year of his rule) or by the time of the martyrdom Grigor had spent seven years in prison, this would mean that he had been put there right after or very soon after his return to Persia. However, as discussed above, the Martyrdom mis-synchronizes the Seleucid era and the years of the rule of Chrosroes, accounting for a possible two-year “compression.” If we assume that Grigor returned home after the conclusion of the Endless Peace treaty in 532, and that he consequently was imprisoned for seven years until 541 (the year of the meeting with Chosroes) or until 19 April of 542 (the date of his martyrdom), that would place his arrest some time around 535/536, allowing for at least 3–4 years of that “long time” in between.",
+      "mentions": [
+        {
+          "text": "Grigor",
+          "start": 74,
+          "end": 80,
+          "label": "person",
+          "score": 0.9438061118125916
+        },
+        {
+          "text": "Chosroes",
+          "start": 144,
+          "end": 152,
+          "label": "person",
+          "score": 0.8901674747467041
+        },
+        {
+          "text": "Grigor",
+          "start": 217,
+          "end": 223,
+          "label": "person",
+          "score": 0.9443895220756531
+        },
+        {
+          "text": "Persia",
+          "start": 345,
+          "end": 351,
+          "label": "location",
+          "score": 0.8092172145843506
+        },
+        {
+          "text": "Martyrdom",
+          "start": 386,
+          "end": 395,
+          "label": "event",
+          "score": 0.6769760847091675
+        },
+        {
+          "text": "Chrosroes",
+          "start": 459,
+          "end": 468,
+          "label": "person",
+          "score": 0.8048883080482483
+        },
+        {
+          "text": "Grigor",
+          "start": 538,
+          "end": 544,
+          "label": "person",
+          "score": 0.8790767192840576
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 587,
+          "end": 607,
+          "label": "event",
+          "score": 0.8092796802520752
+        },
+        {
+          "text": "Chosroes",
+          "start": 712,
+          "end": 720,
+          "label": "person",
+          "score": 0.6470952033996582
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p033",
+      "page": 16,
+      "section": "Comparison of chronologies within the Martyrdom of Mar Grigor.",
+      "text": "The embassy of Zabergan, mentioned by Procopius, took place during the hostilities that are described as a background for the final tragic events of Grigor’s life; the embassy of Zabergan mentioned by the Martyrdom took place, according to the text, more than seven years before that, thus excluding the juxtaposition of the two diplomatic missions.",
+      "mentions": [
+        {
+          "text": "The embassy of Zabergan",
+          "start": 0,
+          "end": 23,
+          "label": "location",
+          "score": 0.8859807848930359
+        },
+        {
+          "text": "Procopius",
+          "start": 38,
+          "end": 47,
+          "label": "person",
+          "score": 0.9627236723899841
+        },
+        {
+          "text": "Grigor",
+          "start": 149,
+          "end": 155,
+          "label": "person",
+          "score": 0.6653919816017151
+        },
+        {
+          "text": "embassy of Zabergan",
+          "start": 168,
+          "end": 187,
+          "label": "location",
+          "score": 0.9390479326248169
+        },
+        {
+          "text": "Martyrdom",
+          "start": 205,
+          "end": 214,
+          "label": "event",
+          "score": 0.8449036478996277
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p034",
+      "page": 16,
+      "section": "Comparison of chronologies within the Martyrdom of Mar Grigor.",
+      "text": "No other source directly speaks about a visit of a Persian emissary to Constantinople during the preparation of the Endless Peace treaty. The negotiations, as far as we know, were mostly led by the Roman diplomats. However, John Malalas mentions that in 531, still under Cavades, a Persian ambassador sent to the Roman Emperor handed over a letter from the shah and was dispatched back again bearing gifts. Justinian later received another letter informing him that Chosroes had seized power, and “containing a proposal for a three months’ truce.” This letter was most probably also carried by a Persian envoy, as protocol demanded. Procopius, who focuses on the course of the military events and on Roman diplomats, omits any information on both these embassies and only mentions a notification of Chosroes’ accession to power which was received by the Persian generals. As we cannot assume that we are informed about all the embassies that were exchanged in the course of the Endless Peace preparations, we should not exclude the possibility that a separate embassy was dispatched from the Persian to the Roman court to discuss the delicate matter of the extradition of Grigor.",
+      "mentions": [
+        {
+          "text": "Persian emissary",
+          "start": 51,
+          "end": 67,
+          "label": "person",
+          "score": 0.44033578038215637
+        },
+        {
+          "text": "Constantinople",
+          "start": 71,
+          "end": 85,
+          "label": "location",
+          "score": 0.954998791217804
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 116,
+          "end": 136,
+          "label": "event",
+          "score": 0.8759162425994873
+        },
+        {
+          "text": "Roman diplomats",
+          "start": 198,
+          "end": 213,
+          "label": "organization",
+          "score": 0.912165105342865
+        },
+        {
+          "text": "John Malalas",
+          "start": 224,
+          "end": 236,
+          "label": "person",
+          "score": 0.8891828656196594
+        },
+        {
+          "text": "Cavades",
+          "start": 271,
+          "end": 278,
+          "label": "person",
+          "score": 0.8623277544975281
+        },
+        {
+          "text": "Persian ambassador",
+          "start": 282,
+          "end": 300,
+          "label": "person",
+          "score": 0.43294861912727356
+        },
+        {
+          "text": "Roman Emperor",
+          "start": 313,
+          "end": 326,
+          "label": "person",
+          "score": 0.6832312345504761
+        },
+        {
+          "text": "Justinian",
+          "start": 407,
+          "end": 416,
+          "label": "person",
+          "score": 0.9721338152885437
+        },
+        {
+          "text": "Chosroes",
+          "start": 466,
+          "end": 474,
+          "label": "person",
+          "score": 0.9791556000709534
+        },
+        {
+          "text": "Persian envoy",
+          "start": 596,
+          "end": 609,
+          "label": "person",
+          "score": 0.4380868673324585
+        },
+        {
+          "text": "Procopius",
+          "start": 633,
+          "end": 642,
+          "label": "written work",
+          "score": 0.8214336633682251
+        },
+        {
+          "text": "Roman diplomats",
+          "start": 700,
+          "end": 715,
+          "label": "organization",
+          "score": 0.8407236933708191
+        },
+        {
+          "text": "Chosroes",
+          "start": 799,
+          "end": 807,
+          "label": "person",
+          "score": 0.9660509824752808
+        },
+        {
+          "text": "Persian generals",
+          "start": 854,
+          "end": 870,
+          "label": "organization",
+          "score": 0.8342002630233765
+        },
+        {
+          "text": "Endless Peace preparations",
+          "start": 978,
+          "end": 1004,
+          "label": "event",
+          "score": 0.7177815437316895
+        },
+        {
+          "text": "Roman court",
+          "start": 1107,
+          "end": 1118,
+          "label": "location",
+          "score": 0.6566697359085083
+        },
+        {
+          "text": "Grigor",
+          "start": 1172,
+          "end": 1178,
+          "label": "person",
+          "score": 0.7129625082015991
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p035",
+      "page": 17,
+      "section": "4. MAR GRIGOR AND THE ENDLESS PEACE TREATY",
+      "text": "Despite the chronological inconsistencies in the account mentioned above, it seems plausible to identify the peace agreement that included a guarantee of protection for Mar Grigor as the Endless Peace treaty, signed by Chosroes and Justinian in 532. Following this interpretation, I suggest comparing the information provided by the Martyrdom of Mar Grigor with the data available from the other sources that are traditionally used by scholars to reconstruct the conditions of this treaty. This collation will allow us to put forward several conjectural proposals for reinterpreting the conventional data on the conditions of the Endless Peace treaty.",
+      "mentions": [
+        {
+          "text": "Mar Grigor",
+          "start": 169,
+          "end": 179,
+          "label": "person",
+          "score": 0.9775821566581726
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 187,
+          "end": 207,
+          "label": "event",
+          "score": 0.7884999513626099
+        },
+        {
+          "text": "Chosroes",
+          "start": 219,
+          "end": 227,
+          "label": "person",
+          "score": 0.9678006768226624
+        },
+        {
+          "text": "Justinian",
+          "start": 232,
+          "end": 241,
+          "label": "person",
+          "score": 0.97636479139328
+        },
+        {
+          "text": "Mar Grigor",
+          "start": 346,
+          "end": 356,
+          "label": "person",
+          "score": 0.9672510027885437
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 630,
+          "end": 650,
+          "label": "event",
+          "score": 0.8889824151992798
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p036",
+      "page": 17,
+      "section": "4. MAR GRIGOR AND THE ENDLESS PEACE TREATY",
+      "text": "Comparing the text of the Syriac Martyrdom with Procopius’ evidence about an able Roman warrior Dagaris who was exchanged for a Persian of “no mean station,” it seems possible to suppose that this prominent Persian was Pīrān-Gušnasp/Mar Grigor. Though the suggestion remains conjectural, the noble provenance and the high status of Grigor both in Persia and in Rome, as well as the separate negotiations about his fate, might argue in favor of this hypothesis. We can only guess why Procopius has omitted the information about the Persian counterpart of Dagaris. If, as discussed above, Grigor’s release was accompanied by a special safeguarding condition in the treaty, one may suppose that the clause in question might not have been made public.",
+      "mentions": [
+        {
+          "text": "Syriac Martyrdom",
+          "start": 26,
+          "end": 42,
+          "label": "event",
+          "score": 0.8276772499084473
+        },
+        {
+          "text": "Procopius",
+          "start": 48,
+          "end": 57,
+          "label": "written work",
+          "score": 0.8421555757522583
+        },
+        {
+          "text": "Dagaris",
+          "start": 96,
+          "end": 103,
+          "label": "person",
+          "score": 0.9146435856819153
+        },
+        {
+          "text": "Pīrān-Gušnasp",
+          "start": 219,
+          "end": 232,
+          "label": "person",
+          "score": 0.752885103225708
+        },
+        {
+          "text": "Mar Grigor",
+          "start": 233,
+          "end": 243,
+          "label": "person",
+          "score": 0.8353074789047241
+        },
+        {
+          "text": "Persia",
+          "start": 347,
+          "end": 353,
+          "label": "location",
+          "score": 0.9437140226364136
+        },
+        {
+          "text": "Rome",
+          "start": 361,
+          "end": 365,
+          "label": "location",
+          "score": 0.9117971658706665
+        },
+        {
+          "text": "Procopius",
+          "start": 483,
+          "end": 492,
+          "label": "written work",
+          "score": 0.7545274496078491
+        },
+        {
+          "text": "Procopius",
+          "start": 483,
+          "end": 492,
+          "label": "person",
+          "score": 0.9165903925895691
+        },
+        {
+          "text": "Dagaris",
+          "start": 554,
+          "end": 561,
+          "label": "person",
+          "score": 0.8415648937225342
+        },
+        {
+          "text": "Grigor",
+          "start": 587,
+          "end": 593,
+          "label": "person",
+          "score": 0.7686771154403687
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p037",
+      "page": 18,
+      "section": "4. MAR GRIGOR AND THE ENDLESS PEACE TREATY",
+      "text": "Comparison of the Martyrdom of Mar Grigor with Agathias’ description of the emigration and return of the seven philosophers reveals fascinating similarities. The Hellenic philosophers were warmly received in Persia by the shah, but wanted to return home despite all the dangers. The Christian Persian general was welcomed and well treated by the Emperor, but was eager to go back, though he risked persecution. Both rulers expressed concerns regarding the well-being of their protégés upon their return home. According to Agathias, a clause was included in the Endless Peace treaty, on Chosroe’s insistence, to guarantee the religious tolerance and safety for the philosophers. According to the Syriac Martyrdom account, the fate of Mar Grigor was discussed during the negotiations regarding the same diplomatic agreement and Justinian made the Persians secure religious tolerance and safety for Grigor, most likely by a condition of the same treaty. In the light of the two pieces of evidence taken together, it appears tenable to conclude that two clauses of protection were integrated in the peace treaty: one for the Hellenic philosophers coming back to the Roman Empire and one for the Christian Persian general returning to Persia.",
+      "mentions": [
+        {
+          "text": "Martyrdom",
+          "start": 18,
+          "end": 27,
+          "label": "event",
+          "score": 0.668300211429596
+        },
+        {
+          "text": "Mar Grigor",
+          "start": 31,
+          "end": 41,
+          "label": "person",
+          "score": 0.7528448104858398
+        },
+        {
+          "text": "Agathias",
+          "start": 47,
+          "end": 55,
+          "label": "person",
+          "score": 0.8262825608253479
+        },
+        {
+          "text": "Hellenic philosophers",
+          "start": 162,
+          "end": 183,
+          "label": "organization",
+          "score": 0.524868369102478
+        },
+        {
+          "text": "Persia",
+          "start": 208,
+          "end": 214,
+          "label": "location",
+          "score": 0.9553415775299072
+        },
+        {
+          "text": "Christian Persian general",
+          "start": 283,
+          "end": 308,
+          "label": "person",
+          "score": 0.468924343585968
+        },
+        {
+          "text": "Emperor",
+          "start": 346,
+          "end": 353,
+          "label": "person",
+          "score": 0.7175970673561096
+        },
+        {
+          "text": "Agathias",
+          "start": 522,
+          "end": 530,
+          "label": "person",
+          "score": 0.8848241567611694
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 561,
+          "end": 581,
+          "label": "event",
+          "score": 0.786970317363739
+        },
+        {
+          "text": "Chosroe",
+          "start": 586,
+          "end": 593,
+          "label": "person",
+          "score": 0.669681966304779
+        },
+        {
+          "text": "Syriac Martyrdom account",
+          "start": 695,
+          "end": 719,
+          "label": "written work",
+          "score": 0.7617758512496948
+        },
+        {
+          "text": "Mar Grigor",
+          "start": 733,
+          "end": 743,
+          "label": "person",
+          "score": 0.9187414050102234
+        },
+        {
+          "text": "Justinian",
+          "start": 826,
+          "end": 835,
+          "label": "person",
+          "score": 0.9686029553413391
+        },
+        {
+          "text": "Persians",
+          "start": 845,
+          "end": 853,
+          "label": "organization",
+          "score": 0.5366594195365906
+        },
+        {
+          "text": "Grigor",
+          "start": 896,
+          "end": 902,
+          "label": "person",
+          "score": 0.9258347153663635
+        },
+        {
+          "text": "Roman Empire",
+          "start": 1162,
+          "end": 1174,
+          "label": "organization",
+          "score": 0.4975653886795044
+        },
+        {
+          "text": "Christian Persian general",
+          "start": 1191,
+          "end": 1216,
+          "label": "person",
+          "score": 0.6393654942512512
+        },
+        {
+          "text": "Persia",
+          "start": 1230,
+          "end": 1236,
+          "label": "location",
+          "score": 0.9278311729431152
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p038",
+      "page": 18,
+      "section": "4. MAR GRIGOR AND THE ENDLESS PEACE TREATY",
+      "text": "Would Justinian have cared about protecting a Christological antagonist, a convert of the Church of the East, because of the traditional Roman imperial support of the Christian population in Persia? Was Chosroes’ support motivated by his will to act “as a patron of learning and acclaimed philosopherking”? Both monarchs undoubtedly enjoyed their roles as protectors “of persecuted minorities”, the roles that also gave them an opportunity “to meddle in the internal affairs” of their adversary. As the two cases discussed concerned individuals, not entire religious communities, the mutual concessions should be understood within the framework of symbolic communication between the rulers, rather than in the context of global inter-state politics. In this framework, the existence of two symmetrical requirements and liabilities would have provided the necessary balance and reciprocity in relations between the sovereigns.",
+      "mentions": [
+        {
+          "text": "Justinian",
+          "start": 6,
+          "end": 15,
+          "label": "person",
+          "score": 0.9470844268798828
+        },
+        {
+          "text": "Church of the East",
+          "start": 90,
+          "end": 108,
+          "label": "organization",
+          "score": 0.9341396689414978
+        },
+        {
+          "text": "Persia",
+          "start": 191,
+          "end": 197,
+          "label": "location",
+          "score": 0.8915871977806091
+        },
+        {
+          "text": "Chosroes",
+          "start": 203,
+          "end": 211,
+          "label": "person",
+          "score": 0.9140123724937439
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p039",
+      "page": 19,
+      "section": "4. MAR GRIGOR AND THE ENDLESS PEACE TREATY",
+      "text": "Including the safeguarding assurances in the peace treaty could have also been a way to resolve the contradiction between the responsibility of protecting of the suppliants and the duty to release them. We know that the conclusion a diplomatic alliance normally required that both sides release the previously accepted fugitives/deserters/runaways. The philosophers found their asylum in the court of Chosroes and from the Roman perspective their status was likely that of fugitives. Thus, the conclusion of a peace treaty with Constantinople was very likely to oblige Chosroes to send these refugees back home. It cannot be excluded that demands for extradition stimulated both returns, not only the repatriation of Grigor.",
+      "mentions": [
+        {
+          "text": "court of Chosroes",
+          "start": 392,
+          "end": 409,
+          "label": "location",
+          "score": 0.6837981939315796
+        },
+        {
+          "text": "court of Chosroes",
+          "start": 392,
+          "end": 409,
+          "label": "organization",
+          "score": 0.535852313041687
+        },
+        {
+          "text": "Constantinople",
+          "start": 528,
+          "end": 542,
+          "label": "location",
+          "score": 0.937946081161499
+        },
+        {
+          "text": "Chosroes",
+          "start": 569,
+          "end": 577,
+          "label": "organization",
+          "score": 0.5136655569076538
+        },
+        {
+          "text": "Grigor",
+          "start": 717,
+          "end": 723,
+          "label": "person",
+          "score": 0.8573331832885742
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p040",
+      "page": 19,
+      "section": "4. MAR GRIGOR AND THE ENDLESS PEACE TREATY",
+      "text": "From other sources we know that the Endless Peace treaty regulated several issues of population transfer and exchange of individuals. No evidence appears comprehensive. Only Agathias mentions the story of the philosophers and the clause of protection. Yet, he says nothing about any other safeguarding clause or alleged extradition. Only the Martyrdom of Mar Grigor relates the circumstances of Grigor’s return and refers to the safe conduct that he received. Neither Procopius nor Malalas provide any explicit data on these matters. One can assume that Agathias omitted some of the details, as he was little concerned in his digression with matters of diplomacy. Anthony Kaldellis argues that Procopius was aware of the existence of the clause protecting the philosophers and likely also knew about their consequent fate, but chose to omit this information. This discretion, according to Kaldellis, was caused by his concern for the well-being of the philosophers in the empire of Justinian. However, it should be emphasized that for the Endless Peace treaty we possess nothing similar to Menander’s account of the conditions of the Roman–Persian peace treaty of 562: no author who left us a description of the peace of 532 aimed to provide a reader with a full and detailed report of all the clauses in the contract. It is therefore possible that the two clauses of protection, one concerning the philosophers and the other concerning Mar Grigor, just did not find their way into the sources in full. The issue was of a rather private nature and ultimately of no primary importance for international politics.",
+      "mentions": [
+        {
+          "text": "Endless Peace treaty",
+          "start": 36,
+          "end": 56,
+          "label": "event",
+          "score": 0.6585021615028381
+        },
+        {
+          "text": "Agathias",
+          "start": 174,
+          "end": 182,
+          "label": "person",
+          "score": 0.9117023348808289
+        },
+        {
+          "text": "Martyrdom of Mar Grigor",
+          "start": 342,
+          "end": 365,
+          "label": "written work",
+          "score": 0.5150658488273621
+        },
+        {
+          "text": "Grigor",
+          "start": 395,
+          "end": 401,
+          "label": "person",
+          "score": 0.8434180617332458
+        },
+        {
+          "text": "Procopius",
+          "start": 468,
+          "end": 477,
+          "label": "person",
+          "score": 0.9706240892410278
+        },
+        {
+          "text": "Malalas",
+          "start": 482,
+          "end": 489,
+          "label": "person",
+          "score": 0.9416376352310181
+        },
+        {
+          "text": "Agathias",
+          "start": 554,
+          "end": 562,
+          "label": "person",
+          "score": 0.8626933097839355
+        },
+        {
+          "text": "Anthony Kaldellis",
+          "start": 664,
+          "end": 681,
+          "label": "person",
+          "score": 0.7534475922584534
+        },
+        {
+          "text": "Procopius",
+          "start": 694,
+          "end": 703,
+          "label": "person",
+          "score": 0.9755275249481201
+        },
+        {
+          "text": "Kaldellis",
+          "start": 889,
+          "end": 898,
+          "label": "person",
+          "score": 0.7496637105941772
+        },
+        {
+          "text": "Justinian",
+          "start": 982,
+          "end": 991,
+          "label": "person",
+          "score": 0.7332032918930054
+        },
+        {
+          "text": "Endless Peace treaty",
+          "start": 1039,
+          "end": 1059,
+          "label": "event",
+          "score": 0.7916780710220337
+        },
+        {
+          "text": "Menander",
+          "start": 1090,
+          "end": 1098,
+          "label": "person",
+          "score": 0.7323718667030334
+        },
+        {
+          "text": "Roman–Persian peace treaty of 562",
+          "start": 1134,
+          "end": 1167,
+          "label": "event",
+          "score": 0.5497651696205139
+        },
+        {
+          "text": "Mar Grigor",
+          "start": 1437,
+          "end": 1447,
+          "label": "person",
+          "score": 0.9230533242225647
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p041",
+      "page": 20,
+      "section": "4. MAR GRIGOR AND THE ENDLESS PEACE TREATY",
+      "text": "One could also speculate that the fragmentary and incomplete character of the available data may be explained by the confidential format of the articles containing the agreed safe-conducts. While we are not directly aware of any “secret protocols” to have accompanied diplomatic agreements—which, by definition, can hardly prove their non-existence or existence—secret talks are known to have accompanied diplomatic negotiations on several occasions. Remarkably, in the peace of 562 the clause regarding protection of the Christians in Persia was agreed upon separately and most probably formed, even if not secret, a special annex to the main text of the treaty. In the hypothesis that the two sensible clauses in question of the peace of 532 had a confidential status, it seems, on the one hand, reasonable to suppose that the authors, relying on the official accounts of the treaty terms and on the information provided by the diplomats, might not have had access to the “classified” part of the agreement. On the other hand, it appears likely that the very subjects of the safeconducts (i.e. the philosophers and Mar Grigor) could have shared some and omitted the other details of their return from abroad. We do not know whether the author of the Martyrdom of Mar Grigor was personally acquainted with his protagonist. The anonymous hagiographer is believed to originate from the same social milieu and was undoubtedly very well-informed about the circumstances of Grigor’ life. As already mentioned, it is commonly accepted that Agathias’s evidence originates from the philosophers directly, or from a memoir written by one of them.",
+      "mentions": [
+        {
+          "text": "Persia",
+          "start": 536,
+          "end": 542,
+          "label": "location",
+          "score": 0.865017831325531
+        },
+        {
+          "text": "Mar Grigor",
+          "start": 1117,
+          "end": 1127,
+          "label": "person",
+          "score": 0.9693773984909058
+        },
+        {
+          "text": "author of the Martyrdom of Mar Grigor",
+          "start": 1238,
+          "end": 1275,
+          "label": "person",
+          "score": 0.49963727593421936
+        },
+        {
+          "text": "Mar Grigor",
+          "start": 1265,
+          "end": 1275,
+          "label": "person",
+          "score": 0.9387363195419312
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p042",
+      "page": 21,
+      "section": "4. MAR GRIGOR AND THE ENDLESS PEACE TREATY",
+      "text": "It should also be noted that the eventual degree of effectiveness of the two clauses of protection was different. While we have indirect confirmations that at least some of the philosophers were alive and active after leaving Persia, the Martyrdom informs us that Grigor’s immunity from persecution did not last long. We possess no evidence that to allow us to speculate about any retaliation measures, however.",
+      "mentions": [
+        {
+          "text": "Persia",
+          "start": 226,
+          "end": 232,
+          "label": "location",
+          "score": 0.9665162563323975
+        },
+        {
+          "text": "Martyrdom",
+          "start": 238,
+          "end": 247,
+          "label": "event",
+          "score": 0.7255659699440002
+        },
+        {
+          "text": "Grigor",
+          "start": 264,
+          "end": 270,
+          "label": "person",
+          "score": 0.9467301964759827
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p043",
+      "page": 21,
+      "section": "CONCLUSIONS",
+      "text": "Adding the evidence provided by the East-Syriac Martyrdom of Mar Grigor to the data available from the “conventional” Greek historiography makes it possible to re-examine some of the conditions of the Endless Peace treaty of 532, and, in particular, the clause of protection for the Hellenic philosophers. Though this account does not offer direct additional insights into the much discussed problem of the place of the philosophers’ return, it does probably shed more light on the circumstances of their departure.",
+      "mentions": [
+        {
+          "text": "Mar Grigor",
+          "start": 61,
+          "end": 71,
+          "label": "person",
+          "score": 0.7396198511123657
+        },
+        {
+          "text": "Endless Peace treaty of 532",
+          "start": 201,
+          "end": 228,
+          "label": "event",
+          "score": 0.8645616173744202
+        },
+        {
+          "text": "Hellenic philosophers",
+          "start": 283,
+          "end": 304,
+          "label": "organization",
+          "score": 0.5938657522201538
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p044",
+      "page": 21,
+      "section": "CONCLUSIONS",
+      "text": "It seems possible to suggest that the clause, mentioned by Agathias, guaranteeing protection to the seven Hellenic philosophers after their return to the Roman Empire was not unilateral: the contract likely contained a symmetrical safe conduct for the Christian general Mar Grigor/Pīrān-Gušnasp upon his return to Persian territory. The reciprocal obligations of the sides to ensure the well-being of the individuals in question might have been included in a part of the treaty that was not publicly available.",
+      "mentions": [
+        {
+          "text": "Agathias",
+          "start": 59,
+          "end": 67,
+          "label": "written work",
+          "score": 0.6693593263626099
+        },
+        {
+          "text": "Roman Empire",
+          "start": 154,
+          "end": 166,
+          "label": "location",
+          "score": 0.7839874625205994
+        },
+        {
+          "text": "Mar Grigor/Pīrān-Gušnasp",
+          "start": 270,
+          "end": 294,
+          "label": "person",
+          "score": 0.8261790871620178
+        },
+        {
+          "text": "Persian territory",
+          "start": 314,
+          "end": 331,
+          "label": "location",
+          "score": 0.9324438571929932
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p045",
+      "page": 22,
+      "section": "CONCLUSIONS",
+      "text": "Two additional conjectural suggestions can also be made. The anonymous prominent Persian captive, exchanged, according to Procopius, for the Roman bodyguard and spy Dagaris, could have been the Christian general and soon-to-be martyr Mar Grigor/Pīrān-Gušnasp. The homecoming of the philosophers might have not been entirely voluntary, being stimulated by a Roman extradition demand, similar to the demand for Grigor’s release made by the Persians, thus conforming to the principles of diplomacy and international relations.",
+      "mentions": [
+        {
+          "text": "anonymous prominent Persian captive",
+          "start": 61,
+          "end": 96,
+          "label": "person",
+          "score": 0.4524074196815491
+        },
+        {
+          "text": "Procopius",
+          "start": 122,
+          "end": 131,
+          "label": "written work",
+          "score": 0.77469402551651
+        },
+        {
+          "text": "Dagaris",
+          "start": 165,
+          "end": 172,
+          "label": "person",
+          "score": 0.907077968120575
+        },
+        {
+          "text": "Mar Grigor/Pīrān-Gušnasp",
+          "start": 234,
+          "end": 258,
+          "label": "person",
+          "score": 0.8067547082901001
+        },
+        {
+          "text": "Roman extradition demand",
+          "start": 357,
+          "end": 381,
+          "label": "event",
+          "score": 0.643641471862793
+        },
+        {
+          "text": "demand for Grigor’s release",
+          "start": 398,
+          "end": 425,
+          "label": "event",
+          "score": 0.5056858658790588
+        },
+        {
+          "text": "Grigor",
+          "start": 409,
+          "end": 415,
+          "label": "person",
+          "score": 0.9211342334747314
+        },
+        {
+          "text": "Persians",
+          "start": 438,
+          "end": 446,
+          "label": "organization",
+          "score": 0.7655938267707825
+        }
+      ]
+    }
+  ]
+}

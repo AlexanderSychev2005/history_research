@@ -1,0 +1,7 @@
+ner,span,P,R,F1,tp,pred,gold
+gliner,strict,58.8,79.9,67.7,127,216,159
+gliner,overlap,66.2,89.9,76.3,143,216,159
+gliner-clean,strict,70.5,76.7,73.5,122,173,159
+gliner-clean,overlap,79.8,86.8,83.1,138,173,159
+jev,strict,93.8,94.3,94.0,150,160,159
+jev,overlap,96.9,97.5,97.2,155,160,159

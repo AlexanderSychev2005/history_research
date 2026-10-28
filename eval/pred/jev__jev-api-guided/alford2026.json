@@ -1,0 +1,1241 @@
+{
+ "doc_id": "alford2026",
+ "entities": [
+  {
+   "eid": "m0",
+   "label": "Akinean"
+  },
+  {
+   "eid": "m1",
+   "label": "Alborz"
+  },
+  {
+   "eid": "m2",
+   "label": "Armenia"
+  },
+  {
+   "eid": "m3",
+   "label": "Armenian Church"
+  },
+  {
+   "eid": "m4",
+   "label": "Artašēs"
+  },
+  {
+   "eid": "m5",
+   "label": "Aršamunik‘"
+  },
+  {
+   "eid": "m6",
+   "label": "Aršawir Kamsarakan"
+  },
+  {
+   "eid": "m7",
+   "label": "Asorestan"
+  },
+  {
+   "eid": "m8",
+   "label": "Awarayr"
+  },
+  {
+   "eid": "m9",
+   "label": "Ašuša"
+  },
+  {
+   "eid": "m10",
+   "label": "Basean"
+  },
+  {
+   "eid": "m11",
+   "label": "Battle of Akesga"
+  },
+  {
+   "eid": "m12",
+   "label": "Bishop T‘at‘ik"
+  },
+  {
+   "eid": "m13",
+   "label": "Caspian Sea"
+  },
+  {
+   "eid": "m14",
+   "label": "Ecclesiastical Histories"
+  },
+  {
+   "eid": "m15",
+   "label": "Ephesus"
+  },
+  {
+   "eid": "m16",
+   "label": "Ełišē"
+  },
+  {
+   "eid": "m17",
+   "label": "Eǰmiacin"
+  },
+  {
+   "eid": "m18",
+   "label": "Gorgān"
+  },
+  {
+   "eid": "m19",
+   "label": "Gugark‘"
+  },
+  {
+   "eid": "m20",
+   "label": "Hephthalite Huns"
+  },
+  {
+   "eid": "m21",
+   "label": "Hindu Kush"
+  },
+  {
+   "eid": "m22",
+   "label": "History of the Armenians"
+  },
+  {
+   "eid": "m23",
+   "label": "Hrahat"
+  },
+  {
+   "eid": "m24",
+   "label": "Hyrcania"
+  },
+  {
+   "eid": "m25",
+   "label": "John"
+  },
+  {
+   "eid": "m26",
+   "label": "Kamsarakan"
+  },
+  {
+   "eid": "m27",
+   "label": "Khuzestan"
+  },
+  {
+   "eid": "m28",
+   "label": "Kidarite Huns"
+  },
+  {
+   "eid": "m29",
+   "label": "Kidarites"
+  },
+  {
+   "eid": "m30",
+   "label": "Mamikonean"
+  },
+  {
+   "eid": "m31",
+   "label": "Mamikoneans"
+  },
+  {
+   "eid": "m32",
+   "label": "Nerseh"
+  },
+  {
+   "eid": "m33",
+   "label": "Nerseh Kamsarakan"
+  },
+  {
+   "eid": "m34",
+   "label": "Persia"
+  },
+  {
+   "eid": "m35",
+   "label": "Philo"
+  },
+  {
+   "eid": "m36",
+   "label": "Pērōz"
+  },
+  {
+   "eid": "m37",
+   "label": "Robert Thomson"
+  },
+  {
+   "eid": "m38",
+   "label": "Sasanian King Yazdgerd II"
+  },
+  {
+   "eid": "m39",
+   "label": "Sasanians"
+  },
+  {
+   "eid": "m40",
+   "label": "Siwnik‘"
+  },
+  {
+   "eid": "m41",
+   "label": "Tokharistan"
+  },
+  {
+   "eid": "m42",
+   "label": "T‘at‘ik"
+  },
+  {
+   "eid": "m43",
+   "label": "Vahan"
+  },
+  {
+   "eid": "m44",
+   "label": "Vahan Mamikonean"
+  },
+  {
+   "eid": "m45",
+   "label": "Vardan Mamikonean"
+  },
+  {
+   "eid": "m46",
+   "label": "Vasak"
+  },
+  {
+   "eid": "m47",
+   "label": "Vasak Siwni"
+  },
+  {
+   "eid": "m48",
+   "label": "Vałaršapat"
+  },
+  {
+   "eid": "m49",
+   "label": "Yazdgerd"
+  },
+  {
+   "eid": "m50",
+   "label": "Yazdgerd II"
+  },
+  {
+   "eid": "m51",
+   "label": "Łazar"
+  },
+  {
+   "eid": "m52",
+   "label": "Łazar P‘arpec‘i"
+  },
+  {
+   "eid": "m53",
+   "label": "Łewondeank‘"
+  },
+  {
+   "eid": "m54",
+   "label": "Širak"
+  }
+ ],
+ "mentions": [
+  {
+   "para": "p001",
+   "start": 133,
+   "end": 158,
+   "text": "Sasanian King Yazdgerd II",
+   "entity": "m38"
+  },
+  {
+   "para": "p003",
+   "start": 75,
+   "end": 82,
+   "text": "Awarayr",
+   "entity": "m8"
+  },
+  {
+   "para": "p003",
+   "start": 247,
+   "end": 258,
+   "text": "Yazdgerd II",
+   "entity": "m50"
+  },
+  {
+   "para": "p003",
+   "start": 375,
+   "end": 392,
+   "text": "Vardan Mamikonean",
+   "entity": "m45"
+  },
+  {
+   "para": "p003",
+   "start": 443,
+   "end": 458,
+   "text": "Armenian Church",
+   "entity": "m3"
+  },
+  {
+   "para": "p004",
+   "start": 37,
+   "end": 52,
+   "text": "Łazar P‘arpec‘i",
+   "entity": "m52"
+  },
+  {
+   "para": "p004",
+   "start": 92,
+   "end": 116,
+   "text": "History of the Armenians",
+   "entity": "m22"
+  },
+  {
+   "para": "p004",
+   "start": 178,
+   "end": 184,
+   "text": "Gorgān",
+   "entity": "m18"
+  },
+  {
+   "para": "p004",
+   "start": 193,
+   "end": 201,
+   "text": "Hyrcania",
+   "entity": "m24"
+  },
+  {
+   "para": "p004",
+   "start": 227,
+   "end": 233,
+   "text": "Alborz",
+   "entity": "m1"
+  },
+  {
+   "para": "p004",
+   "start": 262,
+   "end": 273,
+   "text": "Caspian Sea",
+   "entity": "m13"
+  },
+  {
+   "para": "p004",
+   "start": 333,
+   "end": 342,
+   "text": "Khuzestan",
+   "entity": "m27"
+  },
+  {
+   "para": "p004",
+   "start": 396,
+   "end": 401,
+   "text": "Łazar",
+   "entity": "m51"
+  },
+  {
+   "para": "p004",
+   "start": 551,
+   "end": 567,
+   "text": "Vahan Mamikonean",
+   "entity": "m44"
+  },
+  {
+   "para": "p004",
+   "start": 649,
+   "end": 658,
+   "text": "Khuzestan",
+   "entity": "m27"
+  },
+  {
+   "para": "p004",
+   "start": 701,
+   "end": 710,
+   "text": "Sasanians",
+   "entity": "m39"
+  },
+  {
+   "para": "p004",
+   "start": 726,
+   "end": 731,
+   "text": "Łazar",
+   "entity": "m51"
+  },
+  {
+   "para": "p004",
+   "start": 741,
+   "end": 746,
+   "text": "Vahan",
+   "entity": "m43"
+  },
+  {
+   "para": "p004",
+   "start": 842,
+   "end": 852,
+   "text": "Vałaršapat",
+   "entity": "m48"
+  },
+  {
+   "para": "p004",
+   "start": 861,
+   "end": 869,
+   "text": "Eǰmiacin",
+   "entity": "m17"
+  },
+  {
+   "para": "p004",
+   "start": 874,
+   "end": 879,
+   "text": "Vahan",
+   "entity": "m43"
+  },
+  {
+   "para": "p005",
+   "start": 56,
+   "end": 61,
+   "text": "Ełišē",
+   "entity": "m16"
+  },
+  {
+   "para": "p005",
+   "start": 97,
+   "end": 103,
+   "text": "Gorgān",
+   "entity": "m18"
+  },
+  {
+   "para": "p005",
+   "start": 141,
+   "end": 146,
+   "text": "Łazar",
+   "entity": "m51"
+  },
+  {
+   "para": "p005",
+   "start": 188,
+   "end": 193,
+   "text": "Ełišē",
+   "entity": "m16"
+  },
+  {
+   "para": "p005",
+   "start": 324,
+   "end": 338,
+   "text": "Robert Thomson",
+   "entity": "m37"
+  },
+  {
+   "para": "p005",
+   "start": 363,
+   "end": 370,
+   "text": "Akinean",
+   "entity": "m0"
+  },
+  {
+   "para": "p005",
+   "start": 393,
+   "end": 398,
+   "text": "Ełišē",
+   "entity": "m16"
+  },
+  {
+   "para": "p005",
+   "start": 514,
+   "end": 519,
+   "text": "Philo",
+   "entity": "m35"
+  },
+  {
+   "para": "p005",
+   "start": 541,
+   "end": 545,
+   "text": "John",
+   "entity": "m25"
+  },
+  {
+   "para": "p005",
+   "start": 549,
+   "end": 556,
+   "text": "Ephesus",
+   "entity": "m15"
+  },
+  {
+   "para": "p005",
+   "start": 558,
+   "end": 582,
+   "text": "Ecclesiastical Histories",
+   "entity": "m14"
+  },
+  {
+   "para": "p013",
+   "start": 37,
+   "end": 42,
+   "text": "Ełišē",
+   "entity": "m16"
+  },
+  {
+   "para": "p013",
+   "start": 51,
+   "end": 68,
+   "text": "Nerseh Kamsarakan",
+   "entity": "m33"
+  },
+  {
+   "para": "p013",
+   "start": 107,
+   "end": 113,
+   "text": "Nerseh",
+   "entity": "m32"
+  },
+  {
+   "para": "p013",
+   "start": 117,
+   "end": 122,
+   "text": "Širak",
+   "entity": "m54"
+  },
+  {
+   "para": "p013",
+   "start": 146,
+   "end": 164,
+   "text": "Aršawir Kamsarakan",
+   "entity": "m6"
+  },
+  {
+   "para": "p013",
+   "start": 227,
+   "end": 233,
+   "text": "Nerseh",
+   "entity": "m32"
+  },
+  {
+   "para": "p013",
+   "start": 249,
+   "end": 254,
+   "text": "Łazar",
+   "entity": "m51"
+  },
+  {
+   "para": "p013",
+   "start": 290,
+   "end": 295,
+   "text": "Łazar",
+   "entity": "m51"
+  },
+  {
+   "para": "p013",
+   "start": 326,
+   "end": 332,
+   "text": "Nerseh",
+   "entity": "m32"
+  },
+  {
+   "para": "p013",
+   "start": 334,
+   "end": 339,
+   "text": "Łazar",
+   "entity": "m51"
+  },
+  {
+   "para": "p013",
+   "start": 351,
+   "end": 357,
+   "text": "Nerseh",
+   "entity": "m32"
+  },
+  {
+   "para": "p013",
+   "start": 374,
+   "end": 380,
+   "text": "Hrahat",
+   "entity": "m23"
+  },
+  {
+   "para": "p013",
+   "start": 452,
+   "end": 462,
+   "text": "Vałaršapat",
+   "entity": "m48"
+  },
+  {
+   "para": "p013",
+   "start": 477,
+   "end": 483,
+   "text": "Nerseh",
+   "entity": "m32"
+  },
+  {
+   "para": "p013",
+   "start": 514,
+   "end": 530,
+   "text": "Battle of Akesga",
+   "entity": "m11"
+  },
+  {
+   "para": "p013",
+   "start": 532,
+   "end": 537,
+   "text": "Łazar",
+   "entity": "m51"
+  },
+  {
+   "para": "p013",
+   "start": 578,
+   "end": 584,
+   "text": "Nerseh",
+   "entity": "m32"
+  },
+  {
+   "para": "p013",
+   "start": 590,
+   "end": 600,
+   "text": "Aršamunik‘",
+   "entity": "m5"
+  },
+  {
+   "para": "p013",
+   "start": 679,
+   "end": 686,
+   "text": "Armenia",
+   "entity": "m2"
+  },
+  {
+   "para": "p013",
+   "start": 718,
+   "end": 724,
+   "text": "Nerseh",
+   "entity": "m32"
+  },
+  {
+   "para": "p018",
+   "start": 131,
+   "end": 140,
+   "text": "Sasanians",
+   "entity": "m39"
+  },
+  {
+   "para": "p018",
+   "start": 149,
+   "end": 162,
+   "text": "Kidarite Huns",
+   "entity": "m28"
+  },
+  {
+   "para": "p018",
+   "start": 250,
+   "end": 258,
+   "text": "Yazdgerd",
+   "entity": "m49"
+  },
+  {
+   "para": "p018",
+   "start": 263,
+   "end": 268,
+   "text": "Pērōz",
+   "entity": "m36"
+  },
+  {
+   "para": "p018",
+   "start": 326,
+   "end": 335,
+   "text": "Kidarites",
+   "entity": "m29"
+  },
+  {
+   "para": "p018",
+   "start": 365,
+   "end": 374,
+   "text": "Kidarites",
+   "entity": "m29"
+  },
+  {
+   "para": "p018",
+   "start": 425,
+   "end": 441,
+   "text": "Hephthalite Huns",
+   "entity": "m20"
+  },
+  {
+   "para": "p018",
+   "start": 443,
+   "end": 451,
+   "text": "Yazdgerd",
+   "entity": "m49"
+  },
+  {
+   "para": "p018",
+   "start": 678,
+   "end": 687,
+   "text": "Kidarites",
+   "entity": "m29"
+  },
+  {
+   "para": "p018",
+   "start": 959,
+   "end": 970,
+   "text": "Tokharistan",
+   "entity": "m41"
+  },
+  {
+   "para": "p018",
+   "start": 983,
+   "end": 993,
+   "text": "Hindu Kush",
+   "entity": "m21"
+  },
+  {
+   "para": "p024",
+   "start": 16,
+   "end": 25,
+   "text": "Khuzestan",
+   "entity": "m27"
+  },
+  {
+   "para": "p024",
+   "start": 36,
+   "end": 52,
+   "text": "Vahan Mamikonean",
+   "entity": "m44"
+  },
+  {
+   "para": "p024",
+   "start": 75,
+   "end": 80,
+   "text": "Vasak",
+   "entity": "m46"
+  },
+  {
+   "para": "p024",
+   "start": 85,
+   "end": 92,
+   "text": "Artašēs",
+   "entity": "m4"
+  },
+  {
+   "para": "p024",
+   "start": 168,
+   "end": 178,
+   "text": "Kamsarakan",
+   "entity": "m26"
+  },
+  {
+   "para": "p024",
+   "start": 192,
+   "end": 206,
+   "text": "Bishop T‘at‘ik",
+   "entity": "m12"
+  },
+  {
+   "para": "p024",
+   "start": 210,
+   "end": 216,
+   "text": "Basean",
+   "entity": "m10"
+  },
+  {
+   "para": "p024",
+   "start": 218,
+   "end": 223,
+   "text": "Łazar",
+   "entity": "m51"
+  },
+  {
+   "para": "p024",
+   "start": 253,
+   "end": 264,
+   "text": "Vasak Siwni",
+   "entity": "m47"
+  },
+  {
+   "para": "p024",
+   "start": 287,
+   "end": 294,
+   "text": "Siwnik‘",
+   "entity": "m40"
+  },
+  {
+   "para": "p024",
+   "start": 637,
+   "end": 642,
+   "text": "Łazar",
+   "entity": "m51"
+  },
+  {
+   "para": "p024",
+   "start": 668,
+   "end": 673,
+   "text": "Vahan",
+   "entity": "m43"
+  },
+  {
+   "para": "p025",
+   "start": 39,
+   "end": 50,
+   "text": "Mamikoneans",
+   "entity": "m31"
+  },
+  {
+   "para": "p025",
+   "start": 158,
+   "end": 163,
+   "text": "Ašuša",
+   "entity": "m9"
+  },
+  {
+   "para": "p025",
+   "start": 167,
+   "end": 174,
+   "text": "Gugark‘",
+   "entity": "m19"
+  },
+  {
+   "para": "p025",
+   "start": 259,
+   "end": 274,
+   "text": "Łazar P‘arpec‘i",
+   "entity": "m52"
+  },
+  {
+   "para": "p025",
+   "start": 558,
+   "end": 563,
+   "text": "Ašuša",
+   "entity": "m9"
+  },
+  {
+   "para": "p025",
+   "start": 729,
+   "end": 735,
+   "text": "Persia",
+   "entity": "m34"
+  },
+  {
+   "para": "p032",
+   "start": 28,
+   "end": 37,
+   "text": "Asorestan",
+   "entity": "m7"
+  },
+  {
+   "para": "p032",
+   "start": 40,
+   "end": 47,
+   "text": "T‘at‘ik",
+   "entity": "m42"
+  },
+  {
+   "para": "p032",
+   "start": 51,
+   "end": 57,
+   "text": "Basean",
+   "entity": "m10"
+  },
+  {
+   "para": "p032",
+   "start": 164,
+   "end": 175,
+   "text": "Łewondeank‘",
+   "entity": "m53"
+  },
+  {
+   "para": "p032",
+   "start": 272,
+   "end": 281,
+   "text": "Khuzestan",
+   "entity": "m27"
+  },
+  {
+   "para": "p032",
+   "start": 335,
+   "end": 345,
+   "text": "Mamikonean",
+   "entity": "m30"
+  },
+  {
+   "para": "p032",
+   "start": 373,
+   "end": 380,
+   "text": "T‘at‘ik",
+   "entity": "m42"
+  }
+ ],
+ "facts": [
+  {
+   "para": "p003",
+   "subj": "m50",
+   "rel": "schema:location",
+   "obj": "m8"
+  },
+  {
+   "para": "p004",
+   "subj": "m22",
+   "rel": "yago:creator",
+   "obj": "m52"
+  },
+  {
+   "para": "p004",
+   "subj": "m22",
+   "rel": "schema:about",
+   "obj": "m18"
+  },
+  {
+   "para": "p004",
+   "subj": "m24",
+   "rel": "yago:neighbor",
+   "obj": "m1"
+  },
+  {
+   "para": "p004",
+   "subj": "m24",
+   "rel": "yago:neighbor",
+   "obj": "m13"
+  },
+  {
+   "para": "p004",
+   "subj": "m24",
+   "rel": "yago:neighbor",
+   "obj": "m27"
+  },
+  {
+   "para": "p004",
+   "subj": "m1",
+   "rel": "yago:neighbor",
+   "obj": "m13"
+  },
+  {
+   "para": "p004",
+   "subj": "m44",
+   "rel": "ex:captiveIn",
+   "obj": "m27"
+  },
+  {
+   "para": "p004",
+   "subj": "m44",
+   "rel": "ex:opposed",
+   "obj": "m39"
+  },
+  {
+   "para": "p004",
+   "subj": "m51",
+   "rel": "schema:worksFor",
+   "obj": "m44"
+  },
+  {
+   "para": "p004",
+   "subj": "m44",
+   "rel": "schema:location",
+   "obj": "m48"
+  },
+  {
+   "para": "p004",
+   "subj": "m44",
+   "rel": "schema:location",
+   "obj": "m17"
+  },
+  {
+   "para": "p004",
+   "subj": "m43",
+   "rel": "ex:captiveIn",
+   "obj": "m27"
+  },
+  {
+   "para": "p004",
+   "subj": "m43",
+   "rel": "ex:opposed",
+   "obj": "m39"
+  },
+  {
+   "para": "p004",
+   "subj": "m51",
+   "rel": "schema:worksFor",
+   "obj": "m43"
+  },
+  {
+   "para": "p004",
+   "subj": "m51",
+   "rel": "schema:location",
+   "obj": "m48"
+  },
+  {
+   "para": "p004",
+   "subj": "m51",
+   "rel": "schema:location",
+   "obj": "m17"
+  },
+  {
+   "para": "p004",
+   "subj": "m43",
+   "rel": "schema:location",
+   "obj": "m48"
+  },
+  {
+   "para": "p004",
+   "subj": "m43",
+   "rel": "schema:location",
+   "obj": "m17"
+  },
+  {
+   "para": "p004",
+   "subj": "m48",
+   "rel": "schema:location",
+   "obj": "m17"
+  },
+  {
+   "para": "p005",
+   "subj": "m25",
+   "rel": "schema:location",
+   "obj": "m15"
+  },
+  {
+   "para": "p005",
+   "subj": "m14",
+   "rel": "yago:creator",
+   "obj": "m25"
+  },
+  {
+   "para": "p013",
+   "subj": "m33",
+   "rel": "yago:partOf",
+   "obj": "m16"
+  },
+  {
+   "para": "p013",
+   "subj": "m33",
+   "rel": "schema:location",
+   "obj": "m54"
+  },
+  {
+   "para": "p013",
+   "subj": "m33",
+   "rel": "yago:hasFather",
+   "obj": "m6"
+  },
+  {
+   "para": "p013",
+   "subj": "m32",
+   "rel": "schema:location",
+   "obj": "m54"
+  },
+  {
+   "para": "p013",
+   "subj": "m32",
+   "rel": "yago:hasFather",
+   "obj": "m6"
+  },
+  {
+   "para": "p013",
+   "subj": "m51",
+   "rel": "yago:influencedBy",
+   "obj": "m32"
+  },
+  {
+   "para": "p013",
+   "subj": "m32",
+   "rel": "ex:relativeOf",
+   "obj": "m23"
+  },
+  {
+   "para": "p013",
+   "subj": "m32",
+   "rel": "schema:location",
+   "obj": "m48"
+  },
+  {
+   "para": "p013",
+   "subj": "m11",
+   "rel": "yago:participant",
+   "obj": "m32"
+  },
+  {
+   "para": "p013",
+   "subj": "m32",
+   "rel": "schema:location",
+   "obj": "m5"
+  },
+  {
+   "para": "p013",
+   "subj": "m32",
+   "rel": "schema:location",
+   "obj": "m2"
+  },
+  {
+   "para": "p013",
+   "subj": "m51",
+   "rel": "schema:location",
+   "obj": "m48"
+  },
+  {
+   "para": "p013",
+   "subj": "m5",
+   "rel": "yago:partOf",
+   "obj": "m2"
+  },
+  {
+   "para": "p018",
+   "subj": "m39",
+   "rel": "ex:opposed",
+   "obj": "m28"
+  },
+  {
+   "para": "p018",
+   "subj": "m49",
+   "rel": "ex:opposed",
+   "obj": "m29"
+  },
+  {
+   "para": "p018",
+   "subj": "m36",
+   "rel": "ex:opposed",
+   "obj": "m29"
+  },
+  {
+   "para": "p018",
+   "subj": "m20",
+   "rel": "yago:follows",
+   "obj": "m29"
+  },
+  {
+   "para": "p018",
+   "subj": "m41",
+   "rel": "yago:neighbor",
+   "obj": "m21"
+  },
+  {
+   "para": "p024",
+   "subj": "m44",
+   "rel": "ex:captiveIn",
+   "obj": "m27"
+  },
+  {
+   "para": "p024",
+   "subj": "m46",
+   "rel": "ex:captiveIn",
+   "obj": "m27"
+  },
+  {
+   "para": "p024",
+   "subj": "m4",
+   "rel": "ex:captiveIn",
+   "obj": "m27"
+  },
+  {
+   "para": "p024",
+   "subj": "m26",
+   "rel": "ex:captiveIn",
+   "obj": "m27"
+  },
+  {
+   "para": "p024",
+   "subj": "m12",
+   "rel": "ex:captiveIn",
+   "obj": "m27"
+  },
+  {
+   "para": "p024",
+   "subj": "m40",
+   "rel": "yago:follows",
+   "obj": "m27"
+  },
+  {
+   "para": "p024",
+   "subj": "m44",
+   "rel": "ex:relativeOf",
+   "obj": "m46"
+  },
+  {
+   "para": "p024",
+   "subj": "m44",
+   "rel": "ex:relativeOf",
+   "obj": "m4"
+  },
+  {
+   "para": "p024",
+   "subj": "m47",
+   "rel": "ex:opposed",
+   "obj": "m44"
+  },
+  {
+   "para": "p024",
+   "subj": "m44",
+   "rel": "ex:captiveIn",
+   "obj": "m40"
+  },
+  {
+   "para": "p024",
+   "subj": "m46",
+   "rel": "ex:relativeOf",
+   "obj": "m4"
+  },
+  {
+   "para": "p024",
+   "subj": "m46",
+   "rel": "ex:relativeOf",
+   "obj": "m12"
+  },
+  {
+   "para": "p024",
+   "subj": "m46",
+   "rel": "ex:captiveIn",
+   "obj": "m40"
+  },
+  {
+   "para": "p024",
+   "subj": "m4",
+   "rel": "ex:relativeOf",
+   "obj": "m12"
+  },
+  {
+   "para": "p024",
+   "subj": "m47",
+   "rel": "ex:opposed",
+   "obj": "m4"
+  },
+  {
+   "para": "p024",
+   "subj": "m4",
+   "rel": "ex:captiveIn",
+   "obj": "m40"
+  },
+  {
+   "para": "p024",
+   "subj": "m12",
+   "rel": "schema:location",
+   "obj": "m10"
+  },
+  {
+   "para": "p024",
+   "subj": "m47",
+   "rel": "ex:opposed",
+   "obj": "m12"
+  },
+  {
+   "para": "p024",
+   "subj": "m12",
+   "rel": "ex:captiveIn",
+   "obj": "m40"
+  },
+  {
+   "para": "p024",
+   "subj": "m47",
+   "rel": "schema:location",
+   "obj": "m40"
+  },
+  {
+   "para": "p024",
+   "subj": "m51",
+   "rel": "ex:relativeOf",
+   "obj": "m43"
+  },
+  {
+   "para": "p025",
+   "subj": "m9",
+   "rel": "schema:location",
+   "obj": "m19"
+  },
+  {
+   "para": "p025",
+   "subj": "m9",
+   "rel": "ex:captiveIn",
+   "obj": "m34"
+  },
+  {
+   "para": "p032",
+   "subj": "m42",
+   "rel": "schema:deathPlace",
+   "obj": "m7"
+  },
+  {
+   "para": "p032",
+   "subj": "m42",
+   "rel": "schema:location",
+   "obj": "m10"
+  },
+  {
+   "para": "p032",
+   "subj": "m53",
+   "rel": "ex:captiveIn",
+   "obj": "m27"
+  }
+ ]
+}

@@ -1,0 +1,492 @@
+{
+ "yago:creator": {
+  "gloss": "the object wrote or made the subject (a work)",
+  "domain": [
+   "schema:CreativeWork",
+   "schema:Event",
+   "schema:Organization",
+   "schema:Place",
+   "schema:Product",
+   "yago:FictionalEntity"
+  ],
+  "range": [
+   "schema:Organization",
+   "schema:Person"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P112",
+   "wdt:P170",
+   "wdt:P50"
+  ],
+  "source": "yago"
+ },
+ "schema:location": {
+  "gloss": "the subject lived, was based or lies in the place (also 'X of Place' and a place inside a larger place)",
+  "domain": [
+   "schema:CreativeWork",
+   "schema:Event",
+   "schema:Organization",
+   "schema:Person",
+   "schema:Place",
+   "schema:Taxon",
+   "yago:FictionalEntity"
+  ],
+  "range": [
+   "schema:Place"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P131",
+   "wdt:P17",
+   "wdt:P183",
+   "wdt:P276",
+   "wdt:P30",
+   "wdt:P361",
+   "wdt:P4552",
+   "wdt:P463",
+   "wdt:P551",
+   "wdt:P706",
+   "wdt:P9714"
+  ],
+  "source": "yago"
+ },
+ "schema:startDate": {
+  "gloss": "the subject began on/in the date",
+  "domain": [
+   "schema:CreativeWork",
+   "schema:Event",
+   "schema:Organization",
+   "schema:Place",
+   "schema:Product"
+  ],
+  "range": [
+   "xsd:date",
+   "xsd:dateTime",
+   "xsd:gYear",
+   "xsd:gYearMonth"
+  ],
+  "max_count": 1,
+  "wikidata": [
+   "wdt:P571",
+   "wdt:P580"
+  ],
+  "source": "yago"
+ },
+ "schema:endDate": {
+  "gloss": "the subject ended on/in the date",
+  "domain": [
+   "schema:CreativeWork",
+   "schema:Event",
+   "schema:Organization",
+   "schema:Place",
+   "schema:Product"
+  ],
+  "range": [
+   "xsd:date",
+   "xsd:dateTime",
+   "xsd:gYear",
+   "xsd:gYearMonth"
+  ],
+  "max_count": 1,
+  "wikidata": [
+   "wdt:P576",
+   "wdt:P582"
+  ],
+  "source": "yago"
+ },
+ "schema:about": {
+  "gloss": "the subject (a work) is about the object",
+  "domain": [
+   "schema:CreativeWork",
+   "schema:Event",
+   "schema:Organization",
+   "schema:Product"
+  ],
+  "range": [
+   "schema:Thing"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P921"
+  ],
+  "source": "yago"
+ },
+ "yago:beliefSystem": {
+  "gloss": "the subject followed the religion or belief system",
+  "domain": [
+   "schema:CreativeWork",
+   "schema:Event",
+   "schema:Organization",
+   "schema:Person",
+   "yago:FictionalEntity",
+   "yago:HumanMadeGeographicalEntity"
+  ],
+  "range": [
+   "yago:BeliefSystem"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P1142",
+   "wdt:P140"
+  ],
+  "source": "yago"
+ },
+ "yago:influencedBy": {
+  "gloss": "the subject was influenced by the object",
+  "domain": [
+   "schema:CreativeWork",
+   "schema:Event",
+   "schema:Organization",
+   "schema:Person",
+   "schema:Product"
+  ],
+  "range": [
+   "schema:Thing"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P737",
+   "wdt:P941"
+  ],
+  "source": "yago"
+ },
+ "yago:leader": {
+  "gloss": "the object led the subject (an event, group or state)",
+  "domain": [
+   "schema:Event",
+   "schema:Organization"
+  ],
+  "range": [
+   "schema:Organization",
+   "schema:Person"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P1037",
+   "wdt:P1075",
+   "wdt:P168",
+   "wdt:P169",
+   "wdt:P35",
+   "wdt:P6"
+  ],
+  "source": "yago"
+ },
+ "yago:winner": {
+  "gloss": "the object won the subject (a battle, war, contest)",
+  "domain": [
+   "schema:Event"
+  ],
+  "range": [
+   "schema:Organization",
+   "schema:Person"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P1346"
+  ],
+  "source": "yago"
+ },
+ "yago:participant": {
+  "gloss": "the object took part in the subject (an event)",
+  "domain": [
+   "schema:Event"
+  ],
+  "range": [
+   "schema:Organization",
+   "schema:Person"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P1923",
+   "wdt:P710"
+  ],
+  "source": "yago"
+ },
+ "yago:hasCause": {
+  "gloss": "the subject was caused by the object",
+  "domain": [
+   "schema:CreativeWork",
+   "schema:Event",
+   "schema:MedicalCondition"
+  ],
+  "range": [
+   "schema:Thing"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P828"
+  ],
+  "source": "yago"
+ },
+ "yago:neighbor": {
+  "gloss": "the two places border each other",
+  "domain": [
+   "schema:Place"
+  ],
+  "range": [
+   "schema:Place"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P206",
+   "wdt:P47"
+  ],
+  "source": "yago"
+ },
+ "yago:studentOf": {
+  "gloss": "the subject studied under the object",
+  "domain": [
+   "schema:Person"
+  ],
+  "range": [
+   "schema:Person"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P1066"
+  ],
+  "source": "yago"
+ },
+ "schema:worksFor": {
+  "gloss": "the subject served or worked for the object (a ruler, state, army, church)",
+  "domain": [
+   "schema:Person"
+  ],
+  "range": [
+   "schema:Organization",
+   "schema:Person"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P108"
+  ],
+  "source": "yago"
+ },
+ "schema:birthDate": {
+  "gloss": "the subject was born on/in the date",
+  "domain": [
+   "schema:Person"
+  ],
+  "range": [
+   "xsd:date",
+   "xsd:dateTime",
+   "xsd:gYear",
+   "xsd:gYearMonth"
+  ],
+  "max_count": 1,
+  "wikidata": [
+   "wdt:P569"
+  ],
+  "source": "yago"
+ },
+ "schema:birthPlace": {
+  "gloss": "the subject was born in the object",
+  "domain": [
+   "schema:Person"
+  ],
+  "range": [
+   "schema:Place"
+  ],
+  "max_count": 1,
+  "wikidata": [
+   "wdt:P19"
+  ],
+  "source": "yago"
+ },
+ "yago:hasMother": {
+  "gloss": "the object is the mother of the subject",
+  "domain": [
+   "schema:Person"
+  ],
+  "range": [
+   "schema:Person"
+  ],
+  "max_count": 2,
+  "wikidata": [
+   "wdt:P25"
+  ],
+  "source": "yago"
+ },
+ "yago:hasFather": {
+  "gloss": "the object is the father of the subject",
+  "domain": [
+   "schema:Person"
+  ],
+  "range": [
+   "schema:Person"
+  ],
+  "max_count": 2,
+  "wikidata": [
+   "wdt:P22"
+  ],
+  "source": "yago"
+ },
+ "schema:deathDate": {
+  "gloss": "the subject died on/in the date",
+  "domain": [
+   "schema:Person"
+  ],
+  "range": [
+   "xsd:date",
+   "xsd:dateTime",
+   "xsd:gYear",
+   "xsd:gYearMonth"
+  ],
+  "max_count": 1,
+  "wikidata": [
+   "wdt:P570"
+  ],
+  "source": "yago"
+ },
+ "schema:deathPlace": {
+  "gloss": "the subject died in the object",
+  "domain": [
+   "schema:Person"
+  ],
+  "range": [
+   "schema:Place"
+  ],
+  "max_count": 1,
+  "wikidata": [
+   "wdt:P20"
+  ],
+  "source": "yago"
+ },
+ "yago:burialPlace": {
+  "gloss": "the subject was buried in the object",
+  "domain": [
+   "schema:Person"
+  ],
+  "range": [
+   "schema:Place"
+  ],
+  "max_count": 1,
+  "wikidata": [
+   "wdt:P119"
+  ],
+  "source": "yago"
+ },
+ "yago:floruit": {
+  "gloss": "the subject was active at the date",
+  "domain": [
+   "schema:Organization",
+   "schema:Person"
+  ],
+  "range": [
+   "xsd:date",
+   "xsd:dateTime",
+   "xsd:gYear",
+   "xsd:gYearMonth"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P1317"
+  ],
+  "source": "yago"
+ },
+ "schema:spouse": {
+  "gloss": "subject and object are married",
+  "domain": [
+   "schema:Person",
+   "yago:FictionalEntity"
+  ],
+  "range": [
+   "schema:Person",
+   "yago:FictionalEntity"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P26"
+  ],
+  "source": "yago"
+ },
+ "schema:memberOf": {
+  "gloss": "the subject belonged to the group, family, dynasty or institution",
+  "domain": [
+   "schema:Organization",
+   "schema:Person"
+  ],
+  "range": [
+   "schema:Organization"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P114",
+   "wdt:P463"
+  ],
+  "source": "yago"
+ },
+ "yago:partOf": {
+  "gloss": "the subject is part of the object",
+  "domain": [
+   "schema:Thing"
+  ],
+  "range": [
+   "schema:Thing"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P361"
+  ],
+  "source": "yago"
+ },
+ "yago:follows": {
+  "gloss": "the subject came after (succeeded) the object",
+  "domain": [
+   "schema:Thing"
+  ],
+  "range": [
+   "schema:Thing"
+  ],
+  "max_count": null,
+  "wikidata": [
+   "wdt:P1365",
+   "wdt:P155"
+  ],
+  "source": "yago"
+ },
+ "ex:relativeOf": {
+  "gloss": "subject and object are kin other than parent or spouse (brother, nephew, cousin, in-law)",
+  "domain": [
+   "schema:Person"
+  ],
+  "range": [
+   "schema:Person"
+  ],
+  "max_count": null,
+  "wikidata": [],
+  "source": "extension",
+  "comment": "YAGO has only hasFather, hasMother and spouse"
+ },
+ "ex:captiveIn": {
+  "gloss": "the subject was taken prisoner by, deported to or held captive in the object",
+  "domain": [
+   "schema:Person",
+   "schema:Organization"
+  ],
+  "range": [
+   "schema:Place",
+   "schema:Organization"
+  ],
+  "max_count": null,
+  "wikidata": [],
+  "source": "extension",
+  "comment": "captivity and deportation; schema:location would lose the coercion"
+ },
+ "ex:opposed": {
+  "gloss": "the subject fought, rebelled against or persecuted the object",
+  "domain": [
+   "schema:Person",
+   "schema:Organization"
+  ],
+  "range": [
+   "schema:Person",
+   "schema:Organization"
+  ],
+  "max_count": null,
+  "wikidata": [],
+  "source": "extension",
+  "comment": "conflict between persons, groups and states; YAGO only has Event participants"
+ }
+}

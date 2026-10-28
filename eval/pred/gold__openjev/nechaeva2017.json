@@ -1,0 +1,1076 @@
+{
+ "doc_id": "nechaeva2017",
+ "entities": [
+  {
+   "eid": "m0",
+   "label": "Agathias"
+  },
+  {
+   "eid": "m1",
+   "label": "Armenia"
+  },
+  {
+   "eid": "m2",
+   "label": "Arzanene"
+  },
+  {
+   "eid": "m3",
+   "label": "Buzes"
+  },
+  {
+   "eid": "m4",
+   "label": "Callinicum"
+  },
+  {
+   "eid": "m5",
+   "label": "Chosroes"
+  },
+  {
+   "eid": "m6",
+   "label": "Church of the East"
+  },
+  {
+   "eid": "m7",
+   "label": "Cilicia"
+  },
+  {
+   "eid": "m8",
+   "label": "Constantinople"
+  },
+  {
+   "eid": "m9",
+   "label": "Dagaris"
+  },
+  {
+   "eid": "m10",
+   "label": "Damascius"
+  },
+  {
+   "eid": "m11",
+   "label": "Diogenes"
+  },
+  {
+   "eid": "m12",
+   "label": "Domitziolus"
+  },
+  {
+   "eid": "m13",
+   "label": "Domnentiolus"
+  },
+  {
+   "eid": "m14",
+   "label": "Dorotheus"
+  },
+  {
+   "eid": "m15",
+   "label": "Eulamius"
+  },
+  {
+   "eid": "m16",
+   "label": "Gaza"
+  },
+  {
+   "eid": "m17",
+   "label": "Grigor"
+  },
+  {
+   "eid": "m18",
+   "label": "Hermes"
+  },
+  {
+   "eid": "m19",
+   "label": "Hormizd"
+  },
+  {
+   "eid": "m20",
+   "label": "Huns"
+  },
+  {
+   "eid": "m21",
+   "label": "Isidore"
+  },
+  {
+   "eid": "m22",
+   "label": "Izdegerd"
+  },
+  {
+   "eid": "m23",
+   "label": "Justinian"
+  },
+  {
+   "eid": "m24",
+   "label": "Lydia"
+  },
+  {
+   "eid": "m25",
+   "label": "Mar Grigor"
+  },
+  {
+   "eid": "m26",
+   "label": "Martyrdom"
+  },
+  {
+   "eid": "m27",
+   "label": "Martyrium"
+  },
+  {
+   "eid": "m28",
+   "label": "Persarmenia"
+  },
+  {
+   "eid": "m29",
+   "label": "Persia"
+  },
+  {
+   "eid": "m30",
+   "label": "Persians"
+  },
+  {
+   "eid": "m31",
+   "label": "Phoenicia"
+  },
+  {
+   "eid": "m32",
+   "label": "Phrygia"
+  },
+  {
+   "eid": "m33",
+   "label": "Plato"
+  },
+  {
+   "eid": "m34",
+   "label": "Priscian"
+  },
+  {
+   "eid": "m35",
+   "label": "Procopius"
+  },
+  {
+   "eid": "m36",
+   "label": "Pseudo-Zacharias"
+  },
+  {
+   "eid": "m37",
+   "label": "Pīrān-Gušnasp"
+  },
+  {
+   "eid": "m38",
+   "label": "Roman Empire"
+  },
+  {
+   "eid": "m39",
+   "label": "Romans"
+  },
+  {
+   "eid": "m40",
+   "label": "Simplicius"
+  },
+  {
+   "eid": "m41",
+   "label": "Sittas"
+  },
+  {
+   "eid": "m42",
+   "label": "Syria"
+  },
+  {
+   "eid": "m43",
+   "label": "Zabergān"
+  }
+ ],
+ "mentions": [
+  {
+   "para": "p004",
+   "start": 13,
+   "end": 21,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p004",
+   "start": 55,
+   "end": 64,
+   "text": "Damascius",
+   "entity": "m10"
+  },
+  {
+   "para": "p004",
+   "start": 68,
+   "end": 73,
+   "text": "Syria",
+   "entity": "m42"
+  },
+  {
+   "para": "p004",
+   "start": 75,
+   "end": 85,
+   "text": "Simplicius",
+   "entity": "m40"
+  },
+  {
+   "para": "p004",
+   "start": 89,
+   "end": 96,
+   "text": "Cilicia",
+   "entity": "m7"
+  },
+  {
+   "para": "p004",
+   "start": 98,
+   "end": 106,
+   "text": "Eulamius",
+   "entity": "m15"
+  },
+  {
+   "para": "p004",
+   "start": 110,
+   "end": 117,
+   "text": "Phrygia",
+   "entity": "m32"
+  },
+  {
+   "para": "p004",
+   "start": 119,
+   "end": 127,
+   "text": "Priscian",
+   "entity": "m34"
+  },
+  {
+   "para": "p004",
+   "start": 131,
+   "end": 136,
+   "text": "Lydia",
+   "entity": "m24"
+  },
+  {
+   "para": "p004",
+   "start": 138,
+   "end": 144,
+   "text": "Hermes",
+   "entity": "m18"
+  },
+  {
+   "para": "p004",
+   "start": 149,
+   "end": 157,
+   "text": "Diogenes",
+   "entity": "m11"
+  },
+  {
+   "para": "p004",
+   "start": 161,
+   "end": 170,
+   "text": "Phoenicia",
+   "entity": "m31"
+  },
+  {
+   "para": "p004",
+   "start": 176,
+   "end": 183,
+   "text": "Isidore",
+   "entity": "m21"
+  },
+  {
+   "para": "p004",
+   "start": 187,
+   "end": 191,
+   "text": "Gaza",
+   "entity": "m16"
+  },
+  {
+   "para": "p004",
+   "start": 201,
+   "end": 207,
+   "text": "Persia",
+   "entity": "m29"
+  },
+  {
+   "para": "p004",
+   "start": 273,
+   "end": 279,
+   "text": "Romans",
+   "entity": "m39"
+  },
+  {
+   "para": "p004",
+   "start": 383,
+   "end": 388,
+   "text": "Plato",
+   "entity": "m33"
+  },
+  {
+   "para": "p004",
+   "start": 572,
+   "end": 578,
+   "text": "Persia",
+   "entity": "m29"
+  },
+  {
+   "para": "p004",
+   "start": 676,
+   "end": 684,
+   "text": "Agathias",
+   "entity": "m0"
+  },
+  {
+   "para": "p013",
+   "start": 137,
+   "end": 148,
+   "text": "Domitziolus",
+   "entity": "m12"
+  },
+  {
+   "para": "p013",
+   "start": 153,
+   "end": 165,
+   "text": "Domnentiolus",
+   "entity": "m13"
+  },
+  {
+   "para": "p013",
+   "start": 199,
+   "end": 204,
+   "text": "Buzes",
+   "entity": "m3"
+  },
+  {
+   "para": "p013",
+   "start": 232,
+   "end": 240,
+   "text": "Persians",
+   "entity": "m30"
+  },
+  {
+   "para": "p013",
+   "start": 260,
+   "end": 270,
+   "text": "Callinicum",
+   "entity": "m4"
+  },
+  {
+   "para": "p013",
+   "start": 329,
+   "end": 337,
+   "text": "Izdegerd",
+   "entity": "m22"
+  },
+  {
+   "para": "p013",
+   "start": 351,
+   "end": 358,
+   "text": "Hormizd",
+   "entity": "m19"
+  },
+  {
+   "para": "p013",
+   "start": 373,
+   "end": 381,
+   "text": "Arzanene",
+   "entity": "m2"
+  },
+  {
+   "para": "p013",
+   "start": 385,
+   "end": 396,
+   "text": "Persarmenia",
+   "entity": "m28"
+  },
+  {
+   "para": "p013",
+   "start": 433,
+   "end": 439,
+   "text": "Romans",
+   "entity": "m39"
+  },
+  {
+   "para": "p013",
+   "start": 462,
+   "end": 478,
+   "text": "Pseudo-Zacharias",
+   "entity": "m36"
+  },
+  {
+   "para": "p013",
+   "start": 531,
+   "end": 542,
+   "text": "Domitziolus",
+   "entity": "m12"
+  },
+  {
+   "para": "p013",
+   "start": 622,
+   "end": 630,
+   "text": "Izdegerd",
+   "entity": "m22"
+  },
+  {
+   "para": "p013",
+   "start": 671,
+   "end": 687,
+   "text": "Pseudo-Zacharias",
+   "entity": "m36"
+  },
+  {
+   "para": "p013",
+   "start": 721,
+   "end": 729,
+   "text": "Izdegerd",
+   "entity": "m22"
+  },
+  {
+   "para": "p014",
+   "start": 45,
+   "end": 54,
+   "text": "Procopius",
+   "entity": "m35"
+  },
+  {
+   "para": "p014",
+   "start": 75,
+   "end": 82,
+   "text": "Dagaris",
+   "entity": "m9"
+  },
+  {
+   "para": "p014",
+   "start": 137,
+   "end": 143,
+   "text": "Sittas",
+   "entity": "m41"
+  },
+  {
+   "para": "p014",
+   "start": 147,
+   "end": 156,
+   "text": "Dorotheus",
+   "entity": "m14"
+  },
+  {
+   "para": "p014",
+   "start": 204,
+   "end": 211,
+   "text": "Armenia",
+   "entity": "m1"
+  },
+  {
+   "para": "p014",
+   "start": 246,
+   "end": 252,
+   "text": "Persia",
+   "entity": "m29"
+  },
+  {
+   "para": "p014",
+   "start": 293,
+   "end": 299,
+   "text": "Romans",
+   "entity": "m39"
+  },
+  {
+   "para": "p014",
+   "start": 344,
+   "end": 352,
+   "text": "Persians",
+   "entity": "m30"
+  },
+  {
+   "para": "p014",
+   "start": 396,
+   "end": 405,
+   "text": "Procopius",
+   "entity": "m35"
+  },
+  {
+   "para": "p014",
+   "start": 433,
+   "end": 440,
+   "text": "Dagaris",
+   "entity": "m9"
+  },
+  {
+   "para": "p014",
+   "start": 522,
+   "end": 526,
+   "text": "Huns",
+   "entity": "m20"
+  },
+  {
+   "para": "p018",
+   "start": 27,
+   "end": 40,
+   "text": "Pīrān-Gušnasp",
+   "entity": "m37"
+  },
+  {
+   "para": "p018",
+   "start": 84,
+   "end": 90,
+   "text": "Grigor",
+   "entity": "m17"
+  },
+  {
+   "para": "p018",
+   "start": 145,
+   "end": 151,
+   "text": "Grigor",
+   "entity": "m17"
+  },
+  {
+   "para": "p018",
+   "start": 269,
+   "end": 275,
+   "text": "Grigor",
+   "entity": "m17"
+  },
+  {
+   "para": "p018",
+   "start": 445,
+   "end": 451,
+   "text": "Grigor",
+   "entity": "m17"
+  },
+  {
+   "para": "p018",
+   "start": 597,
+   "end": 606,
+   "text": "Justinian",
+   "entity": "m23"
+  },
+  {
+   "para": "p018",
+   "start": 666,
+   "end": 672,
+   "text": "Persia",
+   "entity": "m29"
+  },
+  {
+   "para": "p018",
+   "start": 785,
+   "end": 791,
+   "text": "Grigor",
+   "entity": "m17"
+  },
+  {
+   "para": "p018",
+   "start": 804,
+   "end": 810,
+   "text": "Persia",
+   "entity": "m29"
+  },
+  {
+   "para": "p018",
+   "start": 913,
+   "end": 919,
+   "text": "Grigor",
+   "entity": "m17"
+  },
+  {
+   "para": "p018",
+   "start": 927,
+   "end": 939,
+   "text": "Roman Empire",
+   "entity": "m38"
+  },
+  {
+   "para": "p019",
+   "start": 4,
+   "end": 13,
+   "text": "Martyrium",
+   "entity": "m27"
+  },
+  {
+   "para": "p019",
+   "start": 59,
+   "end": 67,
+   "text": "Chosroes",
+   "entity": "m5"
+  },
+  {
+   "para": "p019",
+   "start": 228,
+   "end": 236,
+   "text": "Zabergān",
+   "entity": "m43"
+  },
+  {
+   "para": "p019",
+   "start": 269,
+   "end": 279,
+   "text": "Mar Grigor",
+   "entity": "m25"
+  },
+  {
+   "para": "p019",
+   "start": 389,
+   "end": 395,
+   "text": "Grigor",
+   "entity": "m17"
+  },
+  {
+   "para": "p019",
+   "start": 424,
+   "end": 430,
+   "text": "Persia",
+   "entity": "m29"
+  },
+  {
+   "para": "p019",
+   "start": 521,
+   "end": 530,
+   "text": "Martyrdom",
+   "entity": "m26"
+  },
+  {
+   "para": "p019",
+   "start": 541,
+   "end": 547,
+   "text": "Grigor",
+   "entity": "m17"
+  },
+  {
+   "para": "p019",
+   "start": 598,
+   "end": 616,
+   "text": "Church of the East",
+   "entity": "m6"
+  },
+  {
+   "para": "p019",
+   "start": 669,
+   "end": 683,
+   "text": "Constantinople",
+   "entity": "m8"
+  },
+  {
+   "para": "p019",
+   "start": 729,
+   "end": 738,
+   "text": "Martyrdom",
+   "entity": "m26"
+  },
+  {
+   "para": "p019",
+   "start": 793,
+   "end": 799,
+   "text": "Grigor",
+   "entity": "m17"
+  },
+  {
+   "para": "p019",
+   "start": 888,
+   "end": 896,
+   "text": "Zabergān",
+   "entity": "m43"
+  }
+ ],
+ "facts": [
+  {
+   "para": "p004",
+   "subj": "m40",
+   "rel": "yago:partOf",
+   "obj": "m0"
+  },
+  {
+   "para": "p004",
+   "subj": "m34",
+   "rel": "yago:partOf",
+   "obj": "m0"
+  },
+  {
+   "para": "p004",
+   "subj": "m21",
+   "rel": "yago:partOf",
+   "obj": "m0"
+  },
+  {
+   "para": "p004",
+   "subj": "m10",
+   "rel": "schema:location",
+   "obj": "m42"
+  },
+  {
+   "para": "p004",
+   "subj": "m10",
+   "rel": "schema:location",
+   "obj": "m7"
+  },
+  {
+   "para": "p004",
+   "subj": "m10",
+   "rel": "schema:location",
+   "obj": "m29"
+  },
+  {
+   "para": "p004",
+   "subj": "m40",
+   "rel": "schema:location",
+   "obj": "m42"
+  },
+  {
+   "para": "p004",
+   "subj": "m15",
+   "rel": "schema:location",
+   "obj": "m42"
+  },
+  {
+   "para": "p004",
+   "subj": "m42",
+   "rel": "schema:location",
+   "obj": "m29"
+  },
+  {
+   "para": "p004",
+   "subj": "m40",
+   "rel": "schema:location",
+   "obj": "m7"
+  },
+  {
+   "para": "p004",
+   "subj": "m40",
+   "rel": "schema:location",
+   "obj": "m32"
+  },
+  {
+   "para": "p004",
+   "subj": "m40",
+   "rel": "schema:location",
+   "obj": "m24"
+  },
+  {
+   "para": "p004",
+   "subj": "m40",
+   "rel": "schema:location",
+   "obj": "m16"
+  },
+  {
+   "para": "p004",
+   "subj": "m40",
+   "rel": "schema:location",
+   "obj": "m29"
+  },
+  {
+   "para": "p004",
+   "subj": "m15",
+   "rel": "schema:location",
+   "obj": "m7"
+  },
+  {
+   "para": "p004",
+   "subj": "m34",
+   "rel": "schema:location",
+   "obj": "m7"
+  },
+  {
+   "para": "p004",
+   "subj": "m15",
+   "rel": "schema:location",
+   "obj": "m32"
+  },
+  {
+   "para": "p004",
+   "subj": "m15",
+   "rel": "schema:location",
+   "obj": "m24"
+  },
+  {
+   "para": "p004",
+   "subj": "m15",
+   "rel": "schema:location",
+   "obj": "m16"
+  },
+  {
+   "para": "p004",
+   "subj": "m15",
+   "rel": "schema:location",
+   "obj": "m29"
+  },
+  {
+   "para": "p004",
+   "subj": "m34",
+   "rel": "schema:location",
+   "obj": "m32"
+  },
+  {
+   "para": "p004",
+   "subj": "m18",
+   "rel": "schema:location",
+   "obj": "m32"
+  },
+  {
+   "para": "p004",
+   "subj": "m21",
+   "rel": "schema:location",
+   "obj": "m32"
+  },
+  {
+   "para": "p004",
+   "subj": "m34",
+   "rel": "schema:location",
+   "obj": "m24"
+  },
+  {
+   "para": "p004",
+   "subj": "m34",
+   "rel": "schema:location",
+   "obj": "m31"
+  },
+  {
+   "para": "p004",
+   "subj": "m34",
+   "rel": "schema:location",
+   "obj": "m16"
+  },
+  {
+   "para": "p004",
+   "subj": "m34",
+   "rel": "schema:location",
+   "obj": "m29"
+  },
+  {
+   "para": "p004",
+   "subj": "m18",
+   "rel": "schema:location",
+   "obj": "m24"
+  },
+  {
+   "para": "p004",
+   "subj": "m11",
+   "rel": "schema:location",
+   "obj": "m24"
+  },
+  {
+   "para": "p004",
+   "subj": "m18",
+   "rel": "schema:location",
+   "obj": "m31"
+  },
+  {
+   "para": "p004",
+   "subj": "m18",
+   "rel": "schema:location",
+   "obj": "m16"
+  },
+  {
+   "para": "p004",
+   "subj": "m18",
+   "rel": "schema:location",
+   "obj": "m29"
+  },
+  {
+   "para": "p004",
+   "subj": "m11",
+   "rel": "schema:location",
+   "obj": "m31"
+  },
+  {
+   "para": "p004",
+   "subj": "m11",
+   "rel": "schema:location",
+   "obj": "m29"
+  },
+  {
+   "para": "p004",
+   "subj": "m21",
+   "rel": "schema:location",
+   "obj": "m16"
+  },
+  {
+   "para": "p004",
+   "subj": "m21",
+   "rel": "schema:location",
+   "obj": "m29"
+  },
+  {
+   "para": "p004",
+   "subj": "m16",
+   "rel": "schema:location",
+   "obj": "m29"
+  },
+  {
+   "para": "p013",
+   "subj": "m12",
+   "rel": "ex:relativeOf",
+   "obj": "m3"
+  },
+  {
+   "para": "p013",
+   "subj": "m12",
+   "rel": "ex:captiveIn",
+   "obj": "m30"
+  },
+  {
+   "para": "p013",
+   "subj": "m12",
+   "rel": "ex:captiveIn",
+   "obj": "m4"
+  },
+  {
+   "para": "p013",
+   "subj": "m13",
+   "rel": "ex:relativeOf",
+   "obj": "m3"
+  },
+  {
+   "para": "p013",
+   "subj": "m13",
+   "rel": "ex:captiveIn",
+   "obj": "m30"
+  },
+  {
+   "para": "p013",
+   "subj": "m13",
+   "rel": "ex:captiveIn",
+   "obj": "m4"
+  },
+  {
+   "para": "p013",
+   "subj": "m3",
+   "rel": "ex:captiveIn",
+   "obj": "m30"
+  },
+  {
+   "para": "p013",
+   "subj": "m22",
+   "rel": "ex:relativeOf",
+   "obj": "m19"
+  },
+  {
+   "para": "p013",
+   "subj": "m22",
+   "rel": "schema:location",
+   "obj": "m2"
+  },
+  {
+   "para": "p013",
+   "subj": "m22",
+   "rel": "schema:location",
+   "obj": "m28"
+  },
+  {
+   "para": "p013",
+   "subj": "m22",
+   "rel": "ex:captiveIn",
+   "obj": "m39"
+  },
+  {
+   "para": "p013",
+   "subj": "m19",
+   "rel": "schema:location",
+   "obj": "m2"
+  },
+  {
+   "para": "p013",
+   "subj": "m19",
+   "rel": "schema:location",
+   "obj": "m28"
+  },
+  {
+   "para": "p013",
+   "subj": "m19",
+   "rel": "ex:captiveIn",
+   "obj": "m39"
+  },
+  {
+   "para": "p013",
+   "subj": "m2",
+   "rel": "yago:partOf",
+   "obj": "m28"
+  },
+  {
+   "para": "p014",
+   "subj": "m9",
+   "rel": "schema:worksFor",
+   "obj": "m41"
+  },
+  {
+   "para": "p014",
+   "subj": "m9",
+   "rel": "schema:worksFor",
+   "obj": "m14"
+  },
+  {
+   "para": "p014",
+   "subj": "m9",
+   "rel": "ex:captiveIn",
+   "obj": "m1"
+  },
+  {
+   "para": "p014",
+   "subj": "m9",
+   "rel": "ex:captiveIn",
+   "obj": "m29"
+  },
+  {
+   "para": "p014",
+   "subj": "m9",
+   "rel": "ex:opposed",
+   "obj": "m20"
+  },
+  {
+   "para": "p018",
+   "subj": "m17",
+   "rel": "schema:location",
+   "obj": "m29"
+  },
+  {
+   "para": "p019",
+   "subj": "m27",
+   "rel": "schema:about",
+   "obj": "m5"
+  },
+  {
+   "para": "p019",
+   "subj": "m27",
+   "rel": "schema:about",
+   "obj": "m43"
+  },
+  {
+   "para": "p019",
+   "subj": "m27",
+   "rel": "schema:about",
+   "obj": "m25"
+  },
+  {
+   "para": "p019",
+   "subj": "m43",
+   "rel": "schema:worksFor",
+   "obj": "m5"
+  },
+  {
+   "para": "p019",
+   "subj": "m43",
+   "rel": "ex:opposed",
+   "obj": "m25"
+  },
+  {
+   "para": "p019",
+   "subj": "m17",
+   "rel": "schema:location",
+   "obj": "m29"
+  },
+  {
+   "para": "p019",
+   "subj": "m26",
+   "rel": "schema:about",
+   "obj": "m17"
+  },
+  {
+   "para": "p019",
+   "subj": "m17",
+   "rel": "schema:memberOf",
+   "obj": "m6"
+  },
+  {
+   "para": "p019",
+   "subj": "m17",
+   "rel": "ex:captiveIn",
+   "obj": "m8"
+  },
+  {
+   "para": "p019",
+   "subj": "m26",
+   "rel": "schema:about",
+   "obj": "m17"
+  }
+ ]
+}

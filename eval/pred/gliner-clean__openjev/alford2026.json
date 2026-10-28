@@ -1,0 +1,5515 @@
+{
+ "doc_id": "alford2026",
+ "entities": [
+  {
+   "eid": "m0",
+   "label": "AD 450–1 rebellion"
+  },
+  {
+   "eid": "m1",
+   "label": "AD 462–6 campaign"
+  },
+  {
+   "eid": "m2",
+   "label": "Abraham"
+  },
+  {
+   "eid": "m3",
+   "label": "Abraham of Zenakk"
+  },
+  {
+   "eid": "m4",
+   "label": "Alasdair Grant"
+  },
+  {
+   "eid": "m5",
+   "label": "Albanian king"
+  },
+  {
+   "eid": "m6",
+   "label": "Alborz watershed"
+  },
+  {
+   "eid": "m7",
+   "label": "Anania"
+  },
+  {
+   "eid": "m8",
+   "label": "Anania Širakac‘i"
+  },
+  {
+   "eid": "m9",
+   "label": "Angł"
+  },
+  {
+   "eid": "m10",
+   "label": "Arcruni clan"
+  },
+  {
+   "eid": "m11",
+   "label": "Arcruni family"
+  },
+  {
+   "eid": "m12",
+   "label": "Armenia"
+  },
+  {
+   "eid": "m13",
+   "label": "Armenian Arsacid royal family"
+  },
+  {
+   "eid": "m14",
+   "label": "Armenian Christians"
+  },
+  {
+   "eid": "m15",
+   "label": "Armenian Church"
+  },
+  {
+   "eid": "m16",
+   "label": "Armenian and Syriac sources"
+  },
+  {
+   "eid": "m17",
+   "label": "Armenian church"
+  },
+  {
+   "eid": "m18",
+   "label": "Armenian clergy"
+  },
+  {
+   "eid": "m19",
+   "label": "Armenian clerics"
+  },
+  {
+   "eid": "m20",
+   "label": "Armenian community"
+  },
+  {
+   "eid": "m21",
+   "label": "Armenian diplomacy"
+  },
+  {
+   "eid": "m22",
+   "label": "Armenian elite"
+  },
+  {
+   "eid": "m23",
+   "label": "Armenian kings"
+  },
+  {
+   "eid": "m24",
+   "label": "Armenian lords"
+  },
+  {
+   "eid": "m25",
+   "label": "Armenian nobility"
+  },
+  {
+   "eid": "m26",
+   "label": "Armenian noblemen"
+  },
+  {
+   "eid": "m27",
+   "label": "Armenian nobles"
+  },
+  {
+   "eid": "m28",
+   "label": "Armenian priests"
+  },
+  {
+   "eid": "m29",
+   "label": "Armenian rebellion"
+  },
+  {
+   "eid": "m30",
+   "label": "Armenian sources"
+  },
+  {
+   "eid": "m31",
+   "label": "Armenian troops"
+  },
+  {
+   "eid": "m32",
+   "label": "Armenian-Sasanian peace negotiations"
+  },
+  {
+   "eid": "m33",
+   "label": "Armenians"
+  },
+  {
+   "eid": "m34",
+   "label": "Artak Paluni"
+  },
+  {
+   "eid": "m35",
+   "label": "Artašēs"
+  },
+  {
+   "eid": "m36",
+   "label": "Aršak II"
+  },
+  {
+   "eid": "m37",
+   "label": "Aršamunik"
+  },
+  {
+   "eid": "m38",
+   "label": "Aršawir Kamsarakan"
+  },
+  {
+   "eid": "m39",
+   "label": "Asorestan"
+  },
+  {
+   "eid": "m40",
+   "label": "Asorestan’s Christians"
+  },
+  {
+   "eid": "m41",
+   "label": "Atom Gnuni"
+  },
+  {
+   "eid": "m42",
+   "label": "Awarayr"
+  },
+  {
+   "eid": "m43",
+   "label": "Ayrarat"
+  },
+  {
+   "eid": "m44",
+   "label": "Ašot Kamsarakan"
+  },
+  {
+   "eid": "m45",
+   "label": "Aštišat"
+  },
+  {
+   "eid": "m46",
+   "label": "Ašuša"
+  },
+  {
+   "eid": "m47",
+   "label": "Aṙnak Amatuni"
+  },
+  {
+   "eid": "m48",
+   "label": "Babgēn"
+  },
+  {
+   "eid": "m49",
+   "label": "Babgēn Siwni"
+  },
+  {
+   "eid": "m50",
+   "label": "Babik Siwni"
+  },
+  {
+   "eid": "m51",
+   "label": "Bakur"
+  },
+  {
+   "eid": "m52",
+   "label": "Balkh"
+  },
+  {
+   "eid": "m53",
+   "label": "Battle of Akesga"
+  },
+  {
+   "eid": "m54",
+   "label": "Battle of Awarayr"
+  },
+  {
+   "eid": "m55",
+   "label": "Bishapur"
+  },
+  {
+   "eid": "m56",
+   "label": "Bishop T‘at‘ik of Basean"
+  },
+  {
+   "eid": "m57",
+   "label": "Border Defence"
+  },
+  {
+   "eid": "m58",
+   "label": "Byzantine accounts"
+  },
+  {
+   "eid": "m59",
+   "label": "Bznuni"
+  },
+  {
+   "eid": "m60",
+   "label": "Captives"
+  },
+  {
+   "eid": "m61",
+   "label": "Caspian Sea"
+  },
+  {
+   "eid": "m62",
+   "label": "Castle of Oblivion"
+  },
+  {
+   "eid": "m63",
+   "label": "Catholicos Yovsēp"
+  },
+  {
+   "eid": "m64",
+   "label": "Caucasian Albanian king"
+  },
+  {
+   "eid": "m65",
+   "label": "Caucasus"
+  },
+  {
+   "eid": "m66",
+   "label": "Chalcedon"
+  },
+  {
+   "eid": "m67",
+   "label": "Christian clerics"
+  },
+  {
+   "eid": "m68",
+   "label": "Christian community"
+  },
+  {
+   "eid": "m69",
+   "label": "Christian martyrdom"
+  },
+  {
+   "eid": "m70",
+   "label": "Christian priests"
+  },
+  {
+   "eid": "m71",
+   "label": "Christian rebels"
+  },
+  {
+   "eid": "m72",
+   "label": "Christiane Harzig"
+  },
+  {
+   "eid": "m73",
+   "label": "Constantinople"
+  },
+  {
+   "eid": "m74",
+   "label": "Council of Šahapivan"
+  },
+  {
+   "eid": "m75",
+   "label": "Ctesiphon"
+  },
+  {
+   "eid": "m76",
+   "label": "David Zakarian"
+  },
+  {
+   "eid": "m77",
+   "label": "Dirk Hoerder"
+  },
+  {
+   "eid": "m78",
+   "label": "Domit"
+  },
+  {
+   "eid": "m79",
+   "label": "Domit ̣of the Captivity of Gorgān"
+  },
+  {
+   "eid": "m80",
+   "label": "East Syriac Church"
+  },
+  {
+   "eid": "m81",
+   "label": "Eberhard Sauer"
+  },
+  {
+   "eid": "m82",
+   "label": "Ecclesiastical Histories"
+  },
+  {
+   "eid": "m83",
+   "label": "Egypt"
+  },
+  {
+   "eid": "m84",
+   "label": "Emperor Marcian"
+  },
+  {
+   "eid": "m85",
+   "label": "Ełišē"
+  },
+  {
+   "eid": "m86",
+   "label": "Ełišē’s account"
+  },
+  {
+   "eid": "m87",
+   "label": "Eǰmiacin"
+  },
+  {
+   "eid": "m88",
+   "label": "Fars"
+  },
+  {
+   "eid": "m89",
+   "label": "Gadišo Xorxoṙuni"
+  },
+  {
+   "eid": "m90",
+   "label": "Georgian bdeašx Vazgen"
+  },
+  {
+   "eid": "m91",
+   "label": "Georgian nobleman"
+  },
+  {
+   "eid": "m92",
+   "label": "Georgian sources"
+  },
+  {
+   "eid": "m93",
+   "label": "Gorgān"
+  },
+  {
+   "eid": "m94",
+   "label": "Gorgān Wall’s construction"
+  },
+  {
+   "eid": "m95",
+   "label": "Gugark"
+  },
+  {
+   "eid": "m96",
+   "label": "Hamazasp"
+  },
+  {
+   "eid": "m97",
+   "label": "Hamazasp Mamikonean"
+  },
+  {
+   "eid": "m98",
+   "label": "Hatiṭ ạ of the captivity of Belašpar"
+  },
+  {
+   "eid": "m99",
+   "label": "Hephthalite Huns"
+  },
+  {
+   "eid": "m100",
+   "label": "Herāt"
+  },
+  {
+   "eid": "m101",
+   "label": "Hewsen"
+  },
+  {
+   "eid": "m102",
+   "label": "Hewsen’s clans"
+  },
+  {
+   "eid": "m103",
+   "label": "Hindu Kush"
+  },
+  {
+   "eid": "m104",
+   "label": "History of the Armenians"
+  },
+  {
+   "eid": "m105",
+   "label": "Hrahat"
+  },
+  {
+   "eid": "m106",
+   "label": "Hunnic border"
+  },
+  {
+   "eid": "m107",
+   "label": "Hunnic confederacies"
+  },
+  {
+   "eid": "m108",
+   "label": "Huns"
+  },
+  {
+   "eid": "m109",
+   "label": "Hyrcania"
+  },
+  {
+   "eid": "m110",
+   "label": "II"
+  },
+  {
+   "eid": "m111",
+   "label": "Iberia"
+  },
+  {
+   "eid": "m112",
+   "label": "Islamic world"
+  },
+  {
+   "eid": "m113",
+   "label": "Kamsarakan family"
+  },
+  {
+   "eid": "m114",
+   "label": "Kawād I"
+  },
+  {
+   "eid": "m115",
+   "label": "Kayanian Zoroastrian dynasty"
+  },
+  {
+   "eid": "m116",
+   "label": "Khodadad Rezakhani"
+  },
+  {
+   "eid": "m117",
+   "label": "Khurasan"
+  },
+  {
+   "eid": "m118",
+   "label": "Khuzestan"
+  },
+  {
+   "eid": "m119",
+   "label": "Khuzestan group"
+  },
+  {
+   "eid": "m120",
+   "label": "Kidarite Hun confederacy"
+  },
+  {
+   "eid": "m121",
+   "label": "Kidarite Huns"
+  },
+  {
+   "eid": "m122",
+   "label": "Kidarite campaign"
+  },
+  {
+   "eid": "m123",
+   "label": "Kidarites"
+  },
+  {
+   "eid": "m124",
+   "label": "Mandakuni"
+  },
+  {
+   "eid": "m125",
+   "label": "Mandakuni clan"
+  },
+  {
+   "eid": "m126",
+   "label": "Marw-ī-Rōd"
+  },
+  {
+   "eid": "m127",
+   "label": "Meružan Arcruni"
+  },
+  {
+   "eid": "m128",
+   "label": "Merv"
+  },
+  {
+   "eid": "m129",
+   "label": "Meršapuh"
+  },
+  {
+   "eid": "m130",
+   "label": "Mihrnerseh"
+  },
+  {
+   "eid": "m131",
+   "label": "Nerseh"
+  },
+  {
+   "eid": "m132",
+   "label": "Nerseh Kamsarakan"
+  },
+  {
+   "eid": "m133",
+   "label": "Nersehn"
+  },
+  {
+   "eid": "m134",
+   "label": "Nishapur"
+  },
+  {
+   "eid": "m135",
+   "label": "Parthian era"
+  },
+  {
+   "eid": "m136",
+   "label": "Persia"
+  },
+  {
+   "eid": "m137",
+   "label": "Persian Gulf"
+  },
+  {
+   "eid": "m138",
+   "label": "Persian captive"
+  },
+  {
+   "eid": "m139",
+   "label": "Persian court"
+  },
+  {
+   "eid": "m140",
+   "label": "Persian court culture"
+  },
+  {
+   "eid": "m141",
+   "label": "Persian delegation"
+  },
+  {
+   "eid": "m142",
+   "label": "Persians"
+  },
+  {
+   "eid": "m143",
+   "label": "Philo"
+  },
+  {
+   "eid": "m144",
+   "label": "Placement for military service"
+  },
+  {
+   "eid": "m145",
+   "label": "Priests"
+  },
+  {
+   "eid": "m146",
+   "label": "Pērōz"
+  },
+  {
+   "eid": "m147",
+   "label": "P‘arsman Mandakuni"
+  },
+  {
+   "eid": "m148",
+   "label": "Rebellion"
+  },
+  {
+   "eid": "m149",
+   "label": "Robert Thomson"
+  },
+  {
+   "eid": "m150",
+   "label": "Roman-Persian war"
+  },
+  {
+   "eid": "m151",
+   "label": "Sakastan"
+  },
+  {
+   "eid": "m152",
+   "label": "Saraguri Huns"
+  },
+  {
+   "eid": "m153",
+   "label": "Sasanian"
+  },
+  {
+   "eid": "m154",
+   "label": "Sasanian Empire"
+  },
+  {
+   "eid": "m155",
+   "label": "Sasanian King Yazdgerd II"
+  },
+  {
+   "eid": "m156",
+   "label": "Sasanian King of Kings"
+  },
+  {
+   "eid": "m157",
+   "label": "Sasanian King of Kings Kawād I"
+  },
+  {
+   "eid": "m158",
+   "label": "Sasanian administration"
+  },
+  {
+   "eid": "m159",
+   "label": "Sasanian authorities"
+  },
+  {
+   "eid": "m160",
+   "label": "Sasanian authority"
+  },
+  {
+   "eid": "m161",
+   "label": "Sasanian capture"
+  },
+  {
+   "eid": "m162",
+   "label": "Sasanian court"
+  },
+  {
+   "eid": "m163",
+   "label": "Sasanian forces"
+  },
+  {
+   "eid": "m164",
+   "label": "Sasanian king"
+  },
+  {
+   "eid": "m165",
+   "label": "Sasanian period"
+  },
+  {
+   "eid": "m166",
+   "label": "Sasanian power"
+  },
+  {
+   "eid": "m167",
+   "label": "Sasanian restructuring"
+  },
+  {
+   "eid": "m168",
+   "label": "Sasanian strategy"
+  },
+  {
+   "eid": "m169",
+   "label": "Sasanians"
+  },
+  {
+   "eid": "m170",
+   "label": "Sebeos"
+  },
+  {
+   "eid": "m171",
+   "label": "Shapur Shahbazi"
+  },
+  {
+   "eid": "m172",
+   "label": "Siwni"
+  },
+  {
+   "eid": "m173",
+   "label": "Siwni family"
+  },
+  {
+   "eid": "m174",
+   "label": "Siwni lord"
+  },
+  {
+   "eid": "m175",
+   "label": "Siwnik"
+  },
+  {
+   "eid": "m176",
+   "label": "Smbat"
+  },
+  {
+   "eid": "m177",
+   "label": "Smbat IV Bagratuni"
+  },
+  {
+   "eid": "m178",
+   "label": "Syriac Council of Mar Dadišo"
+  },
+  {
+   "eid": "m179",
+   "label": "Syriac canons"
+  },
+  {
+   "eid": "m180",
+   "label": "Tačat"
+  },
+  {
+   "eid": "m181",
+   "label": "Tačat Arcruni"
+  },
+  {
+   "eid": "m182",
+   "label": "Ter-Minasean"
+  },
+  {
+   "eid": "m183",
+   "label": "The Mathematical Problems"
+  },
+  {
+   "eid": "m184",
+   "label": "Theodosius II"
+  },
+  {
+   "eid": "m185",
+   "label": "Tokharistan"
+  },
+  {
+   "eid": "m186",
+   "label": "T‘at‘ik"
+  },
+  {
+   "eid": "m187",
+   "label": "T‘at‘ik of Basean"
+  },
+  {
+   "eid": "m188",
+   "label": "T‘ovma"
+  },
+  {
+   "eid": "m189",
+   "label": "T‘ovma Arcruni"
+  },
+  {
+   "eid": "m190",
+   "label": "Vahan"
+  },
+  {
+   "eid": "m191",
+   "label": "Vahan Mamikonean"
+  },
+  {
+   "eid": "m192",
+   "label": "Vahan’s paternal uncle"
+  },
+  {
+   "eid": "m193",
+   "label": "Vahan’s rebellion"
+  },
+  {
+   "eid": "m194",
+   "label": "Vardan"
+  },
+  {
+   "eid": "m195",
+   "label": "Vardan Mamikonean"
+  },
+  {
+   "eid": "m196",
+   "label": "Vardan and Vahan"
+  },
+  {
+   "eid": "m197",
+   "label": "Vardgēs"
+  },
+  {
+   "eid": "m198",
+   "label": "Vasak"
+  },
+  {
+   "eid": "m199",
+   "label": "Vasak Siwni"
+  },
+  {
+   "eid": "m200",
+   "label": "Vałaršapat"
+  },
+  {
+   "eid": "m201",
+   "label": "Wahrām V"
+  },
+  {
+   "eid": "m202",
+   "label": "Walāxš"
+  },
+  {
+   "eid": "m203",
+   "label": "West Syria"
+  },
+  {
+   "eid": "m204",
+   "label": "William Wigram"
+  },
+  {
+   "eid": "m205",
+   "label": "Xorēn"
+  },
+  {
+   "eid": "m206",
+   "label": "Xorēn Xorxoṙuni"
+  },
+  {
+   "eid": "m207",
+   "label": "Xorēn of Orkovi"
+  },
+  {
+   "eid": "m208",
+   "label": "Xosrov IV"
+  },
+  {
+   "eid": "m209",
+   "label": "Yazdgerd"
+  },
+  {
+   "eid": "m210",
+   "label": "Yazdgerd I"
+  },
+  {
+   "eid": "m211",
+   "label": "Yazdgerd II"
+  },
+  {
+   "eid": "m212",
+   "label": "Yazdgerd and Pērōz"
+  },
+  {
+   "eid": "m213",
+   "label": "Yazdgerd’s sons"
+  },
+  {
+   "eid": "m214",
+   "label": "Yovsēp"
+  },
+  {
+   "eid": "m215",
+   "label": "Zara Pogossian"
+  },
+  {
+   "eid": "m216",
+   "label": "Zoroastrian Armenian nobles"
+  },
+  {
+   "eid": "m217",
+   "label": "Zoroastrian priests"
+  },
+  {
+   "eid": "m218",
+   "label": "Zuarēn Anjewac‘i"
+  },
+  {
+   "eid": "m219",
+   "label": "anti-Kidarite campaigns"
+  },
+  {
+   "eid": "m220",
+   "label": "berd Anuš"
+  },
+  {
+   "eid": "m221",
+   "label": "early tenth-century Armenian History"
+  },
+  {
+   "eid": "m222",
+   "label": "rebellion of AD 482–4"
+  },
+  {
+   "eid": "m223",
+   "label": "southwestern Armenia"
+  },
+  {
+   "eid": "m224",
+   "label": "southwestern Iran"
+  },
+  {
+   "eid": "m225",
+   "label": "İlhami Cinemre"
+  },
+  {
+   "eid": "m226",
+   "label": "Łazar"
+  },
+  {
+   "eid": "m227",
+   "label": "Łazar P‘arpec‘i"
+  },
+  {
+   "eid": "m228",
+   "label": "Łazar and Ełišē"
+  },
+  {
+   "eid": "m229",
+   "label": "Łazar’s list"
+  },
+  {
+   "eid": "m230",
+   "label": "Łewond"
+  },
+  {
+   "eid": "m231",
+   "label": "Łewondeank"
+  },
+  {
+   "eid": "m232",
+   "label": "Šap‘ul/Šahul"
+  },
+  {
+   "eid": "m233",
+   "label": "Šawasp Arcruni"
+  },
+  {
+   "eid": "m234",
+   "label": "Širak"
+  },
+  {
+   "eid": "m235",
+   "label": "Šušanik"
+  }
+ ],
+ "mentions": [
+  {
+   "para": "p001",
+   "start": 106,
+   "end": 124,
+   "text": "Armenian rebellion",
+   "entity": "m29"
+  },
+  {
+   "para": "p001",
+   "start": 133,
+   "end": 158,
+   "text": "Sasanian King Yazdgerd II",
+   "entity": "m155"
+  },
+  {
+   "para": "p001",
+   "start": 362,
+   "end": 382,
+   "text": "Sasanian authorities",
+   "entity": "m159"
+  },
+  {
+   "para": "p001",
+   "start": 461,
+   "end": 478,
+   "text": "Christian clerics",
+   "entity": "m67"
+  },
+  {
+   "para": "p002",
+   "start": 10,
+   "end": 17,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p002",
+   "start": 19,
+   "end": 28,
+   "text": "Rebellion",
+   "entity": "m148"
+  },
+  {
+   "para": "p002",
+   "start": 30,
+   "end": 45,
+   "text": "Sasanian Empire",
+   "entity": "m154"
+  },
+  {
+   "para": "p002",
+   "start": 47,
+   "end": 55,
+   "text": "Captives",
+   "entity": "m60"
+  },
+  {
+   "para": "p002",
+   "start": 57,
+   "end": 71,
+   "text": "Border Defence",
+   "entity": "m57"
+  },
+  {
+   "para": "p002",
+   "start": 73,
+   "end": 77,
+   "text": "Huns",
+   "entity": "m108"
+  },
+  {
+   "para": "p003",
+   "start": 22,
+   "end": 40,
+   "text": "Armenian rebellion",
+   "entity": "m29"
+  },
+  {
+   "para": "p003",
+   "start": 56,
+   "end": 71,
+   "text": "Sasanian forces",
+   "entity": "m163"
+  },
+  {
+   "para": "p003",
+   "start": 75,
+   "end": 82,
+   "text": "Awarayr",
+   "entity": "m42"
+  },
+  {
+   "para": "p003",
+   "start": 247,
+   "end": 258,
+   "text": "Yazdgerd II",
+   "entity": "m211"
+  },
+  {
+   "para": "p003",
+   "start": 375,
+   "end": 392,
+   "text": "Vardan Mamikonean",
+   "entity": "m195"
+  },
+  {
+   "para": "p003",
+   "start": 443,
+   "end": 458,
+   "text": "Armenian Church",
+   "entity": "m15"
+  },
+  {
+   "para": "p004",
+   "start": 37,
+   "end": 52,
+   "text": "Łazar P‘arpec‘i",
+   "entity": "m227"
+  },
+  {
+   "para": "p004",
+   "start": 92,
+   "end": 116,
+   "text": "History of the Armenians",
+   "entity": "m104"
+  },
+  {
+   "para": "p004",
+   "start": 178,
+   "end": 184,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p004",
+   "start": 193,
+   "end": 201,
+   "text": "Hyrcania",
+   "entity": "m109"
+  },
+  {
+   "para": "p004",
+   "start": 227,
+   "end": 243,
+   "text": "Alborz watershed",
+   "entity": "m6"
+  },
+  {
+   "para": "p004",
+   "start": 262,
+   "end": 273,
+   "text": "Caspian Sea",
+   "entity": "m61"
+  },
+  {
+   "para": "p004",
+   "start": 333,
+   "end": 342,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p004",
+   "start": 377,
+   "end": 394,
+   "text": "Christian priests",
+   "entity": "m70"
+  },
+  {
+   "para": "p004",
+   "start": 396,
+   "end": 401,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p004",
+   "start": 551,
+   "end": 567,
+   "text": "Vahan Mamikonean",
+   "entity": "m191"
+  },
+  {
+   "para": "p004",
+   "start": 649,
+   "end": 658,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p004",
+   "start": 701,
+   "end": 710,
+   "text": "Sasanians",
+   "entity": "m169"
+  },
+  {
+   "para": "p004",
+   "start": 726,
+   "end": 731,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p004",
+   "start": 842,
+   "end": 852,
+   "text": "Vałaršapat",
+   "entity": "m200"
+  },
+  {
+   "para": "p004",
+   "start": 861,
+   "end": 869,
+   "text": "Eǰmiacin",
+   "entity": "m87"
+  },
+  {
+   "para": "p004",
+   "start": 874,
+   "end": 879,
+   "text": "Vahan",
+   "entity": "m190"
+  },
+  {
+   "para": "p005",
+   "start": 36,
+   "end": 54,
+   "text": "AD 450–1 rebellion",
+   "entity": "m0"
+  },
+  {
+   "para": "p005",
+   "start": 56,
+   "end": 61,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p005",
+   "start": 97,
+   "end": 103,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p005",
+   "start": 188,
+   "end": 193,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p005",
+   "start": 324,
+   "end": 338,
+   "text": "Robert Thomson",
+   "entity": "m149"
+  },
+  {
+   "para": "p005",
+   "start": 393,
+   "end": 398,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p005",
+   "start": 514,
+   "end": 519,
+   "text": "Philo",
+   "entity": "m143"
+  },
+  {
+   "para": "p005",
+   "start": 558,
+   "end": 582,
+   "text": "Ecclesiastical Histories",
+   "entity": "m82"
+  },
+  {
+   "para": "p005",
+   "start": 624,
+   "end": 642,
+   "text": "Armenian community",
+   "entity": "m20"
+  },
+  {
+   "para": "p005",
+   "start": 724,
+   "end": 745,
+   "text": "Persian court culture",
+   "entity": "m140"
+  },
+  {
+   "para": "p006",
+   "start": 164,
+   "end": 178,
+   "text": "Arcruni family",
+   "entity": "m11"
+  },
+  {
+   "para": "p006",
+   "start": 181,
+   "end": 186,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p006",
+   "start": 263,
+   "end": 268,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p006",
+   "start": 271,
+   "end": 286,
+   "text": "Meružan Arcruni",
+   "entity": "m127"
+  },
+  {
+   "para": "p006",
+   "start": 288,
+   "end": 294,
+   "text": "Nerseh",
+   "entity": "m131"
+  },
+  {
+   "para": "p006",
+   "start": 299,
+   "end": 314,
+   "text": "Ašot Kamsarakan",
+   "entity": "m44"
+  },
+  {
+   "para": "p006",
+   "start": 320,
+   "end": 336,
+   "text": "Zuarēn Anjewac‘i",
+   "entity": "m218"
+  },
+  {
+   "para": "p006",
+   "start": 434,
+   "end": 448,
+   "text": "Robert Thomson",
+   "entity": "m149"
+  },
+  {
+   "para": "p007",
+   "start": 104,
+   "end": 112,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p007",
+   "start": 172,
+   "end": 177,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p007",
+   "start": 203,
+   "end": 208,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p007",
+   "start": 241,
+   "end": 246,
+   "text": "Herāt",
+   "entity": "m100"
+  },
+  {
+   "para": "p007",
+   "start": 330,
+   "end": 347,
+   "text": "Vardan Mamikonean",
+   "entity": "m195"
+  },
+  {
+   "para": "p007",
+   "start": 371,
+   "end": 379,
+   "text": "Persians",
+   "entity": "m142"
+  },
+  {
+   "para": "p007",
+   "start": 444,
+   "end": 449,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p007",
+   "start": 444,
+   "end": 449,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p007",
+   "start": 477,
+   "end": 487,
+   "text": "Marw-ī-Rōd",
+   "entity": "m126"
+  },
+  {
+   "para": "p007",
+   "start": 490,
+   "end": 494,
+   "text": "Merv",
+   "entity": "m128"
+  },
+  {
+   "para": "p007",
+   "start": 523,
+   "end": 531,
+   "text": "Khurasan",
+   "entity": "m117"
+  },
+  {
+   "para": "p007",
+   "start": 543,
+   "end": 556,
+   "text": "Sasanian king",
+   "entity": "m164"
+  },
+  {
+   "para": "p007",
+   "start": 666,
+   "end": 673,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p007",
+   "start": 683,
+   "end": 688,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p007",
+   "start": 762,
+   "end": 767,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p007",
+   "start": 808,
+   "end": 817,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p007",
+   "start": 849,
+   "end": 856,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p007",
+   "start": 1015,
+   "end": 1022,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p007",
+   "start": 1161,
+   "end": 1185,
+   "text": "Kidarite Hun confederacy",
+   "entity": "m120"
+  },
+  {
+   "para": "p007",
+   "start": 1193,
+   "end": 1208,
+   "text": "Sasanian Empire",
+   "entity": "m154"
+  },
+  {
+   "para": "p008",
+   "start": 47,
+   "end": 53,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p008",
+   "start": 92,
+   "end": 99,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p008",
+   "start": 266,
+   "end": 272,
+   "text": "Babgēn",
+   "entity": "m48"
+  },
+  {
+   "para": "p008",
+   "start": 277,
+   "end": 282,
+   "text": "Bakur",
+   "entity": "m51"
+  },
+  {
+   "para": "p008",
+   "start": 300,
+   "end": 312,
+   "text": "Siwni family",
+   "entity": "m173"
+  },
+  {
+   "para": "p008",
+   "start": 382,
+   "end": 391,
+   "text": "Sasanians",
+   "entity": "m169"
+  },
+  {
+   "para": "p008",
+   "start": 556,
+   "end": 571,
+   "text": "Xorēn Xorxoṙuni",
+   "entity": "m206"
+  },
+  {
+   "para": "p008",
+   "start": 576,
+   "end": 588,
+   "text": "Artak Paluni",
+   "entity": "m34"
+  },
+  {
+   "para": "p008",
+   "start": 624,
+   "end": 629,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p008",
+   "start": 666,
+   "end": 672,
+   "text": "Vardan",
+   "entity": "m194"
+  },
+  {
+   "para": "p008",
+   "start": 738,
+   "end": 750,
+   "text": "Siwni family",
+   "entity": "m173"
+  },
+  {
+   "para": "p008",
+   "start": 776,
+   "end": 787,
+   "text": "Vasak Siwni",
+   "entity": "m199"
+  },
+  {
+   "para": "p008",
+   "start": 782,
+   "end": 787,
+   "text": "Siwni",
+   "entity": "m172"
+  },
+  {
+   "para": "p008",
+   "start": 801,
+   "end": 808,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p008",
+   "start": 955,
+   "end": 961,
+   "text": "Babgēn",
+   "entity": "m48"
+  },
+  {
+   "para": "p008",
+   "start": 985,
+   "end": 996,
+   "text": "Babik Siwni",
+   "entity": "m50"
+  },
+  {
+   "para": "p008",
+   "start": 1007,
+   "end": 1012,
+   "text": "Vasak",
+   "entity": "m198"
+  },
+  {
+   "para": "p008",
+   "start": 1038,
+   "end": 1047,
+   "text": "Ctesiphon",
+   "entity": "m75"
+  },
+  {
+   "para": "p008",
+   "start": 1152,
+   "end": 1157,
+   "text": "Vasak",
+   "entity": "m198"
+  },
+  {
+   "para": "p008",
+   "start": 1162,
+   "end": 1167,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p008",
+   "start": 1180,
+   "end": 1185,
+   "text": "Siwni",
+   "entity": "m172"
+  },
+  {
+   "para": "p008",
+   "start": 1180,
+   "end": 1190,
+   "text": "Siwni lord",
+   "entity": "m174"
+  },
+  {
+   "para": "p008",
+   "start": 1269,
+   "end": 1274,
+   "text": "Vasak",
+   "entity": "m198"
+  },
+  {
+   "para": "p009",
+   "start": 34,
+   "end": 43,
+   "text": "Sasanians",
+   "entity": "m169"
+  },
+  {
+   "para": "p009",
+   "start": 66,
+   "end": 93,
+   "text": "Zoroastrian Armenian nobles",
+   "entity": "m216"
+  },
+  {
+   "para": "p009",
+   "start": 288,
+   "end": 302,
+   "text": "İlhami Cinemre",
+   "entity": "m225"
+  },
+  {
+   "para": "p009",
+   "start": 466,
+   "end": 495,
+   "text": "Armenian Arsacid royal family",
+   "entity": "m13"
+  },
+  {
+   "para": "p009",
+   "start": 670,
+   "end": 675,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p009",
+   "start": 691,
+   "end": 707,
+   "text": "Vahan Mamikonean",
+   "entity": "m191"
+  },
+  {
+   "para": "p009",
+   "start": 853,
+   "end": 870,
+   "text": "Vardan Mamikonean",
+   "entity": "m195"
+  },
+  {
+   "para": "p009",
+   "start": 890,
+   "end": 912,
+   "text": "Georgian bdeašx Vazgen",
+   "entity": "m90"
+  },
+  {
+   "para": "p009",
+   "start": 989,
+   "end": 996,
+   "text": "Šušanik",
+   "entity": "m235"
+  },
+  {
+   "para": "p009",
+   "start": 1008,
+   "end": 1013,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p009",
+   "start": 1025,
+   "end": 1041,
+   "text": "Gadišo Xorxoṙuni",
+   "entity": "m89"
+  },
+  {
+   "para": "p009",
+   "start": 1080,
+   "end": 1087,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p009",
+   "start": 1197,
+   "end": 1214,
+   "text": "Christiane Harzig",
+   "entity": "m72"
+  },
+  {
+   "para": "p009",
+   "start": 1219,
+   "end": 1231,
+   "text": "Dirk Hoerder",
+   "entity": "m77"
+  },
+  {
+   "para": "p009",
+   "start": 1279,
+   "end": 1293,
+   "text": "Armenian elite",
+   "entity": "m22"
+  },
+  {
+   "para": "p010",
+   "start": 104,
+   "end": 120,
+   "text": "Vardan and Vahan",
+   "entity": "m196"
+  },
+  {
+   "para": "p010",
+   "start": 155,
+   "end": 177,
+   "text": "Sasanian restructuring",
+   "entity": "m167"
+  },
+  {
+   "para": "p010",
+   "start": 185,
+   "end": 202,
+   "text": "Armenian nobility",
+   "entity": "m25"
+  },
+  {
+   "para": "p010",
+   "start": 225,
+   "end": 231,
+   "text": "Hewsen",
+   "entity": "m101"
+  },
+  {
+   "para": "p010",
+   "start": 435,
+   "end": 444,
+   "text": "Mandakuni",
+   "entity": "m124"
+  },
+  {
+   "para": "p010",
+   "start": 500,
+   "end": 514,
+   "text": "Hewsen’s clans",
+   "entity": "m102"
+  },
+  {
+   "para": "p011",
+   "start": 0,
+   "end": 30,
+   "text": "Placement for military service",
+   "entity": "m144"
+  },
+  {
+   "para": "p011",
+   "start": 67,
+   "end": 73,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p011",
+   "start": 137,
+   "end": 142,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p011",
+   "start": 221,
+   "end": 227,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p011",
+   "start": 243,
+   "end": 248,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p011",
+   "start": 399,
+   "end": 404,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p011",
+   "start": 399,
+   "end": 404,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p011",
+   "start": 544,
+   "end": 549,
+   "text": "Herāt",
+   "entity": "m100"
+  },
+  {
+   "para": "p011",
+   "start": 591,
+   "end": 598,
+   "text": "Priests",
+   "entity": "m145"
+  },
+  {
+   "para": "p011",
+   "start": 726,
+   "end": 732,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p012",
+   "start": 85,
+   "end": 90,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p012",
+   "start": 107,
+   "end": 124,
+   "text": "Armenian nobility",
+   "entity": "m25"
+  },
+  {
+   "para": "p012",
+   "start": 152,
+   "end": 165,
+   "text": "Persian court",
+   "entity": "m139"
+  },
+  {
+   "para": "p012",
+   "start": 224,
+   "end": 229,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p012",
+   "start": 490,
+   "end": 496,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p012",
+   "start": 585,
+   "end": 592,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p012",
+   "start": 594,
+   "end": 599,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p012",
+   "start": 724,
+   "end": 730,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p013",
+   "start": 51,
+   "end": 68,
+   "text": "Nerseh Kamsarakan",
+   "entity": "m132"
+  },
+  {
+   "para": "p013",
+   "start": 146,
+   "end": 164,
+   "text": "Aršawir Kamsarakan",
+   "entity": "m38"
+  },
+  {
+   "para": "p013",
+   "start": 227,
+   "end": 233,
+   "text": "Nerseh",
+   "entity": "m131"
+  },
+  {
+   "para": "p013",
+   "start": 249,
+   "end": 254,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p013",
+   "start": 290,
+   "end": 295,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p013",
+   "start": 326,
+   "end": 332,
+   "text": "Nerseh",
+   "entity": "m131"
+  },
+  {
+   "para": "p013",
+   "start": 334,
+   "end": 339,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p013",
+   "start": 351,
+   "end": 357,
+   "text": "Nerseh",
+   "entity": "m131"
+  },
+  {
+   "para": "p013",
+   "start": 374,
+   "end": 380,
+   "text": "Hrahat",
+   "entity": "m105"
+  },
+  {
+   "para": "p013",
+   "start": 452,
+   "end": 462,
+   "text": "Vałaršapat",
+   "entity": "m200"
+  },
+  {
+   "para": "p013",
+   "start": 477,
+   "end": 483,
+   "text": "Nerseh",
+   "entity": "m131"
+  },
+  {
+   "para": "p013",
+   "start": 514,
+   "end": 530,
+   "text": "Battle of Akesga",
+   "entity": "m53"
+  },
+  {
+   "para": "p013",
+   "start": 532,
+   "end": 537,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p013",
+   "start": 578,
+   "end": 584,
+   "text": "Nerseh",
+   "entity": "m131"
+  },
+  {
+   "para": "p013",
+   "start": 590,
+   "end": 599,
+   "text": "Aršamunik",
+   "entity": "m37"
+  },
+  {
+   "para": "p013",
+   "start": 666,
+   "end": 686,
+   "text": "southwestern Armenia",
+   "entity": "m223"
+  },
+  {
+   "para": "p013",
+   "start": 718,
+   "end": 724,
+   "text": "Nerseh",
+   "entity": "m131"
+  },
+  {
+   "para": "p014",
+   "start": 0,
+   "end": 25,
+   "text": "The Mathematical Problems",
+   "entity": "m183"
+  },
+  {
+   "para": "p014",
+   "start": 65,
+   "end": 81,
+   "text": "Anania Širakac‘i",
+   "entity": "m8"
+  },
+  {
+   "para": "p014",
+   "start": 89,
+   "end": 95,
+   "text": "Nerseh",
+   "entity": "m131"
+  },
+  {
+   "para": "p014",
+   "start": 115,
+   "end": 131,
+   "text": "Sasanian capture",
+   "entity": "m161"
+  },
+  {
+   "para": "p014",
+   "start": 135,
+   "end": 140,
+   "text": "Balkh",
+   "entity": "m52"
+  },
+  {
+   "para": "p014",
+   "start": 171,
+   "end": 176,
+   "text": "Herāt",
+   "entity": "m100"
+  },
+  {
+   "para": "p014",
+   "start": 242,
+   "end": 259,
+   "text": "AD 462–6 campaign",
+   "entity": "m1"
+  },
+  {
+   "para": "p014",
+   "start": 263,
+   "end": 271,
+   "text": "Yazdgerd",
+   "entity": "m209"
+  },
+  {
+   "para": "p014",
+   "start": 284,
+   "end": 289,
+   "text": "Pērōz",
+   "entity": "m146"
+  },
+  {
+   "para": "p014",
+   "start": 302,
+   "end": 311,
+   "text": "Kidarites",
+   "entity": "m123"
+  },
+  {
+   "para": "p014",
+   "start": 331,
+   "end": 345,
+   "text": "Zara Pogossian",
+   "entity": "m215"
+  },
+  {
+   "para": "p014",
+   "start": 411,
+   "end": 416,
+   "text": "Pērōz",
+   "entity": "m146"
+  },
+  {
+   "para": "p014",
+   "start": 448,
+   "end": 454,
+   "text": "Anania",
+   "entity": "m7"
+  },
+  {
+   "para": "p014",
+   "start": 472,
+   "end": 478,
+   "text": "Nerseh",
+   "entity": "m131"
+  },
+  {
+   "para": "p014",
+   "start": 494,
+   "end": 513,
+   "text": "Christian community",
+   "entity": "m68"
+  },
+  {
+   "para": "p014",
+   "start": 517,
+   "end": 527,
+   "text": "Vałaršapat",
+   "entity": "m200"
+  },
+  {
+   "para": "p014",
+   "start": 545,
+   "end": 561,
+   "text": "Vahan Mamikonean",
+   "entity": "m191"
+  },
+  {
+   "para": "p014",
+   "start": 679,
+   "end": 684,
+   "text": "Širak",
+   "entity": "m234"
+  },
+  {
+   "para": "p014",
+   "start": 686,
+   "end": 692,
+   "text": "Nerseh",
+   "entity": "m131"
+  },
+  {
+   "para": "p014",
+   "start": 720,
+   "end": 727,
+   "text": "Nersehn",
+   "entity": "m133"
+  },
+  {
+   "para": "p014",
+   "start": 739,
+   "end": 757,
+   "text": "Persian delegation",
+   "entity": "m141"
+  },
+  {
+   "para": "p014",
+   "start": 779,
+   "end": 784,
+   "text": "Vahan",
+   "entity": "m190"
+  },
+  {
+   "para": "p014",
+   "start": 798,
+   "end": 803,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p014",
+   "start": 829,
+   "end": 834,
+   "text": "Vahan",
+   "entity": "m190"
+  },
+  {
+   "para": "p014",
+   "start": 980,
+   "end": 986,
+   "text": "Nerseh",
+   "entity": "m131"
+  },
+  {
+   "para": "p014",
+   "start": 1036,
+   "end": 1042,
+   "text": "Persia",
+   "entity": "m136"
+  },
+  {
+   "para": "p014",
+   "start": 1120,
+   "end": 1129,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p015",
+   "start": 139,
+   "end": 144,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p015",
+   "start": 255,
+   "end": 260,
+   "text": "Herāt",
+   "entity": "m100"
+  },
+  {
+   "para": "p015",
+   "start": 262,
+   "end": 267,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p015",
+   "start": 362,
+   "end": 369,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p015",
+   "start": 403,
+   "end": 411,
+   "text": "Yazdgerd",
+   "entity": "m209"
+  },
+  {
+   "para": "p015",
+   "start": 403,
+   "end": 418,
+   "text": "Yazdgerd’s sons",
+   "entity": "m213"
+  },
+  {
+   "para": "p015",
+   "start": 440,
+   "end": 445,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p015",
+   "start": 468,
+   "end": 491,
+   "text": "Caucasian Albanian king",
+   "entity": "m64"
+  },
+  {
+   "para": "p015",
+   "start": 534,
+   "end": 539,
+   "text": "Herāt",
+   "entity": "m100"
+  },
+  {
+   "para": "p016",
+   "start": 43,
+   "end": 49,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p016",
+   "start": 54,
+   "end": 62,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p016",
+   "start": 129,
+   "end": 140,
+   "text": "Yazdgerd II",
+   "entity": "m211"
+  },
+  {
+   "para": "p016",
+   "start": 152,
+   "end": 161,
+   "text": "Armenians",
+   "entity": "m33"
+  },
+  {
+   "para": "p016",
+   "start": 208,
+   "end": 216,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p016",
+   "start": 262,
+   "end": 271,
+   "text": "Armenians",
+   "entity": "m33"
+  },
+  {
+   "para": "p016",
+   "start": 352,
+   "end": 358,
+   "text": "Sebeos",
+   "entity": "m170"
+  },
+  {
+   "para": "p016",
+   "start": 393,
+   "end": 411,
+   "text": "Smbat IV Bagratuni",
+   "entity": "m177"
+  },
+  {
+   "para": "p016",
+   "start": 434,
+   "end": 449,
+   "text": "Armenian nobles",
+   "entity": "m27"
+  },
+  {
+   "para": "p016",
+   "start": 455,
+   "end": 461,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p016",
+   "start": 507,
+   "end": 515,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p016",
+   "start": 601,
+   "end": 606,
+   "text": "Smbat",
+   "entity": "m176"
+  },
+  {
+   "para": "p016",
+   "start": 694,
+   "end": 700,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p017",
+   "start": 72,
+   "end": 80,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p017",
+   "start": 85,
+   "end": 90,
+   "text": "Herāt",
+   "entity": "m100"
+  },
+  {
+   "para": "p017",
+   "start": 209,
+   "end": 214,
+   "text": "Herāt",
+   "entity": "m100"
+  },
+  {
+   "para": "p017",
+   "start": 328,
+   "end": 334,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p017",
+   "start": 449,
+   "end": 455,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p017",
+   "start": 505,
+   "end": 523,
+   "text": "Yazdgerd and Pērōz",
+   "entity": "m212"
+  },
+  {
+   "para": "p017",
+   "start": 630,
+   "end": 644,
+   "text": "Eberhard Sauer",
+   "entity": "m81"
+  },
+  {
+   "para": "p018",
+   "start": 131,
+   "end": 140,
+   "text": "Sasanians",
+   "entity": "m169"
+  },
+  {
+   "para": "p018",
+   "start": 149,
+   "end": 162,
+   "text": "Kidarite Huns",
+   "entity": "m121"
+  },
+  {
+   "para": "p018",
+   "start": 250,
+   "end": 258,
+   "text": "Yazdgerd",
+   "entity": "m209"
+  },
+  {
+   "para": "p018",
+   "start": 263,
+   "end": 268,
+   "text": "Pērōz",
+   "entity": "m146"
+  },
+  {
+   "para": "p018",
+   "start": 326,
+   "end": 335,
+   "text": "Kidarites",
+   "entity": "m123"
+  },
+  {
+   "para": "p018",
+   "start": 365,
+   "end": 374,
+   "text": "Kidarites",
+   "entity": "m123"
+  },
+  {
+   "para": "p018",
+   "start": 425,
+   "end": 441,
+   "text": "Hephthalite Huns",
+   "entity": "m99"
+  },
+  {
+   "para": "p018",
+   "start": 443,
+   "end": 451,
+   "text": "Yazdgerd",
+   "entity": "m209"
+  },
+  {
+   "para": "p018",
+   "start": 599,
+   "end": 627,
+   "text": "Kayanian Zoroastrian dynasty",
+   "entity": "m115"
+  },
+  {
+   "para": "p018",
+   "start": 678,
+   "end": 687,
+   "text": "Kidarites",
+   "entity": "m123"
+  },
+  {
+   "para": "p018",
+   "start": 959,
+   "end": 970,
+   "text": "Tokharistan",
+   "entity": "m185"
+  },
+  {
+   "para": "p018",
+   "start": 983,
+   "end": 993,
+   "text": "Hindu Kush",
+   "entity": "m103"
+  },
+  {
+   "para": "p019",
+   "start": 64,
+   "end": 69,
+   "text": "Pērōz",
+   "entity": "m146"
+  },
+  {
+   "para": "p019",
+   "start": 113,
+   "end": 122,
+   "text": "Kidarites",
+   "entity": "m123"
+  },
+  {
+   "para": "p019",
+   "start": 237,
+   "end": 250,
+   "text": "Saraguri Huns",
+   "entity": "m152"
+  },
+  {
+   "para": "p019",
+   "start": 254,
+   "end": 261,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p019",
+   "start": 266,
+   "end": 272,
+   "text": "Iberia",
+   "entity": "m111"
+  },
+  {
+   "para": "p019",
+   "start": 284,
+   "end": 289,
+   "text": "Pērōz",
+   "entity": "m146"
+  },
+  {
+   "para": "p020",
+   "start": 177,
+   "end": 183,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p020",
+   "start": 188,
+   "end": 196,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p020",
+   "start": 320,
+   "end": 328,
+   "text": "Yazdgerd",
+   "entity": "m209"
+  },
+  {
+   "para": "p020",
+   "start": 331,
+   "end": 354,
+   "text": "anti-Kidarite campaigns",
+   "entity": "m219"
+  },
+  {
+   "para": "p020",
+   "start": 478,
+   "end": 484,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p020",
+   "start": 595,
+   "end": 610,
+   "text": "Shapur Shahbazi",
+   "entity": "m171"
+  },
+  {
+   "para": "p020",
+   "start": 629,
+   "end": 637,
+   "text": "Yazdgerd",
+   "entity": "m209"
+  },
+  {
+   "para": "p020",
+   "start": 650,
+   "end": 656,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p020",
+   "start": 660,
+   "end": 668,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p020",
+   "start": 698,
+   "end": 715,
+   "text": "Kidarite campaign",
+   "entity": "m122"
+  },
+  {
+   "para": "p020",
+   "start": 887,
+   "end": 893,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p020",
+   "start": 887,
+   "end": 913,
+   "text": "Gorgān Wall’s construction",
+   "entity": "m94"
+  },
+  {
+   "para": "p020",
+   "start": 1006,
+   "end": 1021,
+   "text": "Łazar and Ełišē",
+   "entity": "m228"
+  },
+  {
+   "para": "p020",
+   "start": 1088,
+   "end": 1107,
+   "text": "Christian martyrdom",
+   "entity": "m69"
+  },
+  {
+   "para": "p020",
+   "start": 1218,
+   "end": 1223,
+   "text": "Herāt",
+   "entity": "m100"
+  },
+  {
+   "para": "p020",
+   "start": 1247,
+   "end": 1256,
+   "text": "Armenians",
+   "entity": "m33"
+  },
+  {
+   "para": "p020",
+   "start": 1293,
+   "end": 1298,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p020",
+   "start": 1351,
+   "end": 1356,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p021",
+   "start": 145,
+   "end": 151,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p021",
+   "start": 166,
+   "end": 171,
+   "text": "Herāt",
+   "entity": "m100"
+  },
+  {
+   "para": "p021",
+   "start": 240,
+   "end": 258,
+   "text": "Aršawir Kamsarakan",
+   "entity": "m38"
+  },
+  {
+   "para": "p021",
+   "start": 282,
+   "end": 287,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p021",
+   "start": 331,
+   "end": 347,
+   "text": "Armenian priests",
+   "entity": "m28"
+  },
+  {
+   "para": "p021",
+   "start": 351,
+   "end": 359,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p021",
+   "start": 376,
+   "end": 388,
+   "text": "Babgēn Siwni",
+   "entity": "m49"
+  },
+  {
+   "para": "p021",
+   "start": 394,
+   "end": 404,
+   "text": "Atom Gnuni",
+   "entity": "m41"
+  },
+  {
+   "para": "p021",
+   "start": 465,
+   "end": 482,
+   "text": "Vahan’s rebellion",
+   "entity": "m193"
+  },
+  {
+   "para": "p021",
+   "start": 512,
+   "end": 526,
+   "text": "T‘ovma Arcruni",
+   "entity": "m189"
+  },
+  {
+   "para": "p021",
+   "start": 534,
+   "end": 542,
+   "text": "Meršapuh",
+   "entity": "m129"
+  },
+  {
+   "para": "p021",
+   "start": 547,
+   "end": 560,
+   "text": "Tačat Arcruni",
+   "entity": "m181"
+  },
+  {
+   "para": "p021",
+   "start": 604,
+   "end": 621,
+   "text": "Vahan’s rebellion",
+   "entity": "m193"
+  },
+  {
+   "para": "p021",
+   "start": 651,
+   "end": 665,
+   "text": "Constantinople",
+   "entity": "m73"
+  },
+  {
+   "para": "p021",
+   "start": 673,
+   "end": 688,
+   "text": "Emperor Marcian",
+   "entity": "m84"
+  },
+  {
+   "para": "p021",
+   "start": 779,
+   "end": 784,
+   "text": "Tačat",
+   "entity": "m180"
+  },
+  {
+   "para": "p021",
+   "start": 813,
+   "end": 827,
+   "text": "Constantinople",
+   "entity": "m73"
+  },
+  {
+   "para": "p021",
+   "start": 850,
+   "end": 856,
+   "text": "T‘ovma",
+   "entity": "m188"
+  },
+  {
+   "para": "p021",
+   "start": 920,
+   "end": 929,
+   "text": "Chalcedon",
+   "entity": "m66"
+  },
+  {
+   "para": "p021",
+   "start": 931,
+   "end": 939,
+   "text": "Meršapuh",
+   "entity": "m129"
+  },
+  {
+   "para": "p021",
+   "start": 978,
+   "end": 1014,
+   "text": "Armenian-Sasanian peace negotiations",
+   "entity": "m32"
+  },
+  {
+   "para": "p021",
+   "start": 1055,
+   "end": 1067,
+   "text": "Arcruni clan",
+   "entity": "m10"
+  },
+  {
+   "para": "p021",
+   "start": 1182,
+   "end": 1201,
+   "text": "Hamazasp Mamikonean",
+   "entity": "m97"
+  },
+  {
+   "para": "p021",
+   "start": 1206,
+   "end": 1211,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p021",
+   "start": 1270,
+   "end": 1275,
+   "text": "Vahan",
+   "entity": "m190"
+  },
+  {
+   "para": "p021",
+   "start": 1352,
+   "end": 1360,
+   "text": "Hamazasp",
+   "entity": "m96"
+  },
+  {
+   "para": "p021",
+   "start": 1439,
+   "end": 1444,
+   "text": "Vahan",
+   "entity": "m190"
+  },
+  {
+   "para": "p021",
+   "start": 1580,
+   "end": 1594,
+   "text": "T‘ovma Arcruni",
+   "entity": "m189"
+  },
+  {
+   "para": "p021",
+   "start": 1580,
+   "end": 1594,
+   "text": "T‘ovma Arcruni",
+   "entity": "m189"
+  },
+  {
+   "para": "p021",
+   "start": 1603,
+   "end": 1639,
+   "text": "early tenth-century Armenian History",
+   "entity": "m221"
+  },
+  {
+   "para": "p021",
+   "start": 1689,
+   "end": 1703,
+   "text": "Šawasp Arcruni",
+   "entity": "m233"
+  },
+  {
+   "para": "p021",
+   "start": 1735,
+   "end": 1752,
+   "text": "Vardan Mamikonean",
+   "entity": "m195"
+  },
+  {
+   "para": "p021",
+   "start": 1789,
+   "end": 1804,
+   "text": "Łazar and Ełišē",
+   "entity": "m228"
+  },
+  {
+   "para": "p021",
+   "start": 1821,
+   "end": 1839,
+   "text": "AD 450–1 rebellion",
+   "entity": "m0"
+  },
+  {
+   "para": "p021",
+   "start": 1892,
+   "end": 1909,
+   "text": "Vardan Mamikonean",
+   "entity": "m195"
+  },
+  {
+   "para": "p021",
+   "start": 1926,
+   "end": 1932,
+   "text": "Sebeos",
+   "entity": "m170"
+  },
+  {
+   "para": "p022",
+   "start": 42,
+   "end": 54,
+   "text": "Łazar’s list",
+   "entity": "m229"
+  },
+  {
+   "para": "p022",
+   "start": 79,
+   "end": 94,
+   "text": "Ełišē’s account",
+   "entity": "m86"
+  },
+  {
+   "para": "p022",
+   "start": 223,
+   "end": 240,
+   "text": "Vardan Mamikonean",
+   "entity": "m195"
+  },
+  {
+   "para": "p022",
+   "start": 265,
+   "end": 287,
+   "text": "Vahan’s paternal uncle",
+   "entity": "m192"
+  },
+  {
+   "para": "p022",
+   "start": 321,
+   "end": 334,
+   "text": "Aṙnak Amatuni",
+   "entity": "m47"
+  },
+  {
+   "para": "p022",
+   "start": 379,
+   "end": 396,
+   "text": "Battle of Awarayr",
+   "entity": "m54"
+  },
+  {
+   "para": "p022",
+   "start": 389,
+   "end": 396,
+   "text": "Awarayr",
+   "entity": "m42"
+  },
+  {
+   "para": "p022",
+   "start": 402,
+   "end": 420,
+   "text": "P‘arsman Mandakuni",
+   "entity": "m147"
+  },
+  {
+   "para": "p022",
+   "start": 475,
+   "end": 489,
+   "text": "Mandakuni clan",
+   "entity": "m125"
+  },
+  {
+   "para": "p022",
+   "start": 493,
+   "end": 500,
+   "text": "Awarayr",
+   "entity": "m42"
+  },
+  {
+   "para": "p023",
+   "start": 26,
+   "end": 32,
+   "text": "Gorgān",
+   "entity": "m93"
+  },
+  {
+   "para": "p023",
+   "start": 152,
+   "end": 159,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p023",
+   "start": 272,
+   "end": 281,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p023",
+   "start": 285,
+   "end": 302,
+   "text": "southwestern Iran",
+   "entity": "m224"
+  },
+  {
+   "para": "p023",
+   "start": 344,
+   "end": 353,
+   "text": "Asorestan",
+   "entity": "m39"
+  },
+  {
+   "para": "p023",
+   "start": 500,
+   "end": 505,
+   "text": "Pērōz",
+   "entity": "m146"
+  },
+  {
+   "para": "p023",
+   "start": 545,
+   "end": 559,
+   "text": "Sasanian power",
+   "entity": "m166"
+  },
+  {
+   "para": "p023",
+   "start": 573,
+   "end": 582,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p023",
+   "start": 656,
+   "end": 674,
+   "text": "Khodadad Rezakhani",
+   "entity": "m116"
+  },
+  {
+   "para": "p023",
+   "start": 746,
+   "end": 750,
+   "text": "Fars",
+   "entity": "m88"
+  },
+  {
+   "para": "p023",
+   "start": 753,
+   "end": 762,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p023",
+   "start": 1009,
+   "end": 1025,
+   "text": "Armenian sources",
+   "entity": "m30"
+  },
+  {
+   "para": "p023",
+   "start": 1034,
+   "end": 1052,
+   "text": "Castle of Oblivion",
+   "entity": "m62"
+  },
+  {
+   "para": "p023",
+   "start": 1055,
+   "end": 1064,
+   "text": "berd Anuš",
+   "entity": "m220"
+  },
+  {
+   "para": "p023",
+   "start": 1091,
+   "end": 1105,
+   "text": "Armenian kings",
+   "entity": "m23"
+  },
+  {
+   "para": "p023",
+   "start": 1106,
+   "end": 1114,
+   "text": "Aršak II",
+   "entity": "m36"
+  },
+  {
+   "para": "p023",
+   "start": 1119,
+   "end": 1128,
+   "text": "Xosrov IV",
+   "entity": "m208"
+  },
+  {
+   "para": "p023",
+   "start": 1182,
+   "end": 1204,
+   "text": "Sasanian King of Kings",
+   "entity": "m156"
+  },
+  {
+   "para": "p023",
+   "start": 1182,
+   "end": 1212,
+   "text": "Sasanian King of Kings Kawād I",
+   "entity": "m157"
+  },
+  {
+   "para": "p023",
+   "start": 1205,
+   "end": 1212,
+   "text": "Kawād I",
+   "entity": "m114"
+  },
+  {
+   "para": "p023",
+   "start": 1308,
+   "end": 1317,
+   "text": "berd Anuš",
+   "entity": "m220"
+  },
+  {
+   "para": "p023",
+   "start": 1354,
+   "end": 1372,
+   "text": "Byzantine accounts",
+   "entity": "m58"
+  },
+  {
+   "para": "p024",
+   "start": 16,
+   "end": 25,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p024",
+   "start": 36,
+   "end": 52,
+   "text": "Vahan Mamikonean",
+   "entity": "m191"
+  },
+  {
+   "para": "p024",
+   "start": 75,
+   "end": 80,
+   "text": "Vasak",
+   "entity": "m198"
+  },
+  {
+   "para": "p024",
+   "start": 85,
+   "end": 92,
+   "text": "Artašēs",
+   "entity": "m35"
+  },
+  {
+   "para": "p024",
+   "start": 168,
+   "end": 185,
+   "text": "Kamsarakan family",
+   "entity": "m113"
+  },
+  {
+   "para": "p024",
+   "start": 192,
+   "end": 216,
+   "text": "Bishop T‘at‘ik of Basean",
+   "entity": "m56"
+  },
+  {
+   "para": "p024",
+   "start": 218,
+   "end": 223,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p024",
+   "start": 253,
+   "end": 264,
+   "text": "Vasak Siwni",
+   "entity": "m199"
+  },
+  {
+   "para": "p024",
+   "start": 287,
+   "end": 293,
+   "text": "Siwnik",
+   "entity": "m175"
+  },
+  {
+   "para": "p024",
+   "start": 320,
+   "end": 333,
+   "text": "Persian court",
+   "entity": "m139"
+  },
+  {
+   "para": "p024",
+   "start": 637,
+   "end": 642,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p024",
+   "start": 668,
+   "end": 673,
+   "text": "Vahan",
+   "entity": "m190"
+  },
+  {
+   "para": "p025",
+   "start": 134,
+   "end": 151,
+   "text": "Georgian nobleman",
+   "entity": "m91"
+  },
+  {
+   "para": "p025",
+   "start": 167,
+   "end": 173,
+   "text": "Gugark",
+   "entity": "m95"
+  },
+  {
+   "para": "p025",
+   "start": 259,
+   "end": 274,
+   "text": "Łazar P‘arpec‘i",
+   "entity": "m227"
+  },
+  {
+   "para": "p025",
+   "start": 558,
+   "end": 563,
+   "text": "Ašuša",
+   "entity": "m46"
+  },
+  {
+   "para": "p025",
+   "start": 598,
+   "end": 612,
+   "text": "Sasanian court",
+   "entity": "m162"
+  },
+  {
+   "para": "p025",
+   "start": 729,
+   "end": 735,
+   "text": "Persia",
+   "entity": "m136"
+  },
+  {
+   "para": "p026",
+   "start": 35,
+   "end": 40,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p026",
+   "start": 292,
+   "end": 302,
+   "text": "Mihrnerseh",
+   "entity": "m130"
+  },
+  {
+   "para": "p026",
+   "start": 305,
+   "end": 313,
+   "text": "Yazdgerd",
+   "entity": "m209"
+  },
+  {
+   "para": "p027",
+   "start": 94,
+   "end": 106,
+   "text": "Parthian era",
+   "entity": "m135"
+  },
+  {
+   "para": "p027",
+   "start": 141,
+   "end": 156,
+   "text": "Sasanian period",
+   "entity": "m165"
+  },
+  {
+   "para": "p027",
+   "start": 191,
+   "end": 206,
+   "text": "Armenian troops",
+   "entity": "m31"
+  },
+  {
+   "para": "p027",
+   "start": 214,
+   "end": 229,
+   "text": "Sasanian Empire",
+   "entity": "m154"
+  },
+  {
+   "para": "p027",
+   "start": 284,
+   "end": 301,
+   "text": "Sasanian strategy",
+   "entity": "m168"
+  },
+  {
+   "para": "p027",
+   "start": 313,
+   "end": 327,
+   "text": "Armenian lords",
+   "entity": "m24"
+  },
+  {
+   "para": "p027",
+   "start": 439,
+   "end": 455,
+   "text": "Armenian sources",
+   "entity": "m30"
+  },
+  {
+   "para": "p027",
+   "start": 603,
+   "end": 623,
+   "text": "Hunnic confederacies",
+   "entity": "m107"
+  },
+  {
+   "para": "p028",
+   "start": 19,
+   "end": 46,
+   "text": "Armenian and Syriac sources",
+   "entity": "m16"
+  },
+  {
+   "para": "p028",
+   "start": 96,
+   "end": 105,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p028",
+   "start": 256,
+   "end": 265,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p028",
+   "start": 310,
+   "end": 315,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p028",
+   "start": 334,
+   "end": 345,
+   "text": "Yazdgerd II",
+   "entity": "m211"
+  },
+  {
+   "para": "p028",
+   "start": 390,
+   "end": 404,
+   "text": "Armenian elite",
+   "entity": "m22"
+  },
+  {
+   "para": "p028",
+   "start": 476,
+   "end": 484,
+   "text": "Sakastan",
+   "entity": "m151"
+  },
+  {
+   "para": "p028",
+   "start": 524,
+   "end": 533,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p028",
+   "start": 560,
+   "end": 568,
+   "text": "Yazdgerd",
+   "entity": "m209"
+  },
+  {
+   "para": "p028",
+   "start": 634,
+   "end": 650,
+   "text": "Georgian sources",
+   "entity": "m92"
+  },
+  {
+   "para": "p028",
+   "start": 724,
+   "end": 752,
+   "text": "Syriac Council of Mar Dadišo",
+   "entity": "m178"
+  },
+  {
+   "para": "p028",
+   "start": 807,
+   "end": 812,
+   "text": "Domit",
+   "entity": "m78"
+  },
+  {
+   "para": "p028",
+   "start": 807,
+   "end": 840,
+   "text": "Domit ̣of the Captivity of Gorgān",
+   "entity": "m79"
+  },
+  {
+   "para": "p028",
+   "start": 851,
+   "end": 887,
+   "text": "Hatiṭ ạ of the captivity of Belašpar",
+   "entity": "m98"
+  },
+  {
+   "para": "p028",
+   "start": 967,
+   "end": 981,
+   "text": "William Wigram",
+   "entity": "m204"
+  },
+  {
+   "para": "p028",
+   "start": 1055,
+   "end": 1072,
+   "text": "Roman-Persian war",
+   "entity": "m150"
+  },
+  {
+   "para": "p028",
+   "start": 1088,
+   "end": 1097,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p028",
+   "start": 1123,
+   "end": 1128,
+   "text": "Domit",
+   "entity": "m78"
+  },
+  {
+   "para": "p028",
+   "start": 1209,
+   "end": 1222,
+   "text": "Syriac canons",
+   "entity": "m179"
+  },
+  {
+   "para": "p028",
+   "start": 1391,
+   "end": 1400,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p028",
+   "start": 1465,
+   "end": 1473,
+   "text": "Caucasus",
+   "entity": "m65"
+  },
+  {
+   "para": "p029",
+   "start": 180,
+   "end": 188,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p029",
+   "start": 250,
+   "end": 257,
+   "text": "Vardgēs",
+   "entity": "m197"
+  },
+  {
+   "para": "p029",
+   "start": 263,
+   "end": 271,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p029",
+   "start": 289,
+   "end": 297,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p029",
+   "start": 377,
+   "end": 392,
+   "text": "Khuzestan group",
+   "entity": "m119"
+  },
+  {
+   "para": "p029",
+   "start": 413,
+   "end": 427,
+   "text": "Sasanian court",
+   "entity": "m162"
+  },
+  {
+   "para": "p029",
+   "start": 413,
+   "end": 427,
+   "text": "Sasanian court",
+   "entity": "m162"
+  },
+  {
+   "para": "p030",
+   "start": 119,
+   "end": 124,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p030",
+   "start": 129,
+   "end": 134,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p030",
+   "start": 148,
+   "end": 163,
+   "text": "Xorēn of Orkovi",
+   "entity": "m207"
+  },
+  {
+   "para": "p030",
+   "start": 168,
+   "end": 185,
+   "text": "Abraham of Zenakk",
+   "entity": "m3"
+  },
+  {
+   "para": "p030",
+   "start": 199,
+   "end": 207,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p030",
+   "start": 373,
+   "end": 385,
+   "text": "Šap‘ul/Šahul",
+   "entity": "m232"
+  },
+  {
+   "para": "p030",
+   "start": 393,
+   "end": 405,
+   "text": "Ter-Minasean",
+   "entity": "m182"
+  },
+  {
+   "para": "p030",
+   "start": 420,
+   "end": 428,
+   "text": "Bishapur",
+   "entity": "m55"
+  },
+  {
+   "para": "p030",
+   "start": 432,
+   "end": 436,
+   "text": "Fars",
+   "entity": "m88"
+  },
+  {
+   "para": "p030",
+   "start": 444,
+   "end": 451,
+   "text": "Abraham",
+   "entity": "m2"
+  },
+  {
+   "para": "p030",
+   "start": 464,
+   "end": 471,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p030",
+   "start": 492,
+   "end": 514,
+   "text": "Asorestan’s Christians",
+   "entity": "m40"
+  },
+  {
+   "para": "p030",
+   "start": 578,
+   "end": 583,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p030",
+   "start": 611,
+   "end": 616,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p030",
+   "start": 621,
+   "end": 627,
+   "text": "Bznuni",
+   "entity": "m59"
+  },
+  {
+   "para": "p030",
+   "start": 666,
+   "end": 671,
+   "text": "Xorēn",
+   "entity": "m205"
+  },
+  {
+   "para": "p030",
+   "start": 710,
+   "end": 715,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p030",
+   "start": 797,
+   "end": 809,
+   "text": "Persian Gulf",
+   "entity": "m137"
+  },
+  {
+   "para": "p030",
+   "start": 881,
+   "end": 889,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p030",
+   "start": 1002,
+   "end": 1007,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p030",
+   "start": 1018,
+   "end": 1023,
+   "text": "Xorēn",
+   "entity": "m205"
+  },
+  {
+   "para": "p030",
+   "start": 1028,
+   "end": 1035,
+   "text": "Abraham",
+   "entity": "m2"
+  },
+  {
+   "para": "p030",
+   "start": 1161,
+   "end": 1169,
+   "text": "Nishapur",
+   "entity": "m134"
+  },
+  {
+   "para": "p031",
+   "start": 189,
+   "end": 196,
+   "text": "Vardgēs",
+   "entity": "m197"
+  },
+  {
+   "para": "p031",
+   "start": 240,
+   "end": 247,
+   "text": "Aštišat",
+   "entity": "m45"
+  },
+  {
+   "para": "p031",
+   "start": 339,
+   "end": 344,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p031",
+   "start": 361,
+   "end": 367,
+   "text": "Łewond",
+   "entity": "m230"
+  },
+  {
+   "para": "p031",
+   "start": 477,
+   "end": 496,
+   "text": "Zoroastrian priests",
+   "entity": "m217"
+  },
+  {
+   "para": "p031",
+   "start": 509,
+   "end": 513,
+   "text": "Angł",
+   "entity": "m9"
+  },
+  {
+   "para": "p031",
+   "start": 531,
+   "end": 537,
+   "text": "Yovsēp",
+   "entity": "m214"
+  },
+  {
+   "para": "p031",
+   "start": 563,
+   "end": 570,
+   "text": "Awarayr",
+   "entity": "m42"
+  },
+  {
+   "para": "p031",
+   "start": 572,
+   "end": 577,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p031",
+   "start": 628,
+   "end": 636,
+   "text": "Yazdgerd",
+   "entity": "m209"
+  },
+  {
+   "para": "p031",
+   "start": 667,
+   "end": 676,
+   "text": "Kidarites",
+   "entity": "m123"
+  },
+  {
+   "para": "p031",
+   "start": 696,
+   "end": 713,
+   "text": "Christian priests",
+   "entity": "m70"
+  },
+  {
+   "para": "p032",
+   "start": 28,
+   "end": 37,
+   "text": "Asorestan",
+   "entity": "m39"
+  },
+  {
+   "para": "p032",
+   "start": 40,
+   "end": 57,
+   "text": "T‘at‘ik of Basean",
+   "entity": "m187"
+  },
+  {
+   "para": "p032",
+   "start": 116,
+   "end": 134,
+   "text": "Sasanian authority",
+   "entity": "m160"
+  },
+  {
+   "para": "p032",
+   "start": 164,
+   "end": 174,
+   "text": "Łewondeank",
+   "entity": "m231"
+  },
+  {
+   "para": "p032",
+   "start": 373,
+   "end": 380,
+   "text": "T‘at‘ik",
+   "entity": "m186"
+  },
+  {
+   "para": "p033",
+   "start": 36,
+   "end": 50,
+   "text": "Alasdair Grant",
+   "entity": "m4"
+  },
+  {
+   "para": "p033",
+   "start": 66,
+   "end": 81,
+   "text": "Armenian clergy",
+   "entity": "m18"
+  },
+  {
+   "para": "p033",
+   "start": 89,
+   "end": 102,
+   "text": "Islamic world",
+   "entity": "m112"
+  },
+  {
+   "para": "p033",
+   "start": 150,
+   "end": 155,
+   "text": "Egypt",
+   "entity": "m83"
+  },
+  {
+   "para": "p033",
+   "start": 160,
+   "end": 170,
+   "text": "West Syria",
+   "entity": "m203"
+  },
+  {
+   "para": "p033",
+   "start": 261,
+   "end": 277,
+   "text": "Christian rebels",
+   "entity": "m71"
+  },
+  {
+   "para": "p033",
+   "start": 344,
+   "end": 351,
+   "text": "Armenia",
+   "entity": "m12"
+  },
+  {
+   "para": "p033",
+   "start": 621,
+   "end": 636,
+   "text": "Armenian church",
+   "entity": "m17"
+  },
+  {
+   "para": "p033",
+   "start": 728,
+   "end": 739,
+   "text": "Yazdgerd II",
+   "entity": "m211"
+  },
+  {
+   "para": "p033",
+   "start": 754,
+   "end": 764,
+   "text": "Yazdgerd I",
+   "entity": "m210"
+  },
+  {
+   "para": "p033",
+   "start": 814,
+   "end": 822,
+   "text": "Wahrām V",
+   "entity": "m201"
+  },
+  {
+   "para": "p033",
+   "start": 872,
+   "end": 887,
+   "text": "Armenian Church",
+   "entity": "m15"
+  },
+  {
+   "para": "p033",
+   "start": 1005,
+   "end": 1020,
+   "text": "Armenian clergy",
+   "entity": "m18"
+  },
+  {
+   "para": "p033",
+   "start": 1059,
+   "end": 1082,
+   "text": "Sasanian administration",
+   "entity": "m158"
+  },
+  {
+   "para": "p033",
+   "start": 1101,
+   "end": 1118,
+   "text": "Catholicos Yovsēp",
+   "entity": "m63"
+  },
+  {
+   "para": "p033",
+   "start": 1157,
+   "end": 1177,
+   "text": "Sasanian authorities",
+   "entity": "m159"
+  },
+  {
+   "para": "p033",
+   "start": 1179,
+   "end": 1184,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p033",
+   "start": 1195,
+   "end": 1201,
+   "text": "Yovsēp",
+   "entity": "m214"
+  },
+  {
+   "para": "p033",
+   "start": 1216,
+   "end": 1223,
+   "text": "Ayrarat",
+   "entity": "m43"
+  },
+  {
+   "para": "p033",
+   "start": 1251,
+   "end": 1256,
+   "text": "Łazar",
+   "entity": "m226"
+  },
+  {
+   "para": "p033",
+   "start": 1321,
+   "end": 1327,
+   "text": "Yovsēp",
+   "entity": "m214"
+  },
+  {
+   "para": "p033",
+   "start": 1347,
+   "end": 1367,
+   "text": "Council of Šahapivan",
+   "entity": "m74"
+  },
+  {
+   "para": "p033",
+   "start": 1375,
+   "end": 1389,
+   "text": "David Zakarian",
+   "entity": "m76"
+  },
+  {
+   "para": "p033",
+   "start": 1449,
+   "end": 1467,
+   "text": "East Syriac Church",
+   "entity": "m80"
+  },
+  {
+   "para": "p033",
+   "start": 1695,
+   "end": 1711,
+   "text": "Armenian clerics",
+   "entity": "m19"
+  },
+  {
+   "para": "p033",
+   "start": 1774,
+   "end": 1785,
+   "text": "Yazdgerd II",
+   "entity": "m211"
+  },
+  {
+   "para": "p033",
+   "start": 1862,
+   "end": 1875,
+   "text": "Albanian king",
+   "entity": "m5"
+  },
+  {
+   "para": "p033",
+   "start": 1909,
+   "end": 1913,
+   "text": "Huns",
+   "entity": "m108"
+  },
+  {
+   "para": "p033",
+   "start": 1915,
+   "end": 1932,
+   "text": "Armenian noblemen",
+   "entity": "m26"
+  },
+  {
+   "para": "p033",
+   "start": 1964,
+   "end": 1977,
+   "text": "Theodosius II",
+   "entity": "m184"
+  },
+  {
+   "para": "p033",
+   "start": 1975,
+   "end": 1977,
+   "text": "II",
+   "entity": "m110"
+  },
+  {
+   "para": "p033",
+   "start": 1983,
+   "end": 1988,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p033",
+   "start": 1983,
+   "end": 1988,
+   "text": "Ełišē",
+   "entity": "m85"
+  },
+  {
+   "para": "p033",
+   "start": 2001,
+   "end": 2016,
+   "text": "Persian captive",
+   "entity": "m138"
+  },
+  {
+   "para": "p033",
+   "start": 2050,
+   "end": 2058,
+   "text": "Yazdgerd",
+   "entity": "m209"
+  },
+  {
+   "para": "p033",
+   "start": 2120,
+   "end": 2141,
+   "text": "rebellion of AD 482–4",
+   "entity": "m222"
+  },
+  {
+   "para": "p033",
+   "start": 2305,
+   "end": 2323,
+   "text": "Armenian diplomacy",
+   "entity": "m21"
+  },
+  {
+   "para": "p033",
+   "start": 2347,
+   "end": 2358,
+   "text": "Vasak Siwni",
+   "entity": "m199"
+  },
+  {
+   "para": "p033",
+   "start": 2548,
+   "end": 2557,
+   "text": "Sasanians",
+   "entity": "m169"
+  },
+  {
+   "para": "p034",
+   "start": 16,
+   "end": 31,
+   "text": "Sasanian Empire",
+   "entity": "m154"
+  },
+  {
+   "para": "p034",
+   "start": 65,
+   "end": 71,
+   "text": "Vardan",
+   "entity": "m194"
+  },
+  {
+   "para": "p034",
+   "start": 190,
+   "end": 199,
+   "text": "Khuzestan",
+   "entity": "m118"
+  },
+  {
+   "para": "p034",
+   "start": 542,
+   "end": 551,
+   "text": "Sasanians",
+   "entity": "m169"
+  },
+  {
+   "para": "p034",
+   "start": 667,
+   "end": 675,
+   "text": "Sasanian",
+   "entity": "m153"
+  },
+  {
+   "para": "p035",
+   "start": 364,
+   "end": 383,
+   "text": "Armenian Christians",
+   "entity": "m14"
+  },
+  {
+   "para": "p035",
+   "start": 392,
+   "end": 406,
+   "text": "Sasanian court",
+   "entity": "m162"
+  },
+  {
+   "para": "p035",
+   "start": 630,
+   "end": 643,
+   "text": "Hunnic border",
+   "entity": "m106"
+  },
+  {
+   "para": "p035",
+   "start": 730,
+   "end": 739,
+   "text": "Sasanians",
+   "entity": "m169"
+  },
+  {
+   "para": "p035",
+   "start": 744,
+   "end": 749,
+   "text": "Pērōz",
+   "entity": "m146"
+  },
+  {
+   "para": "p035",
+   "start": 764,
+   "end": 780,
+   "text": "Hephthalite Huns",
+   "entity": "m99"
+  },
+  {
+   "para": "p035",
+   "start": 784,
+   "end": 795,
+   "text": "Tokharistan",
+   "entity": "m185"
+  },
+  {
+   "para": "p035",
+   "start": 814,
+   "end": 820,
+   "text": "Walāxš",
+   "entity": "m202"
+  }
+ ],
+ "facts": [
+  {
+   "para": "p001",
+   "subj": "m29",
+   "rel": "yago:winner",
+   "obj": "m155"
+  },
+  {
+   "para": "p002",
+   "subj": "m148",
+   "rel": "schema:location",
+   "obj": "m12"
+  },
+  {
+   "para": "p002",
+   "subj": "m60",
+   "rel": "ex:captiveIn",
+   "obj": "m154"
+  },
+  {
+   "para": "p003",
+   "subj": "m29",
+   "rel": "yago:winner",
+   "obj": "m163"
+  },
+  {
+   "para": "p003",
+   "subj": "m29",
+   "rel": "schema:location",
+   "obj": "m42"
+  },
+  {
+   "para": "p003",
+   "subj": "m29",
+   "rel": "yago:hasCause",
+   "obj": "m211"
+  },
+  {
+   "para": "p004",
+   "subj": "m104",
+   "rel": "yago:creator",
+   "obj": "m227"
+  },
+  {
+   "para": "p004",
+   "subj": "m109",
+   "rel": "schema:location",
+   "obj": "m6"
+  },
+  {
+   "para": "p004",
+   "subj": "m109",
+   "rel": "yago:neighbor",
+   "obj": "m61"
+  },
+  {
+   "para": "p004",
+   "subj": "m6",
+   "rel": "yago:neighbor",
+   "obj": "m61"
+  },
+  {
+   "para": "p004",
+   "subj": "m61",
+   "rel": "yago:neighbor",
+   "obj": "m118"
+  },
+  {
+   "para": "p004",
+   "subj": "m70",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p004",
+   "subj": "m226",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p004",
+   "subj": "m191",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p004",
+   "subj": "m191",
+   "rel": "ex:opposed",
+   "obj": "m169"
+  },
+  {
+   "para": "p004",
+   "subj": "m226",
+   "rel": "schema:worksFor",
+   "obj": "m191"
+  },
+  {
+   "para": "p004",
+   "subj": "m226",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p004",
+   "subj": "m190",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p004",
+   "subj": "m190",
+   "rel": "ex:opposed",
+   "obj": "m169"
+  },
+  {
+   "para": "p004",
+   "subj": "m226",
+   "rel": "schema:location",
+   "obj": "m200"
+  },
+  {
+   "para": "p004",
+   "subj": "m226",
+   "rel": "schema:location",
+   "obj": "m87"
+  },
+  {
+   "para": "p004",
+   "subj": "m226",
+   "rel": "schema:worksFor",
+   "obj": "m190"
+  },
+  {
+   "para": "p004",
+   "subj": "m200",
+   "rel": "schema:location",
+   "obj": "m87"
+  },
+  {
+   "para": "p004",
+   "subj": "m190",
+   "rel": "schema:location",
+   "obj": "m200"
+  },
+  {
+   "para": "p007",
+   "subj": "m100",
+   "rel": "yago:follows",
+   "obj": "m134"
+  },
+  {
+   "para": "p007",
+   "subj": "m195",
+   "rel": "schema:worksFor",
+   "obj": "m142"
+  },
+  {
+   "para": "p007",
+   "subj": "m195",
+   "rel": "schema:worksFor",
+   "obj": "m164"
+  },
+  {
+   "para": "p007",
+   "subj": "m226",
+   "rel": "schema:about",
+   "obj": "m126"
+  },
+  {
+   "para": "p007",
+   "subj": "m226",
+   "rel": "schema:about",
+   "obj": "m128"
+  },
+  {
+   "para": "p007",
+   "subj": "m126",
+   "rel": "schema:location",
+   "obj": "m128"
+  },
+  {
+   "para": "p007",
+   "subj": "m126",
+   "rel": "yago:partOf",
+   "obj": "m117"
+  },
+  {
+   "para": "p007",
+   "subj": "m164",
+   "rel": "schema:location",
+   "obj": "m126"
+  },
+  {
+   "para": "p007",
+   "subj": "m128",
+   "rel": "schema:location",
+   "obj": "m117"
+  },
+  {
+   "para": "p007",
+   "subj": "m164",
+   "rel": "schema:location",
+   "obj": "m128"
+  },
+  {
+   "para": "p007",
+   "subj": "m164",
+   "rel": "schema:location",
+   "obj": "m117"
+  },
+  {
+   "para": "p008",
+   "subj": "m48",
+   "rel": "ex:relativeOf",
+   "obj": "m51"
+  },
+  {
+   "para": "p008",
+   "subj": "m48",
+   "rel": "yago:partOf",
+   "obj": "m173"
+  },
+  {
+   "para": "p008",
+   "subj": "m51",
+   "rel": "yago:partOf",
+   "obj": "m173"
+  },
+  {
+   "para": "p008",
+   "subj": "m51",
+   "rel": "ex:captiveIn",
+   "obj": "m169"
+  },
+  {
+   "para": "p008",
+   "subj": "m199",
+   "rel": "yago:partOf",
+   "obj": "m173"
+  },
+  {
+   "para": "p008",
+   "subj": "m48",
+   "rel": "yago:hasFather",
+   "obj": "m198"
+  },
+  {
+   "para": "p008",
+   "subj": "m48",
+   "rel": "ex:captiveIn",
+   "obj": "m75"
+  },
+  {
+   "para": "p008",
+   "subj": "m50",
+   "rel": "yago:hasFather",
+   "obj": "m198"
+  },
+  {
+   "para": "p008",
+   "subj": "m50",
+   "rel": "ex:captiveIn",
+   "obj": "m75"
+  },
+  {
+   "para": "p009",
+   "subj": "m195",
+   "rel": "ex:relativeOf",
+   "obj": "m90"
+  },
+  {
+   "para": "p009",
+   "subj": "m195",
+   "rel": "ex:relativeOf",
+   "obj": "m235"
+  },
+  {
+   "para": "p009",
+   "subj": "m90",
+   "rel": "schema:spouse",
+   "obj": "m235"
+  },
+  {
+   "para": "p009",
+   "subj": "m89",
+   "rel": "schema:location",
+   "obj": "m12"
+  },
+  {
+   "para": "p010",
+   "subj": "m25",
+   "rel": "yago:influencedBy",
+   "obj": "m167"
+  },
+  {
+   "para": "p011",
+   "subj": "m145",
+   "rel": "ex:captiveIn",
+   "obj": "m93"
+  },
+  {
+   "para": "p013",
+   "subj": "m132",
+   "rel": "yago:hasFather",
+   "obj": "m38"
+  },
+  {
+   "para": "p013",
+   "subj": "m131",
+   "rel": "ex:relativeOf",
+   "obj": "m105"
+  },
+  {
+   "para": "p013",
+   "subj": "m131",
+   "rel": "schema:location",
+   "obj": "m200"
+  },
+  {
+   "para": "p013",
+   "subj": "m53",
+   "rel": "yago:creator",
+   "obj": "m131"
+  },
+  {
+   "para": "p013",
+   "subj": "m226",
+   "rel": "ex:relativeOf",
+   "obj": "m105"
+  },
+  {
+   "para": "p013",
+   "subj": "m226",
+   "rel": "schema:location",
+   "obj": "m200"
+  },
+  {
+   "para": "p014",
+   "subj": "m183",
+   "rel": "yago:creator",
+   "obj": "m8"
+  },
+  {
+   "para": "p014",
+   "subj": "m183",
+   "rel": "schema:about",
+   "obj": "m131"
+  },
+  {
+   "para": "p014",
+   "subj": "m161",
+   "rel": "yago:participant",
+   "obj": "m131"
+  },
+  {
+   "para": "p014",
+   "subj": "m131",
+   "rel": "ex:captiveIn",
+   "obj": "m52"
+  },
+  {
+   "para": "p014",
+   "subj": "m131",
+   "rel": "ex:captiveIn",
+   "obj": "m100"
+  },
+  {
+   "para": "p014",
+   "subj": "m1",
+   "rel": "yago:participant",
+   "obj": "m131"
+  },
+  {
+   "para": "p014",
+   "subj": "m131",
+   "rel": "ex:captiveIn",
+   "obj": "m123"
+  },
+  {
+   "para": "p014",
+   "subj": "m161",
+   "rel": "schema:location",
+   "obj": "m52"
+  },
+  {
+   "para": "p014",
+   "subj": "m161",
+   "rel": "yago:participant",
+   "obj": "m146"
+  },
+  {
+   "para": "p014",
+   "subj": "m1",
+   "rel": "schema:location",
+   "obj": "m100"
+  },
+  {
+   "para": "p014",
+   "subj": "m209",
+   "rel": "yago:follows",
+   "obj": "m1"
+  },
+  {
+   "para": "p014",
+   "subj": "m1",
+   "rel": "yago:leader",
+   "obj": "m146"
+  },
+  {
+   "para": "p014",
+   "subj": "m1",
+   "rel": "yago:participant",
+   "obj": "m123"
+  },
+  {
+   "para": "p014",
+   "subj": "m146",
+   "rel": "yago:follows",
+   "obj": "m209"
+  },
+  {
+   "para": "p014",
+   "subj": "m209",
+   "rel": "ex:opposed",
+   "obj": "m123"
+  },
+  {
+   "para": "p014",
+   "subj": "m146",
+   "rel": "ex:opposed",
+   "obj": "m123"
+  },
+  {
+   "para": "p014",
+   "subj": "m7",
+   "rel": "schema:location",
+   "obj": "m200"
+  },
+  {
+   "para": "p014",
+   "subj": "m68",
+   "rel": "schema:location",
+   "obj": "m200"
+  },
+  {
+   "para": "p014",
+   "subj": "m191",
+   "rel": "schema:location",
+   "obj": "m200"
+  },
+  {
+   "para": "p014",
+   "subj": "m131",
+   "rel": "schema:location",
+   "obj": "m234"
+  },
+  {
+   "para": "p014",
+   "subj": "m133",
+   "rel": "schema:location",
+   "obj": "m234"
+  },
+  {
+   "para": "p014",
+   "subj": "m141",
+   "rel": "yago:leader",
+   "obj": "m131"
+  },
+  {
+   "para": "p014",
+   "subj": "m131",
+   "rel": "schema:worksFor",
+   "obj": "m190"
+  },
+  {
+   "para": "p014",
+   "subj": "m141",
+   "rel": "yago:leader",
+   "obj": "m133"
+  },
+  {
+   "para": "p014",
+   "subj": "m133",
+   "rel": "schema:worksFor",
+   "obj": "m190"
+  },
+  {
+   "para": "p014",
+   "subj": "m118",
+   "rel": "yago:partOf",
+   "obj": "m136"
+  },
+  {
+   "para": "p015",
+   "subj": "m85",
+   "rel": "schema:worksFor",
+   "obj": "m209"
+  },
+  {
+   "para": "p015",
+   "subj": "m213",
+   "rel": "yago:hasFather",
+   "obj": "m209"
+  },
+  {
+   "para": "p015",
+   "subj": "m64",
+   "rel": "ex:opposed",
+   "obj": "m209"
+  },
+  {
+   "para": "p015",
+   "subj": "m213",
+   "rel": "ex:opposed",
+   "obj": "m64"
+  },
+  {
+   "para": "p016",
+   "subj": "m33",
+   "rel": "yago:leader",
+   "obj": "m211"
+  },
+  {
+   "para": "p016",
+   "subj": "m33",
+   "rel": "ex:captiveIn",
+   "obj": "m134"
+  },
+  {
+   "para": "p016",
+   "subj": "m27",
+   "rel": "yago:leader",
+   "obj": "m170"
+  },
+  {
+   "para": "p016",
+   "subj": "m27",
+   "rel": "yago:leader",
+   "obj": "m177"
+  },
+  {
+   "para": "p016",
+   "subj": "m27",
+   "rel": "schema:location",
+   "obj": "m93"
+  },
+  {
+   "para": "p016",
+   "subj": "m176",
+   "rel": "schema:location",
+   "obj": "m93"
+  },
+  {
+   "para": "p018",
+   "subj": "m169",
+   "rel": "ex:opposed",
+   "obj": "m121"
+  },
+  {
+   "para": "p018",
+   "subj": "m99",
+   "rel": "yago:follows",
+   "obj": "m209"
+  },
+  {
+   "para": "p018",
+   "subj": "m99",
+   "rel": "yago:follows",
+   "obj": "m123"
+  },
+  {
+   "para": "p018",
+   "subj": "m185",
+   "rel": "schema:location",
+   "obj": "m103"
+  },
+  {
+   "para": "p019",
+   "subj": "m146",
+   "rel": "ex:opposed",
+   "obj": "m123"
+  },
+  {
+   "para": "p019",
+   "subj": "m146",
+   "rel": "ex:opposed",
+   "obj": "m152"
+  },
+  {
+   "para": "p020",
+   "subj": "m209",
+   "rel": "schema:location",
+   "obj": "m93"
+  },
+  {
+   "para": "p020",
+   "subj": "m209",
+   "rel": "schema:location",
+   "obj": "m134"
+  },
+  {
+   "para": "p021",
+   "subj": "m93",
+   "rel": "yago:follows",
+   "obj": "m100"
+  },
+  {
+   "para": "p021",
+   "subj": "m226",
+   "rel": "yago:influencedBy",
+   "obj": "m38"
+  },
+  {
+   "para": "p021",
+   "subj": "m28",
+   "rel": "ex:captiveIn",
+   "obj": "m134"
+  },
+  {
+   "para": "p021",
+   "subj": "m193",
+   "rel": "yago:participant",
+   "obj": "m49"
+  },
+  {
+   "para": "p021",
+   "subj": "m193",
+   "rel": "yago:participant",
+   "obj": "m41"
+  },
+  {
+   "para": "p021",
+   "subj": "m193",
+   "rel": "yago:participant",
+   "obj": "m129"
+  },
+  {
+   "para": "p021",
+   "subj": "m193",
+   "rel": "yago:participant",
+   "obj": "m181"
+  },
+  {
+   "para": "p021",
+   "subj": "m181",
+   "rel": "ex:captiveIn",
+   "obj": "m73"
+  },
+  {
+   "para": "p021",
+   "subj": "m84",
+   "rel": "schema:location",
+   "obj": "m73"
+  },
+  {
+   "para": "p021",
+   "subj": "m32",
+   "rel": "yago:follows",
+   "obj": "m129"
+  },
+  {
+   "para": "p021",
+   "subj": "m97",
+   "rel": "schema:worksFor",
+   "obj": "m226"
+  },
+  {
+   "para": "p021",
+   "subj": "m96",
+   "rel": "ex:relativeOf",
+   "obj": "m190"
+  },
+  {
+   "para": "p021",
+   "subj": "m189",
+   "rel": "schema:about",
+   "obj": "m233"
+  },
+  {
+   "para": "p021",
+   "subj": "m189",
+   "rel": "schema:about",
+   "obj": "m195"
+  },
+  {
+   "para": "p021",
+   "subj": "m221",
+   "rel": "schema:about",
+   "obj": "m233"
+  },
+  {
+   "para": "p021",
+   "subj": "m195",
+   "rel": "ex:opposed",
+   "obj": "m233"
+  },
+  {
+   "para": "p022",
+   "subj": "m195",
+   "rel": "ex:relativeOf",
+   "obj": "m192"
+  },
+  {
+   "para": "p022",
+   "subj": "m54",
+   "rel": "yago:participant",
+   "obj": "m47"
+  },
+  {
+   "para": "p022",
+   "subj": "m54",
+   "rel": "yago:participant",
+   "obj": "m147"
+  },
+  {
+   "para": "p022",
+   "subj": "m54",
+   "rel": "yago:participant",
+   "obj": "m125"
+  },
+  {
+   "para": "p022",
+   "subj": "m147",
+   "rel": "schema:memberOf",
+   "obj": "m125"
+  },
+  {
+   "para": "p023",
+   "subj": "m118",
+   "rel": "yago:neighbor",
+   "obj": "m39"
+  },
+  {
+   "para": "p023",
+   "subj": "m224",
+   "rel": "yago:neighbor",
+   "obj": "m39"
+  },
+  {
+   "para": "p023",
+   "subj": "m118",
+   "rel": "yago:follows",
+   "obj": "m88"
+  },
+  {
+   "para": "p023",
+   "subj": "m30",
+   "rel": "schema:about",
+   "obj": "m62"
+  },
+  {
+   "para": "p023",
+   "subj": "m30",
+   "rel": "schema:about",
+   "obj": "m220"
+  },
+  {
+   "para": "p023",
+   "subj": "m30",
+   "rel": "schema:about",
+   "obj": "m23"
+  },
+  {
+   "para": "p023",
+   "subj": "m30",
+   "rel": "schema:about",
+   "obj": "m36"
+  },
+  {
+   "para": "p023",
+   "subj": "m62",
+   "rel": "schema:location",
+   "obj": "m220"
+  },
+  {
+   "para": "p023",
+   "subj": "m23",
+   "rel": "ex:captiveIn",
+   "obj": "m62"
+  },
+  {
+   "para": "p023",
+   "subj": "m36",
+   "rel": "ex:captiveIn",
+   "obj": "m62"
+  },
+  {
+   "para": "p023",
+   "subj": "m208",
+   "rel": "ex:captiveIn",
+   "obj": "m62"
+  },
+  {
+   "para": "p023",
+   "subj": "m156",
+   "rel": "ex:captiveIn",
+   "obj": "m62"
+  },
+  {
+   "para": "p023",
+   "subj": "m157",
+   "rel": "ex:captiveIn",
+   "obj": "m62"
+  },
+  {
+   "para": "p023",
+   "subj": "m114",
+   "rel": "ex:captiveIn",
+   "obj": "m62"
+  },
+  {
+   "para": "p023",
+   "subj": "m23",
+   "rel": "ex:captiveIn",
+   "obj": "m220"
+  },
+  {
+   "para": "p023",
+   "subj": "m36",
+   "rel": "ex:captiveIn",
+   "obj": "m220"
+  },
+  {
+   "para": "p023",
+   "subj": "m208",
+   "rel": "ex:captiveIn",
+   "obj": "m220"
+  },
+  {
+   "para": "p023",
+   "subj": "m156",
+   "rel": "ex:captiveIn",
+   "obj": "m220"
+  },
+  {
+   "para": "p023",
+   "subj": "m157",
+   "rel": "ex:captiveIn",
+   "obj": "m220"
+  },
+  {
+   "para": "p023",
+   "subj": "m114",
+   "rel": "ex:captiveIn",
+   "obj": "m220"
+  },
+  {
+   "para": "p023",
+   "subj": "m36",
+   "rel": "yago:partOf",
+   "obj": "m23"
+  },
+  {
+   "para": "p023",
+   "subj": "m208",
+   "rel": "yago:partOf",
+   "obj": "m23"
+  },
+  {
+   "para": "p023",
+   "subj": "m58",
+   "rel": "schema:about",
+   "obj": "m220"
+  },
+  {
+   "para": "p024",
+   "subj": "m191",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p024",
+   "subj": "m198",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p024",
+   "subj": "m35",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p024",
+   "subj": "m113",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p024",
+   "subj": "m56",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p024",
+   "subj": "m191",
+   "rel": "ex:relativeOf",
+   "obj": "m198"
+  },
+  {
+   "para": "p024",
+   "subj": "m191",
+   "rel": "ex:relativeOf",
+   "obj": "m35"
+  },
+  {
+   "para": "p024",
+   "subj": "m191",
+   "rel": "schema:memberOf",
+   "obj": "m113"
+  },
+  {
+   "para": "p024",
+   "subj": "m191",
+   "rel": "ex:captiveIn",
+   "obj": "m175"
+  },
+  {
+   "para": "p024",
+   "subj": "m191",
+   "rel": "ex:captiveIn",
+   "obj": "m139"
+  },
+  {
+   "para": "p024",
+   "subj": "m198",
+   "rel": "ex:relativeOf",
+   "obj": "m35"
+  },
+  {
+   "para": "p024",
+   "subj": "m198",
+   "rel": "ex:captiveIn",
+   "obj": "m175"
+  },
+  {
+   "para": "p024",
+   "subj": "m198",
+   "rel": "ex:captiveIn",
+   "obj": "m139"
+  },
+  {
+   "para": "p024",
+   "subj": "m35",
+   "rel": "schema:memberOf",
+   "obj": "m113"
+  },
+  {
+   "para": "p024",
+   "subj": "m35",
+   "rel": "ex:captiveIn",
+   "obj": "m175"
+  },
+  {
+   "para": "p024",
+   "subj": "m35",
+   "rel": "ex:captiveIn",
+   "obj": "m139"
+  },
+  {
+   "para": "p024",
+   "subj": "m56",
+   "rel": "schema:memberOf",
+   "obj": "m113"
+  },
+  {
+   "para": "p024",
+   "subj": "m113",
+   "rel": "ex:captiveIn",
+   "obj": "m139"
+  },
+  {
+   "para": "p024",
+   "subj": "m56",
+   "rel": "ex:captiveIn",
+   "obj": "m175"
+  },
+  {
+   "para": "p024",
+   "subj": "m56",
+   "rel": "ex:captiveIn",
+   "obj": "m139"
+  },
+  {
+   "para": "p024",
+   "subj": "m199",
+   "rel": "ex:captiveIn",
+   "obj": "m175"
+  },
+  {
+   "para": "p024",
+   "subj": "m199",
+   "rel": "ex:captiveIn",
+   "obj": "m139"
+  },
+  {
+   "para": "p025",
+   "subj": "m91",
+   "rel": "schema:location",
+   "obj": "m95"
+  },
+  {
+   "para": "p025",
+   "subj": "m46",
+   "rel": "ex:captiveIn",
+   "obj": "m162"
+  },
+  {
+   "para": "p025",
+   "subj": "m46",
+   "rel": "ex:captiveIn",
+   "obj": "m136"
+  },
+  {
+   "para": "p026",
+   "subj": "m130",
+   "rel": "schema:worksFor",
+   "obj": "m209"
+  },
+  {
+   "para": "p027",
+   "subj": "m165",
+   "rel": "yago:follows",
+   "obj": "m135"
+  },
+  {
+   "para": "p027",
+   "subj": "m24",
+   "rel": "schema:worksFor",
+   "obj": "m154"
+  },
+  {
+   "para": "p027",
+   "subj": "m168",
+   "rel": "yago:participant",
+   "obj": "m24"
+  },
+  {
+   "para": "p027",
+   "subj": "m30",
+   "rel": "yago:influencedBy",
+   "obj": "m107"
+  },
+  {
+   "para": "p028",
+   "subj": "m16",
+   "rel": "schema:about",
+   "obj": "m118"
+  },
+  {
+   "para": "p028",
+   "subj": "m211",
+   "rel": "ex:opposed",
+   "obj": "m22"
+  },
+  {
+   "para": "p028",
+   "subj": "m211",
+   "rel": "ex:captiveIn",
+   "obj": "m151"
+  },
+  {
+   "para": "p028",
+   "subj": "m211",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p028",
+   "subj": "m22",
+   "rel": "ex:captiveIn",
+   "obj": "m151"
+  },
+  {
+   "para": "p028",
+   "subj": "m22",
+   "rel": "ex:captiveIn",
+   "obj": "m118"
+  },
+  {
+   "para": "p028",
+   "subj": "m78",
+   "rel": "yago:partOf",
+   "obj": "m178"
+  },
+  {
+   "para": "p029",
+   "subj": "m119",
+   "rel": "ex:captiveIn",
+   "obj": "m162"
+  },
+  {
+   "para": "p030",
+   "subj": "m207",
+   "rel": "ex:captiveIn",
+   "obj": "m232"
+  },
+  {
+   "para": "p030",
+   "subj": "m207",
+   "rel": "ex:captiveIn",
+   "obj": "m55"
+  },
+  {
+   "para": "p030",
+   "subj": "m207",
+   "rel": "ex:captiveIn",
+   "obj": "m88"
+  },
+  {
+   "para": "p030",
+   "subj": "m3",
+   "rel": "schema:location",
+   "obj": "m134"
+  },
+  {
+   "para": "p030",
+   "subj": "m3",
+   "rel": "ex:captiveIn",
+   "obj": "m232"
+  },
+  {
+   "para": "p030",
+   "subj": "m3",
+   "rel": "ex:captiveIn",
+   "obj": "m55"
+  },
+  {
+   "para": "p030",
+   "subj": "m3",
+   "rel": "ex:captiveIn",
+   "obj": "m88"
+  },
+  {
+   "para": "p030",
+   "subj": "m232",
+   "rel": "schema:location",
+   "obj": "m55"
+  },
+  {
+   "para": "p030",
+   "subj": "m232",
+   "rel": "schema:location",
+   "obj": "m88"
+  },
+  {
+   "para": "p030",
+   "subj": "m55",
+   "rel": "yago:partOf",
+   "obj": "m88"
+  },
+  {
+   "para": "p030",
+   "subj": "m2",
+   "rel": "schema:location",
+   "obj": "m12"
+  },
+  {
+   "para": "p030",
+   "subj": "m2",
+   "rel": "ex:captiveIn",
+   "obj": "m40"
+  },
+  {
+   "para": "p030",
+   "subj": "m2",
+   "rel": "schema:location",
+   "obj": "m59"
+  },
+  {
+   "para": "p030",
+   "subj": "m59",
+   "rel": "schema:location",
+   "obj": "m12"
+  },
+  {
+   "para": "p030",
+   "subj": "m85",
+   "rel": "yago:influencedBy",
+   "obj": "m137"
+  },
+  {
+   "para": "p030",
+   "subj": "m205",
+   "rel": "ex:captiveIn",
+   "obj": "m134"
+  },
+  {
+   "para": "p030",
+   "subj": "m2",
+   "rel": "ex:captiveIn",
+   "obj": "m134"
+  },
+  {
+   "para": "p031",
+   "subj": "m230",
+   "rel": "ex:opposed",
+   "obj": "m217"
+  },
+  {
+   "para": "p031",
+   "subj": "m214",
+   "rel": "schema:location",
+   "obj": "m9"
+  },
+  {
+   "para": "p031",
+   "subj": "m209",
+   "rel": "ex:opposed",
+   "obj": "m123"
+  },
+  {
+   "para": "p032",
+   "subj": "m187",
+   "rel": "schema:deathPlace",
+   "obj": "m39"
+  },
+  {
+   "para": "p033",
+   "subj": "m18",
+   "rel": "schema:location",
+   "obj": "m112"
+  },
+  {
+   "para": "p033",
+   "subj": "m71",
+   "rel": "yago:leader",
+   "obj": "m18"
+  },
+  {
+   "para": "p033",
+   "subj": "m71",
+   "rel": "schema:location",
+   "obj": "m112"
+  },
+  {
+   "para": "p033",
+   "subj": "m17",
+   "rel": "schema:location",
+   "obj": "m12"
+  },
+  {
+   "para": "p033",
+   "subj": "m211",
+   "rel": "yago:follows",
+   "obj": "m210"
+  },
+  {
+   "para": "p033",
+   "subj": "m63",
+   "rel": "yago:partOf",
+   "obj": "m18"
+  },
+  {
+   "para": "p033",
+   "subj": "m214",
+   "rel": "schema:location",
+   "obj": "m43"
+  },
+  {
+   "para": "p033",
+   "subj": "m74",
+   "rel": "yago:leader",
+   "obj": "m214"
+  },
+  {
+   "para": "p033",
+   "subj": "m76",
+   "rel": "schema:about",
+   "obj": "m74"
+  },
+  {
+   "para": "p033",
+   "subj": "m76",
+   "rel": "schema:about",
+   "obj": "m80"
+  },
+  {
+   "para": "p033",
+   "subj": "m19",
+   "rel": "ex:opposed",
+   "obj": "m211"
+  },
+  {
+   "para": "p033",
+   "subj": "m138",
+   "rel": "schema:worksFor",
+   "obj": "m184"
+  },
+  {
+   "para": "p033",
+   "subj": "m110",
+   "rel": "yago:creator",
+   "obj": "m85"
+  },
+  {
+   "para": "p033",
+   "subj": "m138",
+   "rel": "schema:worksFor",
+   "obj": "m209"
+  },
+  {
+   "para": "p033",
+   "subj": "m199",
+   "rel": "schema:worksFor",
+   "obj": "m21"
+  },
+  {
+   "para": "p034",
+   "subj": "m194",
+   "rel": "ex:opposed",
+   "obj": "m154"
+  },
+  {
+   "para": "p035",
+   "subj": "m169",
+   "rel": "yago:influencedBy",
+   "obj": "m106"
+  },
+  {
+   "para": "p035",
+   "subj": "m99",
+   "rel": "ex:opposed",
+   "obj": "m169"
+  },
+  {
+   "para": "p035",
+   "subj": "m146",
+   "rel": "ex:opposed",
+   "obj": "m99"
+  },
+  {
+   "para": "p035",
+   "subj": "m146",
+   "rel": "schema:deathPlace",
+   "obj": "m185"
+  },
+  {
+   "para": "p035",
+   "subj": "m202",
+   "rel": "yago:follows",
+   "obj": "m146"
+  },
+  {
+   "para": "p035",
+   "subj": "m202",
+   "rel": "ex:opposed",
+   "obj": "m99"
+  },
+  {
+   "para": "p035",
+   "subj": "m202",
+   "rel": "schema:location",
+   "obj": "m185"
+  }
+ ]
+}

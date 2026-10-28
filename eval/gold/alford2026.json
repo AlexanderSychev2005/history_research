@@ -1,388 +1,1108 @@
 {
-  "doc_id": "alford2026",
-  "annotator": "draft_requires_review",
-  "scope": {
-    "paragraphs": [
-      "p001",
-      "p002",
-      "p003",
-      "p004",
-      "p005"
-    ]
+ "doc_id": "alford2026",
+ "annotator": "claude-draft (from the text only, before seeing relation output); needs historian review",
+ "scope": {
+  "paragraphs": [
+   "p001",
+   "p003",
+   "p004",
+   "p005",
+   "p013",
+   "p018",
+   "p024",
+   "p025",
+   "p032"
+  ]
+ },
+ "entities": [
+  {
+   "eid": "REB",
+   "label": "Armenian rebellion",
+   "type": "event",
+   "aliases": []
   },
-  "entities": [
-    {
-      "eid": "E1",
-      "label": "Armenian rebellion"
-    },
-    {
-      "eid": "E2",
-      "label": "Yazdgerd II"
-    },
-    {
-      "eid": "E3",
-      "label": "Sasanian"
-    },
-    {
-      "eid": "E4",
-      "label": "Armenia"
-    },
-    {
-      "eid": "E5",
-      "label": "Sasanian Empire"
-    },
-    {
-      "eid": "E6",
-      "label": "Huns"
-    },
-    {
-      "eid": "E7",
-      "label": "Sasanian forces"
-    },
-    {
-      "eid": "E8",
-      "label": "Awarayr"
-    },
-    {
-      "eid": "E9",
-      "label": "Vardan Mamikonean"
-    },
-    {
-      "eid": "E10",
-      "label": "Armenian Church"
-    },
-    {
-      "eid": "E11",
-      "label": "Łazar P‘arpec‘i"
-    },
-    {
-      "eid": "E12",
-      "label": "Gorgān"
-    },
-    {
-      "eid": "E13",
-      "label": "Hyrcania"
-    },
-    {
-      "eid": "E14",
-      "label": "Alborz"
-    },
-    {
-      "eid": "E15",
-      "label": "Caspian Sea"
-    },
-    {
-      "eid": "E16",
-      "label": "Khuzestan"
-    },
-    {
-      "eid": "E18",
-      "label": "Vahan Mamikonean"
-    },
-    {
-      "eid": "E19",
-      "label": "Sasanians"
-    },
-    {
-      "eid": "E21",
-      "label": "Vałaršapat"
-    },
-    {
-      "eid": "E22",
-      "label": "Eǰmiacin"
-    },
-    {
-      "eid": "E23",
-      "label": "Ełišē"
-    },
-    {
-      "eid": "E24",
-      "label": "Robert Thomson"
-    },
-    {
-      "eid": "E25",
-      "label": "Akinean"
-    },
-    {
-      "eid": "E26",
-      "label": "Kiwlēsērean"
-    },
-    {
-      "eid": "E27",
-      "label": "Philo"
-    },
-    {
-      "eid": "E28",
-      "label": "John of Ephesus"
-    }
-  ],
-  "mentions": [
-    {
-      "para": "p001",
-      "start": 106,
-      "end": 124,
-      "text": "Armenian rebellion",
-      "entity": "E1"
-    },
-    {
-      "para": "p001",
-      "start": 147,
-      "end": 158,
-      "text": "Yazdgerd II",
-      "entity": "E2"
-    },
-    {
-      "para": "p001",
-      "start": 133,
-      "end": 141,
-      "text": "Sasanian",
-      "entity": "E3"
-    },
-    {
-      "para": "p001",
-      "start": 362,
-      "end": 370,
-      "text": "Sasanian",
-      "entity": "E3"
-    },
-    {
-      "para": "p002",
-      "start": 10,
-      "end": 17,
-      "text": "Armenia",
-      "entity": "E4"
-    },
-    {
-      "para": "p002",
-      "start": 30,
-      "end": 45,
-      "text": "Sasanian Empire",
-      "entity": "E5"
-    },
-    {
-      "para": "p002",
-      "start": 73,
-      "end": 77,
-      "text": "Huns",
-      "entity": "E6"
-    },
-    {
-      "para": "p003",
-      "start": 22,
-      "end": 40,
-      "text": "Armenian rebellion",
-      "entity": "E1"
-    },
-    {
-      "para": "p003",
-      "start": 56,
-      "end": 71,
-      "text": "Sasanian forces",
-      "entity": "E7"
-    },
-    {
-      "para": "p003",
-      "start": 75,
-      "end": 82,
-      "text": "Awarayr",
-      "entity": "E8"
-    },
-    {
-      "para": "p003",
-      "start": 247,
-      "end": 258,
-      "text": "Yazdgerd II",
-      "entity": "E2"
-    },
-    {
-      "para": "p003",
-      "start": 375,
-      "end": 392,
-      "text": "Vardan Mamikonean",
-      "entity": "E9"
-    },
-    {
-      "para": "p003",
-      "start": 443,
-      "end": 458,
-      "text": "Armenian Church",
-      "entity": "E10"
-    },
-    {
-      "para": "p004",
-      "start": 37,
-      "end": 52,
-      "text": "Łazar P‘arpec‘i",
-      "entity": "E11"
-    },
-    {
-      "para": "p004",
-      "start": 178,
-      "end": 184,
-      "text": "Gorgān",
-      "entity": "E12"
-    },
-    {
-      "para": "p004",
-      "start": 193,
-      "end": 201,
-      "text": "Hyrcania",
-      "entity": "E13"
-    },
-    {
-      "para": "p004",
-      "start": 227,
-      "end": 233,
-      "text": "Alborz",
-      "entity": "E14"
-    },
-    {
-      "para": "p004",
-      "start": 262,
-      "end": 273,
-      "text": "Caspian Sea",
-      "entity": "E15"
-    },
-    {
-      "para": "p004",
-      "start": 333,
-      "end": 342,
-      "text": "Khuzestan",
-      "entity": "E16"
-    },
-    {
-      "para": "p004",
-      "start": 649,
-      "end": 658,
-      "text": "Khuzestan",
-      "entity": "E16"
-    },
-    {
-      "para": "p004",
-      "start": 396,
-      "end": 401,
-      "text": "Łazar",
-      "entity": "E11"
-    },
-    {
-      "para": "p004",
-      "start": 726,
-      "end": 731,
-      "text": "Łazar",
-      "entity": "E11"
-    },
-    {
-      "para": "p004",
-      "start": 551,
-      "end": 567,
-      "text": "Vahan Mamikonean",
-      "entity": "E18"
-    },
-    {
-      "para": "p004",
-      "start": 701,
-      "end": 710,
-      "text": "Sasanians",
-      "entity": "E19"
-    },
-    {
-      "para": "p004",
-      "start": 741,
-      "end": 746,
-      "text": "Vahan",
-      "entity": "E18"
-    },
-    {
-      "para": "p004",
-      "start": 874,
-      "end": 879,
-      "text": "Vahan",
-      "entity": "E18"
-    },
-    {
-      "para": "p004",
-      "start": 842,
-      "end": 852,
-      "text": "Vałaršapat",
-      "entity": "E21"
-    },
-    {
-      "para": "p004",
-      "start": 861,
-      "end": 869,
-      "text": "Eǰmiacin",
-      "entity": "E22"
-    },
-    {
-      "para": "p005",
-      "start": 56,
-      "end": 61,
-      "text": "Ełišē",
-      "entity": "E23"
-    },
-    {
-      "para": "p005",
-      "start": 188,
-      "end": 193,
-      "text": "Ełišē",
-      "entity": "E23"
-    },
-    {
-      "para": "p005",
-      "start": 393,
-      "end": 398,
-      "text": "Ełišē",
-      "entity": "E23"
-    },
-    {
-      "para": "p005",
-      "start": 97,
-      "end": 103,
-      "text": "Gorgān",
-      "entity": "E12"
-    },
-    {
-      "para": "p005",
-      "start": 141,
-      "end": 146,
-      "text": "Łazar",
-      "entity": "E11"
-    },
-    {
-      "para": "p005",
-      "start": 324,
-      "end": 338,
-      "text": "Robert Thomson",
-      "entity": "E24"
-    },
-    {
-      "para": "p005",
-      "start": 363,
-      "end": 370,
-      "text": "Akinean",
-      "entity": "E25"
-    },
-    {
-      "para": "p005",
-      "start": 375,
-      "end": 386,
-      "text": "Kiwlēsērean",
-      "entity": "E26"
-    },
-    {
-      "para": "p005",
-      "start": 514,
-      "end": 519,
-      "text": "Philo",
-      "entity": "E27"
-    },
-    {
-      "para": "p005",
-      "start": 541,
-      "end": 556,
-      "text": "John of Ephesus",
-      "entity": "E28"
-    }
-  ],
-  "facts": []
+  {
+   "eid": "YII",
+   "label": "Yazdgerd II",
+   "type": "person",
+   "aliases": [
+    "Yazdgerd"
+   ]
+  },
+  {
+   "eid": "AWA",
+   "label": "Awarayr",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "VAR",
+   "label": "Vardan Mamikonean",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "ARC",
+   "label": "Armenian Church",
+   "type": "organization",
+   "aliases": []
+  },
+  {
+   "eid": "LAZ",
+   "label": "Łazar P‘arpec‘i",
+   "type": "person",
+   "aliases": [
+    "Łazar"
+   ]
+  },
+  {
+   "eid": "HOA",
+   "label": "History of the Armenians",
+   "type": "written work",
+   "aliases": []
+  },
+  {
+   "eid": "GOR",
+   "label": "Gorgān",
+   "type": "location",
+   "aliases": [
+    "Hyrcania"
+   ]
+  },
+  {
+   "eid": "ALB",
+   "label": "Alborz",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "CAS",
+   "label": "Caspian Sea",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "KHU",
+   "label": "Khuzestan",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "VAH",
+   "label": "Vahan Mamikonean",
+   "type": "person",
+   "aliases": [
+    "Vahan"
+   ]
+  },
+  {
+   "eid": "SAS",
+   "label": "Sasanian Empire",
+   "type": "location",
+   "aliases": [
+    "Persia",
+    "Sasanians"
+   ]
+  },
+  {
+   "eid": "VAL",
+   "label": "Vałaršapat",
+   "type": "location",
+   "aliases": [
+    "Eǰmiacin"
+   ]
+  },
+  {
+   "eid": "ELI",
+   "label": "Ełišē",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "THO",
+   "label": "Robert Thomson",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "AKI",
+   "label": "Akinean",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "KIW",
+   "label": "Kiwlēsērean",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "PHI",
+   "label": "Philo",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "JOE",
+   "label": "John of Ephesus",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "ECH",
+   "label": "Ecclesiastical Histories",
+   "type": "written work",
+   "aliases": []
+  },
+  {
+   "eid": "NER",
+   "label": "Nerseh Kamsarakan",
+   "type": "person",
+   "aliases": [
+    "Nerseh"
+   ]
+  },
+  {
+   "eid": "SIR",
+   "label": "Širak",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "ARS",
+   "label": "Aršawir Kamsarakan",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "HRA",
+   "label": "Hrahat",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "AKE",
+   "label": "Battle of Akesga",
+   "type": "event",
+   "aliases": []
+  },
+  {
+   "eid": "ARM",
+   "label": "Aršamunik‘",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "ARN",
+   "label": "Armenia",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "KID",
+   "label": "Kidarite Huns",
+   "type": "organization",
+   "aliases": [
+    "Kidarites"
+   ]
+  },
+  {
+   "eid": "PER",
+   "label": "Pērōz",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "HEP",
+   "label": "Hephthalite Huns",
+   "type": "organization",
+   "aliases": []
+  },
+  {
+   "eid": "TOK",
+   "label": "Tokharistan",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "HIN",
+   "label": "Hindu Kush",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "VSK",
+   "label": "Vasak",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "ART",
+   "label": "Artašēs",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "KAM",
+   "label": "Kamsarakan family",
+   "type": "organization",
+   "aliases": []
+  },
+  {
+   "eid": "TAT",
+   "label": "T‘at‘ik",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "BAS",
+   "label": "Basean",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "VSI",
+   "label": "Vasak Siwni",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "SWK",
+   "label": "Siwnik‘",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "MAM",
+   "label": "Mamikoneans",
+   "type": "organization",
+   "aliases": []
+  },
+  {
+   "eid": "ASU",
+   "label": "Ašuša",
+   "type": "person",
+   "aliases": []
+  },
+  {
+   "eid": "GUG",
+   "label": "Gugark‘",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "ASO",
+   "label": "Asorestan",
+   "type": "location",
+   "aliases": []
+  },
+  {
+   "eid": "LEW",
+   "label": "Łewondeank‘",
+   "type": "organization",
+   "aliases": []
+  }
+ ],
+ "mentions": [
+  {
+   "para": "p001",
+   "start": 106,
+   "end": 124,
+   "text": "Armenian rebellion",
+   "entity": "REB"
+  },
+  {
+   "para": "p001",
+   "start": 147,
+   "end": 158,
+   "text": "Yazdgerd II",
+   "entity": "YII"
+  },
+  {
+   "para": "p003",
+   "start": 22,
+   "end": 40,
+   "text": "Armenian rebellion",
+   "entity": "REB"
+  },
+  {
+   "para": "p003",
+   "start": 75,
+   "end": 82,
+   "text": "Awarayr",
+   "entity": "AWA"
+  },
+  {
+   "para": "p003",
+   "start": 247,
+   "end": 258,
+   "text": "Yazdgerd II",
+   "entity": "YII"
+  },
+  {
+   "para": "p003",
+   "start": 375,
+   "end": 392,
+   "text": "Vardan Mamikonean",
+   "entity": "VAR"
+  },
+  {
+   "para": "p003",
+   "start": 443,
+   "end": 458,
+   "text": "Armenian Church",
+   "entity": "ARC"
+  },
+  {
+   "para": "p004",
+   "start": 37,
+   "end": 52,
+   "text": "Łazar P‘arpec‘i",
+   "entity": "LAZ"
+  },
+  {
+   "para": "p004",
+   "start": 92,
+   "end": 116,
+   "text": "History of the Armenians",
+   "entity": "HOA"
+  },
+  {
+   "para": "p004",
+   "start": 178,
+   "end": 184,
+   "text": "Gorgān",
+   "entity": "GOR"
+  },
+  {
+   "para": "p004",
+   "start": 193,
+   "end": 201,
+   "text": "Hyrcania",
+   "entity": "GOR"
+  },
+  {
+   "para": "p004",
+   "start": 227,
+   "end": 233,
+   "text": "Alborz",
+   "entity": "ALB"
+  },
+  {
+   "para": "p004",
+   "start": 262,
+   "end": 273,
+   "text": "Caspian Sea",
+   "entity": "CAS"
+  },
+  {
+   "para": "p004",
+   "start": 333,
+   "end": 342,
+   "text": "Khuzestan",
+   "entity": "KHU"
+  },
+  {
+   "para": "p004",
+   "start": 396,
+   "end": 401,
+   "text": "Łazar",
+   "entity": "LAZ"
+  },
+  {
+   "para": "p004",
+   "start": 551,
+   "end": 567,
+   "text": "Vahan Mamikonean",
+   "entity": "VAH"
+  },
+  {
+   "para": "p004",
+   "start": 649,
+   "end": 658,
+   "text": "Khuzestan",
+   "entity": "KHU"
+  },
+  {
+   "para": "p004",
+   "start": 701,
+   "end": 710,
+   "text": "Sasanians",
+   "entity": "SAS"
+  },
+  {
+   "para": "p004",
+   "start": 726,
+   "end": 731,
+   "text": "Łazar",
+   "entity": "LAZ"
+  },
+  {
+   "para": "p004",
+   "start": 741,
+   "end": 746,
+   "text": "Vahan",
+   "entity": "VAH"
+  },
+  {
+   "para": "p004",
+   "start": 842,
+   "end": 852,
+   "text": "Vałaršapat",
+   "entity": "VAL"
+  },
+  {
+   "para": "p004",
+   "start": 861,
+   "end": 869,
+   "text": "Eǰmiacin",
+   "entity": "VAL"
+  },
+  {
+   "para": "p004",
+   "start": 874,
+   "end": 879,
+   "text": "Vahan",
+   "entity": "VAH"
+  },
+  {
+   "para": "p005",
+   "start": 56,
+   "end": 61,
+   "text": "Ełišē",
+   "entity": "ELI"
+  },
+  {
+   "para": "p005",
+   "start": 97,
+   "end": 103,
+   "text": "Gorgān",
+   "entity": "GOR"
+  },
+  {
+   "para": "p005",
+   "start": 141,
+   "end": 146,
+   "text": "Łazar",
+   "entity": "LAZ"
+  },
+  {
+   "para": "p005",
+   "start": 188,
+   "end": 193,
+   "text": "Ełišē",
+   "entity": "ELI"
+  },
+  {
+   "para": "p005",
+   "start": 324,
+   "end": 338,
+   "text": "Robert Thomson",
+   "entity": "THO"
+  },
+  {
+   "para": "p005",
+   "start": 363,
+   "end": 370,
+   "text": "Akinean",
+   "entity": "AKI"
+  },
+  {
+   "para": "p005",
+   "start": 375,
+   "end": 386,
+   "text": "Kiwlēsērean",
+   "entity": "KIW"
+  },
+  {
+   "para": "p005",
+   "start": 393,
+   "end": 398,
+   "text": "Ełišē",
+   "entity": "ELI"
+  },
+  {
+   "para": "p005",
+   "start": 514,
+   "end": 519,
+   "text": "Philo",
+   "entity": "PHI"
+  },
+  {
+   "para": "p005",
+   "start": 541,
+   "end": 556,
+   "text": "John of Ephesus",
+   "entity": "JOE"
+  },
+  {
+   "para": "p005",
+   "start": 558,
+   "end": 582,
+   "text": "Ecclesiastical Histories",
+   "entity": "ECH"
+  },
+  {
+   "para": "p013",
+   "start": 4,
+   "end": 10,
+   "text": "Gorgān",
+   "entity": "GOR"
+  },
+  {
+   "para": "p013",
+   "start": 37,
+   "end": 42,
+   "text": "Ełišē",
+   "entity": "ELI"
+  },
+  {
+   "para": "p013",
+   "start": 51,
+   "end": 68,
+   "text": "Nerseh Kamsarakan",
+   "entity": "NER"
+  },
+  {
+   "para": "p013",
+   "start": 107,
+   "end": 113,
+   "text": "Nerseh",
+   "entity": "NER"
+  },
+  {
+   "para": "p013",
+   "start": 117,
+   "end": 122,
+   "text": "Širak",
+   "entity": "SIR"
+  },
+  {
+   "para": "p013",
+   "start": 146,
+   "end": 164,
+   "text": "Aršawir Kamsarakan",
+   "entity": "ARS"
+  },
+  {
+   "para": "p013",
+   "start": 227,
+   "end": 233,
+   "text": "Nerseh",
+   "entity": "NER"
+  },
+  {
+   "para": "p013",
+   "start": 249,
+   "end": 254,
+   "text": "Łazar",
+   "entity": "LAZ"
+  },
+  {
+   "para": "p013",
+   "start": 290,
+   "end": 295,
+   "text": "Łazar",
+   "entity": "LAZ"
+  },
+  {
+   "para": "p013",
+   "start": 326,
+   "end": 332,
+   "text": "Nerseh",
+   "entity": "NER"
+  },
+  {
+   "para": "p013",
+   "start": 334,
+   "end": 339,
+   "text": "Łazar",
+   "entity": "LAZ"
+  },
+  {
+   "para": "p013",
+   "start": 351,
+   "end": 357,
+   "text": "Nerseh",
+   "entity": "NER"
+  },
+  {
+   "para": "p013",
+   "start": 374,
+   "end": 380,
+   "text": "Hrahat",
+   "entity": "HRA"
+  },
+  {
+   "para": "p013",
+   "start": 452,
+   "end": 462,
+   "text": "Vałaršapat",
+   "entity": "VAL"
+  },
+  {
+   "para": "p013",
+   "start": 477,
+   "end": 483,
+   "text": "Nerseh",
+   "entity": "NER"
+  },
+  {
+   "para": "p013",
+   "start": 514,
+   "end": 530,
+   "text": "Battle of Akesga",
+   "entity": "AKE"
+  },
+  {
+   "para": "p013",
+   "start": 532,
+   "end": 537,
+   "text": "Łazar",
+   "entity": "LAZ"
+  },
+  {
+   "para": "p013",
+   "start": 578,
+   "end": 584,
+   "text": "Nerseh",
+   "entity": "NER"
+  },
+  {
+   "para": "p013",
+   "start": 590,
+   "end": 600,
+   "text": "Aršamunik‘",
+   "entity": "ARM"
+  },
+  {
+   "para": "p013",
+   "start": 679,
+   "end": 686,
+   "text": "Armenia",
+   "entity": "ARN"
+  },
+  {
+   "para": "p013",
+   "start": 718,
+   "end": 724,
+   "text": "Nerseh",
+   "entity": "NER"
+  },
+  {
+   "para": "p018",
+   "start": 131,
+   "end": 140,
+   "text": "Sasanians",
+   "entity": "SAS"
+  },
+  {
+   "para": "p018",
+   "start": 149,
+   "end": 162,
+   "text": "Kidarite Huns",
+   "entity": "KID"
+  },
+  {
+   "para": "p018",
+   "start": 250,
+   "end": 258,
+   "text": "Yazdgerd",
+   "entity": "YII"
+  },
+  {
+   "para": "p018",
+   "start": 263,
+   "end": 268,
+   "text": "Pērōz",
+   "entity": "PER"
+  },
+  {
+   "para": "p018",
+   "start": 326,
+   "end": 335,
+   "text": "Kidarites",
+   "entity": "KID"
+  },
+  {
+   "para": "p018",
+   "start": 365,
+   "end": 374,
+   "text": "Kidarites",
+   "entity": "KID"
+  },
+  {
+   "para": "p018",
+   "start": 425,
+   "end": 441,
+   "text": "Hephthalite Huns",
+   "entity": "HEP"
+  },
+  {
+   "para": "p018",
+   "start": 443,
+   "end": 451,
+   "text": "Yazdgerd",
+   "entity": "YII"
+  },
+  {
+   "para": "p018",
+   "start": 678,
+   "end": 687,
+   "text": "Kidarites",
+   "entity": "KID"
+  },
+  {
+   "para": "p018",
+   "start": 959,
+   "end": 970,
+   "text": "Tokharistan",
+   "entity": "TOK"
+  },
+  {
+   "para": "p018",
+   "start": 983,
+   "end": 993,
+   "text": "Hindu Kush",
+   "entity": "HIN"
+  },
+  {
+   "para": "p024",
+   "start": 16,
+   "end": 25,
+   "text": "Khuzestan",
+   "entity": "KHU"
+  },
+  {
+   "para": "p024",
+   "start": 36,
+   "end": 52,
+   "text": "Vahan Mamikonean",
+   "entity": "VAH"
+  },
+  {
+   "para": "p024",
+   "start": 75,
+   "end": 80,
+   "text": "Vasak",
+   "entity": "VSK"
+  },
+  {
+   "para": "p024",
+   "start": 85,
+   "end": 92,
+   "text": "Artašēs",
+   "entity": "ART"
+  },
+  {
+   "para": "p024",
+   "start": 168,
+   "end": 185,
+   "text": "Kamsarakan family",
+   "entity": "KAM"
+  },
+  {
+   "para": "p024",
+   "start": 199,
+   "end": 206,
+   "text": "T‘at‘ik",
+   "entity": "TAT"
+  },
+  {
+   "para": "p024",
+   "start": 210,
+   "end": 216,
+   "text": "Basean",
+   "entity": "BAS"
+  },
+  {
+   "para": "p024",
+   "start": 218,
+   "end": 223,
+   "text": "Łazar",
+   "entity": "LAZ"
+  },
+  {
+   "para": "p024",
+   "start": 253,
+   "end": 264,
+   "text": "Vasak Siwni",
+   "entity": "VSI"
+  },
+  {
+   "para": "p024",
+   "start": 287,
+   "end": 294,
+   "text": "Siwnik‘",
+   "entity": "SWK"
+  },
+  {
+   "para": "p024",
+   "start": 637,
+   "end": 642,
+   "text": "Łazar",
+   "entity": "LAZ"
+  },
+  {
+   "para": "p024",
+   "start": 668,
+   "end": 673,
+   "text": "Vahan",
+   "entity": "VAH"
+  },
+  {
+   "para": "p025",
+   "start": 39,
+   "end": 50,
+   "text": "Mamikoneans",
+   "entity": "MAM"
+  },
+  {
+   "para": "p025",
+   "start": 158,
+   "end": 163,
+   "text": "Ašuša",
+   "entity": "ASU"
+  },
+  {
+   "para": "p025",
+   "start": 167,
+   "end": 174,
+   "text": "Gugark‘",
+   "entity": "GUG"
+  },
+  {
+   "para": "p025",
+   "start": 259,
+   "end": 274,
+   "text": "Łazar P‘arpec‘i",
+   "entity": "LAZ"
+  },
+  {
+   "para": "p025",
+   "start": 558,
+   "end": 563,
+   "text": "Ašuša",
+   "entity": "ASU"
+  },
+  {
+   "para": "p025",
+   "start": 729,
+   "end": 735,
+   "text": "Persia",
+   "entity": "SAS"
+  },
+  {
+   "para": "p032",
+   "start": 28,
+   "end": 37,
+   "text": "Asorestan",
+   "entity": "ASO"
+  },
+  {
+   "para": "p032",
+   "start": 40,
+   "end": 47,
+   "text": "T‘at‘ik",
+   "entity": "TAT"
+  },
+  {
+   "para": "p032",
+   "start": 51,
+   "end": 57,
+   "text": "Basean",
+   "entity": "BAS"
+  },
+  {
+   "para": "p032",
+   "start": 164,
+   "end": 175,
+   "text": "Łewondeank‘",
+   "entity": "LEW"
+  },
+  {
+   "para": "p032",
+   "start": 272,
+   "end": 281,
+   "text": "Khuzestan",
+   "entity": "KHU"
+  },
+  {
+   "para": "p032",
+   "start": 373,
+   "end": 380,
+   "text": "T‘at‘ik",
+   "entity": "TAT"
+  }
+ ],
+ "facts": [
+  {
+   "para": "p003",
+   "subj": "REB",
+   "rel": "schema:location",
+   "obj": "AWA"
+  },
+  {
+   "para": "p004",
+   "subj": "HOA",
+   "rel": "yago:creator",
+   "obj": "LAZ"
+  },
+  {
+   "para": "p004",
+   "subj": "GOR",
+   "rel": "yago:neighbor",
+   "obj": "CAS"
+  },
+  {
+   "para": "p004",
+   "subj": "VAH",
+   "rel": "ex:captiveIn",
+   "obj": "KHU"
+  },
+  {
+   "para": "p004",
+   "subj": "VAH",
+   "rel": "ex:opposed",
+   "obj": "SAS"
+  },
+  {
+   "para": "p004",
+   "subj": "LAZ",
+   "rel": "schema:location",
+   "obj": "VAL"
+  },
+  {
+   "para": "p005",
+   "subj": "ECH",
+   "rel": "yago:creator",
+   "obj": "JOE"
+  },
+  {
+   "para": "p013",
+   "subj": "NER",
+   "rel": "ex:captiveIn",
+   "obj": "GOR"
+  },
+  {
+   "para": "p013",
+   "subj": "ARS",
+   "rel": "ex:captiveIn",
+   "obj": "GOR"
+  },
+  {
+   "para": "p013",
+   "subj": "NER",
+   "rel": "yago:hasFather",
+   "obj": "ARS"
+  },
+  {
+   "para": "p013",
+   "subj": "NER",
+   "rel": "schema:location",
+   "obj": "SIR"
+  },
+  {
+   "para": "p013",
+   "subj": "NER",
+   "rel": "ex:relativeOf",
+   "obj": "HRA"
+  },
+  {
+   "para": "p013",
+   "subj": "LAZ",
+   "rel": "schema:location",
+   "obj": "VAL"
+  },
+  {
+   "para": "p013",
+   "subj": "ARM",
+   "rel": "schema:location",
+   "obj": "ARN"
+  },
+  {
+   "para": "p018",
+   "subj": "SAS",
+   "rel": "ex:opposed",
+   "obj": "KID"
+  },
+  {
+   "para": "p018",
+   "subj": "HEP",
+   "rel": "yago:follows",
+   "obj": "KID"
+  },
+  {
+   "para": "p024",
+   "subj": "VAH",
+   "rel": "ex:captiveIn",
+   "obj": "KHU"
+  },
+  {
+   "para": "p024",
+   "subj": "VSK",
+   "rel": "ex:captiveIn",
+   "obj": "KHU"
+  },
+  {
+   "para": "p024",
+   "subj": "ART",
+   "rel": "ex:captiveIn",
+   "obj": "KHU"
+  },
+  {
+   "para": "p024",
+   "subj": "TAT",
+   "rel": "ex:captiveIn",
+   "obj": "KHU"
+  },
+  {
+   "para": "p024",
+   "subj": "VAH",
+   "rel": "ex:relativeOf",
+   "obj": "VSK"
+  },
+  {
+   "para": "p024",
+   "subj": "VAH",
+   "rel": "ex:relativeOf",
+   "obj": "ART"
+  },
+  {
+   "para": "p024",
+   "subj": "VSK",
+   "rel": "ex:relativeOf",
+   "obj": "ART"
+  },
+  {
+   "para": "p024",
+   "subj": "TAT",
+   "rel": "schema:location",
+   "obj": "BAS"
+  },
+  {
+   "para": "p025",
+   "subj": "ASU",
+   "rel": "schema:location",
+   "obj": "GUG"
+  },
+  {
+   "para": "p025",
+   "subj": "ASU",
+   "rel": "ex:captiveIn",
+   "obj": "SAS"
+  },
+  {
+   "para": "p032",
+   "subj": "TAT",
+   "rel": "schema:deathPlace",
+   "obj": "ASO"
+  },
+  {
+   "para": "p032",
+   "subj": "TAT",
+   "rel": "schema:location",
+   "obj": "BAS"
+  }
+ ]
 }
