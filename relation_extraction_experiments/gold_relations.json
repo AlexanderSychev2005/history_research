@@ -1,0 +1,14 @@
+[
+  {
+    "paragraph_id": "nechaeva2017_p01",
+    "relations": [
+      {
+        "subject": "Pīrān-Gušnasp",
+        "predicate": "schema:memberOf",
+        "object": "House of Mihrān",
+        "evidence": "came from an old and famous Zoroastrian family: the house of Mihrān",
+        "status": "needs_schema_validation"
+      }
+    ]
+  }
+]
