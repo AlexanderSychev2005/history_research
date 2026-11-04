@@ -1,0 +1,137 @@
+{
+ "config": "llm_120b_guided_r2",
+ "n_gold": 35,
+ "n_pred": 35,
+ "mention": {
+  "P": 1.0,
+  "R": 1.0,
+  "F": 1.0,
+  "tp": 35
+ },
+ "link": {
+  "P": 0.7058823529411765,
+  "R": 0.3870967741935484,
+  "F": 0.5,
+  "tp": 12
+ },
+ "cand_recall": {
+  "hit": 0,
+  "of": 31,
+  "K": 0
+ },
+ "nil": {
+  "no_link": 2,
+  "of": 4
+ },
+ "errors": {
+  "missed_mentions": [],
+  "false_mentions": [],
+  "wrong_links": [
+   {
+    "text": "Łazar P‘arpec‘i",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "Gorgān",
+    "gold": "yago:Hyrcania",
+    "pred": "yago:Gorgan"
+   },
+   {
+    "text": "Alborz",
+    "gold": "yago:Alborz",
+    "pred": null
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": null
+   },
+   {
+    "text": "Łazar",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "Vahan Mamikonean",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": null
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": null
+   },
+   {
+    "text": "Łazar",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "Vahan",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": null
+   },
+   {
+    "text": "Vałaršapat",
+    "gold": "yago:Vagharshapat",
+    "pred": null
+   },
+   {
+    "text": "Eǰmiacin",
+    "gold": "yago:Vagharshapat",
+    "pred": null
+   },
+   {
+    "text": "Vahan",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": null
+   },
+   {
+    "text": "Syria",
+    "gold": null,
+    "pred": "yago:Syria"
+   },
+   {
+    "text": "Simplicius",
+    "gold": "yago:Simplicius_of_Cilicia",
+    "pred": null
+   },
+   {
+    "text": "Priscian",
+    "gold": "yago:Priscian_of_Lydia",
+    "pred": "yago:Priscian"
+   },
+   {
+    "text": "Hermes",
+    "gold": null,
+    "pred": "yago:Hermes"
+   },
+   {
+    "text": "Diogenes",
+    "gold": "yago:Diogenes_of_Phoenicia",
+    "pred": null
+   },
+   {
+    "text": "Gaza",
+    "gold": "yago:Gaza_City",
+    "pred": null
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": null
+   },
+   {
+    "text": "Romans",
+    "gold": "yago:Byzantine_Empire",
+    "pred": "yago:Roman_Empire"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": null
+   }
+  ]
+ }
+}

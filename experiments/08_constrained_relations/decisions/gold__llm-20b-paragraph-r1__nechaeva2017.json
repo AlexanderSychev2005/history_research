@@ -1,0 +1,419 @@
+{
+ "run": "gold__llm-20b-paragraph-r1",
+ "model": "openai/gpt-oss-20b",
+ "usage": {
+  "calls": 5,
+  "tokens": 7538,
+  "invalid": 0
+ },
+ "decisions": [
+  {
+   "paragraph_id": "p004",
+   "a": "Damascius",
+   "b": "Syria",
+   "raw": {
+    "subject": "Damascius",
+    "relation": "location",
+    "object": "Syria",
+    "evidence": "Damascius of Syria"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Damascius",
+    "rel": "schema:location",
+    "obj": "Syria"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Damascius",
+   "b": "Persia",
+   "raw": {
+    "subject": "Damascius",
+    "relation": "location",
+    "object": "Persia",
+    "evidence": "moved to Persia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Damascius",
+    "rel": "schema:location",
+    "obj": "Persia"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Simplicius",
+   "b": "Cilicia",
+   "raw": {
+    "subject": "Simplicius",
+    "relation": "location",
+    "object": "Cilicia",
+    "evidence": "Simplicius of Cilicia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Simplicius",
+    "rel": "schema:location",
+    "obj": "Cilicia"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Simplicius",
+   "b": "Persia",
+   "raw": {
+    "subject": "Simplicius",
+    "relation": "location",
+    "object": "Persia",
+    "evidence": "moved to Persia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Simplicius",
+    "rel": "schema:location",
+    "obj": "Persia"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Eulamius",
+   "b": "Phrygia",
+   "raw": {
+    "subject": "Eulamius",
+    "relation": "location",
+    "object": "Phrygia",
+    "evidence": "Eulamius of Phrygia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Eulamius",
+    "rel": "schema:location",
+    "obj": "Phrygia"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Eulamius",
+   "b": "Persia",
+   "raw": {
+    "subject": "Eulamius",
+    "relation": "location",
+    "object": "Persia",
+    "evidence": "moved to Persia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Eulamius",
+    "rel": "schema:location",
+    "obj": "Persia"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Priscian",
+   "b": "Lydia",
+   "raw": {
+    "subject": "Priscian",
+    "relation": "location",
+    "object": "Lydia",
+    "evidence": "Priscian of Lydia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Priscian",
+    "rel": "schema:location",
+    "obj": "Lydia"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Priscian",
+   "b": "Persia",
+   "raw": {
+    "subject": "Priscian",
+    "relation": "location",
+    "object": "Persia",
+    "evidence": "moved to Persia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Priscian",
+    "rel": "schema:location",
+    "obj": "Persia"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Hermes",
+   "b": "Phoenicia",
+   "raw": {
+    "subject": "Hermes",
+    "relation": "location",
+    "object": "Phoenicia",
+    "evidence": "Hermes of Phoenicia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Hermes",
+    "rel": "schema:location",
+    "obj": "Phoenicia"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Hermes",
+   "b": "Persia",
+   "raw": {
+    "subject": "Hermes",
+    "relation": "location",
+    "object": "Persia",
+    "evidence": "moved to Persia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Hermes",
+    "rel": "schema:location",
+    "obj": "Persia"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Diogenes",
+   "b": "Phoenicia",
+   "raw": {
+    "subject": "Diogenes",
+    "relation": "location",
+    "object": "Phoenicia",
+    "evidence": "Diogenes of Phoenicia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Diogenes",
+    "rel": "schema:location",
+    "obj": "Phoenicia"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Diogenes",
+   "b": "Persia",
+   "raw": {
+    "subject": "Diogenes",
+    "relation": "location",
+    "object": "Persia",
+    "evidence": "moved to Persia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Diogenes",
+    "rel": "schema:location",
+    "obj": "Persia"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Isidore",
+   "b": "Gaza",
+   "raw": {
+    "subject": "Isidore",
+    "relation": "location",
+    "object": "Gaza",
+    "evidence": "Isidore of Gaza"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Isidore",
+    "rel": "schema:location",
+    "obj": "Gaza"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Isidore",
+   "b": "Persia",
+   "raw": {
+    "subject": "Isidore",
+    "relation": "location",
+    "object": "Persia",
+    "evidence": "moved to Persia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Isidore",
+    "rel": "schema:location",
+    "obj": "Persia"
+   }
+  },
+  {
+   "paragraph_id": "p013",
+   "a": "Domitziolus",
+   "b": "Persians",
+   "raw": {
+    "subject": "Domitziolus",
+    "relation": "captiveIn",
+    "object": "Persians",
+    "evidence": "was taken prisoner by the Persians"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Domitziolus",
+    "rel": "ex:captiveIn",
+    "obj": "Persians"
+   }
+  },
+  {
+   "paragraph_id": "p013",
+   "a": "Domitziolus",
+   "b": "Buzes",
+   "raw": {
+    "subject": "Domitziolus",
+    "relation": "relativeOf",
+    "object": "Buzes",
+    "evidence": "a nephew of"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Domitziolus",
+    "rel": "ex:relativeOf",
+    "obj": "Buzes"
+   }
+  },
+  {
+   "paragraph_id": "p013",
+   "a": "Izdegerd",
+   "b": "Hormizd",
+   "raw": {
+    "subject": "Izdegerd",
+    "relation": "relativeOf",
+    "object": "Hormizd",
+    "evidence": "a nephew of"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Izdegerd",
+    "rel": "ex:relativeOf",
+    "obj": "Hormizd"
+   }
+  },
+  {
+   "paragraph_id": "p013",
+   "a": "Izdegerd",
+   "b": "Arzanene",
+   "raw": {
+    "subject": "Izdegerd",
+    "relation": "location",
+    "object": "Arzanene",
+    "evidence": "the ruler of Arzanene"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Izdegerd",
+    "rel": "schema:location",
+    "obj": "Arzanene"
+   }
+  },
+  {
+   "paragraph_id": "p014",
+   "a": "Dagaris",
+   "b": "Huns",
+   "raw": {
+    "subject": "Dagaris",
+    "relation": "captiveIn",
+    "object": "Huns",
+    "evidence": "captured by Hun allies of Persia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Dagaris",
+    "rel": "ex:captiveIn",
+    "obj": "Huns"
+   }
+  },
+  {
+   "paragraph_id": "p014",
+   "a": "Dagaris",
+   "b": "Huns",
+   "raw": {
+    "subject": "Dagaris",
+    "relation": "opposed",
+    "object": "Huns",
+    "evidence": "defeated the invading Huns"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Dagaris",
+    "rel": "ex:opposed",
+    "obj": "Huns"
+   }
+  },
+  {
+   "paragraph_id": "p018",
+   "a": "Grigor",
+   "b": "Roman Empire",
+   "raw": {
+    "subject": "Grigor",
+    "relation": "captiveIn",
+    "object": "Roman Empire",
+    "evidence": "Grigor was taken prisoner and deported"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Grigor",
+    "rel": "ex:captiveIn",
+    "obj": "Roman Empire"
+   }
+  },
+  {
+   "paragraph_id": "p018",
+   "a": "Grigor",
+   "b": "Justinian",
+   "raw": {
+    "subject": "Grigor",
+    "relation": "worksFor",
+    "object": "Justinian",
+    "evidence": "the general was brought to the Emperor (most likely already Justinian)"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Grigor",
+    "rel": "schema:worksFor",
+    "obj": "Justinian"
+   }
+  },
+  {
+   "paragraph_id": "p019",
+   "a": "Martyrium",
+   "b": "Chosroes",
+   "raw": {
+    "subject": "Martyrium",
+    "relation": "about",
+    "object": "Chosroes",
+    "evidence": "The Martyrium further informs us that in the third year of Chosroes’ reign"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Martyrium",
+    "rel": "schema:about",
+    "obj": "Chosroes"
+   }
+  },
+  {
+   "paragraph_id": "p019",
+   "a": "Martyrdom",
+   "b": "Grigor",
+   "raw": {
+    "subject": "Martyrdom",
+    "relation": "about",
+    "object": "Grigor",
+    "evidence": "According to the Martyrdom, however, Grigor himself asked to be released"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Martyrdom",
+    "rel": "schema:about",
+    "obj": "Grigor"
+   }
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{
+ "model": "openai/gpt-oss-20b",
+ "content": "{\"mentions\":[{\"text\":\"Łazar P‘arpec‘i\",\"entity\":null},{\"text\":\"Łazar\",\"entity\":null},{\"text\":\"P‘arpec‘i\",\"entity\":null},{\"text\":\"Vahan Mamikonean\",\"entity\":\"Vahan Mamikonian\"},{\"text\":\"Vahan\",\"entity\":null},{\"text\":\"Mamikonean\",\"entity\":\"Mamikonian\"},{\"text\":\"Sasanians\",\"entity\":\"Sasanian Empire\"},{\"text\":\"Armenians\",\"entity\":\"Armenian people\"},{\"text\":\"Gorgān\",\"entity\":\"Gorgān\"},{\"text\":\"Hyrcania\",\"entity\":\"Hyrcania\"},{\"text\":\"Alborz watershed\",\"entity\":null},{\"text\":\"Caspian Sea\",\"entity\":\"Caspian Sea\"},{\"text\":\"Khuzestan\",\"entity\":\"Khuzestan\"},{\"text\":\"Vałaršapat\",\"entity\":null},{\"text\":\"Eǰmiacin\",\"entity\":\"Ejmiatsin\"},{\"text\":\"History of the Armenians\",\"entity\":\"History of the Armenians\"}]}",
+ "finish_reason": "stop",
+ "attempts": 1
+}

@@ -1,0 +1,6 @@
+{
+ "model": "qwen/qwen3.8-27b",
+ "content": "```json\n{\"mentions\": [{\"text\": \"Agathias\", \"entity\": \"Agathias\"}, {\"text\": \"Damascius\", \"entity\": \"Damascius\"}, {\"text\": \"Syria\", \"entity\": \"Syria\"}, {\"text\": \"Simplicius\", \"entity\": \"Simplicius\"}, {\"text\": \"Cilicia\", \"entity\": \"Cilicia\"}, {\"text\": \"Eulamius\", \"entity\": \"Eulamius\"}, {\"text\": \"Phrygia\", \"entity\": \"Phrygia\"}, {\"text\": \"Priscian\", \"entity\": \"Priscian\"}, {\"text\": \"Lydia\", \"entity\": \"Lydia\"}, {\"text\": \"Hermes\", \"entity\": \"Hermes\"}, {\"text\": \"Diogenes\", \"entity\": \"Diogenes\"}, {\"text\": \"Phoenicia\", \"entity\": \"Phoenicia\"}, {\"text\": \"Isidore\", \"entity\": \"Isidore\"}, {\"text\": \"Gaza\", \"entity\": \"Gaza\"}, {\"text\": \"Persia\", \"entity\": \"Persia\"}, {\"text\": \"Romans\", \"entity\": \"Romans\"}, {\"text\": \"Plato\", \"entity\": \"Plato\"}]}\n```",
+ "finish_reason": "stop",
+ "attempts": 1
+}

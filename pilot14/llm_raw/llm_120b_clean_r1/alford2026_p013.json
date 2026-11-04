@@ -1,0 +1,6 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "content": "{\n  \"mentions\": [\n    {\n      \"text\": \"Gorgān\",\n      \"entity\": \"Gorgan\"\n    },\n    {\n      \"text\": \"Ełišē\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Nerseh Kamsarakan\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Nerseh\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Širak\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Aršawir Kamsarakan\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Łazar\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Hrahat\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Vałaršapat\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Battle of Akesga\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Aršamunik‘\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Armenia\",\n      \"entity\": \"Armenia\"\n    }\n  ]\n}",
+ "finish_reason": "stop",
+ "attempts": 1
+}

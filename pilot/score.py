@@ -72,7 +72,8 @@ def main(configs):
         json.dump(r, open(f"pilot/results/{c}.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         m, l = r["mention"], r["link"]
         rows.append(f"| {c} | {m['P']:.2f} | {m['R']:.2f} | {m['F']:.2f} | {l['P']:.2f} | {l['R']:.2f} | {l['F']:.2f} | "
-                    f"{r['cand_recall']['hit']}/{r['cand_recall']['of']} (K={r['cand_recall']['K']}) | {r['nil']['no_link']}/{r['nil']['of']} |")
+                    + (f"{r['cand_recall']['hit']}/{r['cand_recall']['of']} (K={r['cand_recall']['K']})" if r['cand_recall']['K'] else "n/a")
+                    + f" | {r['nil']['no_link']}/{r['nil']['of']} |")
     table = "\n".join(rows)
     open("pilot/results/summary.md", "w", encoding="utf-8").write(
         f"2 paragraphs, {len(gold)} gold mentions ({sum(m['entity'] is None for m in gold)} NIL); strict spans.\n\n{table}\n")

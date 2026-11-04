@@ -1,0 +1,117 @@
+{
+ "config": "llm_120b_clean_r2",
+ "n_gold": 35,
+ "n_pred": 35,
+ "mention": {
+  "P": 1.0,
+  "R": 1.0,
+  "F": 1.0,
+  "tp": 35
+ },
+ "link": {
+  "P": 0.7894736842105263,
+  "R": 0.4838709677419355,
+  "F": 0.6,
+  "tp": 15
+ },
+ "cand_recall": {
+  "hit": 0,
+  "of": 31,
+  "K": 0
+ },
+ "nil": {
+  "no_link": 3,
+  "of": 4
+ },
+ "errors": {
+  "missed_mentions": [],
+  "false_mentions": [],
+  "wrong_links": [
+   {
+    "text": "Łazar P‘arpec‘i",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "Gorgān",
+    "gold": "yago:Hyrcania",
+    "pred": "yago:Gorgan"
+   },
+   {
+    "text": "Alborz",
+    "gold": "yago:Alborz",
+    "pred": null
+   },
+   {
+    "text": "Łazar",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "Vahan Mamikonean",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": null
+   },
+   {
+    "text": "Łazar",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "Vahan",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": null
+   },
+   {
+    "text": "Vałaršapat",
+    "gold": "yago:Vagharshapat",
+    "pred": null
+   },
+   {
+    "text": "Eǰmiacin",
+    "gold": "yago:Vagharshapat",
+    "pred": null
+   },
+   {
+    "text": "Vahan",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": null
+   },
+   {
+    "text": "Syria",
+    "gold": null,
+    "pred": "yago:Syria"
+   },
+   {
+    "text": "Simplicius",
+    "gold": "yago:Simplicius_of_Cilicia",
+    "pred": null
+   },
+   {
+    "text": "Priscian",
+    "gold": "yago:Priscian_of_Lydia",
+    "pred": "yago:Priscian"
+   },
+   {
+    "text": "Gaza",
+    "gold": "yago:Gaza_City",
+    "pred": null
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": null
+   },
+   {
+    "text": "Romans",
+    "gold": "yago:Byzantine_Empire",
+    "pred": "yago:Roman_Empire"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": null
+   }
+  ]
+ }
+}

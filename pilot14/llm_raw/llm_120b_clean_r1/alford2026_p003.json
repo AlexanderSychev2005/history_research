@@ -1,0 +1,6 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "content": "{\n  \"mentions\": [\n    {\n      \"text\": \"Awarayr\",\n      \"entity\": \"Battle of Avarayr\"\n    },\n    {\n      \"text\": \"Yazdgerd II\",\n      \"entity\": \"Yazdegerd II\"\n    },\n    {\n      \"text\": \"Vardan Mamikonean\",\n      \"entity\": \"Vardan Mamikonian\"\n    },\n    {\n      \"text\": \"Armenian Church\",\n      \"entity\": \"Armenian Apostolic Church\"\n    },\n    {\n      \"text\": \"Sasanian\",\n      \"entity\": \"Sasanian Empire\"\n    }\n  ]\n}",
+ "finish_reason": "stop",
+ "attempts": 1
+}

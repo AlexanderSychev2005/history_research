@@ -1,0 +1,59 @@
+{
+ "all": {
+  "gold": 159,
+  "pred": 173,
+  "mention": [
+   0.896,
+   0.975,
+   0.934
+  ],
+  "link": [
+   0.667,
+   0.376,
+   0.481
+  ],
+  "cand": null,
+  "no_entity_left_unlinked": [
+   34,
+   40
+  ]
+ },
+ "p004 (tuned)": {
+  "gold": 35,
+  "pred": 35,
+  "mention": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "link": [
+   0.714,
+   0.484,
+   0.577
+  ],
+  "cand": null,
+  "no_entity_left_unlinked": [
+   1,
+   4
+  ]
+ },
+ "12 new": {
+  "gold": 124,
+  "pred": 138,
+  "mention": [
+   0.87,
+   0.968,
+   0.916
+  ],
+  "link": [
+   0.644,
+   0.337,
+   0.443
+  ],
+  "cand": null,
+  "no_entity_left_unlinked": [
+   33,
+   36
+  ]
+ }
+}

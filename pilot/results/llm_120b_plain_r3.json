@@ -1,0 +1,163 @@
+{
+ "config": "llm_120b_plain_r3",
+ "n_gold": 35,
+ "n_pred": 29,
+ "mention": {
+  "P": 0.7241379310344828,
+  "R": 0.6,
+  "F": 0.65625,
+  "tp": 21
+ },
+ "link": {
+  "P": 0.42857142857142855,
+  "R": 0.1935483870967742,
+  "F": 0.26666666666666666,
+  "tp": 6
+ },
+ "cand_recall": {
+  "hit": 0,
+  "of": 19,
+  "K": 0
+ },
+ "nil": {
+  "no_link": 0,
+  "of": 2
+ },
+ "errors": {
+  "missed_mentions": [
+   "Vahan",
+   "Damascius",
+   "Syria",
+   "Simplicius",
+   "Cilicia",
+   "Eulamius",
+   "Phrygia",
+   "Priscian",
+   "Lydia",
+   "Diogenes",
+   "Phoenicia",
+   "Isidore",
+   "Gaza",
+   "Plato"
+  ],
+  "false_mentions": [
+   {
+    "doc": "alford2026",
+    "text": "Vahan’s",
+    "linked": null
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Damascius of Syria",
+    "linked": "yago:Damascius"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Simplicius of Cilicia",
+    "linked": null
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Eulamius of Phrygia",
+    "linked": "yago:Eulamius"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Priscian of Lydia",
+    "linked": "yago:Priscian"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Diogenes of Phoenicia",
+    "linked": "yago:Diogenes_of_Phoenicia"
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Isidore of Gaza",
+    "linked": null
+   },
+   {
+    "doc": "nechaeva2017",
+    "text": "Plato’s philosopher king",
+    "linked": "yago:Plato"
+   }
+  ],
+  "wrong_links": [
+   {
+    "text": "Łazar P‘arpec‘i",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "History of the Armenians",
+    "gold": null,
+    "pred": "yago:History_of_Armenia"
+   },
+   {
+    "text": "Gorgān",
+    "gold": "yago:Hyrcania",
+    "pred": "yago:Gorgan"
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": null
+   },
+   {
+    "text": "Łazar",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "Vahan Mamikonean",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": null
+   },
+   {
+    "text": "Khuzestan",
+    "gold": "yago:Khuzestan_province",
+    "pred": null
+   },
+   {
+    "text": "Łazar",
+    "gold": "yago:Ghazar_Parpetsi",
+    "pred": null
+   },
+   {
+    "text": "Vałaršapat",
+    "gold": "yago:Vagharshapat",
+    "pred": null
+   },
+   {
+    "text": "Eǰmiacin",
+    "gold": "yago:Vagharshapat",
+    "pred": null
+   },
+   {
+    "text": "Vahan",
+    "gold": "yago:Vahan_I_Mamikonian",
+    "pred": null
+   },
+   {
+    "text": "Hermes",
+    "gold": null,
+    "pred": "yago:Hermes"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": null
+   },
+   {
+    "text": "Romans",
+    "gold": "yago:Byzantine_Empire",
+    "pred": null
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": null
+   }
+  ]
+ }
+}

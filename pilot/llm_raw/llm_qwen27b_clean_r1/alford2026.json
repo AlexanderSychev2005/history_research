@@ -1,0 +1,6 @@
+{
+ "model": "qwen/qwen3.8-27b",
+ "content": "```json\n{\"mentions\": [\n    {\"text\": \"Armenian\", \"entity\": \"Armenians\"},\n    {\"text\": \"Łazar P‘arpec‘i\", \"entity\": \"Lazar P'arpec'i\"},\n    {\"text\": \"History of the Armenians\", \"entity\": \"History of the Armenians\"},\n    {\"text\": \"Gorgān\", \"entity\": \"Gorgan\"},\n    {\"text\": \"Hyrcania\", \"entity\": \"Hyrcania\"},\n    {\"text\": \"Alborz\", \"entity\": \"Alborz\"},\n    {\"text\": \"Caspian Sea\", \"entity\": \"Caspian Sea\"},\n    {\"text\": \"Khuzestan\", \"entity\": \"Khuzestan\"},\n    {\"text\": \"Christian\", \"entity\": \"Christianity\"},\n    {\"text\": \"Łazar\", \"entity\": \"Lazar P'arpec'i\"},\n    {\"text\": \"Vahan Mamikonean\", \"entity\": \"Vahan Mamikonian\"},\n    {\"text\": \"Sasanians\", \"entity\": \"Sasanian Empire\"},\n    {\"text\": \"Vałaršapat\", \"entity\": \"Vagharshapat\"},\n    {\"text\": \"Eǰmiacin\", \"entity\": \"Etchmiadzin\"}\n]}\n```",
+ "finish_reason": "stop",
+ "attempts": 1
+}

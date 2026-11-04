@@ -1,0 +1,4 @@
+{
+ "model": "openai/gpt-oss-20b",
+ "content": "{\"mentions\":[{\"text\":\"Łazar\",\"entity\":\"Łazar P‘arpec‘i\"},{\"text\":\"P‘arpec‘i\",\"entity\":\"Łazar P‘arpec‘i\"},{\"text\":\"History of the Armenians\",\"entity\":\"History of the Armenians\"},{\"text\":\"Gorgān\",\"entity\":\"Gorgan\"},{\"text\":\"Hyrcania\",\"entity\":\"Hyrcania\"},{\"text\":\"Alborz\",\"entity\":\"Alborz Mountains\"},{\"text\":\"Caspian Sea\",\"entity\":\"Caspian Sea\"},{\"text\":\"Khuzestan\",\"entity\":\"Khuzestan\"},{\"text\":\"Łazar\",\"entity\":\"Łazar P‘arpec‘i\"},{\"text\":\"Vahan\",\"entity\":\"Vahan Mamikonean\"},{\"text\":\"Mamikonean\",\"entity\":\"Mamikonian\"},{\"text\":\"Sasanians\",\"entity\":\"Sasanian Empire\"},{\"text\":\"Vałaršapat\",\"entity\":null},{\"text\":\"Eǰmiacin\",\"entity\":null},{\"text\":\"Łazar\",\"entity\":\"Łazar P‘arpec‘i\"},{\"text\":\"Vahan\",\"entity\":\"Vahan Mamikonean\"}]}"
+}

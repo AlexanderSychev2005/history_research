@@ -1,0 +1,62 @@
+{
+ "config": "hyb_120b_clean_r3",
+ "n_gold": 35,
+ "n_pred": 35,
+ "mention": {
+  "P": 1.0,
+  "R": 1.0,
+  "F": 1.0,
+  "tp": 35
+ },
+ "link": {
+  "P": 0.9285714285714286,
+  "R": 0.8387096774193549,
+  "F": 0.8813559322033899,
+  "tp": 26
+ },
+ "cand_recall": {
+  "hit": 26,
+  "of": 31,
+  "K": 20
+ },
+ "nil": {
+  "no_link": 3,
+  "of": 4
+ },
+ "errors": {
+  "missed_mentions": [],
+  "false_mentions": [],
+  "wrong_links": [
+   {
+    "text": "Gorgān",
+    "gold": "yago:Hyrcania",
+    "pred": "yago:Gorgan"
+   },
+   {
+    "text": "Eǰmiacin",
+    "gold": "yago:Vagharshapat",
+    "pred": null
+   },
+   {
+    "text": "Syria",
+    "gold": null,
+    "pred": "yago:Syria"
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": null
+   },
+   {
+    "text": "Romans",
+    "gold": "yago:Byzantine_Empire",
+    "pred": null
+   },
+   {
+    "text": "Persia",
+    "gold": "yago:Sasanian_Empire",
+    "pred": null
+   }
+  ]
+ }
+}

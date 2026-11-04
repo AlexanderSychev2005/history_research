@@ -1,0 +1,6 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "content": "{\n  \"mentions\": [\n    {\n      \"text\": \"Domitziolus\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Domnentiolus\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Buzes\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Persians\",\n      \"entity\": \"Persians\"\n    },\n    {\n      \"text\": \"Callinicum\",\n      \"entity\": \"Callinicum\"\n    },\n    {\n      \"text\": \"Izdegerd\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Hormizd\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Arzanene\",\n      \"entity\": \"Arzanene\"\n    },\n    {\n      \"text\": \"Persarmenia\",\n      \"entity\": \"Persarmenia\"\n    },\n    {\n      \"text\": \"Pseudo-Zacharias\",\n      \"entity\": \"Pseudo-Zacharias\"\n    }\n  ]\n}",
+ "finish_reason": "stop",
+ "attempts": 1
+}

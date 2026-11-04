@@ -1,0 +1,6 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "content": "{\n  \"mentions\": [\n    {\n      \"text\": \"Asorestan\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"T‘at‘ik\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Basean\",\n      \"entity\": \"Basean\"\n    },\n    {\n      \"text\": \"Łewondeank‘\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Khuzestan\",\n      \"entity\": \"Khuzestan\"\n    },\n    {\n      \"text\": \"Mamikonean\",\n      \"entity\": \"Mamikonian\"\n    }\n  ]\n}",
+ "finish_reason": "stop",
+ "attempts": 1
+}

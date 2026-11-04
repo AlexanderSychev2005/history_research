@@ -1,0 +1,6 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "content": "{\n  \"mentions\": [\n    {\n      \"text\": \"Pīrān-Gušnasp\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Grigor\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Mart. Grig.\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Justinian\",\n      \"entity\": \"Justinian I\"\n    },\n    {\n      \"text\": \"Persia\",\n      \"entity\": \"Persia\"\n    },\n    {\n      \"text\": \"Roman Empire\",\n      \"entity\": \"Roman Empire\"\n    }\n  ]\n}",
+ "finish_reason": "stop",
+ "attempts": 1
+}

@@ -1,0 +1,6 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "content": "{\n  \"mentions\": [\n    {\n      \"text\": \"Martyrium\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Chosroes\",\n      \"entity\": \"Khosrow I\"\n    },\n    {\n      \"text\": \"Zabergān\",\n      \"entity\": \"Zabergan\"\n    },\n    {\n      \"text\": \"Mar Grigor\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Grigor\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Church of the East\",\n      \"entity\": \"Church of the East\"\n    },\n    {\n      \"text\": \"Constantinople\",\n      \"entity\": \"Constantinople\"\n    },\n    {\n      \"text\": \"Martyrdom\",\n      \"entity\": null\n    }\n  ]\n}",
+ "finish_reason": "stop",
+ "attempts": 1
+}

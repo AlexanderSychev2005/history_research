@@ -1,0 +1,6 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "content": "{\n  \"mentions\": [\n    {\n      \"text\": \"Yazdgerd II\",\n      \"entity\": \"Yazdegerd II\"\n    }\n  ]\n}",
+ "finish_reason": "stop",
+ "attempts": 1
+}

@@ -1,0 +1,6 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "content": "{\n  \"mentions\": [\n    {\n      \"text\": \"Mamikoneans\",\n      \"entity\": \"Mamikonian\"\n    },\n    {\n      \"text\": \"Ašuša\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Gugark‘\",\n      \"entity\": \"Gugark\"\n    },\n    {\n      \"text\": \"Łazar\",\n      \"entity\": \"Lazar of Parpi\"\n    },\n    {\n      \"text\": \"P‘arpec‘i\",\n      \"entity\": \"Lazar of Parpi\"\n    },\n    {\n      \"text\": \"Persia\",\n      \"entity\": \"Persia\"\n    }\n  ]\n}",
+ "finish_reason": "stop",
+ "attempts": 1
+}

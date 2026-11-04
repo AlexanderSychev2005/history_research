@@ -1,0 +1,6 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "content": "{\n  \"mentions\": [\n    {\n      \"text\": \"Ełišē\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Gorgān\",\n      \"entity\": \"Gorgan\"\n    },\n    {\n      \"text\": \"Łazar\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Robert Thomson\",\n      \"entity\": \"Robert W. Thomson\"\n    },\n    {\n      \"text\": \"Akinean\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Kiwlēsērean\",\n      \"entity\": null\n    },\n    {\n      \"text\": \"Philo\",\n      \"entity\": \"Philo of Alexandria\"\n    },\n    {\n      \"text\": \"John\",\n      \"entity\": \"John of Ephesus\"\n    },\n    {\n      \"text\": \"Ephesus\",\n      \"entity\": \"Ephesus\"\n    },\n    {\n      \"text\": \"Ecclesiastical Histories\",\n      \"entity\": \"Ecclesiastical History (John of Ephesus)\"\n    }\n  ]\n}",
+ "finish_reason": "stop",
+ "attempts": 1
+}

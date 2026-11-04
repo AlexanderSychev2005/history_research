@@ -1,0 +1,328 @@
+{
+ "run": "gold__llm-20b-paragraph-r2",
+ "model": "openai/gpt-oss-20b",
+ "usage": {
+  "calls": 9,
+  "tokens": 12554,
+  "invalid": 0
+ },
+ "decisions": [
+  {
+   "paragraph_id": "p001",
+   "a": "Armenian rebellion",
+   "b": "Yazdgerd II",
+   "raw": {
+    "subject": "Armenian rebellion",
+    "relation": "opposed",
+    "object": "Yazdgerd II",
+    "evidence": "against Sasanian King Yazdgerd II"
+   },
+   "type_ok": false
+  },
+  {
+   "paragraph_id": "p003",
+   "a": "Yazdgerd II",
+   "b": "Armenian rebellion",
+   "raw": {
+    "subject": "Yazdgerd II",
+    "relation": "opposed",
+    "object": "Armenian rebellion",
+    "evidence": "attempts by Yazdgerd II to convert the Armenian nobility"
+   },
+   "type_ok": false
+  },
+  {
+   "paragraph_id": "p003",
+   "a": "Armenian rebellion",
+   "b": "Awarayr",
+   "raw": {
+    "subject": "Armenian rebellion",
+    "relation": "location",
+    "object": "Awarayr",
+    "evidence": "at Awarayr"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Armenian rebellion",
+    "rel": "schema:location",
+    "obj": "Awarayr"
+   }
+  },
+  {
+   "paragraph_id": "p003",
+   "a": "Vardan Mamikonean",
+   "b": "Armenian rebellion",
+   "raw": {
+    "subject": "Vardan Mamikonean",
+    "relation": "leader",
+    "object": "Armenian rebellion",
+    "evidence": "rebel leader Vardan Mamikonean"
+   },
+   "type_ok": false
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Vahan Mamikonean",
+   "b": "Khuzestan",
+   "raw": {
+    "subject": "Vahan Mamikonean",
+    "relation": "captiveIn",
+    "object": "Khuzestan",
+    "evidence": "captives of Khuzestan"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Vahan Mamikonean",
+    "rel": "ex:captiveIn",
+    "obj": "Khuzestan"
+   }
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Vahan Mamikonean",
+   "b": "Sasanians",
+   "raw": {
+    "subject": "Vahan Mamikonean",
+    "relation": "opposed",
+    "object": "Sasanians",
+    "evidence": "rebellion against the Sasanians"
+   },
+   "type_ok": false
+  },
+  {
+   "paragraph_id": "p004",
+   "a": "Łazar",
+   "b": "Vałaršapat",
+   "raw": {
+    "subject": "Łazar",
+    "relation": "worksFor",
+    "object": "Vałaršapat",
+    "evidence": "appointed as abbot of the monastery of Vałaršapat"
+   },
+   "type_ok": false
+  },
+  {
+   "paragraph_id": "p005",
+   "a": "Ełišē",
+   "b": "Gorgān",
+   "raw": {
+    "subject": "Ełišē",
+    "relation": "captiveIn",
+    "object": "Gorgān",
+    "evidence": "captives sent to Gorgān"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Ełišē",
+    "rel": "ex:captiveIn",
+    "obj": "Gorgān"
+   }
+  },
+  {
+   "paragraph_id": "p005",
+   "a": "Ełišē",
+   "b": "Philo",
+   "raw": {
+    "subject": "Ełišē",
+    "relation": "influencedBy",
+    "object": "Philo",
+    "evidence": "reliance on Armenian translations of Philo"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Ełišē",
+    "rel": "yago:influencedBy",
+    "obj": "Philo"
+   }
+  },
+  {
+   "paragraph_id": "p013",
+   "a": "Nerseh Kamsarakan",
+   "b": "Gorgān",
+   "raw": {
+    "subject": "Nerseh Kamsarakan",
+    "relation": "captiveIn",
+    "object": "Gorgān",
+    "evidence": "One Gorgān captive appearing only in Ełišē’s list, Nerseh Kamsarakan"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Nerseh Kamsarakan",
+    "rel": "ex:captiveIn",
+    "obj": "Gorgān"
+   }
+  },
+  {
+   "paragraph_id": "p013",
+   "a": "Nerseh Kamsarakan",
+   "b": "Aršawir Kamsarakan",
+   "raw": {
+    "subject": "Nerseh Kamsarakan",
+    "relation": "hasFather",
+    "object": "Aršawir Kamsarakan",
+    "evidence": "son of fellow captive Aršawir Kamsarakan"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Nerseh Kamsarakan",
+    "rel": "yago:hasFather",
+    "obj": "Aršawir Kamsarakan"
+   }
+  },
+  {
+   "paragraph_id": "p013",
+   "a": "Nerseh",
+   "b": "Širak",
+   "raw": {
+    "subject": "Nerseh",
+    "relation": "location",
+    "object": "Širak",
+    "evidence": "future lord Nerseh of Širak"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Nerseh",
+    "rel": "schema:location",
+    "obj": "Širak"
+   }
+  },
+  {
+   "paragraph_id": "p013",
+   "a": "Łazar",
+   "b": "Nerseh",
+   "raw": {
+    "subject": "Łazar",
+    "relation": "influencedBy",
+    "object": "Nerseh",
+    "evidence": "Łazar had a close relationship with Nerseh"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Łazar",
+    "rel": "yago:influencedBy",
+    "obj": "Nerseh"
+   }
+  },
+  {
+   "paragraph_id": "p013",
+   "a": "Nerseh",
+   "b": "Armenia",
+   "raw": {
+    "subject": "Nerseh",
+    "relation": "location",
+    "object": "Armenia",
+    "evidence": "spent at least some of his childhood in southwestern Armenia"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Nerseh",
+    "rel": "schema:location",
+    "obj": "Armenia"
+   }
+  },
+  {
+   "paragraph_id": "p018",
+   "a": "Sasanians",
+   "b": "Kidarite Huns",
+   "raw": {
+    "subject": "Sasanians",
+    "relation": "opposed",
+    "object": "Kidarite Huns",
+    "evidence": "ongoing contest between the Sasanians and the Kidarite Huns"
+   },
+   "type_ok": false
+  },
+  {
+   "paragraph_id": "p018",
+   "a": "Kidarites",
+   "b": "Hephthalite Huns",
+   "raw": {
+    "subject": "Kidarites",
+    "relation": "winner",
+    "object": "Hephthalite Huns",
+    "evidence": "replacement by the more powerful Hephthalite Huns"
+   },
+   "type_ok": false
+  },
+  {
+   "paragraph_id": "p025",
+   "a": "Mamikoneans",
+   "b": "Ašuša",
+   "raw": {
+    "subject": "Ašuša",
+    "relation": "relativeOf",
+    "object": "Mamikoneans",
+    "evidence": "brother-in-law"
+   },
+   "type_ok": false
+  },
+  {
+   "paragraph_id": "p025",
+   "a": "Ašuša",
+   "b": "Gugark‘",
+   "raw": {
+    "subject": "Ašuša",
+    "relation": "location",
+    "object": "Gugark‘",
+    "evidence": "of Gugark‘"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Ašuša",
+    "rel": "schema:location",
+    "obj": "Gugark‘"
+   }
+  },
+  {
+   "paragraph_id": "p025",
+   "a": "Ašuša",
+   "b": "Persia",
+   "raw": {
+    "subject": "Ašuša",
+    "relation": "captiveIn",
+    "object": "Persia",
+    "evidence": "captive at the Sasanian court"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "Ašuša",
+    "rel": "ex:captiveIn",
+    "obj": "Persia"
+   }
+  },
+  {
+   "paragraph_id": "p032",
+   "a": "T‘at‘ik",
+   "b": "Asorestan",
+   "raw": {
+    "subject": "T‘at‘ik",
+    "relation": "deathPlace",
+    "object": "Asorestan",
+    "evidence": "executed in Asorestan"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "T‘at‘ik",
+    "rel": "schema:deathPlace",
+    "obj": "Asorestan"
+   }
+  },
+  {
+   "paragraph_id": "p032",
+   "a": "T‘at‘ik",
+   "b": "Basean",
+   "raw": {
+    "subject": "T‘at‘ik",
+    "relation": "location",
+    "object": "Basean",
+    "evidence": "T‘at‘ik of Basean"
+   },
+   "type_ok": true,
+   "fact": {
+    "subj": "T‘at‘ik",
+    "rel": "schema:location",
+    "obj": "Basean"
+   }
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{
+ "model": "openai/gpt-oss-120b",
+ "content": "{\n  \"mentions\": [\n    {\n      \"text\": \"Sasanians\",\n      \"entity\": \"Sasanian Empire\"\n    },\n    {\n      \"text\": \"Kidarite Huns\",\n      \"entity\": \"Kidarites\"\n    },\n    {\n      \"text\": \"Sasanian\",\n      \"entity\": \"Sasanian Empire\"\n    },\n    {\n      \"text\": \"Yazdgerd\",\n      \"entity\": \"Yazdegerd II\"\n    },\n    {\n      \"text\": \"Pērōz\",\n      \"entity\": \"Peroz I\"\n    },\n    {\n      \"text\": \"Kidarites\",\n      \"entity\": \"Kidarites\"\n    },\n    {\n      \"text\": \"Kidarites’\",\n      \"entity\": \"Kidarites\"\n    },\n    {\n      \"text\": \"Hephthalite Huns\",\n      \"entity\": \"Hephthalites\"\n    },\n    {\n      \"text\": \"Kayanian\",\n      \"entity\": \"Kayanian dynasty\"\n    },\n    {\n      \"text\": \"Tokharistan\",\n      \"entity\": \"Tokharistan\"\n    },\n    {\n      \"text\": \"Hindu Kush\",\n      \"entity\": \"Hindu Kush\"\n    },\n    {\n      \"text\": \"Huns\",\n      \"entity\": \"Huns\"\n    }\n  ]\n}",
+ "finish_reason": "stop",
+ "attempts": 1
+}
