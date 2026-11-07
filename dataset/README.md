@@ -19,7 +19,7 @@ YAGO 4.5 dump by the same. Treat the numbers computed on it accordingly.
 | `articles/*.pdf` | the two source papers (the `source` field of `paragraphs/` names the file) |
 | `paragraphs/<doc>.json` | `{doc_id, title, source, paragraphs: [{id, text, section, page}]}`, the canonical text (offsets refer to it) |
 | `gold/<doc>.json` | `{doc_id, annotator, scope, entities, mentions, facts}`, see below |
-| `mentions.html` | a view of the 14 paragraphs with the gold mentions highlighted, by type or by YAGO link (open in a browser) |
+| `mentions/` | pictures of the 14 paragraphs with the gold mentions highlighted, by type and by YAGO link ([view](mentions/README.md)) |
 | `relations.json` | the relation vocabulary: 29 relations (YAGO 4.6 plus three `ex:` extensions) with domain, range and a one-line description, of which the 23 that have an entity as object are the candidates for facts (the gold uses 11 of them) |
 
 `gold/<doc>.json` in detail:

@@ -16,4 +16,4 @@ all three stages.
 
 The gold is a draft by one annotator (Claude) and has not been reviewed by a historian.
 
-To look at the gold, open [`dataset/mentions.html`](dataset/mentions.html) in a browser: the paragraphs with the mentions coloured by type or by YAGO link.
+To look at the gold, see [`dataset/mentions/`](dataset/mentions/README.md): the paragraphs with the mentions coloured by type and by YAGO link.
