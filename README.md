@@ -15,7 +15,7 @@ and scores each pipeline variant against one hand-annotated gold set.
 | `eval/` | the scorer (`evaluate.py`), the gold set (`gold/`, built by `make_gold.py`) and predictions (`pred/<run>/`) |
 | `outputs/` | intermediate files: `<doc>_ner_<variant>.json`, `<doc>_relations_<run>.json`, linking outputs |
 | `experiments/` | one folder per experiment with its README; `compare.py` builds `RESULTS.md` and `results/*.csv` |
-| `pilot/` | the earlier LELA pilot (two paragraphs, YAGO 4.5 linking) |
+| `archive/` | our earlier work, frozen: the LELA pilot (`archive/pilot/`), its test on 14 paragraphs (`archive/pilot14/`), constrained-decoding relations (`archive/08_constrained_relations/`) and the results README |
 
 ## Variants and run names
 

@@ -13,7 +13,7 @@ whose paragraphs p001–p005 are re-annotated here under the conventions below.
 
 ## Conventions
 
-* **Mentions** follow `pilot/make_pilot.py`: proper names of persons, places, peoples/states, families, works and named
+* **Mentions** follow `archive/pilot/make_pilot.py`: proper names of persons, places, peoples/states, families, works and named
   events, name only (no titles, no "of X" epithets, no adjectives such as "Sasanian forces" or "Persian court").
   Citations in parentheses ("Mart. Grig. 8") are not mentions. One named phrase is kept as an event:
   "Armenian rebellion".

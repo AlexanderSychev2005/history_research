@@ -5,7 +5,7 @@ When LELA links a pilot mention wrongly, was the right entity among its candidat
 ranking failure?
 
 ## Data
-The 35 gold mentions of the pilot (`pilot/gold.json`, one paragraph per paper), with LELA's prediction, whether the
+The 35 gold mentions of the pilot (`archive/pilot/gold.json`, one paragraph per paper), with LELA's prediction, whether the
 gold entity was among the 20 fuzzy candidates, and its rank (`results.csv`). Columns: `correct`,
 `gold_in_candidates`, `gold_rank`, `candidate_count`, `detected`.
 

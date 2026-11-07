@@ -11,8 +11,8 @@ texts/
 
 
 .idea/
-pilot/pred/
-pilot/lela_in/
+archive/pilot/pred/
+archive/pilot/lela_in/
 
 # macOS
 .DS_Store
