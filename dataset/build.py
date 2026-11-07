@@ -1,9 +1,10 @@
 """Provenance of the dataset: how paragraphs/ and gold/ were assembled (run once; the JSON files are now the source).
 
-  mentions, facts, entity types and aliases   eval/gold/<doc>.json      (Max; built by eval/make_gold.py)
-  YAGO id (or null) for every entity          archive/pilot14/entity_map.json  (Alex/Claude, chosen from the YAGO 4.5 dump
+  mentions, facts, entity types and aliases   archive/eval/gold/<doc>.json      (Max; built by archive/eval/make_gold.py)
+  YAGO id (or null) for every entity          archive/pilot14/entity_map.json   (Alex/Claude, chosen from the YAGO 4.5 dump
                                               before any system output was looked at)
-  text of the 14 paragraphs                   texts/<doc>.json           (prepare/prepare_texts.py)
+  text of the 14 paragraphs                   archive/texts/<doc>.json          (archive/prepare/prepare_texts.py, from the PDFs)
+  relation vocabulary                         relations.json (copied from archive/schema/history_relations.json)
 
   YAGO_JSONL=<LELA>/data/yago/yago-entities.jsonl python dataset/build.py
 
@@ -21,13 +22,13 @@ STATUS = ("draft: annotated by Claude (one annotator), not yet reviewed by a his
 
 def main():
     emap = json.loads(Path("archive/pilot14/entity_map.json").read_text(encoding="utf-8"))
-    relations = set(json.loads(Path("schema/history_relations.json").read_text(encoding="utf-8")))
+    relations = set(json.loads(Path("dataset/relations.json").read_text(encoding="utf-8")))
     (OUT / "paragraphs").mkdir(exist_ok=True)
     (OUT / "gold").mkdir(exist_ok=True)
     used, totals = set(), {"paragraphs": 0, "mentions": 0, "entities": 0, "linkable": 0, "facts": 0}
     for doc in DOCS:
-        src = json.loads(Path(f"eval/gold/{doc}.json").read_text(encoding="utf-8"))
-        text = json.loads(Path(f"texts/{doc}.json").read_text(encoding="utf-8"))
+        src = json.loads(Path(f"archive/eval/gold/{doc}.json").read_text(encoding="utf-8"))
+        text = json.loads(Path(f"archive/texts/{doc}.json").read_text(encoding="utf-8"))
         scope = src["scope"]["paragraphs"]
         paras = {p["id"]: p for p in text["paragraphs"]}
         json.dump({"doc_id": doc, "title": text.get("title"), "source": text.get("source"),
