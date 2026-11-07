@@ -1,4 +1,4 @@
-"""Provenance of the dataset: how paragraphs/ and gold/ were assembled (run once; the JSON files are now the source).
+"""Provenance of dataset/: how paragraphs/ and gold/ were assembled (run once; the JSON files in dataset/ are now the source).
 
   mentions, facts, entity types and aliases   archive/eval/gold/<doc>.json      (Max; built by archive/eval/make_gold.py)
   YAGO id (or null) for every entity          archive/pilot14/entity_map.json   (Alex/Claude, chosen from the YAGO 4.5 dump
@@ -6,7 +6,7 @@
   text of the 14 paragraphs                   archive/texts/<doc>.json          (archive/prepare/prepare_texts.py, from the PDFs)
   relation vocabulary                         relations.json (copied from archive/schema/history_relations.json)
 
-  YAGO_JSONL=<LELA>/data/yago/yago-entities.jsonl python dataset/build.py
+  from the repository root: YAGO_JSONL=<LELA>/data/yago/yago-entities.jsonl python archive/build_dataset.py
 
 Checks: every offset spells its text, every entity and relation exists, every YAGO id exists in the YAGO 4.5 dump.
 """
@@ -15,7 +15,7 @@ import os
 from pathlib import Path
 
 DOCS = ("alford2026", "nechaeva2017")
-OUT = Path(__file__).parent
+OUT = Path("dataset")
 STATUS = ("draft: annotated by Claude (one annotator), not yet reviewed by a historian; YAGO ids chosen from the YAGO 4.5 "
           "dump by the same")
 

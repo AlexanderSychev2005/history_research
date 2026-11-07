@@ -11,18 +11,18 @@ every method is scored against the same gold.
 | total | 14 | 159 (117 with a YAGO id, 42 without) | 83 (55) | 54 |
 
 **Status: draft.** Annotated by one annotator (Claude) and not yet reviewed by a historian; the YAGO ids were chosen from the
-YAGO 4.5 dump by the same. Treat the numbers computed on it accordingly. Paragraph ids are those of `archive/prepare/prepare_texts.py`.
+YAGO 4.5 dump by the same. Treat the numbers computed on it accordingly.
 
 ## Files
 | file | content |
 |---|---|
-| `articles/*.pdf` | the two source papers (as given to the project; the `source` field of `paragraphs/` names the file) |
+| `articles/*.pdf` | the two source papers (the `source` field of `paragraphs/` names the file) |
 | `paragraphs/<doc>.json` | `{doc_id, title, source, paragraphs: [{id, text, section, page}]}`, the canonical text (offsets refer to it) |
 | `gold/<doc>.json` | `{doc_id, annotator, scope, entities, mentions, facts}`, see below |
-| `relations.json` | the relation vocabulary: 29 relations (YAGO 4.6 plus three `ex:` extensions) with domain, range and a one-line description, of which the 23 that have an entity as object are the candidates for facts (the gold uses 11 of them); copied from `archive/schema/history_relations.json` |
-| `build.py` | provenance: how the files were assembled from `archive/eval/gold`, `archive/pilot14/entity_map.json` and the cleaned text (run once) |
+| `mentions.html` | a view of the 14 paragraphs with the gold mentions highlighted, by type or by YAGO link (open in a browser) |
+| `relations.json` | the relation vocabulary: 29 relations (YAGO 4.6 plus three `ex:` extensions) with domain, range and a one-line description, of which the 23 that have an entity as object are the candidates for facts (the gold uses 11 of them) |
 
-`gold/<doc>.json` follows the format of `eval/evaluate.py` and adds the YAGO fields:
+`gold/<doc>.json` in detail:
 ```
 entities: [{eid, label, type, aliases, yago, note}]      yago = "yago:Title" or null; note explains doubtful decisions
 mentions: [{para, start, end, text, entity, yago}]       offsets are 0-based characters in the paragraph, end exclusive
@@ -47,19 +47,17 @@ facts:    [{para, subj, rel, obj}]                       subj and obj are eids; 
   states them; attribution and certainty are not annotated yet.
 
 ## Scoring
-```bash
-# mentions and relations (and entity matching by label/alias), as for every other run of the project
-python archive/eval/evaluate.py score --texts dataset/paragraphs --gold dataset/gold --pred <pred dir> ... --span overlap
-```
-Entity linking to YAGO: compare each predicted mention's YAGO id with the gold mention's `yago` (a mention with `yago: null`
-is correct only if left unlinked). `archive/pilot14/score.py` does this for a different prediction format and is easy to adapt.
-
-Report **paragraph p004 of both papers separately**: the earlier pilot (`archive/pilot/`) was developed on them, so numbers on
-the other 12 paragraphs are the unbiased ones.
+Each level is scored against `gold/`:
+* **Mentions:** precision, recall and F1 of the predicted spans (`para`, `start`, `end`) against `mentions`, with strict
+  boundaries or any overlap.
+* **Entity linking to YAGO:** a predicted mention is correct if its span matches and its YAGO id equals the gold mention's
+  `yago`; a mention with `yago: null` is correct only if left unlinked.
+* **Relations:** precision, recall and F1 of the facts (`para`, subject, relation, object) after mapping the predicted names to
+  gold entities by label and alias; once on the gold mentions (the relation stage alone) and once on predicted mentions (end to end).
 
 ## Known limits
 One annotator; no inter-annotator agreement; 54 facts give wide confidence intervals (about ±12 points); the 42 mentions without
 a YAGO id and the "approx" links are the decisions most in need of a historian's check; gold facts are sentence-level only.
 
-This set replaces `archive/eval/gold` as the shared gold (the mentions and facts are the same). **The JSON in this folder is the
-source from now on**; `archive/` is frozen. `archive/eval/evaluate.py` is stdlib-only and can be used from here as shown above.
+**The JSON in this folder is the source of the gold:** edit it directly and keep `entities`, `mentions` and `facts` consistent
+(every `eid` used in a mention or a fact must exist in `entities`).
