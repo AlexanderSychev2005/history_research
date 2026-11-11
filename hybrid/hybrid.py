@@ -38,6 +38,13 @@ Answer with JSON only, in this form:
 Paragraph:
 """
 
+SPELLING_PROMPT = """Paragraph from a history paper:
+{text}
+
+The name "{name}" in this paragraph may be spelled as in a transliteration. Give the spelling of this name that
+English-language scholarship or Wikipedia uses (for example "Ghazar Parpetsi" for a name transliterated from Armenian),
+as a plain name. Answer with the name only, or with the word unknown."""
+
 
 def post(payload):
     req = urllib.request.Request(URL, json.dumps(payload).encode(), {
@@ -53,6 +60,15 @@ def post(payload):
             print(f"429, waiting {wait:.0f}s", file=sys.stderr, flush=True)
             time.sleep(min(wait + 1, 90))
     raise RuntimeError("rate limit did not clear; run again later, the cache keeps what is done")
+
+
+def load_json(path):
+    return json.load(open(path, encoding="utf-8")) if os.path.exists(path) else {}
+
+
+def save_json(obj, path):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    json.dump(obj, open(path, "w", encoding="utf-8"), ensure_ascii=False)
 
 
 def paragraphs():
@@ -81,10 +97,9 @@ def find_names(model):
                                 "messages": [{"role": "user", "content": NAMES_PROMPT + text}]})
                 if content:
                     break
-            os.makedirs(os.path.dirname(path), exist_ok=True)
-            json.dump({"content": content}, open(path, "w", encoding="utf-8"), ensure_ascii=False)
+            save_json({"content": content}, path)
             print("names", doc, para, flush=True)
-        content = re.sub(r"<think>.*?</think>", "", json.load(open(path, encoding="utf-8"))["content"], flags=re.S)
+        content = re.sub(r"<think>.*?</think>", "", load_json(path)["content"], flags=re.S)
         try:
             listed = [x for x in json.loads(re.search(r"\{.*\}", content, flags=re.S).group(0)).get("mentions", [])
                       if isinstance(x, dict) and x.get("text")]
@@ -100,6 +115,31 @@ def find_names(model):
     return rows
 
 
+def add_spellings(rows, model):
+    """A name the LLM gave no entity for gets the English spelling it is usually written with (one question per distinct
+    paragraph and text), so that the search has something closer to the YAGO titles than a transliteration."""
+    texts = {(d, p): t for d, p, t in paragraphs()}
+    path = os.path.join(CACHE, "spellings.json")
+    done = load_json(path)
+    for d, ms in rows.items():
+        for m in ms:
+            if m["llm_entity"]:
+                continue
+            key = json.dumps([d, m["para"], m["text"]], ensure_ascii=False)
+            if key not in done:
+                for _ in range(3):
+                    answer = post({"model": MODELS[model], "temperature": 0.3, "max_completion_tokens": 1500,
+                                   "reasoning_effort": "low", "messages": [{"role": "user", "content": SPELLING_PROMPT.format(
+                                       text=texts[d, m["para"]], name=m["text"])}]})
+                    answer = (answer.strip().splitlines() or [""])[0].strip(' ."\'')
+                    if answer:
+                        break
+                done[key] = None if answer.lower() in ("", "unknown", "null", "none") else answer
+                save_json(done, path)
+                print("spelling", m["text"], "->", done[key], flush=True)
+            m["spelling"] = done[key]
+
+
 class Yago:
     def __init__(self, path):
         self.path, self.ids = path, []
@@ -110,20 +150,26 @@ class Yago:
         self.top = {}
 
     def search(self, queries):
-        """the PER_QUERY titles most similar (rapidfuzz WRatio) to each query, over all YAGO titles"""
+        """the PER_QUERY titles most similar (rapidfuzz WRatio) to each query, over all YAGO titles; equal scores (a
+        substring match scores 100 for hundreds of titles) stay in the order of the YAGO file, which found the right entity
+        more often than ordering them by length"""
         queries = sorted(q for q in set(queries) if q not in self.top)
         for s in range(0, len(queries), 40):                        # chunks keep the score matrix small
             chunk = queries[s:s + 40]
             scores = process.cdist([q.replace(" ", "_") for q in chunk], self.titles, scorer=fuzz.WRatio,
                                    dtype=np.uint8, workers=-1)
-            for i, q in enumerate(chunk):                           # int16: negating uint8 would wrap around
-                self.top[q] = [int(k) for k in np.argsort(-scores[i].astype(np.int16), kind="stable")[:PER_QUERY]]
+            for i, q in enumerate(chunk):
+                kth = np.partition(scores[i], -PER_QUERY)[-PER_QUERY]       # the PER_QUERY-th best score
+                near = np.nonzero(scores[i] >= kth)[0]
+                order = np.lexsort((near, -scores[i][near].astype(np.int16)))   # int16: no uint8 wrap
+                self.top[q] = [int(k) for k in near[order][:PER_QUERY]]
             print("search", min(s + 40, len(queries)), "/", len(queries), flush=True)
 
-    def shortlist(self, text, guess):
-        """the most similar to the LLM's guess, then to the written name; no repeats, at most MAX_SHORTLIST"""
+    def shortlist(self, text, guess, spelling=None):
+        """the most similar to the LLM's guess (or, without one, to its spelling), then to the written name; no repeats,
+        at most MAX_SHORTLIST"""
         out = []
-        for k in (self.top[guess] if guess else []) + self.top[text]:
+        for k in (self.top[guess or spelling] if guess or spelling else []) + self.top[text]:
             if k not in out:
                 out.append(k)
         return out[:MAX_SHORTLIST]
@@ -136,19 +182,24 @@ class Yago:
         return out
 
 
-def choose(yago, texts, rows, model):
-    """Stage 2: the LLM picks one entry of each shortlist or none. One question per distinct (paragraph, text, guess)."""
-    yago.search([q for ms in rows.values() for m in ms for q in (m["text"], m["llm_entity"]) if q])
-    decisions = {(d, m["para"], m["text"], m["llm_entity"]): (yago.shortlist(m["text"], m["llm_entity"]), m["start"], m["end"])
-                 for d, ms in rows.items() for m in ms}
+def candidates(yago, rows):
+    """Stage 2a: {(doc, para, text, guess, spelling): (shortlist, start, end)}, one entry per distinct name in a paragraph."""
+    yago.search([q for ms in rows.values() for m in ms for q in (m["text"], m["llm_entity"], m.get("spelling")) if q])
+    return {(d, m["para"], m["text"], m["llm_entity"], m.get("spelling")):
+            (yago.shortlist(m["text"], m["llm_entity"], m.get("spelling")), m["start"], m["end"])
+            for d, ms in rows.items() for m in ms}
+
+
+def choose(yago, texts, decisions, model):
+    """Stage 2b: the LLM picks one entry of each shortlist or none."""
     desc = yago.descriptions({j for sl, _, _ in decisions.values() for j in sl})
     path = os.path.join(CACHE, "choices.json")
-    done = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else {}
+    done = load_json(path)
     for n, (k, (sl, start, end)) in enumerate(decisions.items(), 1):
-        key = json.dumps(k, ensure_ascii=False)
+        key = json.dumps([k, sl], ensure_ascii=False)                # a changed shortlist is a new question
         if key in done:
             continue
-        doc, para, mtext, guess = k
+        doc, para, mtext, guess, _ = k
         text = texts[doc, para]
         lines = "\n".join(f"{i}. {yago.titles[j]} ({desc[j]})" for i, j in enumerate(sl, 1))
         hint = (f'A first reader suggested the entity "{guess}" (it may be wrong or spelled differently from the entries '
@@ -165,12 +216,10 @@ def choose(yago, texts, rows, model):
         c = int(m.group()) if m else 0
         done[key] = yago.ids[sl[c - 1]] if 1 <= c <= len(sl) else None
         if n % 10 == 0:
-            os.makedirs(CACHE, exist_ok=True)
-            json.dump(done, open(path, "w", encoding="utf-8"), ensure_ascii=False)
+            save_json(done, path)
             print("choice", n, "/", len(decisions), flush=True)
-    os.makedirs(CACHE, exist_ok=True)
-    json.dump(done, open(path, "w", encoding="utf-8"), ensure_ascii=False)
-    return {k: (done[json.dumps(k, ensure_ascii=False)], sl) for k, (sl, _, _) in decisions.items()}
+    save_json(done, path)
+    return {k: done[json.dumps([k, sl], ensure_ascii=False)] for k, (sl, _, _) in decisions.items()}
 
 
 if __name__ == "__main__":
@@ -178,14 +227,16 @@ if __name__ == "__main__":
     names_model, chooser = (sys.argv[1:] + ["120b", "20b"])[:2]
     texts = {(d, p): t for d, p, t in paragraphs()}
     rows = find_names(names_model)
+    add_spellings(rows, names_model)
     yago = Yago(os.environ["YAGO_JSONL"])
-    result = choose(yago, texts, rows, chooser)
+    decisions = candidates(yago, rows)
+    chosen = choose(yago, texts, decisions, chooser)
     out = os.path.join(HERE, "pred")
     os.makedirs(out, exist_ok=True)
     for d, ms in rows.items():
         ents = []
         for m in ms:
-            link, sl = result[d, m["para"], m["text"], m["llm_entity"]]
-            ents.append({**m, "entity_id": link, "candidates": [yago.ids[j] for j in sl]})
+            k = (d, m["para"], m["text"], m["llm_entity"], m.get("spelling"))
+            ents.append({**m, "entity_id": chosen[k], "candidates": [yago.ids[j] for j in decisions[k][0]]})
         open(os.path.join(out, d + ".jsonl"), "w", encoding="utf-8").write(json.dumps({"id": d, "entities": ents}, ensure_ascii=False) + "\n")
     print("saved", out)
