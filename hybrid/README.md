@@ -37,8 +37,7 @@ Share of the 111 mentions with an id whose gold entry is in the shortlist (no ch
 
 The rest is mostly names the gold links to a neighbouring entry (Persia, Persians → Sasanian Empire; Romans, Roman Empire →
 Byzantine Empire; Callinicum → Raqqa; Gorgān → Hyrcania) and a few transliterations the spelling step does not fix
-(Łazar, Širak, Ełišē). The choice never saw an exact title match as a separate source: it was dropped because the lists with and
-without it contained the right entity in the same cases.
+(Łazar, Širak, Ełišē).
 
 ## Files
 | file | content |
