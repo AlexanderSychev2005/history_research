@@ -1,63 +1,47 @@
 # Hybrid: entity linking to YAGO 4.5 with an LLM and a YAGO shortlist
 
-Tested on the 14 paragraphs of [`../dataset/`](../dataset/README.md), scored against its gold (mentions and YAGO ids).
+Run on the 14 paragraphs of [`../dataset/`](../dataset/README.md) and scored against its gold (mentions and YAGO ids).
 
 ## How it works
 1. **Names (LLM).** `gpt-oss-120b` reads a paragraph and lists the names, each with the entity it thinks the name is
    (a Wikipedia-style title, or null). Every whole-word occurrence of a listed text becomes a mention.
 2. **Shortlist (YAGO, no LLM).** For every name, at most 20 entries of YAGO 4.5: the 10 titles most similar to the LLM's
-   guess and the 10 most similar to the name as written in the text (rapidfuzz `WRatio` over all 5.8 million titles),
-   without repeats (about 12 on average). Without a guess only the 10 by the text.
+   guess and the 10 most similar to the name as written in the text (rapidfuzz `WRatio` over all 5.8 million titles), without
+   repeats. Without a guess only the 10 by the text.
 3. **Choice (LLM).** `gpt-oss-20b` sees the paragraph with the name marked, the first guess and the shortlist with the
    descriptions, and picks one entry or "none of the listed candidates". A "none" leaves the mention unlinked.
 
-## Result (14 paragraphs, 159 gold mentions, 117 with a YAGO id; one run)
-Overlapping spans count as a match (strict boundaries in brackets, `results/score_strict.md`).
+## Result (one run)
+159 gold mentions (117 with a YAGO id, 42 without), 166 predicted.
 
-| run | mention F1 | link P / R | link F1 |
+| spans | mention P / R / F1 | link P / R / F1 | gold id in shortlist |
 |---|---|---|---|
-| hybrid (`pred/hybrid_120b-20b_r1`, made with the exact match, see below) | 93 (90) | 65 / 60 | **62** (58) |
-| LLM only: the guess looked up as a YAGO title (`pred/names_120b_r1`) | 93 (90) | 67 / 38 | 48 (44) |
+| strict | 0.91 / 0.95 / 0.93 | 0.71 / 0.56 / **0.63** | 67 / 111 |
+| overlap | 0.93 / 0.97 / 0.95 | 0.75 / 0.58 / **0.65** | 70 / 115 |
 
-In 70 of the 115 matched mentions with an id the right entry was in the shortlist, and in exactly those 70 the choice was right.
-Of the 40 gold mentions without a YAGO id the hybrid left 24 unlinked and gave the other 16 a wrong link.
-
-## Which parts of the shortlist are needed
-`python hybrid/hybrid.py shortlists names_120b_r1` (no LLM call): how often the right entity is in the list, over the 109 gold
-mentions with an id that the names stage found as exact spans (`results/shortlists.md`).
-
-| shortlist | right entity in the list | mean length |
-|---|---|---|
-| exact title only (the guess as it is) | 40 / 109 (37%) | 0.4 |
-| search by the text only | 54 / 109 (50%) | 10.0 |
-| search by the guess only | 51 / 109 (47%) | 6.3 |
-| text + guess (the hybrid) | 65 / 109 (60%) | 12.1 |
-| guess + text + exact | 65 / 109 (60%) | 12.1 |
-
-* **Text and guess are both needed:** each alone finds the entity for about half of the names, together for 60%, so they
-  find partly different entities.
-* **The exact match adds nothing:** the lists with and without it contain the right entity in exactly the same cases, an
-  exact title is already among the 10 most similar to the guess. It is dropped from the shortlist in the code. The saved
-  prediction above was made before that (the exact match was the first entry of the list) and the choice step has not been
-  rerun without it, so the link F1 of the version without it is not measured yet.
-* **The rest (40%)** is the ceiling of this design: whatever the LLM chooses, an entity that is not in the list cannot be linked.
+* A link counts only if the span and the YAGO id are both right (strict: the span is the gold span; overlap: any overlap).
+* The hybrid made 91 links, 65 of them right (strict). When the right entity was in the shortlist the choice was right in 65 of
+  67 cases (strict), so the limit is the shortlist: for 44 of 111 mentions with an id the right entry was not in it.
+* Of the 40 mentions without a YAGO id, 28 were left unlinked and 12 got a wrong link.
 
 ## Files
 | file | content |
 |---|---|
-| `hybrid.py` | `names`, `choose` and `shortlists` (the three commands above) |
-| `score.py` | mention and link scores of a run against `dataset/gold` |
-| `pred/<run>/<doc>.jsonl` | predictions: `para, text, start, end, entity_id, llm_entity` (and `candidates` for the hybrid) |
-| `results/` | the tables above |
+| `hybrid.py` | the whole pipeline: names, shortlist, choice; writes `pred/` |
+| `score.py` | mention and link scores of `pred/` against `dataset/gold` |
+| `pred/<doc>.jsonl` | predictions: `para, text, start, end, llm_entity, entity_id, candidates` |
+| `cache/` | the LLM's raw answers (git-ignored); a rerun reuses them |
 
 ## Run it
-Needs a Groq API key for the LLM steps (kept in the environment, never in the repository), the YAGO 4.5 entity dump
-(`https://yago-knowledge.org/data/yago4.5/yago-entities.jsonl.zip`, 150 MB, 680 MB unpacked), `numpy` and `rapidfuzz`.
+Needs the YAGO 4.5 entity dump (<https://yago-knowledge.org/data/yago4.5/yago-entities.jsonl.zip>, 150 MB, 680 MB unpacked)
+and a Groq API key. Copy `.env.example` to `.env` (git-ignored) and fill in `GROQ_API_KEY` and `YAGO_JSONL`, then from the
+repository root:
 ```bash
-GROQ_API_KEY=... python hybrid/hybrid.py names 120b 1
-GROQ_API_KEY=... YAGO_JSONL=<path>/yago-entities.jsonl python hybrid/hybrid.py choose names_120b_r1 20b
-python hybrid/score.py hybrid_120b-20b_r1 names_120b_r1 --overlap
+uv run --no-project --env-file .env --with numpy --with rapidfuzz python hybrid/hybrid.py
+python hybrid/score.py
 ```
+Delete `hybrid/cache/` to ask the LLM again. Groq's free tier answers 429 now and then; the script waits and continues, and
+if the daily limit is reached a rerun continues from the cache.
 
 ## Caveats
 One run: gpt-oss answers differ between runs even at low temperature, so a single run can move by several points. The choice
