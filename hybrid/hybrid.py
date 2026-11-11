@@ -137,7 +137,7 @@ class Yago:
                 self.top[q] = [int(k) for k in self.np.argsort(-scores[i].astype(self.np.int16), kind="stable")[:PER_QUERY]]
             print("fuzzy search", min(s + 40, len(queries)), "/", len(queries), flush=True)
 
-    def shortlist(self, text, guess, parts=("exact", "guess", "text")):
+    def shortlist(self, text, guess, parts=("guess", "text")):
         exact = self.index.get("yago:" + guess.replace(" ", "_").lower()) if guess else None
         out = []
         for k in (([exact] if "exact" in parts and exact is not None else [])
@@ -201,8 +201,8 @@ def choose(run, chooser):
 VARIANTS = [("exact title only (the LLM's guess looked up as it is)", ("exact",)),
             ("search by the text only", ("text",)),
             ("search by the guess only", ("guess",)),
-            ("text + guess, no exact", ("guess", "text")),
-            ("exact + guess + text (the hybrid)", ("exact", "guess", "text"))]
+            ("text + guess (the hybrid)", ("guess", "text")),
+            ("guess + text + exact", ("exact", "guess", "text"))]
 
 
 def shortlists(run):

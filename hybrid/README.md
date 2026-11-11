@@ -5,9 +5,9 @@ Tested on the 14 paragraphs of [`../dataset/`](../dataset/README.md), scored aga
 ## How it works
 1. **Names (LLM).** `gpt-oss-120b` reads a paragraph and lists the names, each with the entity it thinks the name is
    (a Wikipedia-style title, or null). Every whole-word occurrence of a listed text becomes a mention.
-2. **Shortlist (YAGO, no LLM).** For every name, at most 20 entries of YAGO 4.5: the 10 titles most similar to the name as
-   written in the text, the 10 most similar to the LLM's guess (rapidfuzz `WRatio` over all 5.8 million titles), and the
-   entry whose title equals the guess.
+2. **Shortlist (YAGO, no LLM).** For every name, at most 20 entries of YAGO 4.5: the 10 titles most similar to the LLM's
+   guess and the 10 most similar to the name as written in the text (rapidfuzz `WRatio` over all 5.8 million titles),
+   without repeats (about 12 on average). Without a guess only the 10 by the text.
 3. **Choice (LLM).** `gpt-oss-20b` sees the paragraph with the name marked, the first guess and the shortlist with the
    descriptions, and picks one entry or "none of the listed candidates". A "none" leaves the mention unlinked.
 
@@ -16,7 +16,7 @@ Overlapping spans count as a match (strict boundaries in brackets, `results/scor
 
 | run | mention F1 | link P / R | link F1 |
 |---|---|---|---|
-| hybrid (`pred/hybrid_120b-20b_r1`) | 93 (90) | 65 / 60 | **62** (58) |
+| hybrid (`pred/hybrid_120b-20b_r1`, made with the exact match, see below) | 93 (90) | 65 / 60 | **62** (58) |
 | LLM only: the guess looked up as a YAGO title (`pred/names_120b_r1`) | 93 (90) | 67 / 38 | 48 (44) |
 
 In 70 of the 115 matched mentions with an id the right entry was in the shortlist, and in exactly those 70 the choice was right.
@@ -31,14 +31,15 @@ mentions with an id that the names stage found as exact spans (`results/shortlis
 | exact title only (the guess as it is) | 40 / 109 (37%) | 0.4 |
 | search by the text only | 54 / 109 (50%) | 10.0 |
 | search by the guess only | 51 / 109 (47%) | 6.3 |
-| text + guess | 65 / 109 (60%) | 12.1 |
-| exact + guess + text (the hybrid) | 65 / 109 (60%) | 12.1 |
+| text + guess (the hybrid) | 65 / 109 (60%) | 12.1 |
+| guess + text + exact | 65 / 109 (60%) | 12.1 |
 
 * **Text and guess are both needed:** each alone finds the entity for about half of the names, together for 60%, so they
   find partly different entities.
 * **The exact match adds nothing:** the lists with and without it contain the right entity in exactly the same cases, an
-  exact title is already among the 10 most similar to the guess. It can be dropped (`parts` in `Yago.shortlist`); the choice
-  step has not been rerun without it, so the link F1 of that variant is not measured.
+  exact title is already among the 10 most similar to the guess. It is dropped from the shortlist in the code. The saved
+  prediction above was made before that (the exact match was the first entry of the list) and the choice step has not been
+  rerun without it, so the link F1 of the version without it is not measured yet.
 * **The rest (40%)** is the ceiling of this design: whatever the LLM chooses, an entity that is not in the list cannot be linked.
 
 ## Files
