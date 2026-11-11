@@ -25,19 +25,10 @@ Run on the 14 paragraphs of [`../dataset/`](../dataset/README.md) and scored aga
   70 cases (strict), so the limit is the shortlist: for 41 of 111 mentions with an id the right entry was not in it.
 * Of the 40 mentions without a YAGO id, 26 were left unlinked and 14 got a wrong link.
 
-## What was tried to widen the shortlist
-Share of the 111 mentions with an id whose gold entry is in the shortlist (no choice step needed, `PER_QUERY` 10, at most 20):
-
-| variant | in the shortlist |
-|---|---|
-| search by the guess and by the text, equal scores in the order of the YAGO file | 67 |
-| + the spelling for names without a guess (kept) | **70** |
-| equal scores ordered by shorter title (instead of file order) | 59 (63 with the spelling) |
-| equal scores ordered by closeness of the title's length to the query | 60 (63 with the spelling) |
-
-The rest is mostly names the gold links to a neighbouring entry (Persia, Persians → Sasanian Empire; Romans, Roman Empire →
-Byzantine Empire; Callinicum → Raqqa; Gorgān → Hyrcania) and a few transliterations the spelling step does not fix
-(Łazar, Širak, Ełišē).
+## What the shortlist misses
+For 41 of the 111 mentions with an id the right entry is not among the candidates. Mostly these are names that the gold links
+to a neighbouring entry (Persia, Persians → Sasanian Empire; Romans, Roman Empire → Byzantine Empire; Callinicum → Raqqa;
+Gorgān → Hyrcania) and a few transliterations that the spelling does not bring close to the YAGO title (Łazar, Širak, Ełišē).
 
 ## Files
 | file | content |

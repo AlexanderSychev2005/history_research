@@ -1,6 +1,6 @@
 """Hybrid entity linker for the dataset: the LLM finds the names, YAGO supplies a shortlist, the LLM chooses.
 
-    uv run --no-project --env-file .env --with numpy --with rapidfuzz python hybrid/hybrid.py [names_model] [chooser_model]
+    uv run --no-project --env-file .env --with numpy --with rapidfuzz python hybrid/hybrid.py
 
 Reads dataset/paragraphs/, writes hybrid/pred/<doc>.jsonl; the LLM answers are cached in hybrid/cache/, so a rerun (for
 example after a rate limit) continues where it stopped. Environment: GROQ_API_KEY, YAGO_JSONL (see .env.example).
@@ -19,7 +19,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "..", "dataset")
 CACHE = os.path.join(HERE, "cache")
 DOCS = ("alford2026", "nechaeva2017")
-MODELS = {"120b": "openai/gpt-oss-120b", "20b": "openai/gpt-oss-20b"}
+NAMES_MODEL = "openai/gpt-oss-120b"      # finds the names and gives the spellings
+CHOOSER_MODEL = "openai/gpt-oss-20b"    # picks from the shortlist
 URL = "https://api.groq.com/openai/v1/chat/completions"
 PER_QUERY, MAX_SHORTLIST = 10, 20
 
@@ -86,14 +87,14 @@ def occurrences(text, surface):
         i = j
 
 
-def find_names(model):
+def find_names():
     """Stage 1: {doc: [mention]}, a mention is {para, text, start, end, llm_entity}."""
     rows = {d: [] for d in DOCS}
     for doc, para, text in paragraphs():
         path = os.path.join(CACHE, "names", f"{doc}_{para}.json")
         if not os.path.exists(path):
             for _ in range(4):                                       # a model sometimes returns nothing
-                content = post({"model": MODELS[model], "temperature": 0.3, "max_completion_tokens": 3000,
+                content = post({"model": NAMES_MODEL, "temperature": 0.3, "max_completion_tokens": 3000,
                                 "messages": [{"role": "user", "content": NAMES_PROMPT + text}]})
                 if content:
                     break
@@ -115,7 +116,7 @@ def find_names(model):
     return rows
 
 
-def add_spellings(rows, model):
+def add_spellings(rows):
     """A name the LLM gave no entity for gets the English spelling it is usually written with (one question per distinct
     paragraph and text), so that the search has something closer to the YAGO titles than a transliteration."""
     texts = {(d, p): t for d, p, t in paragraphs()}
@@ -128,7 +129,7 @@ def add_spellings(rows, model):
             key = json.dumps([d, m["para"], m["text"]], ensure_ascii=False)
             if key not in done:
                 for _ in range(3):
-                    answer = post({"model": MODELS[model], "temperature": 0.3, "max_completion_tokens": 1500,
+                    answer = post({"model": NAMES_MODEL, "temperature": 0.3, "max_completion_tokens": 1500,
                                    "reasoning_effort": "low", "messages": [{"role": "user", "content": SPELLING_PROMPT.format(
                                        text=texts[d, m["para"]], name=m["text"])}]})
                     answer = (answer.strip().splitlines() or [""])[0].strip(' ."\'')
@@ -151,8 +152,7 @@ class Yago:
 
     def search(self, queries):
         """the PER_QUERY titles most similar (rapidfuzz WRatio) to each query, over all YAGO titles; equal scores (a
-        substring match scores 100 for hundreds of titles) stay in the order of the YAGO file, which found the right entity
-        more often than ordering them by length"""
+        substring match scores 100 for hundreds of titles) stay in the order of the YAGO file"""
         queries = sorted(q for q in set(queries) if q not in self.top)
         for s in range(0, len(queries), 40):                        # chunks keep the score matrix small
             chunk = queries[s:s + 40]
@@ -190,7 +190,7 @@ def candidates(yago, rows):
             for d, ms in rows.items() for m in ms}
 
 
-def choose(yago, texts, decisions, model):
+def choose(yago, texts, decisions):
     """Stage 2b: the LLM picks one entry of each shortlist or none."""
     desc = yago.descriptions({j for sl, _, _ in decisions.values() for j in sl})
     path = os.path.join(CACHE, "choices.json")
@@ -209,7 +209,7 @@ def choose(yago, texts, decisions, model):
                     "Which entry of the knowledge base is the historical entity this mention refers to in the "
                     f"paragraph?\n0. None of the listed candidates\n{lines}\n\nAnswer with the number only.")
         for _ in range(3):                                           # low reasoning effort sometimes returns nothing
-            m = re.search(r"\d+", post({"model": MODELS[model], "temperature": 0.3, "max_completion_tokens": 1500,
+            m = re.search(r"\d+", post({"model": CHOOSER_MODEL, "temperature": 0.3, "max_completion_tokens": 1500,
                                         "reasoning_effort": "low", "messages": [{"role": "user", "content": question}]}))
             if m:
                 break
@@ -224,13 +224,12 @@ def choose(yago, texts, decisions, model):
 
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
-    names_model, chooser = (sys.argv[1:] + ["120b", "20b"])[:2]
     texts = {(d, p): t for d, p, t in paragraphs()}
-    rows = find_names(names_model)
-    add_spellings(rows, names_model)
+    rows = find_names()
+    add_spellings(rows)
     yago = Yago(os.environ["YAGO_JSONL"])
     decisions = candidates(yago, rows)
-    chosen = choose(yago, texts, decisions, chooser)
+    chosen = choose(yago, texts, decisions)
     out = os.path.join(HERE, "pred")
     os.makedirs(out, exist_ok=True)
     for d, ms in rows.items():
