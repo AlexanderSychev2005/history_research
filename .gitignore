@@ -20,3 +20,6 @@ archive/pilot/lela_in/
 # Python cache
 __pycache__/
 *.pyc
+
+# Hybrid: cached LLM answers
+hybrid/cache/
