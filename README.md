@@ -18,3 +18,7 @@ The gold is a draft by one annotator (Claude) and has not been reviewed by a his
 
 To look at the gold, see [`dataset/mentions/`](dataset/mentions/README.md): the paragraphs with the mentions coloured by type and by YAGO link.
 The entities with their YAGO ids are in [`dataset/linking/`](dataset/linking/README.md), the relations in [`dataset/relations/`](dataset/relations/README.md).
+
+## Methods
+
+[`hybrid/`](hybrid/README.md): entity linking to YAGO with an LLM and a YAGO shortlist, tested on the dataset (link F1 62).
