@@ -12,17 +12,25 @@ Run on the 14 paragraphs of [`../dataset/`](../dataset/README.md) and scored aga
 3. **Choice (LLM).** `gpt-oss-20b` sees the paragraph with the name marked, the first guess and the shortlist with the
    descriptions, and picks one entry or "none of the listed candidates". A "none" leaves the mention unlinked.
 
-## Result (one run)
-159 gold mentions (117 with a YAGO id, 42 without), 166 predicted.
+## Result
+Hybrid: one run. 159 gold mentions (117 with a YAGO id, 42 without), 166 predicted. A link counts only if the span and the
+YAGO id are both right (strict: the span is the gold span; overlap: any overlap).
 
-| spans | mention P / R / F1 | link P / R / F1 | gold id in shortlist |
-|---|---|---|---|
-| strict | 0.91 / 0.95 / 0.93 | 0.70 / 0.59 / **0.64** | 70 / 111 |
-| overlap | 0.93 / 0.97 / 0.95 | 0.74 / 0.62 / **0.68** | 74 / 115 |
+| method | paragraphs | spans | mention P / R / F1 | link P / R / F1 |
+|---|---|---|---|---|
+| LELA: GLiNER, fuzzy search, first candidate | 14 | strict | 0.73 / 0.88 / 0.80 | 0.15 / 0.24 / 0.18 |
+| LELA: GLiNER, fuzzy search, first candidate | 14 | overlap | 0.76 / 0.93 / 0.84 | 0.16 / 0.26 / 0.19 |
+| **Hybrid** | 14 | strict | 0.91 / 0.95 / 0.93 | 0.70 / 0.59 / **0.64** |
+| **Hybrid** | 14 | overlap | 0.93 / 0.97 / 0.95 | 0.74 / 0.62 / **0.68** |
+| LELA + LLM: GLiNER, fuzzy search, `gpt-oss-120b` chooses | 2 (35 mentions) | strict | 1.00 / 0.80 / 0.89 | 0.86 / 0.58 / 0.69 |
+| **Hybrid**, the same 2 paragraphs | 2 (35 mentions) | strict | 1.00 / 1.00 / 1.00 | 0.86 / 0.77 / **0.81** |
 
-* A link counts only if the span and the YAGO id are both right (strict: the span is the gold span; overlap: any overlap).
+* **LELA** ([dig-team/LELA](https://github.com/dig-team/LELA)): GLiNER finds the names, a fuzzy search over the YAGO titles
+  gives 20 candidates, and either the first candidate is taken or an LLM picks one. The LELA + LLM variant was run only on
+  the two paragraphs p004 (one per paper); it has not been run on all 14. Its predictions are not kept in this repository.
 * The hybrid made 98 links, 69 of them right (strict). When the right entity was in the shortlist the choice was right in 69 of
-  70 cases (strict), so the limit is the shortlist: for 41 of 111 mentions with an id the right entry was not in it.
+  70 cases (strict), so the limit is the shortlist: it holds the right entry for 70 of the 111 mentions with an id (strict; 74 of
+  115 with overlap).
 * Of the 40 mentions without a YAGO id, 26 were left unlinked and 14 got a wrong link.
 
 ## What the shortlist misses
