@@ -1,4 +1,4 @@
-"""Scores hybrid/pred/ against dataset/gold, over all 14 paragraphs:  python hybrid/score.py
+"""Scores predictions against dataset/gold, over all 14 paragraphs:  python hybrid/score.py [pred_dir]   (default hybrid/pred)
 
 mention  a predicted span matches a gold span of the same paragraph if it is equal (strict) or overlaps it (overlap),
          each gold span at most once
@@ -19,11 +19,11 @@ def prf(tp, n_pred, n_gold):
     return p, r, 2 * p * r / (p + r) if p + r else 0.0
 
 
-def score(overlap):
+def score(overlap, pred_dir=os.path.join(HERE, "pred")):
     gold = [{**m, "doc": d} for d in DOCS
             for m in json.load(open(os.path.join(HERE, "..", "dataset", "gold", d + ".json"), encoding="utf-8"))["mentions"]]
     pred = [{**e, "doc": d} for d in DOCS
-            for e in json.loads(open(os.path.join(HERE, "pred", d + ".jsonl"), encoding="utf-8").readline())["entities"]]
+            for e in json.loads(open(os.path.join(pred_dir, d + ".jsonl"), encoding="utf-8").readline())["entities"]]
     used, tp_m, tp_l, hit, n_hit, no_id, no_id_ok = set(), 0, 0, 0, 0, 0, 0
     for e in pred:
         best, best_ov = None, 0
@@ -54,10 +54,11 @@ def score(overlap):
 
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
+    pred_dir = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "pred")
     print("| spans | gold / predicted mentions | mention P / R / F1 | link P / R / F1 | gold id in shortlist | no-id mentions left unlinked |")
     print("|---|---|---|---|---|---|")
     for name, ov in (("strict", False), ("overlap", True)):
-        r = score(ov)
+        r = score(ov, pred_dir)
         m, l = r["mention"], r["link"]
         print(f"| {name} | {r['gold']} / {r['pred']} | {m[0]:.2f} / {m[1]:.2f} / {m[2]:.2f} | "
               f"{l[0]:.2f} / {l[1]:.2f} / {l[2]:.2f} | {r['shortlist'][0]} / {r['shortlist'][1]} | "
