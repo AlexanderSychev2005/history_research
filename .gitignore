@@ -23,3 +23,6 @@ __pycache__/
 
 # Hybrid: cached LLM answers
 hybrid/cache/
+
+# Jev: cached answers and search results
+jev/cache/

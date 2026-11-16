@@ -1,0 +1,4222 @@
+{
+ "doc_id": "nechaeva2017",
+ "model": "jev-1.14.0",
+ "thresholds": {
+  "name": 0.5,
+  "link": 0.7,
+  "fact": 0.7
+ },
+ "mentions": [
+  {
+   "para": "p004",
+   "start": 13,
+   "end": 21,
+   "text": "Agathias",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e0",
+   "yago": "yago:Agathias"
+  },
+  {
+   "para": "p004",
+   "start": 55,
+   "end": 64,
+   "text": "Damascius",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e1",
+   "yago": "yago:Damascius"
+  },
+  {
+   "para": "p004",
+   "start": 68,
+   "end": 73,
+   "text": "Syria",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e2",
+   "yago": "yago:Syria"
+  },
+  {
+   "para": "p004",
+   "start": 75,
+   "end": 85,
+   "text": "Simplicius",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e3",
+   "yago": "yago:Simplicius_of_Cilicia"
+  },
+  {
+   "para": "p004",
+   "start": 89,
+   "end": 96,
+   "text": "Cilicia",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e4",
+   "yago": "yago:Cilicia"
+  },
+  {
+   "para": "p004",
+   "start": 98,
+   "end": 106,
+   "text": "Eulamius",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e5",
+   "yago": "yago:Eulamius"
+  },
+  {
+   "para": "p004",
+   "start": 110,
+   "end": 117,
+   "text": "Phrygia",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e6",
+   "yago": "yago:Phrygia"
+  },
+  {
+   "para": "p004",
+   "start": 119,
+   "end": 127,
+   "text": "Priscian",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e7",
+   "yago": "yago:Priscian_of_Lydia"
+  },
+  {
+   "para": "p004",
+   "start": 131,
+   "end": 136,
+   "text": "Lydia",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e8",
+   "yago": "yago:Lydia"
+  },
+  {
+   "para": "p004",
+   "start": 138,
+   "end": 144,
+   "text": "Hermes",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e9",
+   "yago": null
+  },
+  {
+   "para": "p004",
+   "start": 149,
+   "end": 157,
+   "text": "Diogenes",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e10",
+   "yago": "yago:Diogenes_of_Phoenicia"
+  },
+  {
+   "para": "p004",
+   "start": 161,
+   "end": 170,
+   "text": "Phoenicia",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e11",
+   "yago": "yago:Phoenicia"
+  },
+  {
+   "para": "p004",
+   "start": 176,
+   "end": 183,
+   "text": "Isidore",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e12",
+   "yago": "yago:Isidore_of_Alexandria"
+  },
+  {
+   "para": "p004",
+   "start": 187,
+   "end": 191,
+   "text": "Gaza",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e13",
+   "yago": null
+  },
+  {
+   "para": "p004",
+   "start": 201,
+   "end": 207,
+   "text": "Persia",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e14",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p004",
+   "start": 273,
+   "end": 279,
+   "text": "Romans",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e15",
+   "yago": "yago:Byzantine_Empire"
+  },
+  {
+   "para": "p004",
+   "start": 383,
+   "end": 388,
+   "text": "Plato",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e16",
+   "yago": "yago:Plato"
+  },
+  {
+   "para": "p004",
+   "start": 572,
+   "end": 578,
+   "text": "Persia",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e14",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p004",
+   "start": 676,
+   "end": 684,
+   "text": "Agathias",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e0",
+   "yago": "yago:Agathias"
+  },
+  {
+   "para": "p013",
+   "start": 137,
+   "end": 148,
+   "text": "Domitziolus",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e17",
+   "yago": "yago:Domnentiolus"
+  },
+  {
+   "para": "p013",
+   "start": 153,
+   "end": 165,
+   "text": "Domnentiolus",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e17",
+   "yago": "yago:Domnentiolus"
+  },
+  {
+   "para": "p013",
+   "start": 199,
+   "end": 204,
+   "text": "Buzes",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e18",
+   "yago": "yago:Bouzes"
+  },
+  {
+   "para": "p013",
+   "start": 232,
+   "end": 240,
+   "text": "Persians",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e19",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p013",
+   "start": 260,
+   "end": 270,
+   "text": "Callinicum",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e20",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 329,
+   "end": 337,
+   "text": "Izdegerd",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e21",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 351,
+   "end": 358,
+   "text": "Hormizd",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e22",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 373,
+   "end": 381,
+   "text": "Arzanene",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e23",
+   "yago": "yago:Arzanene"
+  },
+  {
+   "para": "p013",
+   "start": 385,
+   "end": 396,
+   "text": "Persarmenia",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e24",
+   "yago": "yago:Sasanian_Armenia"
+  },
+  {
+   "para": "p013",
+   "start": 433,
+   "end": 439,
+   "text": "Romans",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e15",
+   "yago": "yago:Byzantine_Empire"
+  },
+  {
+   "para": "p013",
+   "start": 462,
+   "end": 478,
+   "text": "Pseudo-Zacharias",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e25",
+   "yago": "yago:Pseudo-Zacharias_Rhetor"
+  },
+  {
+   "para": "p013",
+   "start": 531,
+   "end": 542,
+   "text": "Domitziolus",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e17",
+   "yago": "yago:Domnentiolus"
+  },
+  {
+   "para": "p013",
+   "start": 622,
+   "end": 630,
+   "text": "Izdegerd",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e21",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 671,
+   "end": 687,
+   "text": "Pseudo-Zacharias",
+   "type": "written work",
+   "p": 1.0,
+   "entity": "e25",
+   "yago": "yago:Pseudo-Zacharias_Rhetor"
+  },
+  {
+   "para": "p013",
+   "start": 721,
+   "end": 729,
+   "text": "Izdegerd",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e21",
+   "yago": null
+  },
+  {
+   "para": "p014",
+   "start": 45,
+   "end": 54,
+   "text": "Procopius",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e26",
+   "yago": "yago:Procopius"
+  },
+  {
+   "para": "p014",
+   "start": 75,
+   "end": 82,
+   "text": "Dagaris",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e27",
+   "yago": null
+  },
+  {
+   "para": "p014",
+   "start": 137,
+   "end": 143,
+   "text": "Sittas",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e28",
+   "yago": "yago:Sittas"
+  },
+  {
+   "para": "p014",
+   "start": 147,
+   "end": 156,
+   "text": "Dorotheus",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e29",
+   "yago": "yago:Dorotheus_magister_militum"
+  },
+  {
+   "para": "p014",
+   "start": 204,
+   "end": 211,
+   "text": "Armenia",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e30",
+   "yago": null
+  },
+  {
+   "para": "p014",
+   "start": 246,
+   "end": 252,
+   "text": "Persia",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e14",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p014",
+   "start": 293,
+   "end": 299,
+   "text": "Romans",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e15",
+   "yago": "yago:Byzantine_Empire"
+  },
+  {
+   "para": "p014",
+   "start": 344,
+   "end": 352,
+   "text": "Persians",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e19",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p014",
+   "start": 396,
+   "end": 405,
+   "text": "Procopius",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e26",
+   "yago": "yago:Procopius"
+  },
+  {
+   "para": "p014",
+   "start": 433,
+   "end": 440,
+   "text": "Dagaris",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e27",
+   "yago": null
+  },
+  {
+   "para": "p014",
+   "start": 522,
+   "end": 526,
+   "text": "Huns",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e31",
+   "yago": null
+  },
+  {
+   "para": "p018",
+   "start": 27,
+   "end": 40,
+   "text": "Pīrān-Gušnasp",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e32",
+   "yago": "yago:Piran_Gushnasp"
+  },
+  {
+   "para": "p018",
+   "start": 84,
+   "end": 90,
+   "text": "Grigor",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e33",
+   "yago": "yago:Piran_Gushnasp"
+  },
+  {
+   "para": "p018",
+   "start": 145,
+   "end": 151,
+   "text": "Grigor",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e33",
+   "yago": "yago:Piran_Gushnasp"
+  },
+  {
+   "para": "p018",
+   "start": 269,
+   "end": 275,
+   "text": "Grigor",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e33",
+   "yago": "yago:Piran_Gushnasp"
+  },
+  {
+   "para": "p018",
+   "start": 445,
+   "end": 451,
+   "text": "Grigor",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e33",
+   "yago": "yago:Piran_Gushnasp"
+  },
+  {
+   "para": "p018",
+   "start": 597,
+   "end": 606,
+   "text": "Justinian",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e34",
+   "yago": "yago:Justinian_I"
+  },
+  {
+   "para": "p018",
+   "start": 666,
+   "end": 672,
+   "text": "Persia",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e14",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p018",
+   "start": 785,
+   "end": 791,
+   "text": "Grigor",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e33",
+   "yago": "yago:Piran_Gushnasp"
+  },
+  {
+   "para": "p018",
+   "start": 804,
+   "end": 810,
+   "text": "Persia",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e14",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p018",
+   "start": 913,
+   "end": 919,
+   "text": "Grigor",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e33",
+   "yago": "yago:Piran_Gushnasp"
+  },
+  {
+   "para": "p018",
+   "start": 927,
+   "end": 939,
+   "text": "Roman Empire",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e35",
+   "yago": "yago:Roman_Empire"
+  },
+  {
+   "para": "p019",
+   "start": 4,
+   "end": 13,
+   "text": "Martyrium",
+   "type": "written work",
+   "p": 1.0,
+   "entity": "e36",
+   "yago": null
+  },
+  {
+   "para": "p019",
+   "start": 59,
+   "end": 67,
+   "text": "Chosroes",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e37",
+   "yago": "yago:Khosrow_I"
+  },
+  {
+   "para": "p019",
+   "start": 228,
+   "end": 236,
+   "text": "Zabergān",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e38",
+   "yago": null
+  },
+  {
+   "para": "p019",
+   "start": 269,
+   "end": 279,
+   "text": "Mar Grigor",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e33",
+   "yago": "yago:Piran_Gushnasp"
+  },
+  {
+   "para": "p019",
+   "start": 389,
+   "end": 395,
+   "text": "Grigor",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e33",
+   "yago": "yago:Piran_Gushnasp"
+  },
+  {
+   "para": "p019",
+   "start": 424,
+   "end": 430,
+   "text": "Persia",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e14",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p019",
+   "start": 521,
+   "end": 530,
+   "text": "Martyrdom",
+   "type": "written work",
+   "p": 1.0,
+   "entity": "e39",
+   "yago": null
+  },
+  {
+   "para": "p019",
+   "start": 541,
+   "end": 547,
+   "text": "Grigor",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e33",
+   "yago": "yago:Piran_Gushnasp"
+  },
+  {
+   "para": "p019",
+   "start": 598,
+   "end": 616,
+   "text": "Church of the East",
+   "type": "organization",
+   "p": 1.0,
+   "entity": "e40",
+   "yago": "yago:Church_of_the_East"
+  },
+  {
+   "para": "p019",
+   "start": 669,
+   "end": 683,
+   "text": "Constantinople",
+   "type": "location",
+   "p": 1.0,
+   "entity": "e41",
+   "yago": "yago:Constantinople"
+  },
+  {
+   "para": "p019",
+   "start": 729,
+   "end": 738,
+   "text": "Martyrdom",
+   "type": "written work",
+   "p": 1.0,
+   "entity": "e39",
+   "yago": null
+  },
+  {
+   "para": "p019",
+   "start": 793,
+   "end": 799,
+   "text": "Grigor",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e33",
+   "yago": "yago:Piran_Gushnasp"
+  },
+  {
+   "para": "p019",
+   "start": 888,
+   "end": 896,
+   "text": "Zabergān",
+   "type": "person",
+   "p": 1.0,
+   "entity": "e38",
+   "yago": null
+  }
+ ],
+ "entities": [
+  {
+   "eid": "e0",
+   "label": "Agathias",
+   "forms": [
+    "Agathias"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.9825,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0175,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Agathias",
+     "yago": "yago:Agathias",
+     "p": 0.99
+    },
+    {
+     "title": "Mount Agathias",
+     "yago": "yago:Mount_Agathias",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Agathia laetata",
+     "yago": "yago:Agathia_laetata",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Agathia lycaenaria",
+     "yago": "yago:Agathia_lycaenaria",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Procopius",
+     "yago": "yago:Procopius",
+     "p": 0.0
+    },
+    {
+     "title": "Agathia rubrilineata",
+     "yago": "yago:Agathia_rubrilineata",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Agathias",
+   "wikipedia": "Agathias",
+   "wikidata": "Q233136",
+   "p_link": 0.99
+  },
+  {
+   "eid": "e1",
+   "label": "Damascius",
+   "forms": [
+    "Damascius"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Damascius",
+     "yago": "yago:Damascius",
+     "p": 0.9764
+    },
+    {
+     "title": "Platonic Academy",
+     "yago": "yago:Platonic_Academy",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Aether (mythology)",
+     "yago": "yago:Aether_mythology",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Academy",
+     "yago": "yago:Academy",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Hypatia",
+     "yago": "yago:Hypatia",
+     "p": 0.0
+    },
+    {
+     "title": "Nyx",
+     "yago": "yago:Nyx",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Iamblichus",
+     "yago": "yago:Iamblichus",
+     "p": 0.0
+    },
+    {
+     "title": "Simplicius of Cilicia",
+     "yago": "yago:Simplicius_of_Cilicia",
+     "p": 0.0
+    },
+    {
+     "title": "Baetyl",
+     "yago": "yago:Baetyl",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Erebus",
+     "yago": "yago:Erebus",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Damascius",
+   "wikipedia": "Damascius",
+   "wikidata": "Q315360",
+   "p_link": 0.9764
+  },
+  {
+   "eid": "e2",
+   "label": "Syria",
+   "forms": [
+    "Syria"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.005,
+    "place": 0.985,
+    "people_or_state": 0.01,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Syria",
+     "yago": "yago:Syria",
+     "p": 0.9287
+    },
+    {
+     "title": "Syrian civil war",
+     "yago": "yago:Syrian_civil_war",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Syrians",
+     "yago": "yago:Syrians",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Ba'athist Syria",
+     "yago": "yago:Ba_athist_Syria",
+     "p": 0.0
+    },
+    {
+     "title": "Aftermath of the Syrian civil war",
+     "yago": "yago:Aftermath_of_the_Syrian_civil_war",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Flag of Syria",
+     "yago": "yago:Flag_of_Syria",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Syria",
+   "wikipedia": "Syria",
+   "wikidata": "Q858",
+   "p_link": 0.9287
+  },
+  {
+   "eid": "e3",
+   "label": "Simplicius",
+   "forms": [
+    "Simplicius"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Simplicius of Cilicia",
+     "yago": "yago:Simplicius_of_Cilicia",
+     "p": 0.9833
+    },
+    {
+     "title": "Pope Simplicius",
+     "yago": "yago:Pope_Simplicius",
+     "p": 0.0
+    },
+    {
+     "title": "Anaxagoras",
+     "yago": "yago:Anaxagoras",
+     "p": 0.0
+    },
+    {
+     "title": "Simplicius Simplicissimus",
+     "yago": "yago:Simplicius_Simplicissimus",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Zeno's paradoxes",
+     "yago": "yago:Zeno_s_paradoxes",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Enchiridion of Epictetus",
+     "yago": "yago:Enchiridion_of_Epictetus",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Simplicius, Faustinus and Beatrix",
+     "yago": "yago:Simplicius_Faustinus_and_Beatrix",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Diogenes of Apollonia",
+     "yago": "yago:Diogenes_of_Apollonia",
+     "p": 0.0
+    },
+    {
+     "title": "Simplicius (operetta)",
+     "yago": "yago:Simplicius_operetta",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "John Philoponus",
+     "yago": "yago:John_Philoponus",
+     "p": 0.0
+    },
+    {
+     "title": "Spicauda simplicius",
+     "yago": "yago:Spicauda_simplicius",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Simplicius_of_Cilicia",
+   "wikipedia": "Simplicius of Cilicia",
+   "wikidata": "Q351518",
+   "p_link": 0.9833
+  },
+  {
+   "eid": "e4",
+   "label": "Cilicia",
+   "forms": [
+    "Cilicia"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 1.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Cilicia",
+     "yago": "yago:Cilicia",
+     "p": 0.7771
+    },
+    {
+     "title": "Cilicia (Roman province)",
+     "yago": "yago:Cilicia_Roman_province",
+     "p": 0.6582
+    },
+    {
+     "title": "Armenian Kingdom of Cilicia",
+     "yago": "yago:Armenian_Kingdom_of_Cilicia",
+     "p": 0.0
+    },
+    {
+     "title": "Adana",
+     "yago": "yago:Adana",
+     "p": 0.0
+    },
+    {
+     "title": "Sis (ancient city)",
+     "yago": "yago:Sis_ancient_city",
+     "p": 0.0
+    },
+    {
+     "title": "Patriarchate of Cilicia",
+     "yago": "yago:Patriarchate_of_Cilicia",
+     "p": 0.0
+    },
+    {
+     "title": "Simplicius of Cilicia",
+     "yago": "yago:Simplicius_of_Cilicia",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Ancient regions of Anatolia",
+     "yago": "yago:Ancient_regions_of_Anatolia",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Cilicia",
+   "wikipedia": "Cilicia",
+   "wikidata": "Q620864",
+   "p_link": 0.7771
+  },
+  {
+   "eid": "e5",
+   "label": "Eulamius",
+   "forms": [
+    "Eulamius"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Eulamius",
+     "yago": "yago:Eulamius",
+     "p": 0.9799
+    },
+    {
+     "title": "Simplicius of Cilicia",
+     "yago": "yago:Simplicius_of_Cilicia",
+     "p": 0.0
+    },
+    {
+     "title": "Damascius",
+     "yago": "yago:Damascius",
+     "p": 0.0
+    },
+    {
+     "title": "Theodora of Emesa",
+     "yago": "yago:Theodora_of_Emesa",
+     "p": 0.0
+    },
+    {
+     "title": "Index of ancient Greece-related articles",
+     "yago": "yago:Index_of_ancient_Greece-related_articles",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Index of Sasanian Empire–related articles",
+     "yago": "yago:Index_of_Sasanian_Empire-related_articles",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Eulamius",
+   "wikipedia": "Eulamius",
+   "wikidata": "Q3060320",
+   "p_link": 0.9799
+  },
+  {
+   "eid": "e6",
+   "label": "Phrygia",
+   "forms": [
+    "Phrygia"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.005,
+    "place": 0.995,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Phrygia",
+     "yago": "yago:Phrygia",
+     "p": 0.9308
+    },
+    {
+     "title": "Hellespontine Phrygia",
+     "yago": "yago:Hellespontine_Phrygia",
+     "p": 0.133
+    },
+    {
+     "title": "Phrygia (name)",
+     "yago": "yago:Phrygia_name",
+     "p": 0.0
+    },
+    {
+     "title": "Mysia",
+     "yago": "yago:Mysia",
+     "p": 0.0
+    },
+    {
+     "title": "Phrygians",
+     "yago": "yago:Phrygians",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Spartacus (ballet)",
+     "yago": "yago:Spartacus_ballet",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Phrygia",
+   "wikipedia": "Phrygia",
+   "wikidata": "Q32579",
+   "p_link": 0.9308
+  },
+  {
+   "eid": "e7",
+   "label": "Priscian",
+   "forms": [
+    "Priscian"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Priscian of Lydia",
+     "yago": "yago:Priscian_of_Lydia",
+     "p": 0.765
+    },
+    {
+     "title": "Priscian",
+     "yago": "yago:Priscian",
+     "p": 0.1142
+    },
+    {
+     "title": "Theophrastus",
+     "yago": "yago:Theophrastus",
+     "p": 0.0
+    },
+    {
+     "title": "Simplicius of Cilicia",
+     "yago": "yago:Simplicius_of_Cilicia",
+     "p": 0.0
+    },
+    {
+     "title": "Martin Hertz",
+     "yago": "yago:Martin_Hertz",
+     "p": 0.0
+    },
+    {
+     "title": "List of ancient Greek philosophers",
+     "yago": "yago:List_of_ancient_Greek_philosophers",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "St. Gall Priscian Glosses",
+     "yago": "yago:St_Gall_Priscian_Glosses",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Nectarius of Constantinople",
+     "yago": "yago:Nectarius_of_Constantinople",
+     "p": 0.0
+    },
+    {
+     "title": "Valerius Maximus",
+     "yago": "yago:Valerius_Maximus",
+     "p": 0.0
+    },
+    {
+     "title": "Gaius the Platonist",
+     "yago": "yago:Gaius_the_Platonist",
+     "p": 0.0
+    },
+    {
+     "title": "Gram",
+     "yago": "yago:Gram",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Ancient Greek philosophy",
+     "yago": "yago:Ancient_Greek_philosophy",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Grammarian (Greco-Roman)",
+     "yago": "yago:Grammarian_Greco-Roman",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    },
+    {
+     "title": "Neoplatonism",
+     "yago": "yago:Neoplatonism",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Priscian_of_Lydia",
+   "wikipedia": "Priscian of Lydia",
+   "wikidata": "Q185206",
+   "p_link": 0.765
+  },
+  {
+   "eid": "e8",
+   "label": "Lydia",
+   "forms": [
+    "Lydia"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.015,
+    "place": 0.98,
+    "people_or_state": 0.005,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Lydia",
+     "yago": "yago:Lydia",
+     "p": 0.7307
+    },
+    {
+     "title": "Asia (Roman province)",
+     "yago": "yago:Asia_Roman_province",
+     "p": 0.2683,
+     "via": "links"
+    },
+    {
+     "title": "Lydia Rodarte-Quayle",
+     "yago": "yago:Lydia_Rodarte-Quayle",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Lydia Peckham",
+     "yago": "yago:Lydia_Peckham",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Lydia Leonard",
+     "yago": "yago:Lydia_Leonard",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Lydia (name)",
+     "yago": "yago:Lydia_name",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Lydia Hearst",
+     "yago": "yago:Lydia_Hearst",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Priscian of Lydia",
+     "yago": "yago:Priscian_of_Lydia",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Ancient regions of Anatolia",
+     "yago": "yago:Ancient_regions_of_Anatolia",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    },
+    {
+     "title": "John the Lydian",
+     "yago": "yago:John_the_Lydian",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Lydia",
+   "wikipedia": "Lydia",
+   "wikidata": "Q620765",
+   "p_link": 0.7307
+  },
+  {
+   "eid": "e9",
+   "label": "Hermes",
+   "forms": [
+    "Hermes"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Hermias (philosopher)",
+     "yago": "yago:Hermias_philosopher",
+     "p": 0.4529,
+     "via": "links"
+    },
+    {
+     "title": "Hermes Trismegistus",
+     "yago": "yago:Hermes_Trismegistus",
+     "p": 0.1093
+    },
+    {
+     "title": "Diogenes of Phoenicia",
+     "yago": "yago:Diogenes_of_Phoenicia",
+     "p": 0.0673,
+     "via": "links"
+    },
+    {
+     "title": "Hermes",
+     "yago": "yago:Hermes",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Hermès",
+     "yago": "yago:Hermès",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Elbit Hermes 900",
+     "yago": "yago:Elbit_Hermes_900",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "HMS Hermes",
+     "yago": "yago:HMS_Hermes",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "HMS Hermes (R12)",
+     "yago": "yago:HMS_Hermes_R12",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Hirmis Aboona",
+     "yago": "yago:Hirmis_Aboona",
+     "p": 0.0,
+     "via": "links"
+    },
+    {
+     "title": "Platonic Academy",
+     "yago": "yago:Platonic_Academy",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Neoplatonism",
+     "yago": "yago:Neoplatonism",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.4529
+  },
+  {
+   "eid": "e10",
+   "label": "Diogenes",
+   "forms": [
+    "Diogenes"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Diogenes of Phoenicia",
+     "yago": "yago:Diogenes_of_Phoenicia",
+     "p": 0.9356
+    },
+    {
+     "title": "Diogenes",
+     "yago": "yago:Diogenes",
+     "p": 0.0642
+    },
+    {
+     "title": "Phoenicia",
+     "yago": "yago:Phoenicia",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Diogenes Laertius",
+     "yago": "yago:Diogenes_Laertius",
+     "p": 0.0
+    },
+    {
+     "title": "Porphyry of Tyre",
+     "yago": "yago:Porphyry_of_Tyre",
+     "p": 0.0
+    },
+    {
+     "title": "Diogenes and Alexander",
+     "yago": "yago:Diogenes_and_Alexander",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Mochus",
+     "yago": "yago:Mochus",
+     "p": 0.0
+    },
+    {
+     "title": "Diogenes syndrome",
+     "yago": "yago:Diogenes_syndrome",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Index of ancient Greece-related articles",
+     "yago": "yago:Index_of_ancient_Greece-related_articles",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Diogenes Club",
+     "yago": "yago:Diogenes_Club",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Simplicius of Cilicia",
+     "yago": "yago:Simplicius_of_Cilicia",
+     "p": 0.0
+    },
+    {
+     "title": "Cynicism (philosophy)",
+     "yago": "yago:Cynicism_philosophy",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Diogenes_of_Phoenicia",
+   "wikipedia": "Diogenes of Phoenicia",
+   "wikidata": "Q3028697",
+   "p_link": 0.9356
+  },
+  {
+   "eid": "e11",
+   "label": "Phoenicia",
+   "forms": [
+    "Phoenicia"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.025,
+    "place": 0.94,
+    "people_or_state": 0.035,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Phoenicia",
+     "yago": "yago:Phoenicia",
+     "p": 0.7223
+    },
+    {
+     "title": "Phoenice (Roman province)",
+     "yago": "yago:Phoenice_Roman_province",
+     "p": 0.5714,
+     "via": "links"
+    },
+    {
+     "title": "Lebanon",
+     "yago": "yago:Lebanon",
+     "p": 0.2339,
+     "via": "links"
+    },
+    {
+     "title": "Orthosias in Phoenicia",
+     "yago": "yago:Orthosias_in_Phoenicia",
+     "p": 0.1278
+    },
+    {
+     "title": "Syria",
+     "yago": "yago:Syria",
+     "p": 0.1014,
+     "via": "links"
+    },
+    {
+     "title": "Hotel Phoenicia",
+     "yago": "yago:Hotel_Phoenicia",
+     "p": 0.0
+    },
+    {
+     "title": "Phoenicia Rogerson",
+     "yago": "yago:Phoenicia_Rogerson",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Porphyry of Tyre",
+     "yago": "yago:Porphyry_of_Tyre",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Diogenes of Phoenicia",
+     "yago": "yago:Diogenes_of_Phoenicia",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Phoenicia",
+   "wikipedia": "Phoenicia",
+   "wikidata": "Q41642",
+   "p_link": 0.7223
+  },
+  {
+   "eid": "e12",
+   "label": "Isidore",
+   "forms": [
+    "Isidore"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Isidore of Alexandria",
+     "yago": "yago:Isidore_of_Alexandria",
+     "p": 0.9557
+    },
+    {
+     "title": "Isidore",
+     "yago": "yago:Isidore",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "History of Gaza",
+     "yago": "yago:History_of_Gaza",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Isidore of Seville",
+     "yago": "yago:Isidore_of_Seville",
+     "p": 0.0
+    },
+    {
+     "title": "Simplicius of Cilicia",
+     "yago": "yago:Simplicius_of_Cilicia",
+     "p": 0.0
+    },
+    {
+     "title": "Isidore the Younger",
+     "yago": "yago:Isidore_the_Younger",
+     "p": 0.0
+    },
+    {
+     "title": "Nathan of Gaza",
+     "yago": "yago:Nathan_of_Gaza",
+     "p": 0.0
+    },
+    {
+     "title": "Auguste Comte",
+     "yago": "yago:Auguste_Comte",
+     "p": 0.0
+    },
+    {
+     "title": "History of the Jews in Gaza",
+     "yago": "yago:History_of_the_Jews_in_Gaza",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Maximilien Robespierre",
+     "yago": "yago:Maximilien_Robespierre",
+     "p": 0.0
+    },
+    {
+     "title": "Incense trade route",
+     "yago": "yago:Incense_trade_route",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Isidore Gluckstein",
+     "yago": "yago:Isidore_Gluckstein",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Isidore_of_Alexandria",
+   "wikipedia": "Isidore of Alexandria",
+   "wikidata": "Q660170",
+   "p_link": 0.9557
+  },
+  {
+   "eid": "e13",
+   "label": "Gaza",
+   "forms": [
+    "Gaza"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.055,
+    "place": 0.945,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Gaza City",
+     "yago": "yago:Gaza_City",
+     "p": 0.6298
+    },
+    {
+     "title": "Rhetorical school of Gaza",
+     "yago": "yago:Rhetorical_school_of_Gaza",
+     "p": 0.3466,
+     "via": "links"
+    },
+    {
+     "title": "Palestine (region)",
+     "yago": "yago:Palestine_region",
+     "p": 0.2872,
+     "via": "links"
+    },
+    {
+     "title": "Byzantine Palestine",
+     "yago": "yago:Byzantine_Palestine",
+     "p": 0.2538,
+     "via": "links"
+    },
+    {
+     "title": "Gaza Strip",
+     "yago": "yago:Gaza_Strip",
+     "p": 0.1642
+    },
+    {
+     "title": "Palestine",
+     "yago": "yago:Palestine",
+     "p": 0.1081
+    },
+    {
+     "title": "Gaza war",
+     "yago": "yago:Gaza_war",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Gaza genocide",
+     "yago": "yago:Gaza_genocide",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "2014 Gaza War",
+     "yago": "yago:2014_Gaza_War",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Isidore the Younger",
+     "yago": "yago:Isidore_the_Younger",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.6298
+  },
+  {
+   "eid": "e14",
+   "label": "Persia",
+   "forms": [
+    "Persia"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.1867,
+    "people_or_state": 0.8133,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Sasanian Empire",
+     "yago": "yago:Sasanian_Empire",
+     "p": 0.9629,
+     "via": "links"
+    },
+    {
+     "title": "Iran",
+     "yago": "yago:Iran",
+     "p": 0.0
+    },
+    {
+     "title": "Persia White",
+     "yago": "yago:Persia_White",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Prince of Persia",
+     "yago": "yago:Prince_of_Persia",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Prince of Persia: The Sands of Time",
+     "yago": "yago:Prince_of_Persia_The_Sands_of_Time",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Prince of Persia: The Lost Crown",
+     "yago": "yago:Prince_of_Persia_The_Lost_Crown",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Achaemenid Empire",
+     "yago": "yago:Achaemenid_Empire",
+     "p": 0.0
+    },
+    {
+     "title": "Roman–Persian wars",
+     "yago": "yago:Roman-Persian_wars",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Sasanian_Empire",
+   "wikipedia": "Sasanian Empire",
+   "wikidata": "Q83891",
+   "p_link": 0.9629
+  },
+  {
+   "eid": "e15",
+   "label": "Romans",
+   "forms": [
+    "Romans"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.9867,
+    "group": 0.0133,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Byzantine Empire",
+     "yago": "yago:Byzantine_Empire",
+     "p": 0.8955,
+     "via": "links"
+    },
+    {
+     "title": "Roman Empire",
+     "yago": "yago:Roman_Empire",
+     "p": 0.3,
+     "via": "links"
+    },
+    {
+     "title": "Epistle to the Romans",
+     "yago": "yago:Epistle_to_the_Romans",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Romans 8",
+     "yago": "yago:Romans_8",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Romans 1",
+     "yago": "yago:Romans_1",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Christine Romans",
+     "yago": "yago:Christine_Romans",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Catholic Church",
+     "yago": "yago:Catholic_Church",
+     "p": 0.0
+    },
+    {
+     "title": "We Came as Romans",
+     "yago": "yago:We_Came_as_Romans",
+     "p": 0.0
+    },
+    {
+     "title": "Byzantines",
+     "yago": "yago:Byzantines",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Byzantine_Empire",
+   "wikipedia": "Byzantine Empire",
+   "wikidata": "Q12544",
+   "p_link": 0.8955
+  },
+  {
+   "eid": "e16",
+   "label": "Plato",
+   "forms": [
+    "Plato"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.9,
+    "place": 0.01,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.09,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Plato",
+     "yago": "yago:Plato",
+     "p": 0.9136
+    },
+    {
+     "title": "Dana Plato",
+     "yago": "yago:Dana_Plato",
+     "p": 0.0
+    },
+    {
+     "title": "Republic (Plato)",
+     "yago": "yago:Republic_Plato",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Apology (Plato)",
+     "yago": "yago:Apology_Plato",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Symposium (Plato)",
+     "yago": "yago:Symposium_Plato",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Theory of forms",
+     "yago": "yago:Theory_of_forms",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Plato",
+   "wikipedia": "Plato",
+   "wikidata": "Q859",
+   "p_link": 0.9136
+  },
+  {
+   "eid": "e17",
+   "label": "Domnentiolus",
+   "forms": [
+    "Domnentiolus",
+    "Domitziolus"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.995,
+    "place": 0.005,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Domnentiolus",
+     "yago": "yago:Domnentiolus",
+     "p": 0.9593
+    },
+    {
+     "title": "Iberian War",
+     "yago": "yago:Iberian_War",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Bouzes",
+     "yago": "yago:Bouzes",
+     "p": 0.0
+    },
+    {
+     "title": "Battle of Anglon",
+     "yago": "yago:Battle_of_Anglon",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Adolius",
+     "yago": "yago:Adolius",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Domnentiolus",
+   "wikipedia": "Domnentiolus",
+   "wikidata": "Q5291308",
+   "p_link": 0.9593
+  },
+  {
+   "eid": "e18",
+   "label": "Buzes",
+   "forms": [
+    "Buzes"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Bouzes",
+     "yago": "yago:Bouzes",
+     "p": 0.9663
+    },
+    {
+     "title": "Buze Diriba",
+     "yago": "yago:Buze_Diriba",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Olivier Levasseur",
+     "yago": "yago:Olivier_Levasseur",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Mesopotamian campaign of Belisarius (541-542)",
+     "yago": "yago:Mesopotamian_campaign_of_Belisarius_541-542",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Akhfash's goat",
+     "yago": "yago:Akhfash_s_goat",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Magister militum",
+     "yago": "yago:Magister_militum",
+     "p": 0.0,
+     "out": "not in YAGO"
+    }
+   ],
+   "yago": "yago:Bouzes",
+   "wikipedia": "Bouzes",
+   "wikidata": "Q895326",
+   "p_link": 0.9663
+  },
+  {
+   "eid": "e19",
+   "label": "Persians",
+   "forms": [
+    "Persians"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.9875,
+    "group": 0.0125,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Sasanian Empire",
+     "yago": "yago:Sasanian_Empire",
+     "p": 0.8653,
+     "via": "links"
+    },
+    {
+     "title": "Persians",
+     "yago": "yago:Persians",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "The Persians",
+     "yago": "yago:The_Persians",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Persian language",
+     "yago": "yago:Persian_language",
+     "p": 0.0
+    },
+    {
+     "title": "Sistani Persians",
+     "yago": "yago:Sistani_Persians",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Achaemenid Empire",
+     "yago": "yago:Achaemenid_Empire",
+     "p": 0.0
+    },
+    {
+     "title": "Greco-Persian Wars",
+     "yago": "yago:Greco-Persian_Wars",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Roman–Persian wars",
+     "yago": "yago:Roman-Persian_wars",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Iranian peoples",
+     "yago": "yago:Iranian_peoples",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Sasanian_Empire",
+   "wikipedia": "Sasanian Empire",
+   "wikidata": "Q83891",
+   "p_link": 0.8653
+  },
+  {
+   "eid": "e20",
+   "label": "Callinicum",
+   "forms": [
+    "Callinicum"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 1.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Raqqa",
+     "yago": "yago:Raqqa",
+     "p": 0.5835
+    },
+    {
+     "title": "Manbij",
+     "yago": "yago:Manbij",
+     "p": 0.437,
+     "via": "links"
+    },
+    {
+     "title": "Jubb'adin",
+     "yago": "yago:Jubb_adin",
+     "p": 0.1495,
+     "via": "links"
+    },
+    {
+     "title": "Battle of Callinicum",
+     "yago": "yago:Battle_of_Callinicum",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Battle of Carrhae (296)",
+     "yago": "yago:Battle_of_Carrhae_296",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Iberian War",
+     "yago": "yago:Iberian_War",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Belisarius",
+     "yago": "yago:Belisarius",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Peter III of Callinicum",
+     "yago": "yago:Peter_III_of_Callinicum",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Ibrium",
+     "yago": "yago:Ibrium",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.5835
+  },
+  {
+   "eid": "e21",
+   "label": "Izdegerd",
+   "forms": [
+    "Izdegerd"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.9867,
+    "place": 0.01,
+    "people_or_state": 0.0033,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Pseudo-Zacharias Rhetor",
+     "yago": "yago:Pseudo-Zacharias_Rhetor",
+     "p": 0.0947,
+     "via": "links"
+    },
+    {
+     "title": "Yazdegerd II",
+     "yago": "yago:Yazdegerd_II",
+     "p": 0.0926
+    },
+    {
+     "title": "Yazdegerd III",
+     "yago": "yago:Yazdegerd_III",
+     "p": 0.0915
+    },
+    {
+     "title": "Yazdegerd I",
+     "yago": "yago:Yazdegerd_I",
+     "p": 0.0548
+    },
+    {
+     "title": "Perpetual Peace (532)",
+     "yago": "yago:Perpetual_Peace_532",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Iberian War",
+     "yago": "yago:Iberian_War",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Arzanene",
+     "yago": "yago:Arzanene",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.0947
+  },
+  {
+   "eid": "e22",
+   "label": "Hormizd",
+   "forms": [
+    "Hormizd"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Hormizd IV",
+     "yago": "yago:Hormizd_IV",
+     "p": 0.1442
+    },
+    {
+     "title": "Hormizd (son of Hormizd II)",
+     "yago": "yago:Hormizd_son_of_Hormizd_II",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Rabban Hormizd Monastery",
+     "yago": "yago:Rabban_Hormizd_Monastery",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Hormizd II",
+     "yago": "yago:Hormizd_II",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Hormizd I",
+     "yago": "yago:Hormizd_I",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Hormizd of Sakastan",
+     "yago": "yago:Hormizd_of_Sakastan",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Arzanene",
+     "yago": "yago:Arzanene",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Marzban",
+     "yago": "yago:Marzban",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    },
+    {
+     "title": "House of Mihran",
+     "yago": "yago:House_of_Mihran",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Arsacid dynasty of Armenia",
+     "yago": "yago:Arsacid_dynasty_of_Armenia",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Yohannan VIII Hormizd",
+     "yago": "yago:Yohannan_VIII_Hormizd",
+     "p": 0.0,
+     "out": "another period",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.1442
+  },
+  {
+   "eid": "e23",
+   "label": "Arzanene",
+   "forms": [
+    "Arzanene"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.975,
+    "people_or_state": 0.025,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Arzanene",
+     "yago": "yago:Arzanene",
+     "p": 0.9473
+    },
+    {
+     "title": "Arzen",
+     "yago": "yago:Arzen",
+     "p": 0.1177
+    },
+    {
+     "title": "Tigranocerta",
+     "yago": "yago:Tigranocerta",
+     "p": 0.0
+    },
+    {
+     "title": "Siege of Martyropolis (531)",
+     "yago": "yago:Siege_of_Martyropolis_531",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Sasanian Empire",
+     "yago": "yago:Sasanian_Empire",
+     "p": 0.0
+    },
+    {
+     "title": "Aphumon",
+     "yago": "yago:Aphumon",
+     "p": 0.0,
+     "out": "not in YAGO"
+    }
+   ],
+   "yago": "yago:Arzanene",
+   "wikipedia": "Arzanene",
+   "wikidata": "Q718259",
+   "p_link": 0.9473
+  },
+  {
+   "eid": "e24",
+   "label": "Persarmenia",
+   "forms": [
+    "Persarmenia"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.975,
+    "people_or_state": 0.025,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Sasanian Armenia",
+     "yago": "yago:Sasanian_Armenia",
+     "p": 0.9162
+    },
+    {
+     "title": "Nor Shirakan",
+     "yago": "yago:Nor_Shirakan",
+     "p": 0.3993
+    },
+    {
+     "title": "Arzanene",
+     "yago": "yago:Arzanene",
+     "p": 0.11,
+     "via": "links"
+    },
+    {
+     "title": "Roman–Sasanian War of 421–422",
+     "yago": "yago:Roman-Sasanian_War_of_421-422",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Battle of Anglon",
+     "yago": "yago:Battle_of_Anglon",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Sasanian Empire",
+     "yago": "yago:Sasanian_Empire",
+     "p": 0.0
+    },
+    {
+     "title": "Yerevan",
+     "yago": "yago:Yerevan",
+     "p": 0.0
+    },
+    {
+     "title": "Armenian highlands",
+     "yago": "yago:Armenian_highlands",
+     "p": 0.0,
+     "via": "links"
+    },
+    {
+     "title": "List of regions of ancient Armenia",
+     "yago": "yago:List_of_regions_of_ancient_Armenia",
+     "p": 0.0,
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Sasanian_Armenia",
+   "wikipedia": "Sasanian Armenia",
+   "wikidata": "Q2571688",
+   "p_link": 0.9162
+  },
+  {
+   "eid": "e25",
+   "label": "Pseudo-Zacharias",
+   "forms": [
+    "Pseudo-Zacharias"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.5925,
+    "place": 0.0,
+    "people_or_state": 0.0025,
+    "group": 0.0,
+    "written_work": 0.405,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Pseudo-Zacharias Rhetor",
+     "yago": "yago:Pseudo-Zacharias_Rhetor",
+     "p": 0.9616
+    },
+    {
+     "title": "Zacharias Rhetor",
+     "yago": "yago:Zacharias_Rhetor",
+     "p": 0.1998
+    },
+    {
+     "title": "John bar Aphtonia",
+     "yago": "yago:John_bar_Aphtonia",
+     "p": 0.1196
+    },
+    {
+     "title": "The Lost Gospel (Jacobovici and Wilson book)",
+     "yago": "yago:The_Lost_Gospel_Jacobovici_and_Wilson_book",
+     "p": 0.0
+    },
+    {
+     "title": "Joseph and Aseneth",
+     "yago": "yago:Joseph_and_Aseneth",
+     "p": 0.0
+    },
+    {
+     "title": "Justinian I",
+     "yago": "yago:Justinian_I",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Pseudo-Zacharias_Rhetor",
+   "wikipedia": "Pseudo-Zacharias Rhetor",
+   "wikidata": "Q3409588",
+   "p_link": 0.9616
+  },
+  {
+   "eid": "e26",
+   "label": "Procopius",
+   "forms": [
+    "Procopius"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.955,
+    "place": 0.0,
+    "people_or_state": 0.005,
+    "group": 0.0,
+    "written_work": 0.04,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Procopius",
+     "yago": "yago:Procopius",
+     "p": 0.9833
+    },
+    {
+     "title": "Procopius (given name)",
+     "yago": "yago:Procopius_given_name",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Theodora (wife of Justinian I)",
+     "yago": "yago:Theodora_wife_of_Justinian_I",
+     "p": 0.0
+    },
+    {
+     "title": "Secret History (Procopius)",
+     "yago": "yago:Secret_History_Procopius",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Procopius (usurper)",
+     "yago": "yago:Procopius_usurper",
+     "p": 0.0
+    },
+    {
+     "title": "Justinian I",
+     "yago": "yago:Justinian_I",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Procopius",
+   "wikipedia": "Procopius",
+   "wikidata": "Q186153",
+   "p_link": 0.9833
+  },
+  {
+   "eid": "e27",
+   "label": "Dagaris",
+   "forms": [
+    "Dagaris"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.995,
+    "place": 0.0,
+    "people_or_state": 0.005,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Sittas",
+     "yago": "yago:Sittas",
+     "p": 0.0875,
+     "via": "links"
+    },
+    {
+     "title": "Dorotheus (magister militum)",
+     "yago": "yago:Dorotheus_magister_militum",
+     "p": 0.058,
+     "via": "links"
+    },
+    {
+     "title": "Procopius",
+     "yago": "yago:Procopius",
+     "p": 0.0513,
+     "via": "links"
+    },
+    {
+     "title": "Dagaaba people",
+     "yago": "yago:Dagaaba_people",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Dagaare language",
+     "yago": "yago:Dagaare_language",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Third Nigerian Republic",
+     "yago": "yago:Third_Nigerian_Republic",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Gur languages",
+     "yago": "yago:Gur_languages",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "List of villages in Niger State",
+     "yago": "yago:List_of_villages_in_Niger_State",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Bade language",
+     "yago": "yago:Bade_language",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Uncertainty",
+     "yago": "yago:Uncertainty",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Iberian War",
+     "yago": "yago:Iberian_War",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.0875
+  },
+  {
+   "eid": "e28",
+   "label": "Sittas",
+   "forms": [
+    "Sittas"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Sittas",
+     "yago": "yago:Sittas",
+     "p": 0.963
+    },
+    {
+     "title": "Flagpole Sitta",
+     "yago": "yago:Flagpole_Sitta",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Siege of Martyropolis (531)",
+     "yago": "yago:Siege_of_Martyropolis_531",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Battle of Satala (530)",
+     "yago": "yago:Battle_of_Satala_530",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Kutub al-Sittah",
+     "yago": "yago:Kutub_al-Sittah",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Nuthatch",
+     "yago": "yago:Nuthatch",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Sittas",
+   "wikipedia": "Sittas",
+   "wikidata": "Q707399",
+   "p_link": 0.963
+  },
+  {
+   "eid": "e29",
+   "label": "Dorotheus",
+   "forms": [
+    "Dorotheus"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Dorotheus (magister militum)",
+     "yago": "yago:Dorotheus_magister_militum",
+     "p": 0.934,
+     "via": "links"
+    },
+    {
+     "title": "Sittas",
+     "yago": "yago:Sittas",
+     "p": 0.0613,
+     "via": "links"
+    },
+    {
+     "title": "Dorotheus of Gaza",
+     "yago": "yago:Dorotheus_of_Gaza",
+     "p": 0.0
+    },
+    {
+     "title": "Dorotheus",
+     "yago": "yago:Dorotheus",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "The Vision of Dorotheus",
+     "yago": "yago:The_Vision_of_Dorotheus",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Pseudo-Dorotheus",
+     "yago": "yago:Pseudo-Dorotheus",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Dorotheus (jurist)",
+     "yago": "yago:Dorotheus_jurist",
+     "p": 0.0
+    },
+    {
+     "title": "Dorotheus of Tyre",
+     "yago": "yago:Dorotheus_of_Tyre",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Battle of Dara",
+     "yago": "yago:Battle_of_Dara",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "The Prosopography of the Later Roman Empire",
+     "yago": "yago:The_Prosopography_of_the_Later_Roman_Empire",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Secret History (Procopius)",
+     "yago": "yago:Secret_History_Procopius",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Dorotheus_magister_militum",
+   "wikipedia": "Dorotheus (magister militum)",
+   "wikidata": "Q5392008",
+   "p_link": 0.934
+  },
+  {
+   "eid": "e30",
+   "label": "Armenia",
+   "forms": [
+    "Armenia"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.895,
+    "people_or_state": 0.105,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Sasanian Armenia",
+     "yago": "yago:Sasanian_Armenia",
+     "p": 0.5943,
+     "via": "links"
+    },
+    {
+     "title": "Armenia",
+     "yago": "yago:Armenia",
+     "p": 0.4264
+    },
+    {
+     "title": "Roman Armenia",
+     "yago": "yago:Roman_Armenia",
+     "p": 0.409,
+     "via": "links"
+    },
+    {
+     "title": "Byzantine Armenia",
+     "yago": "yago:Byzantine_Armenia",
+     "p": 0.3401,
+     "via": "links"
+    },
+    {
+     "title": "Armenian highlands",
+     "yago": "yago:Armenian_highlands",
+     "p": 0.3334,
+     "via": "links"
+    },
+    {
+     "title": "Kingdom of Armenia (antiquity)",
+     "yago": "yago:Kingdom_of_Armenia_antiquity",
+     "p": 0.1386
+    },
+    {
+     "title": "Armenians",
+     "yago": "yago:Armenians",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Armenian genocide",
+     "yago": "yago:Armenian_genocide",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Yerevan",
+     "yago": "yago:Yerevan",
+     "p": 0.0
+    },
+    {
+     "title": "Armenian language",
+     "yago": "yago:Armenian_language",
+     "p": 0.0
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.5943
+  },
+  {
+   "eid": "e31",
+   "label": "Huns",
+   "forms": [
+    "Huns"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.995,
+    "group": 0.005,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "History of the Huns",
+     "yago": "yago:History_of_the_Huns",
+     "p": 0.4973
+    },
+    {
+     "title": "Hephthalites",
+     "yago": "yago:Hephthalites",
+     "p": 0.3606
+    },
+    {
+     "title": "Kutrigurs",
+     "yago": "yago:Kutrigurs",
+     "p": 0.3406,
+     "via": "links"
+    },
+    {
+     "title": "Alchon Huns",
+     "yago": "yago:Alchon_Huns",
+     "p": 0.1413
+    },
+    {
+     "title": "Huns",
+     "yago": "yago:Huns",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Attila",
+     "yago": "yago:Attila",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Iranian Huns",
+     "yago": "yago:Iranian_Huns",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Uldin",
+     "yago": "yago:Uldin",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Xiongnu",
+     "yago": "yago:Xiongnu",
+     "p": 0.0,
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.4973
+  },
+  {
+   "eid": "e32",
+   "label": "Pīrān-Gušnasp",
+   "forms": [
+    "Pīrān-Gušnasp"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Piran Gushnasp",
+     "yago": "yago:Piran_Gushnasp",
+     "p": 0.9866
+    },
+    {
+     "title": "Persian martyr acts",
+     "yago": "yago:Persian_martyr_acts",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Gushnasp",
+     "yago": "yago:Gushnasp",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "List of converts to Christianity",
+     "yago": "yago:List_of_converts_to_Christianity",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Sasanian Iberia",
+     "yago": "yago:Sasanian_Iberia",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Piran_Gushnasp",
+   "wikipedia": "Piran Gushnasp",
+   "wikidata": "Q12869933",
+   "p_link": 0.9866
+  },
+  {
+   "eid": "e33",
+   "label": "Mar Grigor",
+   "forms": [
+    "Mar Grigor",
+    "Grigor"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Piran Gushnasp",
+     "yago": "yago:Piran_Gushnasp",
+     "p": 0.9561,
+     "via": "links"
+    },
+    {
+     "title": "Gregory the Illuminator",
+     "yago": "yago:Gregory_the_Illuminator",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "The Great (TV series)",
+     "yago": "yago:The_Great_TV_series",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Persian martyr acts",
+     "yago": "yago:Persian_martyr_acts",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Grigor Dimitrov career statistics",
+     "yago": "yago:Grigor_Dimitrov_career_statistics",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Gor Hakobyan",
+     "yago": "yago:Gor_Hakobyan",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Bagratuni dynasty",
+     "yago": "yago:Bagratuni_dynasty",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Gregory of Seleucia-Ctesiphon",
+     "yago": "yago:Gregory_of_Seleucia-Ctesiphon",
+     "p": 0.0,
+     "via": "links"
+    },
+    {
+     "title": "Martin (magister militum per Armeniam)",
+     "yago": "yago:Martin_magister_militum_per_Armeniam",
+     "p": 0.0,
+     "via": "links"
+    },
+    {
+     "title": "Acts of the Martyrs",
+     "yago": "yago:Acts_of_the_Martyrs",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Piran_Gushnasp",
+   "wikipedia": "Piran Gushnasp",
+   "wikidata": "Q12869933",
+   "p_link": 0.9561
+  },
+  {
+   "eid": "e34",
+   "label": "Justinian",
+   "forms": [
+    "Justinian"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.995,
+    "place": 0.0,
+    "people_or_state": 0.005,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Justinian I",
+     "yago": "yago:Justinian_I",
+     "p": 0.9563
+    },
+    {
+     "title": "Justinian II",
+     "yago": "yago:Justinian_II",
+     "p": 0.0835
+    },
+    {
+     "title": "Plague of Justinian",
+     "yago": "yago:Plague_of_Justinian",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Theodora (wife of Justinian I)",
+     "yago": "yago:Theodora_wife_of_Justinian_I",
+     "p": 0.0
+    },
+    {
+     "title": "Byzantine Empire under the Justinian dynasty",
+     "yago": "yago:Byzantine_Empire_under_the_Justinian_dynasty",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Claus von Stauffenberg",
+     "yago": "yago:Claus_von_Stauffenberg",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Justinian_I",
+   "wikipedia": "Justinian I",
+   "wikidata": "Q41866",
+   "p_link": 0.9563
+  },
+  {
+   "eid": "e35",
+   "label": "Roman Empire",
+   "forms": [
+    "Roman Empire"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 1.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Roman Empire",
+     "yago": "yago:Roman_Empire",
+     "p": 0.9067
+    },
+    {
+     "title": "Byzantine Empire",
+     "yago": "yago:Byzantine_Empire",
+     "p": 0.4
+    },
+    {
+     "title": "Western Roman Empire",
+     "yago": "yago:Western_Roman_Empire",
+     "p": 0.1302
+    },
+    {
+     "title": "Holy Roman Empire",
+     "yago": "yago:Holy_Roman_Empire",
+     "p": 0.0
+    },
+    {
+     "title": "Fall of the Western Roman Empire",
+     "yago": "yago:Fall_of_the_Western_Roman_Empire",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "The History of the Decline and Fall of the Roman Empire",
+     "yago": "yago:The_History_of_the_Decline_and_Fall_of_the_Roman_Empire",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Roman_Empire",
+   "wikipedia": "Roman Empire",
+   "wikidata": "Q2277",
+   "p_link": 0.9067
+  },
+  {
+   "eid": "e36",
+   "label": "Martyrium",
+   "forms": [
+    "Martyrium"
+   ],
+   "kind": "written_work",
+   "type": "written work",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.005,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.995,
+    "event": 0.0
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Acts of the Martyrs",
+     "yago": "yago:Acts_of_the_Martyrs",
+     "p": 0.5945,
+     "via": "links"
+    },
+    {
+     "title": "Zabad inscription",
+     "yago": "yago:Zabad_inscription",
+     "p": 0.0956
+    },
+    {
+     "title": "Martyrium (album)",
+     "yago": "yago:Martyrium_album",
+     "p": 0.0531
+    },
+    {
+     "title": "Martyrium",
+     "yago": "yago:Martyrium",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Martyrium Ignatii",
+     "yago": "yago:Martyrium_Ignatii",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Martyrium of Saint Denis, Montmartre",
+     "yago": "yago:Martyrium_of_Saint_Denis_Montmartre",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "The Return of the Black Death",
+     "yago": "yago:The_Return_of_the_Black_Death",
+     "p": 0.0
+    },
+    {
+     "title": "Persian martyr acts",
+     "yago": "yago:Persian_martyr_acts",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    },
+    {
+     "title": "Gregory of Seleucia-Ctesiphon",
+     "yago": "yago:Gregory_of_Seleucia-Ctesiphon",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Pseudo-Zacharias Rhetor",
+     "yago": "yago:Pseudo-Zacharias_Rhetor",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Christianization of Armenia",
+     "yago": "yago:Christianization_of_Armenia",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.5945
+  },
+  {
+   "eid": "e37",
+   "label": "Chosroes",
+   "forms": [
+    "Chosroes"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.995,
+    "place": 0.0,
+    "people_or_state": 0.005,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Khosrow I",
+     "yago": "yago:Khosrow_I",
+     "p": 0.7018
+    },
+    {
+     "title": "Khosrow II",
+     "yago": "yago:Khosrow_II",
+     "p": 0.4667
+    },
+    {
+     "title": "Khosrov III the Small",
+     "yago": "yago:Khosrov_III_the_Small",
+     "p": 0.0783
+    },
+    {
+     "title": "Tribunus (physician)",
+     "yago": "yago:Tribunus_physician",
+     "p": 0.0
+    },
+    {
+     "title": "Taq Kasra",
+     "yago": "yago:Taq_Kasra",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Mehmed II",
+     "yago": "yago:Mehmed_II",
+     "p": 0.0
+    },
+    {
+     "title": "Sasanian Empire",
+     "yago": "yago:Sasanian_Empire",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Khosrow_I",
+   "wikipedia": "Khosrow I",
+   "wikidata": "Q207381",
+   "p_link": 0.7018
+  },
+  {
+   "eid": "e38",
+   "label": "Zabergān",
+   "forms": [
+    "Zabergān"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.92,
+    "place": 0.02,
+    "people_or_state": 0.05,
+    "group": 0.01,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Zabergan",
+     "yago": "yago:Zabergan",
+     "p": 0.5149
+    },
+    {
+     "title": "Khosrow I",
+     "yago": "yago:Khosrow_I",
+     "p": 0.127,
+     "via": "links"
+    },
+    {
+     "title": "Khosrow II",
+     "yago": "yago:Khosrow_II",
+     "p": 0.0836,
+     "via": "links"
+    },
+    {
+     "title": "Justinian I",
+     "yago": "yago:Justinian_I",
+     "p": 0.058
+    },
+    {
+     "title": "Gregory of Seleucia-Ctesiphon",
+     "yago": "yago:Gregory_of_Seleucia-Ctesiphon",
+     "p": 0.0507,
+     "via": "links"
+    },
+    {
+     "title": "Zabergan Peak",
+     "yago": "yago:Zabergan_Peak",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Battle of Melantias",
+     "yago": "yago:Battle_of_Melantias",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Battle by the Anastasian Wall (559)",
+     "yago": "yago:Battle_by_the_Anastasian_Wall_559",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Belisarius",
+     "yago": "yago:Belisarius",
+     "p": 0.0
+    },
+    {
+     "title": "Peace of Acilisene",
+     "yago": "yago:Peace_of_Acilisene",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.5149
+  },
+  {
+   "eid": "e39",
+   "label": "Martyrdom",
+   "forms": [
+    "Martyrdom"
+   ],
+   "kind": "written_work",
+   "type": "written work",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.9975,
+    "event": 0.0025
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Acts of the Martyrs",
+     "yago": "yago:Acts_of_the_Martyrs",
+     "p": 0.2645,
+     "via": "links"
+    },
+    {
+     "title": "Martyrdom of Arethas",
+     "yago": "yago:Martyrdom_of_Arethas",
+     "p": 0.1731
+    },
+    {
+     "title": "Martyrdom of Polycarp",
+     "yago": "yago:Martyrdom_of_Polycarp",
+     "p": 0.0574
+    },
+    {
+     "title": "Martyr",
+     "yago": "yago:Martyr",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Christian martyr",
+     "yago": "yago:Christian_martyr",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Saint Sebastian",
+     "yago": "yago:Saint_Sebastian",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Great Genna Martyrdom",
+     "yago": "yago:Great_Genna_Martyrdom",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Gregory of Seleucia-Ctesiphon",
+     "yago": "yago:Gregory_of_Seleucia-Ctesiphon",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Vagdavercustis",
+     "yago": "yago:Vagdavercustis",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Persian martyr acts",
+     "yago": "yago:Persian_martyr_acts",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    },
+    {
+     "title": "Gregorios Abdal Jaleel",
+     "yago": "yago:Gregorios_Abdal_Jaleel",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.2645
+  },
+  {
+   "eid": "e40",
+   "label": "Church of the East",
+   "forms": [
+    "Church of the East"
+   ],
+   "kind": "group",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 1.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Church of the East",
+     "yago": "yago:Church_of_the_East",
+     "p": 0.9182
+    },
+    {
+     "title": "Assyrian Church of the East",
+     "yago": "yago:Assyrian_Church_of_the_East",
+     "p": 0.5113
+    },
+    {
+     "title": "Ancient Church of the East",
+     "yago": "yago:Ancient_Church_of_the_East",
+     "p": 0.0
+    },
+    {
+     "title": "Eastern Christianity",
+     "yago": "yago:Eastern_Christianity",
+     "p": 0.0
+    },
+    {
+     "title": "Church of the East in China",
+     "yago": "yago:Church_of_the_East_in_China",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Chaldean Catholic Church",
+     "yago": "yago:Chaldean_Catholic_Church",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Church_of_the_East",
+   "wikipedia": "Church of the East",
+   "wikidata": "Q989799",
+   "p_link": 0.9182
+  },
+  {
+   "eid": "e41",
+   "label": "Constantinople",
+   "forms": [
+    "Constantinople"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 1.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Constantinople",
+     "yago": "yago:Constantinople",
+     "p": 0.9866
+    },
+    {
+     "title": "Fall of Constantinople",
+     "yago": "yago:Fall_of_Constantinople",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Ecumenical Patriarch of Constantinople",
+     "yago": "yago:Ecumenical_Patriarch_of_Constantinople",
+     "p": 0.0
+    },
+    {
+     "title": "Sack of Constantinople",
+     "yago": "yago:Sack_of_Constantinople",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "East–West Schism",
+     "yago": "yago:East-West_Schism",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Latin Empire",
+     "yago": "yago:Latin_Empire",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Constantinople",
+   "wikipedia": "Constantinople",
+   "wikidata": "Q16869",
+   "p_link": 0.9866
+  }
+ ],
+ "facts": [
+  {
+   "para": "p004",
+   "subj": "e5",
+   "rel": "schema:location",
+   "obj": "e6",
+   "subj_text": "Eulamius",
+   "obj_text": "Phrygia",
+   "p": 0.9626,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": "yago:Eulamius",
+   "obj_yago": "yago:Phrygia",
+   "in_yago": false
+  },
+  {
+   "para": "p004",
+   "subj": "e3",
+   "rel": "schema:location",
+   "obj": "e4",
+   "subj_text": "Simplicius",
+   "obj_text": "Cilicia",
+   "p": 0.9555,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": "yago:Simplicius_of_Cilicia",
+   "obj_yago": "yago:Cilicia",
+   "in_yago": false
+  },
+  {
+   "para": "p004",
+   "subj": "e12",
+   "rel": "schema:location",
+   "obj": "e13",
+   "subj_text": "Isidore",
+   "obj_text": "Gaza",
+   "p": 0.9555,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": "yago:Isidore_of_Alexandria",
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p004",
+   "subj": "e7",
+   "rel": "schema:location",
+   "obj": "e8",
+   "subj_text": "Priscian",
+   "obj_text": "Lydia",
+   "p": 0.9483,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": "yago:Priscian_of_Lydia",
+   "obj_yago": "yago:Lydia",
+   "in_yago": false
+  },
+  {
+   "para": "p004",
+   "subj": "e10",
+   "rel": "schema:location",
+   "obj": "e11",
+   "subj_text": "Diogenes",
+   "obj_text": "Phoenicia",
+   "p": 0.9451,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": "yago:Diogenes_of_Phoenicia",
+   "obj_yago": "yago:Phoenicia",
+   "in_yago": false
+  },
+  {
+   "para": "p004",
+   "subj": "e1",
+   "rel": "schema:location",
+   "obj": "e2",
+   "subj_text": "Damascius",
+   "obj_text": "Syria",
+   "p": 0.9297,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": "yago:Damascius",
+   "obj_yago": "yago:Syria",
+   "in_yago": false
+  },
+  {
+   "para": "p004",
+   "subj": "e1",
+   "rel": "schema:location",
+   "obj": "e14",
+   "subj_text": "Damascius",
+   "obj_text": "Persia",
+   "p": 0.8854,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": "yago:Damascius",
+   "obj_yago": "yago:Sasanian_Empire",
+   "in_yago": false
+  },
+  {
+   "para": "p004",
+   "subj": "e3",
+   "rel": "schema:location",
+   "obj": "e14",
+   "subj_text": "Simplicius",
+   "obj_text": "Persia",
+   "p": 0.8784,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": "yago:Simplicius_of_Cilicia",
+   "obj_yago": "yago:Sasanian_Empire",
+   "in_yago": false
+  },
+  {
+   "para": "p004",
+   "subj": "e12",
+   "rel": "schema:location",
+   "obj": "e14",
+   "subj_text": "Isidore",
+   "obj_text": "Persia",
+   "p": 0.8136,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": "yago:Isidore_of_Alexandria",
+   "obj_yago": "yago:Sasanian_Empire",
+   "in_yago": false
+  },
+  {
+   "para": "p004",
+   "subj": "e5",
+   "rel": "schema:location",
+   "obj": "e14",
+   "subj_text": "Eulamius",
+   "obj_text": "Persia",
+   "p": 0.7997,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": "yago:Eulamius",
+   "obj_yago": "yago:Sasanian_Empire",
+   "in_yago": false
+  },
+  {
+   "para": "p004",
+   "subj": "e9",
+   "rel": "schema:location",
+   "obj": "e14",
+   "subj_text": "Hermes",
+   "obj_text": "Persia",
+   "p": 0.7886,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Sasanian_Empire",
+   "in_yago": null
+  },
+  {
+   "para": "p004",
+   "subj": "e7",
+   "rel": "schema:location",
+   "obj": "e14",
+   "subj_text": "Priscian",
+   "obj_text": "Persia",
+   "p": 0.7433,
+   "sentence": [
+    0,
+    331
+   ],
+   "subj_yago": "yago:Priscian_of_Lydia",
+   "obj_yago": "yago:Sasanian_Empire",
+   "in_yago": false
+  },
+  {
+   "para": "p013",
+   "subj": "e17",
+   "rel": "ex:relativeOf",
+   "obj": "e18",
+   "subj_text": "Domitziolus",
+   "obj_text": "Buzes",
+   "p": 0.9933,
+   "sentence": [
+    109,
+    287
+   ],
+   "subj_yago": "yago:Domnentiolus",
+   "obj_yago": "yago:Bouzes",
+   "in_yago": null
+  },
+  {
+   "para": "p013",
+   "subj": "e17",
+   "rel": "ex:captiveIn",
+   "obj": "e19",
+   "subj_text": "Domitziolus",
+   "obj_text": "Persians",
+   "p": 0.9866,
+   "sentence": [
+    109,
+    287
+   ],
+   "subj_yago": "yago:Domnentiolus",
+   "obj_yago": "yago:Sasanian_Empire",
+   "in_yago": null
+  },
+  {
+   "para": "p013",
+   "subj": "e21",
+   "rel": "ex:relativeOf",
+   "obj": "e22",
+   "subj_text": "Izdegerd",
+   "obj_text": "Hormizd",
+   "p": 0.99,
+   "sentence": [
+    288,
+    461
+   ],
+   "subj_yago": null,
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p013",
+   "subj": "e21",
+   "rel": "ex:captiveIn",
+   "obj": "e15",
+   "subj_text": "Izdegerd",
+   "obj_text": "Romans",
+   "p": 0.942,
+   "sentence": [
+    288,
+    461
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Byzantine_Empire",
+   "in_yago": null
+  },
+  {
+   "para": "p013",
+   "subj": "e22",
+   "rel": "schema:location",
+   "obj": "e23",
+   "subj_text": "Hormizd",
+   "obj_text": "Arzanene",
+   "p": 0.9228,
+   "sentence": [
+    288,
+    461
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Arzanene",
+   "in_yago": null
+  },
+  {
+   "para": "p013",
+   "subj": "e23",
+   "rel": "schema:location",
+   "obj": "e24",
+   "subj_text": "Arzanene",
+   "obj_text": "Persarmenia",
+   "p": 0.8499,
+   "sentence": [
+    288,
+    461
+   ],
+   "subj_yago": "yago:Arzanene",
+   "obj_yago": "yago:Sasanian_Armenia",
+   "in_yago": false
+  },
+  {
+   "para": "p013",
+   "subj": "e22",
+   "rel": "schema:location",
+   "obj": "e24",
+   "subj_text": "Hormizd",
+   "obj_text": "Persarmenia",
+   "p": 0.7606,
+   "sentence": [
+    288,
+    461
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Sasanian_Armenia",
+   "in_yago": null
+  },
+  {
+   "para": "p014",
+   "subj": "e27",
+   "rel": "schema:location",
+   "obj": "e30",
+   "subj_text": "Dagaris",
+   "obj_text": "Armenia",
+   "p": 0.9665,
+   "sentence": [
+    56,
+    260
+   ],
+   "subj_yago": null,
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p014",
+   "subj": "e27",
+   "rel": "schema:worksFor",
+   "obj": "e29",
+   "subj_text": "Dagaris",
+   "obj_text": "Dorotheus",
+   "p": 0.7902,
+   "sentence": [
+    56,
+    260
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Dorotheus_magister_militum",
+   "in_yago": null
+  },
+  {
+   "para": "p014",
+   "subj": "e27",
+   "rel": "schema:worksFor",
+   "obj": "e28",
+   "subj_text": "Dagaris",
+   "obj_text": "Sittas",
+   "p": 0.778,
+   "sentence": [
+    56,
+    260
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Sittas",
+   "in_yago": null
+  },
+  {
+   "para": "p014",
+   "subj": "e27",
+   "rel": "ex:opposed",
+   "obj": "e31",
+   "subj_text": "Dagaris",
+   "obj_text": "Huns",
+   "p": 0.97,
+   "sentence": [
+    396,
+    527
+   ],
+   "subj_yago": null,
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p018",
+   "subj": "e33",
+   "rel": "schema:worksFor",
+   "obj": "e14",
+   "subj_text": "Grigor",
+   "obj_text": "Persia",
+   "p": 0.9195,
+   "sentence": [
+    537,
+    827
+   ],
+   "subj_yago": "yago:Piran_Gushnasp",
+   "obj_yago": "yago:Sasanian_Empire",
+   "in_yago": false
+  },
+  {
+   "para": "p018",
+   "subj": "e33",
+   "rel": "schema:worksFor",
+   "obj": "e35",
+   "subj_text": "Grigor",
+   "obj_text": "Roman Empire",
+   "p": 0.9208,
+   "sentence": [
+    828,
+    940
+   ],
+   "subj_yago": "yago:Piran_Gushnasp",
+   "obj_yago": "yago:Roman_Empire",
+   "in_yago": false
+  },
+  {
+   "para": "p019",
+   "subj": "e38",
+   "rel": "schema:worksFor",
+   "obj": "e37",
+   "subj_text": "Zabergān",
+   "obj_text": "Chosroes",
+   "p": 0.7949,
+   "sentence": [
+    0,
+    280
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Khosrow_I",
+   "in_yago": null
+  },
+  {
+   "para": "p019",
+   "subj": "e33",
+   "rel": "schema:location",
+   "obj": "e14",
+   "subj_text": "Grigor",
+   "obj_text": "Persia",
+   "p": 0.7757,
+   "sentence": [
+    281,
+    503
+   ],
+   "subj_yago": "yago:Piran_Gushnasp",
+   "obj_yago": "yago:Sasanian_Empire",
+   "in_yago": false
+  },
+  {
+   "para": "p019",
+   "subj": "e33",
+   "rel": "schema:location",
+   "obj": "e41",
+   "subj_text": "Grigor",
+   "obj_text": "Constantinople",
+   "p": 0.9281,
+   "sentence": [
+    504,
+    684
+   ],
+   "subj_yago": "yago:Piran_Gushnasp",
+   "obj_yago": "yago:Constantinople",
+   "in_yago": false
+  },
+  {
+   "para": "p019",
+   "subj": "e33",
+   "rel": "schema:memberOf",
+   "obj": "e40",
+   "subj_text": "Grigor",
+   "obj_text": "Church of the East",
+   "p": 0.9208,
+   "sentence": [
+    504,
+    684
+   ],
+   "subj_yago": "yago:Piran_Gushnasp",
+   "obj_yago": "yago:Church_of_the_East",
+   "in_yago": false
+  },
+  {
+   "para": "p019",
+   "subj": "e39",
+   "rel": "schema:about",
+   "obj": "e33",
+   "subj_text": "Martyrdom",
+   "obj_text": "Grigor",
+   "p": 0.717,
+   "sentence": [
+    504,
+    684
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Piran_Gushnasp",
+   "in_yago": null
+  }
+ ]
+}

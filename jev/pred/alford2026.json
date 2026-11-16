@@ -1,0 +1,4955 @@
+{
+ "doc_id": "alford2026",
+ "model": "jev-1.14.0",
+ "thresholds": {
+  "name": 0.5,
+  "link": 0.7,
+  "fact": 0.7
+ },
+ "mentions": [
+  {
+   "para": "p001",
+   "start": 147,
+   "end": 158,
+   "text": "Yazdgerd II",
+   "type": "person",
+   "p": 0.99,
+   "entity": "e0",
+   "yago": "yago:Yazdegerd_II"
+  },
+  {
+   "para": "p003",
+   "start": 75,
+   "end": 82,
+   "text": "Awarayr",
+   "type": "location",
+   "p": 0.98,
+   "entity": "e1",
+   "yago": "yago:Avarayr_Plain"
+  },
+  {
+   "para": "p003",
+   "start": 247,
+   "end": 258,
+   "text": "Yazdgerd II",
+   "type": "person",
+   "p": 0.99,
+   "entity": "e0",
+   "yago": "yago:Yazdegerd_II"
+  },
+  {
+   "para": "p003",
+   "start": 375,
+   "end": 392,
+   "text": "Vardan Mamikonean",
+   "type": "person",
+   "p": 0.99,
+   "entity": "e2",
+   "yago": "yago:Vardan_Mamikonian"
+  },
+  {
+   "para": "p003",
+   "start": 443,
+   "end": 458,
+   "text": "Armenian Church",
+   "type": "organization",
+   "p": 0.87,
+   "entity": "e3",
+   "yago": "yago:Armenian_Apostolic_Church"
+  },
+  {
+   "para": "p004",
+   "start": 37,
+   "end": 52,
+   "text": "Łazar P‘arpec‘i",
+   "type": "person",
+   "p": 0.99,
+   "entity": "e4",
+   "yago": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "para": "p004",
+   "start": 92,
+   "end": 116,
+   "text": "History of the Armenians",
+   "type": "written work",
+   "p": 0.97,
+   "entity": "e5",
+   "yago": null
+  },
+  {
+   "para": "p004",
+   "start": 178,
+   "end": 184,
+   "text": "Gorgān",
+   "type": "location",
+   "p": 0.98,
+   "entity": "e6",
+   "yago": "yago:Hyrcania"
+  },
+  {
+   "para": "p004",
+   "start": 193,
+   "end": 201,
+   "text": "Hyrcania",
+   "type": "location",
+   "p": 0.97,
+   "entity": "e6",
+   "yago": "yago:Hyrcania"
+  },
+  {
+   "para": "p004",
+   "start": 227,
+   "end": 233,
+   "text": "Alborz",
+   "type": "location",
+   "p": 0.92,
+   "entity": "e7",
+   "yago": "yago:Alborz"
+  },
+  {
+   "para": "p004",
+   "start": 262,
+   "end": 273,
+   "text": "Caspian Sea",
+   "type": "location",
+   "p": 0.97,
+   "entity": "e8",
+   "yago": "yago:Caspian_Sea"
+  },
+  {
+   "para": "p004",
+   "start": 333,
+   "end": 342,
+   "text": "Khuzestan",
+   "type": "location",
+   "p": 0.98,
+   "entity": "e9",
+   "yago": "yago:Khuzestan_province"
+  },
+  {
+   "para": "p004",
+   "start": 396,
+   "end": 401,
+   "text": "Łazar",
+   "type": "person",
+   "p": 0.97,
+   "entity": "e4",
+   "yago": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "para": "p004",
+   "start": 551,
+   "end": 567,
+   "text": "Vahan Mamikonean",
+   "type": "person",
+   "p": 0.99,
+   "entity": "e10",
+   "yago": "yago:Vahan_II_Mamikonian"
+  },
+  {
+   "para": "p004",
+   "start": 649,
+   "end": 658,
+   "text": "Khuzestan",
+   "type": "location",
+   "p": 0.97,
+   "entity": "e9",
+   "yago": "yago:Khuzestan_province"
+  },
+  {
+   "para": "p004",
+   "start": 701,
+   "end": 710,
+   "text": "Sasanians",
+   "type": "organization",
+   "p": 0.95,
+   "entity": "e11",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p004",
+   "start": 726,
+   "end": 731,
+   "text": "Łazar",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e4",
+   "yago": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "para": "p004",
+   "start": 741,
+   "end": 746,
+   "text": "Vahan",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e10",
+   "yago": "yago:Vahan_II_Mamikonian"
+  },
+  {
+   "para": "p004",
+   "start": 842,
+   "end": 852,
+   "text": "Vałaršapat",
+   "type": "location",
+   "p": 0.97,
+   "entity": "e12",
+   "yago": "yago:Vagharshapat"
+  },
+  {
+   "para": "p004",
+   "start": 861,
+   "end": 869,
+   "text": "Eǰmiacin",
+   "type": "location",
+   "p": 0.98,
+   "entity": "e12",
+   "yago": "yago:Vagharshapat"
+  },
+  {
+   "para": "p004",
+   "start": 874,
+   "end": 879,
+   "text": "Vahan",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e10",
+   "yago": "yago:Vahan_II_Mamikonian"
+  },
+  {
+   "para": "p005",
+   "start": 56,
+   "end": 61,
+   "text": "Ełišē",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e13",
+   "yago": "yago:Elishe"
+  },
+  {
+   "para": "p005",
+   "start": 97,
+   "end": 103,
+   "text": "Gorgān",
+   "type": "location",
+   "p": 0.96,
+   "entity": "e6",
+   "yago": "yago:Hyrcania"
+  },
+  {
+   "para": "p005",
+   "start": 141,
+   "end": 146,
+   "text": "Łazar",
+   "type": "person",
+   "p": 0.95,
+   "entity": "e4",
+   "yago": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "para": "p005",
+   "start": 188,
+   "end": 193,
+   "text": "Ełišē",
+   "type": "person",
+   "p": 0.93,
+   "entity": "e13",
+   "yago": "yago:Elishe"
+  },
+  {
+   "para": "p005",
+   "start": 324,
+   "end": 338,
+   "text": "Robert Thomson",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e14",
+   "yago": "yago:Robert_W_Thomson"
+  },
+  {
+   "para": "p005",
+   "start": 363,
+   "end": 370,
+   "text": "Akinean",
+   "type": "person",
+   "p": 0.51,
+   "entity": "e15",
+   "yago": null
+  },
+  {
+   "para": "p005",
+   "start": 375,
+   "end": 386,
+   "text": "Kiwlēsērean",
+   "type": "person",
+   "p": 0.5,
+   "entity": "e16",
+   "yago": null
+  },
+  {
+   "para": "p005",
+   "start": 393,
+   "end": 398,
+   "text": "Ełišē",
+   "type": "person",
+   "p": 0.96,
+   "entity": "e13",
+   "yago": "yago:Elishe"
+  },
+  {
+   "para": "p005",
+   "start": 514,
+   "end": 519,
+   "text": "Philo",
+   "type": "person",
+   "p": 0.96,
+   "entity": "e17",
+   "yago": "yago:Philo"
+  },
+  {
+   "para": "p005",
+   "start": 541,
+   "end": 545,
+   "text": "John",
+   "type": "person",
+   "p": 0.96,
+   "entity": "e18",
+   "yago": "yago:John_of_Ephesus"
+  },
+  {
+   "para": "p005",
+   "start": 549,
+   "end": 556,
+   "text": "Ephesus",
+   "type": "person",
+   "p": 0.86,
+   "entity": "e19",
+   "yago": null
+  },
+  {
+   "para": "p005",
+   "start": 558,
+   "end": 582,
+   "text": "Ecclesiastical Histories",
+   "type": "written work",
+   "p": 0.95,
+   "entity": "e20",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 4,
+   "end": 10,
+   "text": "Gorgān",
+   "type": "location",
+   "p": 0.82,
+   "entity": "e6",
+   "yago": "yago:Hyrcania"
+  },
+  {
+   "para": "p013",
+   "start": 37,
+   "end": 42,
+   "text": "Ełišē",
+   "type": "person",
+   "p": 0.92,
+   "entity": "e13",
+   "yago": "yago:Elishe"
+  },
+  {
+   "para": "p013",
+   "start": 51,
+   "end": 68,
+   "text": "Nerseh Kamsarakan",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e21",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 107,
+   "end": 113,
+   "text": "Nerseh",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e21",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 117,
+   "end": 122,
+   "text": "Širak",
+   "type": "location",
+   "p": 0.93,
+   "entity": "e22",
+   "yago": "yago:Shirak_Province"
+  },
+  {
+   "para": "p013",
+   "start": 146,
+   "end": 164,
+   "text": "Aršawir Kamsarakan",
+   "type": "person",
+   "p": 0.99,
+   "entity": "e23",
+   "yago": "yago:Arshavir_II_Kamsarakan"
+  },
+  {
+   "para": "p013",
+   "start": 227,
+   "end": 233,
+   "text": "Nerseh",
+   "type": "person",
+   "p": 0.97,
+   "entity": "e21",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 249,
+   "end": 254,
+   "text": "Łazar",
+   "type": "person",
+   "p": 0.97,
+   "entity": "e4",
+   "yago": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "para": "p013",
+   "start": 290,
+   "end": 295,
+   "text": "Łazar",
+   "type": "person",
+   "p": 0.97,
+   "entity": "e4",
+   "yago": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "para": "p013",
+   "start": 326,
+   "end": 332,
+   "text": "Nerseh",
+   "type": "person",
+   "p": 0.97,
+   "entity": "e21",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 334,
+   "end": 339,
+   "text": "Łazar",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e4",
+   "yago": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "para": "p013",
+   "start": 351,
+   "end": 357,
+   "text": "Nerseh",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e21",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 374,
+   "end": 380,
+   "text": "Hrahat",
+   "type": "person",
+   "p": 0.99,
+   "entity": "e24",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 452,
+   "end": 462,
+   "text": "Vałaršapat",
+   "type": "location",
+   "p": 0.96,
+   "entity": "e12",
+   "yago": "yago:Vagharshapat"
+  },
+  {
+   "para": "p013",
+   "start": 477,
+   "end": 483,
+   "text": "Nerseh",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e21",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 514,
+   "end": 530,
+   "text": "Battle of Akesga",
+   "type": "event",
+   "p": 0.98,
+   "entity": "e25",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 532,
+   "end": 537,
+   "text": "Łazar",
+   "type": "person",
+   "p": 0.95,
+   "entity": "e4",
+   "yago": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "para": "p013",
+   "start": 578,
+   "end": 584,
+   "text": "Nerseh",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e21",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 590,
+   "end": 600,
+   "text": "Aršamunik‘",
+   "type": "location",
+   "p": 0.91,
+   "entity": "e26",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 679,
+   "end": 686,
+   "text": "Armenia",
+   "type": "location",
+   "p": 0.96,
+   "entity": "e27",
+   "yago": null
+  },
+  {
+   "para": "p013",
+   "start": 718,
+   "end": 724,
+   "text": "Nerseh",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e21",
+   "yago": null
+  },
+  {
+   "para": "p018",
+   "start": 131,
+   "end": 140,
+   "text": "Sasanians",
+   "type": "organization",
+   "p": 0.95,
+   "entity": "e11",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p018",
+   "start": 149,
+   "end": 162,
+   "text": "Kidarite Huns",
+   "type": "organization",
+   "p": 0.93,
+   "entity": "e28",
+   "yago": "yago:Kidarites"
+  },
+  {
+   "para": "p018",
+   "start": 250,
+   "end": 258,
+   "text": "Yazdgerd",
+   "type": "person",
+   "p": 0.97,
+   "entity": "e0",
+   "yago": "yago:Yazdegerd_II"
+  },
+  {
+   "para": "p018",
+   "start": 263,
+   "end": 268,
+   "text": "Pērōz",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e29",
+   "yago": "yago:Peroz_I"
+  },
+  {
+   "para": "p018",
+   "start": 326,
+   "end": 335,
+   "text": "Kidarites",
+   "type": "organization",
+   "p": 0.96,
+   "entity": "e30",
+   "yago": "yago:Kidarites"
+  },
+  {
+   "para": "p018",
+   "start": 365,
+   "end": 374,
+   "text": "Kidarites",
+   "type": "organization",
+   "p": 0.96,
+   "entity": "e30",
+   "yago": "yago:Kidarites"
+  },
+  {
+   "para": "p018",
+   "start": 425,
+   "end": 441,
+   "text": "Hephthalite Huns",
+   "type": "organization",
+   "p": 0.91,
+   "entity": "e31",
+   "yago": "yago:Hephthalites"
+  },
+  {
+   "para": "p018",
+   "start": 443,
+   "end": 451,
+   "text": "Yazdgerd",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e0",
+   "yago": "yago:Yazdegerd_II"
+  },
+  {
+   "para": "p018",
+   "start": 678,
+   "end": 687,
+   "text": "Kidarites",
+   "type": "organization",
+   "p": 0.97,
+   "entity": "e30",
+   "yago": "yago:Kidarites"
+  },
+  {
+   "para": "p018",
+   "start": 959,
+   "end": 970,
+   "text": "Tokharistan",
+   "type": "location",
+   "p": 0.98,
+   "entity": "e32",
+   "yago": "yago:Tokharistan"
+  },
+  {
+   "para": "p018",
+   "start": 983,
+   "end": 993,
+   "text": "Hindu Kush",
+   "type": "location",
+   "p": 0.97,
+   "entity": "e33",
+   "yago": "yago:Hindu_Kush"
+  },
+  {
+   "para": "p024",
+   "start": 16,
+   "end": 25,
+   "text": "Khuzestan",
+   "type": "location",
+   "p": 0.87,
+   "entity": "e9",
+   "yago": "yago:Khuzestan_province"
+  },
+  {
+   "para": "p024",
+   "start": 36,
+   "end": 52,
+   "text": "Vahan Mamikonean",
+   "type": "person",
+   "p": 0.99,
+   "entity": "e10",
+   "yago": "yago:Vahan_II_Mamikonian"
+  },
+  {
+   "para": "p024",
+   "start": 75,
+   "end": 80,
+   "text": "Vasak",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e34",
+   "yago": null
+  },
+  {
+   "para": "p024",
+   "start": 85,
+   "end": 92,
+   "text": "Artašēs",
+   "type": "person",
+   "p": 0.99,
+   "entity": "e35",
+   "yago": null
+  },
+  {
+   "para": "p024",
+   "start": 168,
+   "end": 185,
+   "text": "Kamsarakan family",
+   "type": "organization",
+   "p": 0.73,
+   "entity": "e36",
+   "yago": "yago:Kamsarakan"
+  },
+  {
+   "para": "p024",
+   "start": 199,
+   "end": 206,
+   "text": "T‘at‘ik",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e37",
+   "yago": null
+  },
+  {
+   "para": "p024",
+   "start": 210,
+   "end": 216,
+   "text": "Basean",
+   "type": "location",
+   "p": 0.95,
+   "entity": "e38",
+   "yago": "yago:Phasiane_historical_region"
+  },
+  {
+   "para": "p024",
+   "start": 218,
+   "end": 223,
+   "text": "Łazar",
+   "type": "person",
+   "p": 0.96,
+   "entity": "e4",
+   "yago": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "para": "p024",
+   "start": 253,
+   "end": 264,
+   "text": "Vasak Siwni",
+   "type": "person",
+   "p": 0.97,
+   "entity": "e39",
+   "yago": "yago:Vasak_Siwni"
+  },
+  {
+   "para": "p024",
+   "start": 287,
+   "end": 294,
+   "text": "Siwnik‘",
+   "type": "location",
+   "p": 0.95,
+   "entity": "e40",
+   "yago": "yago:Syunik_historical_province"
+  },
+  {
+   "para": "p024",
+   "start": 637,
+   "end": 642,
+   "text": "Łazar",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e4",
+   "yago": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "para": "p024",
+   "start": 668,
+   "end": 673,
+   "text": "Vahan",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e10",
+   "yago": "yago:Vahan_II_Mamikonian"
+  },
+  {
+   "para": "p025",
+   "start": 39,
+   "end": 50,
+   "text": "Mamikoneans",
+   "type": "organization",
+   "p": 0.93,
+   "entity": "e41",
+   "yago": "yago:Mamikonian"
+  },
+  {
+   "para": "p025",
+   "start": 158,
+   "end": 163,
+   "text": "Ašuša",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e42",
+   "yago": "yago:Arshusha_II"
+  },
+  {
+   "para": "p025",
+   "start": 167,
+   "end": 174,
+   "text": "Gugark‘",
+   "type": "location",
+   "p": 0.87,
+   "entity": "e43",
+   "yago": "yago:Gugark"
+  },
+  {
+   "para": "p025",
+   "start": 259,
+   "end": 274,
+   "text": "Łazar P‘arpec‘i",
+   "type": "person",
+   "p": 0.97,
+   "entity": "e4",
+   "yago": "yago:Ghazar_Parpetsi"
+  },
+  {
+   "para": "p025",
+   "start": 558,
+   "end": 563,
+   "text": "Ašuša",
+   "type": "person",
+   "p": 0.98,
+   "entity": "e42",
+   "yago": "yago:Arshusha_II"
+  },
+  {
+   "para": "p025",
+   "start": 729,
+   "end": 735,
+   "text": "Persia",
+   "type": "organization",
+   "p": 0.96,
+   "entity": "e44",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p032",
+   "start": 28,
+   "end": 37,
+   "text": "Asorestan",
+   "type": "location",
+   "p": 0.95,
+   "entity": "e45",
+   "yago": "yago:Asoristan"
+  },
+  {
+   "para": "p032",
+   "start": 40,
+   "end": 47,
+   "text": "T‘at‘ik",
+   "type": "person",
+   "p": 0.97,
+   "entity": "e37",
+   "yago": null
+  },
+  {
+   "para": "p032",
+   "start": 51,
+   "end": 57,
+   "text": "Basean",
+   "type": "location",
+   "p": 0.85,
+   "entity": "e38",
+   "yago": "yago:Phasiane_historical_region"
+  },
+  {
+   "para": "p032",
+   "start": 116,
+   "end": 124,
+   "text": "Sasanian",
+   "type": "organization",
+   "p": 0.5,
+   "entity": "e46",
+   "yago": "yago:Sasanian_Empire"
+  },
+  {
+   "para": "p032",
+   "start": 164,
+   "end": 175,
+   "text": "Łewondeank‘",
+   "type": "organization",
+   "p": 0.77,
+   "entity": "e47",
+   "yago": null
+  },
+  {
+   "para": "p032",
+   "start": 272,
+   "end": 281,
+   "text": "Khuzestan",
+   "type": "location",
+   "p": 0.67,
+   "entity": "e9",
+   "yago": "yago:Khuzestan_province"
+  },
+  {
+   "para": "p032",
+   "start": 335,
+   "end": 345,
+   "text": "Mamikonean",
+   "type": "organization",
+   "p": 0.77,
+   "entity": "e48",
+   "yago": "yago:Mamikonian"
+  },
+  {
+   "para": "p032",
+   "start": 373,
+   "end": 380,
+   "text": "T‘at‘ik",
+   "type": "person",
+   "p": 0.87,
+   "entity": "e37",
+   "yago": null
+  }
+ ],
+ "entities": [
+  {
+   "eid": "e0",
+   "label": "Yazdgerd II",
+   "forms": [
+    "Yazdgerd II",
+    "Yazdgerd"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.9875,
+    "place": 0.0,
+    "people_or_state": 0.0125,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Yazdegerd II",
+     "yago": "yago:Yazdegerd_II",
+     "p": 0.9764
+    },
+    {
+     "title": "Sasanian Armenia",
+     "yago": "yago:Sasanian_Armenia",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Yazdegerd III",
+     "yago": "yago:Yazdegerd_III",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Eran-Khwarrah-Yazdegerd",
+     "yago": "yago:Eran-Khwarrah-Yazdegerd",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Hephthalite–Sasanian Wars",
+     "yago": "yago:Hephthalite-Sasanian_Wars",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Yazdegerd I",
+     "yago": "yago:Yazdegerd_I",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Yazdegerd_II",
+   "wikipedia": "Yazdegerd II",
+   "wikidata": "Q310303",
+   "p_link": 0.9764
+  },
+  {
+   "eid": "e1",
+   "label": "Awarayr",
+   "forms": [
+    "Awarayr"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.94,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.06
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Avarayr Plain",
+     "yago": "yago:Avarayr_Plain",
+     "p": 0.939,
+     "via": "links"
+    },
+    {
+     "title": "Battle of Avarayr",
+     "yago": "yago:Battle_of_Avarayr",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Yazdegerd II",
+     "yago": "yago:Yazdegerd_II",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Adhur Gushnasp",
+     "yago": "yago:Adhur_Gushnasp",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Mihr-Narseh",
+     "yago": "yago:Mihr-Narseh",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Peroz I",
+     "yago": "yago:Peroz_I",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Yadavaran Field",
+     "yago": "yago:Yadavaran_Field",
+     "p": 0.0,
+     "via": "links"
+    },
+    {
+     "title": "Vardanashen",
+     "yago": "yago:Vardanashen",
+     "p": 0.0,
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Avarayr_Plain",
+   "wikipedia": "Avarayr Plain",
+   "wikidata": "Q4827736",
+   "p_link": 0.939
+  },
+  {
+   "eid": "e2",
+   "label": "Vardan Mamikonean",
+   "forms": [
+    "Vardan Mamikonean"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Vardan Mamikonian",
+     "yago": "yago:Vardan_Mamikonian",
+     "p": 0.9698
+    },
+    {
+     "title": "John Mamikonean",
+     "yago": "yago:John_Mamikonean",
+     "p": 0.0
+    },
+    {
+     "title": "Mamikonian",
+     "yago": "yago:Mamikonian",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Vardan Areveltsi",
+     "yago": "yago:Vardan_Areveltsi",
+     "p": 0.0
+    },
+    {
+     "title": "Vardan of Aygek",
+     "yago": "yago:Vardan_of_Aygek",
+     "p": 0.0
+    },
+    {
+     "title": "Siunia dynasty",
+     "yago": "yago:Siunia_dynasty",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Vardan_Mamikonian",
+   "wikipedia": "Vardan Mamikonian",
+   "wikidata": "Q1280744",
+   "p_link": 0.9698
+  },
+  {
+   "eid": "e3",
+   "label": "Armenian Church",
+   "forms": [
+    "Armenian Church"
+   ],
+   "kind": "group",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 1.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Armenian Apostolic Church",
+     "yago": "yago:Armenian_Apostolic_Church",
+     "p": 0.9596
+    },
+    {
+     "title": "Armenian Catholic Church",
+     "yago": "yago:Armenian_Catholic_Church",
+     "p": 0.0
+    },
+    {
+     "title": "Armenian Evangelical Church",
+     "yago": "yago:Armenian_Evangelical_Church",
+     "p": 0.0
+    },
+    {
+     "title": "Religion in Armenia",
+     "yago": "yago:Religion_in_Armenia",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Armenian Church, Chennai",
+     "yago": "yago:Armenian_Church_Chennai",
+     "p": 0.0
+    },
+    {
+     "title": "Armenian Church, Singapore",
+     "yago": "yago:Armenian_Church_Singapore",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Armenian_Apostolic_Church",
+   "wikipedia": "Armenian Apostolic Church",
+   "wikidata": "Q683724",
+   "p_link": 0.9596
+  },
+  {
+   "eid": "e4",
+   "label": "Łazar P‘arpec‘i",
+   "forms": [
+    "Łazar P‘arpec‘i",
+    "Łazar"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.9332,
+    "place": 0.0,
+    "people_or_state": 0.0005,
+    "group": 0.0,
+    "written_work": 0.0664,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Ghazar Parpetsi",
+     "yago": "yago:Ghazar_Parpetsi",
+     "p": 0.9798
+    },
+    {
+     "title": "Buzandaran Patmutiwnk",
+     "yago": "yago:Buzandaran_Patmutiwnk",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Ghazar",
+     "yago": "yago:Ghazar",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Armenian written works of the Middle Ages",
+     "yago": "yago:Armenian_written_works_of_the_Middle_Ages",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Shapur IV",
+     "yago": "yago:Shapur_IV",
+     "p": 0.0
+    },
+    {
+     "title": "Movses Khorenatsi",
+     "yago": "yago:Movses_Khorenatsi",
+     "p": 0.0
+    },
+    {
+     "title": "Holy Translators",
+     "yago": "yago:Holy_Translators",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Vardan Mamikonian",
+     "yago": "yago:Vardan_Mamikonian",
+     "p": 0.0
+    },
+    {
+     "title": "The Life of Mesrop Mashtots",
+     "yago": "yago:The_Life_of_Mesrop_Mashtots",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Matthew of Edessa",
+     "yago": "yago:Matthew_of_Edessa",
+     "p": 0.0,
+     "out": "another period"
+    }
+   ],
+   "yago": "yago:Ghazar_Parpetsi",
+   "wikipedia": "Ghazar Parpetsi",
+   "wikidata": "Q2626111",
+   "p_link": 0.9798
+  },
+  {
+   "eid": "e5",
+   "label": "History of the Armenians",
+   "forms": [
+    "History of the Armenians"
+   ],
+   "kind": "written_work",
+   "type": "written work",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 1.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Narratio de rebus Armeniae",
+     "yago": "yago:Narratio_de_rebus_Armeniae",
+     "p": 0.1474,
+     "via": "links"
+    },
+    {
+     "title": "History of Armenia",
+     "yago": "yago:History_of_Armenia",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Armenians in the Ottoman Empire",
+     "yago": "yago:Armenians_in_the_Ottoman_Empire",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Armenians",
+     "yago": "yago:Armenians",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Armenians in Egypt",
+     "yago": "yago:Armenians_in_Egypt",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Armenians in Russia",
+     "yago": "yago:Armenians_in_Russia",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Armenians in Poland",
+     "yago": "yago:Armenians_in_Poland",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Ghazar Parpetsi",
+     "yago": "yago:Ghazar_Parpetsi",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Parpi",
+     "yago": "yago:Parpi",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.1474
+  },
+  {
+   "eid": "e6",
+   "label": "Hyrcania",
+   "forms": [
+    "Hyrcania",
+    "Gorgān"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0013,
+    "place": 0.9413,
+    "people_or_state": 0.0262,
+    "group": 0.0037,
+    "written_work": 0.0,
+    "event": 0.0275
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Hyrcania",
+     "yago": "yago:Hyrcania",
+     "p": 0.9631
+    },
+    {
+     "title": "Gorgan",
+     "yago": "yago:Gorgan",
+     "p": 0.1473
+    },
+    {
+     "title": "Hyrcania (fortress)",
+     "yago": "yago:Hyrcania_fortress",
+     "p": 0.0
+    },
+    {
+     "title": "Gulf of Gorgan",
+     "yago": "yago:Gulf_of_Gorgan",
+     "p": 0.0
+    },
+    {
+     "title": "Asyncritus of Hyrcania",
+     "yago": "yago:Asyncritus_of_Hyrcania",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Gorganrud River",
+     "yago": "yago:Gorganrud_River",
+     "p": 0.0
+    },
+    {
+     "title": "Dahae",
+     "yago": "yago:Dahae",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Gorgan Plain",
+     "yago": "yago:Gorgan_Plain",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Phraates I",
+     "yago": "yago:Phraates_I",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Gorgan, Kermanshah",
+     "yago": "yago:Gorgan_Kermanshah",
+     "p": 0.0
+    },
+    {
+     "title": "Andragoras (Seleucid satrap)",
+     "yago": "yago:Andragoras_Seleucid_satrap",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Great Wall of Gorgan",
+     "yago": "yago:Great_Wall_of_Gorgan",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Hyrcania",
+   "wikipedia": "Hyrcania",
+   "wikidata": "Q48726",
+   "p_link": 0.9631
+  },
+  {
+   "eid": "e7",
+   "label": "Alborz",
+   "forms": [
+    "Alborz"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 1.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Alborz",
+     "yago": "yago:Alborz",
+     "p": 0.9663
+    },
+    {
+     "title": "Alborz province",
+     "yago": "yago:Alborz_province",
+     "p": 0.0
+    },
+    {
+     "title": "Alborz High School",
+     "yago": "yago:Alborz_High_School",
+     "p": 0.0
+    },
+    {
+     "title": "Sonqorabad, Alborz",
+     "yago": "yago:Sonqorabad_Alborz",
+     "p": 0.0
+    },
+    {
+     "title": "Jafarabad, Alborz",
+     "yago": "yago:Jafarabad_Alborz",
+     "p": 0.0
+    },
+    {
+     "title": "IRIS Alborz",
+     "yago": "yago:IRIS_Alborz",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Alborz",
+   "wikipedia": "Alborz",
+   "wikidata": "Q484725",
+   "p_link": 0.9663
+  },
+  {
+   "eid": "e8",
+   "label": "Caspian Sea",
+   "forms": [
+    "Caspian Sea"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 1.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Caspian Sea",
+     "yago": "yago:Caspian_Sea",
+     "p": 0.9833
+    },
+    {
+     "title": "Caspian Sea Monster",
+     "yago": "yago:Caspian_Sea_Monster",
+     "p": 0.0
+    },
+    {
+     "title": "Pontic–Caspian steppe",
+     "yago": "yago:Pontic-Caspian_steppe",
+     "p": 0.0
+    },
+    {
+     "title": "Caspian Flotilla",
+     "yago": "yago:Caspian_Flotilla",
+     "p": 0.0
+    },
+    {
+     "title": "Caspian tiger",
+     "yago": "yago:Caspian_tiger",
+     "p": 0.0
+    },
+    {
+     "title": "Caspian seal",
+     "yago": "yago:Caspian_seal",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Caspian_Sea",
+   "wikipedia": "Caspian Sea",
+   "wikidata": "Q5484",
+   "p_link": 0.9833
+  },
+  {
+   "eid": "e9",
+   "label": "Khuzestan",
+   "forms": [
+    "Khuzestan"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0025,
+    "place": 0.9325,
+    "people_or_state": 0.0512,
+    "group": 0.005,
+    "written_work": 0.0,
+    "event": 0.0088
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Khuzestan province",
+     "yago": "yago:Khuzestan_province",
+     "p": 0.9246
+    },
+    {
+     "title": "Esteghlal Khuzestan F.C.",
+     "yago": "yago:Esteghlal_Khuzestan_F_C",
+     "p": 0.0
+    },
+    {
+     "title": "Foolad F.C.",
+     "yago": "yago:Foolad_F_C",
+     "p": 0.0
+    },
+    {
+     "title": "Arab separatism in Khuzestan",
+     "yago": "yago:Arab_separatism_in_Khuzestan",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Khuzestani Arabs",
+     "yago": "yago:Khuzestani_Arabs",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Economic impact of the 2026 Iran war",
+     "yago": "yago:Economic_impact_of_the_2026_Iran_war",
+     "p": 0.0,
+     "out": "not in YAGO"
+    }
+   ],
+   "yago": "yago:Khuzestan_province",
+   "wikipedia": "Khuzestan province",
+   "wikidata": "Q241119",
+   "p_link": 0.9246
+  },
+  {
+   "eid": "e10",
+   "label": "Vahan Mamikonean",
+   "forms": [
+    "Vahan Mamikonean",
+    "Vahan"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Vahan II Mamikonian",
+     "yago": "yago:Vahan_II_Mamikonian",
+     "p": 0.9249
+    },
+    {
+     "title": "Mamikonian",
+     "yago": "yago:Mamikonian",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "History of Armenia",
+     "yago": "yago:History_of_Armenia",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Siunia dynasty",
+     "yago": "yago:Siunia_dynasty",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Sanesan's invasion of Armenia (335–336)",
+     "yago": "yago:Sanesan_s_invasion_of_Armenia_335-336",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Mushegh I Mamikonian",
+     "yago": "yago:Mushegh_I_Mamikonian",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Vahan_II_Mamikonian",
+   "wikipedia": "Vahan II Mamikonian",
+   "wikidata": "Q2085338",
+   "p_link": 0.9249
+  },
+  {
+   "eid": "e11",
+   "label": "Sasanians",
+   "forms": [
+    "Sasanians"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.9025,
+    "group": 0.0975,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Sasanian Empire",
+     "yago": "yago:Sasanian_Empire",
+     "p": 0.7469
+    },
+    {
+     "title": "Sasanian dynasty",
+     "yago": "yago:Sasanian_dynasty",
+     "p": 0.7321
+    },
+    {
+     "title": "Sasanian Egypt",
+     "yago": "yago:Sasanian_Egypt",
+     "p": 0.0
+    },
+    {
+     "title": "Sasanian–Kidarite wars",
+     "yago": "yago:Sasanian-Kidarite_wars",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Kushano-Sasanian Kingdom",
+     "yago": "yago:Kushano-Sasanian_Kingdom",
+     "p": 0.0
+    },
+    {
+     "title": "Roman–Persian wars",
+     "yago": "yago:Roman-Persian_wars",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Dynasty",
+     "yago": "yago:Dynasty",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Sasanian_Empire",
+   "wikipedia": "Sasanian Empire",
+   "wikidata": "Q83891",
+   "p_link": 0.7469
+  },
+  {
+   "eid": "e12",
+   "label": "Vałaršapat",
+   "forms": [
+    "Vałaršapat",
+    "Eǰmiacin"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.98,
+    "people_or_state": 0.0,
+    "group": 0.02,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Vagharshapat",
+     "yago": "yago:Vagharshapat",
+     "p": 0.9547
+    },
+    {
+     "title": "Etchmiadzin Cathedral",
+     "yago": "yago:Etchmiadzin_Cathedral",
+     "p": 0.361
+    },
+    {
+     "title": "Zvartnots Cathedral",
+     "yago": "yago:Zvartnots_Cathedral",
+     "p": 0.0
+    },
+    {
+     "title": "Tiridates III of Armenia",
+     "yago": "yago:Tiridates_III_of_Armenia",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "The Key of Truth",
+     "yago": "yago:The_Key_of_Truth",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Armavir Province",
+     "yago": "yago:Armavir_Province",
+     "p": 0.0
+    },
+    {
+     "title": "Ejmiatsin Church, Tbilisi",
+     "yago": "yago:Ejmiatsin_Church_Tbilisi",
+     "p": 0.0
+    },
+    {
+     "title": "Holy Lance",
+     "yago": "yago:Holy_Lance",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Armenian Soviet Socialist Republic",
+     "yago": "yago:Armenian_Soviet_Socialist_Republic",
+     "p": 0.0
+    },
+    {
+     "title": "Khor Virap",
+     "yago": "yago:Khor_Virap",
+     "p": 0.0
+    },
+    {
+     "title": "FC Vagharshapat",
+     "yago": "yago:FC_Vagharshapat",
+     "p": 0.0
+    },
+    {
+     "title": "Levon Khachikyan",
+     "yago": "yago:Levon_Khachikyan",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Vagharshapat",
+   "wikipedia": "Vagharshapat",
+   "wikidata": "Q183394",
+   "p_link": 0.9547
+  },
+  {
+   "eid": "e13",
+   "label": "Ełišē",
+   "forms": [
+    "Ełišē"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.755,
+    "place": 0.02,
+    "people_or_state": 0.0288,
+    "group": 0.0063,
+    "written_work": 0.1837,
+    "event": 0.0063
+   },
+   "century": "6th century",
+   "candidates": [
+    {
+     "title": "Elishe",
+     "yago": "yago:Elishe",
+     "p": 0.9698
+    },
+    {
+     "title": "Yeghishe Charents",
+     "yago": "yago:Yeghishe_Charents",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Élise",
+     "yago": "yago:Élise",
+     "p": 0.0
+    },
+    {
+     "title": "Armenian written works of the Middle Ages",
+     "yago": "yago:Armenian_written_works_of_the_Middle_Ages",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Lotus Elise",
+     "yago": "yago:Lotus_Elise",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Yeghishe Melikyan",
+     "yago": "yago:Yeghishe_Melikyan",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Für Elise",
+     "yago": "yago:Für_Elise",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Kimberly Elise",
+     "yago": "yago:Kimberly_Elise",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "FC Pyunik",
+     "yago": "yago:FC_Pyunik",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Cate Blanchett",
+     "yago": "yago:Cate_Blanchett",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "The Life of Mesrop Mashtots",
+     "yago": "yago:The_Life_of_Mesrop_Mashtots",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Elishe",
+   "wikipedia": "Elishe",
+   "wikidata": "Q612501",
+   "p_link": 0.9698
+  },
+  {
+   "eid": "e14",
+   "label": "Robert Thomson",
+   "forms": [
+    "Robert Thomson"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Robert W. Thomson",
+     "yago": "yago:Robert_W_Thomson",
+     "p": 0.9356,
+     "via": "links"
+    },
+    {
+     "title": "Robert Thomson (executive)",
+     "yago": "yago:Robert_Thomson_executive",
+     "p": 0.0
+    },
+    {
+     "title": "Robert William Thomson",
+     "yago": "yago:Robert_William_Thomson",
+     "p": 0.0
+    },
+    {
+     "title": "Robert Thomson (physician)",
+     "yago": "yago:Robert_Thomson_physician",
+     "p": 0.0
+    },
+    {
+     "title": "Jeff Thomson",
+     "yago": "yago:Jeff_Thomson",
+     "p": 0.0
+    },
+    {
+     "title": "R. H. Thomson",
+     "yago": "yago:R_H_Thomson",
+     "p": 0.0
+    },
+    {
+     "title": "Paul Thomson",
+     "yago": "yago:Paul_Thomson",
+     "p": 0.0
+    },
+    {
+     "title": "Elishe",
+     "yago": "yago:Elishe",
+     "p": 0.0,
+     "via": "links"
+    },
+    {
+     "title": "Historian",
+     "yago": "yago:Historian",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    },
+    {
+     "title": "Classical Armenian",
+     "yago": "yago:Classical_Armenian",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Mesrop Mashtots",
+     "yago": "yago:Mesrop_Mashtots",
+     "p": 0.0,
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Robert_W_Thomson",
+   "wikipedia": "Robert W. Thomson",
+   "wikidata": "Q7350752",
+   "p_link": 0.9356
+  },
+  {
+   "eid": "e15",
+   "label": "Akinean",
+   "forms": [
+    "Akinean"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.535,
+    "place": 0.05,
+    "people_or_state": 0.34,
+    "group": 0.045,
+    "written_work": 0.03,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Josef Markwart",
+     "yago": "yago:Josef_Markwart",
+     "p": 0.267,
+     "via": "links"
+    },
+    {
+     "title": "Harutiun Bezjian",
+     "yago": "yago:Harutiun_Bezjian",
+     "p": 0.2265
+    },
+    {
+     "title": "Simeon of Poland",
+     "yago": "yago:Simeon_of_Poland",
+     "p": 0.1162
+    },
+    {
+     "title": "Elishe",
+     "yago": "yago:Elishe",
+     "p": 0.0941,
+     "via": "links"
+    },
+    {
+     "title": "Robert W. Thomson",
+     "yago": "yago:Robert_W_Thomson",
+     "p": 0.0577,
+     "via": "links"
+    },
+    {
+     "title": "Armenian Christian tradition in the 20th century",
+     "yago": "yago:Armenian_Christian_tradition_in_the_20th_century",
+     "p": 0.0,
+     "out": "not in YAGO"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.267
+  },
+  {
+   "eid": "e16",
+   "label": "Kiwlēsērean",
+   "forms": [
+    "Kiwlēsērean"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.385,
+    "place": 0.105,
+    "people_or_state": 0.355,
+    "group": 0.11,
+    "written_work": 0.045,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Josef Markwart",
+     "yago": "yago:Josef_Markwart",
+     "p": 0.4308,
+     "via": "links"
+    },
+    {
+     "title": "Elishe",
+     "yago": "yago:Elishe",
+     "p": 0.1651,
+     "via": "links"
+    },
+    {
+     "title": "Telecles",
+     "yago": "yago:Telecles",
+     "p": 0.1543,
+     "via": "links"
+    },
+    {
+     "title": "Robert W. Thomson",
+     "yago": "yago:Robert_W_Thomson",
+     "p": 0.15,
+     "via": "links"
+    },
+    {
+     "title": "Mazdaism",
+     "yago": "yago:Mazdaism",
+     "p": 0.0531
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.4308
+  },
+  {
+   "eid": "e17",
+   "label": "Philo",
+   "forms": [
+    "Philo"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.985,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.015,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Philo",
+     "yago": "yago:Philo",
+     "p": 0.9765
+    },
+    {
+     "title": "Phoebe Philo",
+     "yago": "yago:Phoebe_Philo",
+     "p": 0.0
+    },
+    {
+     "title": "Philo Farnsworth",
+     "yago": "yago:Philo_Farnsworth",
+     "p": 0.0
+    },
+    {
+     "title": "Aaron Philo",
+     "yago": "yago:Aaron_Philo",
+     "p": 0.0
+    },
+    {
+     "title": "Philo (company)",
+     "yago": "yago:Philo_company",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Every Which Way but Loose",
+     "yago": "yago:Every_Which_Way_but_Loose",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Philo",
+   "wikipedia": "Philo",
+   "wikidata": "Q189597",
+   "p_link": 0.9765
+  },
+  {
+   "eid": "e18",
+   "label": "John",
+   "forms": [
+    "John"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.995,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.005,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "John of Ephesus",
+     "yago": "yago:John_of_Ephesus",
+     "p": 0.9799
+    },
+    {
+     "title": "Red John",
+     "yago": "yago:Red_John",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Ephesus",
+     "yago": "yago:Ephesus",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "John (given name)",
+     "yago": "yago:John_given_name",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Temple of Artemis",
+     "yago": "yago:Temple_of_Artemis",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "John Doe",
+     "yago": "yago:John_Doe",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Metropolis of Ephesus",
+     "yago": "yago:Metropolis_of_Ephesus",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "John F. Kennedy Jr.",
+     "yago": "yago:John_F_Kennedy_Jr",
+     "p": 0.0
+    },
+    {
+     "title": "Basilica of Saint John the Theologian",
+     "yago": "yago:Basilica_of_Saint_John_the_Theologian",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "John Wick",
+     "yago": "yago:John_Wick",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "New Testament people named John",
+     "yago": "yago:New_Testament_people_named_John",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "John Tuggle",
+     "yago": "yago:John_Tuggle",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:John_of_Ephesus",
+   "wikipedia": "John of Ephesus",
+   "wikidata": "Q718607",
+   "p_link": 0.9799
+  },
+  {
+   "eid": "e19",
+   "label": "Ephesus",
+   "forms": [
+    "Ephesus"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.51,
+    "place": 0.465,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.025,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "John of Ephesus",
+     "yago": "yago:John_of_Ephesus",
+     "p": 0.5543,
+     "via": "links"
+    },
+    {
+     "title": "Ephesus",
+     "yago": "yago:Ephesus",
+     "p": 0.2675
+    },
+    {
+     "title": "Temple of Artemis",
+     "yago": "yago:Temple_of_Artemis",
+     "p": 0.0
+    },
+    {
+     "title": "Council of Ephesus",
+     "yago": "yago:Council_of_Ephesus",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Ephesus (mythology)",
+     "yago": "yago:Ephesus_mythology",
+     "p": 0.0
+    },
+    {
+     "title": "Heraclitus",
+     "yago": "yago:Heraclitus",
+     "p": 0.0
+    },
+    {
+     "title": "Seven Sleepers",
+     "yago": "yago:Seven_Sleepers",
+     "p": 0.0
+    },
+    {
+     "title": "Metropolis of Ephesus",
+     "yago": "yago:Metropolis_of_Ephesus",
+     "p": 0.0,
+     "via": "links"
+    },
+    {
+     "title": "Pseudo-Zacharias Rhetor",
+     "yago": "yago:Pseudo-Zacharias_Rhetor",
+     "p": 0.0,
+     "via": "links"
+    },
+    {
+     "title": "Second Council of Ephesus",
+     "yago": "yago:Second_Council_of_Ephesus",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.5543
+  },
+  {
+   "eid": "e20",
+   "label": "Ecclesiastical Histories",
+   "forms": [
+    "Ecclesiastical Histories"
+   ],
+   "kind": "written_work",
+   "type": "written work",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 1.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Ecclesiastical History (Eusebius)",
+     "yago": "yago:Ecclesiastical_History_Eusebius",
+     "p": 0.2531
+    },
+    {
+     "title": "Ecclesiastical History of the English People",
+     "yago": "yago:Ecclesiastical_History_of_the_English_People",
+     "p": 0.054
+    },
+    {
+     "title": "Ecclesiastical history of Braga",
+     "yago": "yago:Ecclesiastical_history_of_Braga",
+     "p": 0.0276
+    },
+    {
+     "title": "The Journal of Ecclesiastical History",
+     "yago": "yago:The_Journal_of_Ecclesiastical_History",
+     "p": 0.0276
+    },
+    {
+     "title": "Orderic Vitalis",
+     "yago": "yago:Orderic_Vitalis",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Dixie Professor of Ecclesiastical History",
+     "yago": "yago:Dixie_Professor_of_Ecclesiastical_History",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "John of Ephesus",
+     "yago": "yago:John_of_Ephesus",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Pseudo-Zacharias Rhetor",
+     "yago": "yago:Pseudo-Zacharias_Rhetor",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Zacharias Rhetor",
+     "yago": "yago:Zacharias_Rhetor",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Eusebius",
+     "yago": "yago:Eusebius",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.2531
+  },
+  {
+   "eid": "e21",
+   "label": "Nerseh Kamsarakan",
+   "forms": [
+    "Nerseh Kamsarakan",
+    "Nerseh"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Arshavir II Kamsarakan",
+     "yago": "yago:Arshavir_II_Kamsarakan",
+     "p": 0.1492,
+     "via": "links"
+    },
+    {
+     "title": "Narses",
+     "yago": "yago:Narses",
+     "p": 0.1057,
+     "via": "links"
+    },
+    {
+     "title": "Narseh",
+     "yago": "yago:Narseh",
+     "p": 0.0404,
+     "via": "links"
+    },
+    {
+     "title": "Nerses Kamsarakan",
+     "yago": "yago:Nerses_Kamsarakan",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Ashot Msaker",
+     "yago": "yago:Ashot_Msaker",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Cathedral of Talin",
+     "yago": "yago:Cathedral_of_Talin",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Talin, Armenia",
+     "yago": "yago:Talin_Armenia",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "List of Armenian monarchs",
+     "yago": "yago:List_of_Armenian_monarchs",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Ashot II Bagratuni",
+     "yago": "yago:Ashot_II_Bagratuni",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "Kamsarakan",
+     "yago": "yago:Kamsarakan",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Diocese of Shirak",
+     "yago": "yago:Diocese_of_Shirak",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.1492
+  },
+  {
+   "eid": "e22",
+   "label": "Širak",
+   "forms": [
+    "Širak"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.985,
+    "people_or_state": 0.015,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Shirak Province",
+     "yago": "yago:Shirak_Province",
+     "p": 0.8148
+    },
+    {
+     "title": "Diocese of Shirak",
+     "yago": "yago:Diocese_of_Shirak",
+     "p": 0.1566,
+     "via": "links"
+    },
+    {
+     "title": "Shirak Plain",
+     "yago": "yago:Shirak_Plain",
+     "p": 0.115,
+     "via": "links"
+    },
+    {
+     "title": "Sirak Skitnik",
+     "yago": "yago:Sirak_Skitnik",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Shirak SC",
+     "yago": "yago:Shirak_SC",
+     "p": 0.0
+    },
+    {
+     "title": "Sirak, Lorestan",
+     "yago": "yago:Sirak_Lorestan",
+     "p": 0.0
+    },
+    {
+     "title": "Sirak Tesfom",
+     "yago": "yago:Sirak_Tesfom",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Shirak Avia",
+     "yago": "yago:Shirak_Avia",
+     "p": 0.0
+    },
+    {
+     "title": "Gyumri Shirak International Airport",
+     "yago": "yago:Gyumri_Shirak_International_Airport",
+     "p": 0.0
+    },
+    {
+     "title": "Deh Shirak",
+     "yago": "yago:Deh_Shirak",
+     "p": 0.0
+    },
+    {
+     "title": "Sirak M. Sabahat",
+     "yago": "yago:Sirak_M_Sabahat",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "2026–27 Armenian Cup",
+     "yago": "yago:2026-27_Armenian_Cup",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Region",
+     "yago": "yago:Region",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    },
+    {
+     "title": "Aragatsotn Province",
+     "yago": "yago:Aragatsotn_Province",
+     "p": 0.0,
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Shirak_Province",
+   "wikipedia": "Shirak Province",
+   "wikidata": "Q201063",
+   "p_link": 0.8148
+  },
+  {
+   "eid": "e23",
+   "label": "Aršawir Kamsarakan",
+   "forms": [
+    "Aršawir Kamsarakan"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Arshavir II Kamsarakan",
+     "yago": "yago:Arshavir_II_Kamsarakan",
+     "p": 0.8
+    },
+    {
+     "title": "Arsaber",
+     "yago": "yago:Arsaber",
+     "p": 0.0662
+    },
+    {
+     "title": "Kamsarakan",
+     "yago": "yago:Kamsarakan",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Vardan Mamikonian",
+     "yago": "yago:Vardan_Mamikonian",
+     "p": 0.0
+    },
+    {
+     "title": "List of regions of ancient Armenia",
+     "yago": "yago:List_of_regions_of_ancient_Armenia",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Vartanants Square",
+     "yago": "yago:Vartanants_Square",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Aswaran",
+     "yago": "yago:Aswaran",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Narseh",
+     "yago": "yago:Narseh",
+     "p": 0.0,
+     "via": "links"
+    },
+    {
+     "title": "Mihranids",
+     "yago": "yago:Mihranids",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Arshavir_II_Kamsarakan",
+   "wikipedia": "Arshavir II Kamsarakan",
+   "wikidata": "Q13526784",
+   "p_link": 0.8
+  },
+  {
+   "eid": "e24",
+   "label": "Hrahat",
+   "forms": [
+    "Hrahat"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Raham Mihran",
+     "yago": "yago:Raham_Mihran",
+     "p": 0.2129,
+     "via": "links"
+    },
+    {
+     "title": "Narseh",
+     "yago": "yago:Narseh",
+     "p": 0.0836,
+     "via": "links"
+    },
+    {
+     "title": "Danishmendids",
+     "yago": "yago:Danishmendids",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Flora Martirosian",
+     "yago": "yago:Flora_Martirosian",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "European Party of Armenia",
+     "yago": "yago:European_Party_of_Armenia",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Gomaa Frahat",
+     "yago": "yago:Gomaa_Frahat",
+     "p": 0.0,
+     "out": "another period",
+     "via": "links"
+    },
+    {
+     "title": "Rhahzadh",
+     "yago": "yago:Rhahzadh",
+     "p": 0.0,
+     "out": "another period",
+     "via": "links"
+    },
+    {
+     "title": "Mamikonian",
+     "yago": "yago:Mamikonian",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.2129
+  },
+  {
+   "eid": "e25",
+   "label": "Battle of Akesga",
+   "forms": [
+    "Battle of Akesga"
+   ],
+   "kind": "event",
+   "type": "event",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 1.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Battle of Avarayr",
+     "yago": "yago:Battle_of_Avarayr",
+     "p": 0.2499,
+     "via": "links"
+    },
+    {
+     "title": "Vahan II Mamikonian",
+     "yago": "yago:Vahan_II_Mamikonian",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Sasanian Armenia",
+     "yago": "yago:Sasanian_Armenia",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Shapur Mihran",
+     "yago": "yago:Shapur_Mihran",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Peroz I",
+     "yago": "yago:Peroz_I",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Aygek",
+     "yago": "yago:Aygek",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Vardanashen",
+     "yago": "yago:Vardanashen",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Vardan Mamikonian",
+     "yago": "yago:Vardan_Mamikonian",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.2499
+  },
+  {
+   "eid": "e26",
+   "label": "Aršamunik‘",
+   "forms": [
+    "Aršamunik‘"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 1.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Arsharunik",
+     "yago": "yago:Arsharunik",
+     "p": 0.5135,
+     "via": "links"
+    },
+    {
+     "title": "Syunik (historical province)",
+     "yago": "yago:Syunik_historical_province",
+     "p": 0.2857,
+     "via": "links"
+    },
+    {
+     "title": "Armavir Province",
+     "yago": "yago:Armavir_Province",
+     "p": 0.1446,
+     "via": "links"
+    },
+    {
+     "title": "Rshtunik",
+     "yago": "yago:Rshtunik",
+     "p": 0.1411,
+     "via": "links"
+    },
+    {
+     "title": "Administrative divisions of Armenia",
+     "yago": "yago:Administrative_divisions_of_Armenia",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.5135
+  },
+  {
+   "eid": "e27",
+   "label": "Armenia",
+   "forms": [
+    "Armenia"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.86,
+    "people_or_state": 0.14,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Kingdom of Armenia (antiquity)",
+     "yago": "yago:Kingdom_of_Armenia_antiquity",
+     "p": 0.5785
+    },
+    {
+     "title": "Armenia",
+     "yago": "yago:Armenia",
+     "p": 0.4953
+    },
+    {
+     "title": "Ancient Armenia",
+     "yago": "yago:Ancient_Armenia",
+     "p": 0.4229,
+     "via": "links"
+    },
+    {
+     "title": "Medieval Armenia",
+     "yago": "yago:Medieval_Armenia",
+     "p": 0.3486,
+     "via": "links"
+    },
+    {
+     "title": "Sasanian Armenia",
+     "yago": "yago:Sasanian_Armenia",
+     "p": 0.3479,
+     "via": "links"
+    },
+    {
+     "title": "Arsharunik",
+     "yago": "yago:Arsharunik",
+     "p": 0.2803,
+     "via": "links"
+    },
+    {
+     "title": "Armenians",
+     "yago": "yago:Armenians",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Armenian genocide",
+     "yago": "yago:Armenian_genocide",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Yerevan",
+     "yago": "yago:Yerevan",
+     "p": 0.0
+    },
+    {
+     "title": "Armenian language",
+     "yago": "yago:Armenian_language",
+     "p": 0.0
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.5785
+  },
+  {
+   "eid": "e28",
+   "label": "Kidarite Huns",
+   "forms": [
+    "Kidarite Huns"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.99,
+    "group": 0.01,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Kidarites",
+     "yago": "yago:Kidarites",
+     "p": 0.9833
+    },
+    {
+     "title": "Iranian Huns",
+     "yago": "yago:Iranian_Huns",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Alchon Huns",
+     "yago": "yago:Alchon_Huns",
+     "p": 0.0
+    },
+    {
+     "title": "Kipunada",
+     "yago": "yago:Kipunada",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "List of monarchs of Punjab",
+     "yago": "yago:List_of_monarchs_of_Punjab",
+     "p": 0.0
+    },
+    {
+     "title": "Sasanian–Kidarite wars",
+     "yago": "yago:Sasanian-Kidarite_wars",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Kidarites",
+   "wikipedia": "Kidarites",
+   "wikidata": "Q26996",
+   "p_link": 0.9833
+  },
+  {
+   "eid": "e29",
+   "label": "Pērōz",
+   "forms": [
+    "Pērōz"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.985,
+    "place": 0.0,
+    "people_or_state": 0.015,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Peroz I",
+     "yago": "yago:Peroz_I",
+     "p": 0.942
+    },
+    {
+     "title": "Feroze",
+     "yago": "yago:Feroze",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Peroz III",
+     "yago": "yago:Peroz_III",
+     "p": 0.0
+    },
+    {
+     "title": "Peroz (Mihranid)",
+     "yago": "yago:Peroz_Mihranid",
+     "p": 0.0
+    },
+    {
+     "title": "Peroz of Meshan",
+     "yago": "yago:Peroz_of_Meshan",
+     "p": 0.0
+    },
+    {
+     "title": "Azad Peroz",
+     "yago": "yago:Azad_Peroz",
+     "p": 0.0
+    },
+    {
+     "title": "Peroz II",
+     "yago": "yago:Peroz_II",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Peroz_I",
+   "wikipedia": "Peroz I",
+   "wikidata": "Q310233",
+   "p_link": 0.942
+  },
+  {
+   "eid": "e30",
+   "label": "Kidarites",
+   "forms": [
+    "Kidarites"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.995,
+    "group": 0.005,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Kidarites",
+     "yago": "yago:Kidarites",
+     "p": 0.99
+    },
+    {
+     "title": "Kushan Empire",
+     "yago": "yago:Kushan_Empire",
+     "p": 0.0
+    },
+    {
+     "title": "Iranian Huns",
+     "yago": "yago:Iranian_Huns",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Hephthalites",
+     "yago": "yago:Hephthalites",
+     "p": 0.0
+    },
+    {
+     "title": "Gupta Empire",
+     "yago": "yago:Gupta_Empire",
+     "p": 0.0
+    },
+    {
+     "title": "Alchon Huns",
+     "yago": "yago:Alchon_Huns",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Kidarites",
+   "wikipedia": "Kidarites",
+   "wikidata": "Q26996",
+   "p_link": 0.99
+  },
+  {
+   "eid": "e31",
+   "label": "Hephthalite Huns",
+   "forms": [
+    "Hephthalite Huns"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.995,
+    "group": 0.005,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Hephthalites",
+     "yago": "yago:Hephthalites",
+     "p": 0.9833
+    },
+    {
+     "title": "Iranian Huns",
+     "yago": "yago:Iranian_Huns",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Origin of the Huns",
+     "yago": "yago:Origin_of_the_Huns",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Alchon Huns",
+     "yago": "yago:Alchon_Huns",
+     "p": 0.0
+    },
+    {
+     "title": "Hephthalite–Sasanian Wars",
+     "yago": "yago:Hephthalite-Sasanian_Wars",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Hephthalite–Sasanian War of 484",
+     "yago": "yago:Hephthalite-Sasanian_War_of_484",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Hephthalites",
+   "wikipedia": "Hephthalites",
+   "wikidata": "Q26576",
+   "p_link": 0.9833
+  },
+  {
+   "eid": "e32",
+   "label": "Tokharistan",
+   "forms": [
+    "Tokharistan"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 1.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Tokharistan",
+     "yago": "yago:Tokharistan",
+     "p": 0.9733
+    },
+    {
+     "title": "Bactria",
+     "yago": "yago:Bactria",
+     "p": 0.1545
+    },
+    {
+     "title": "Tokhara Yabghus",
+     "yago": "yago:Tokhara_Yabghus",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Hephthalites",
+     "yago": "yago:Hephthalites",
+     "p": 0.0
+    },
+    {
+     "title": "Muslim conquest of Transoxiana",
+     "yago": "yago:Muslim_conquest_of_Transoxiana",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Qutayba ibn Muslim",
+     "yago": "yago:Qutayba_ibn_Muslim",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Tokharistan",
+   "wikipedia": "Tokharistan",
+   "wikidata": "Q4461501",
+   "p_link": 0.9733
+  },
+  {
+   "eid": "e33",
+   "label": "Hindu Kush",
+   "forms": [
+    "Hindu Kush"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 1.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Hindu Kush",
+     "yago": "yago:Hindu_Kush",
+     "p": 0.9866
+    },
+    {
+     "title": "Kush (cannabis)",
+     "yago": "yago:Kush_cannabis",
+     "p": 0.0
+    },
+    {
+     "title": "A Short Walk in the Hindu Kush",
+     "yago": "yago:A_Short_Walk_in_the_Hindu_Kush",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Mad honey",
+     "yago": "yago:Mad_honey",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Kalash people",
+     "yago": "yago:Kalash_people",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "List of ultras of the Karakoram and Hindu Kush",
+     "yago": "yago:List_of_ultras_of_the_Karakoram_and_Hindu_Kush",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Hindu_Kush",
+   "wikipedia": "Hindu Kush",
+   "wikidata": "Q5472",
+   "p_link": 0.9866
+  },
+  {
+   "eid": "e34",
+   "label": "Vasak",
+   "forms": [
+    "Vasak"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Vasak I Mamikonian",
+     "yago": "yago:Vasak_I_Mamikonian",
+     "p": 0.6573
+    },
+    {
+     "title": "Vasak Siwni",
+     "yago": "yago:Vasak_Siwni",
+     "p": 0.0949
+    },
+    {
+     "title": "Vahan II Mamikonian",
+     "yago": "yago:Vahan_II_Mamikonian",
+     "p": 0.0568,
+     "via": "links"
+    },
+    {
+     "title": "Karel Vasak",
+     "yago": "yago:Karel_Vasak",
+     "p": 0.0
+    },
+    {
+     "title": "Proshyan dynasty",
+     "yago": "yago:Proshyan_dynasty",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Three generations of human rights",
+     "yago": "yago:Three_generations_of_human_rights",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Syunik Province",
+     "yago": "yago:Syunik_Province",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Mamikonian",
+     "yago": "yago:Mamikonian",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Battle of Avarayr",
+     "yago": "yago:Battle_of_Avarayr",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.6573
+  },
+  {
+   "eid": "e35",
+   "label": "Artašēs",
+   "forms": [
+    "Artašēs"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Vahan II Mamikonian",
+     "yago": "yago:Vahan_II_Mamikonian",
+     "p": 0.1601,
+     "via": "links"
+    },
+    {
+     "title": "Artavasdes I Mamikonian",
+     "yago": "yago:Artavasdes_I_Mamikonian",
+     "p": 0.1108,
+     "via": "links"
+    },
+    {
+     "title": "Artaxias I",
+     "yago": "yago:Artaxias_I",
+     "p": 0.0408
+    },
+    {
+     "title": "Satenik",
+     "yago": "yago:Satenik",
+     "p": 0.0371
+    },
+    {
+     "title": "Ardashir I",
+     "yago": "yago:Ardashir_I",
+     "p": 0.0371
+    },
+    {
+     "title": "Artashes Arakelian",
+     "yago": "yago:Artashes_Arakelian",
+     "p": 0.0257
+    },
+    {
+     "title": "Artashes Abeghyan",
+     "yago": "yago:Artashes_Abeghyan",
+     "p": 0.0257
+    },
+    {
+     "title": "Navaanneren",
+     "yago": "yago:Navaanneren",
+     "p": 0.0
+    },
+    {
+     "title": "Artashes Minasian",
+     "yago": "yago:Artashes_Minasian",
+     "p": 0.0
+    },
+    {
+     "title": "List of Mongol rulers",
+     "yago": "yago:List_of_Mongol_rulers",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Artashes Geghamyan",
+     "yago": "yago:Artashes_Geghamyan",
+     "p": 0.0
+    },
+    {
+     "title": "Sechen Khan",
+     "yago": "yago:Sechen_Khan",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Artashes Enfiajyan",
+     "yago": "yago:Artashes_Enfiajyan",
+     "p": 0.0
+    },
+    {
+     "title": "Mamikonian",
+     "yago": "yago:Mamikonian",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Vahman-Ardashir",
+     "yago": "yago:Vahman-Ardashir",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.1601
+  },
+  {
+   "eid": "e36",
+   "label": "Kamsarakan family",
+   "forms": [
+    "Kamsarakan family"
+   ],
+   "kind": "group",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 1.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Kamsarakan",
+     "yago": "yago:Kamsarakan",
+     "p": 0.9799
+    },
+    {
+     "title": "Arshavir II Kamsarakan",
+     "yago": "yago:Arshavir_II_Kamsarakan",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Nerses Kamsarakan",
+     "yago": "yago:Nerses_Kamsarakan",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Narses (comes)",
+     "yago": "yago:Narses_comes",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Theodosia (wife of Leo V)",
+     "yago": "yago:Theodosia_wife_of_Leo_V",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Isaac the Armenian",
+     "yago": "yago:Isaac_the_Armenian",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Kamsarakan",
+   "wikipedia": "Kamsarakan",
+   "wikidata": "Q2996516",
+   "p_link": 0.9799
+  },
+  {
+   "eid": "e37",
+   "label": "T‘at‘ik",
+   "forms": [
+    "T‘at‘ik"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.9783,
+    "place": 0.0017,
+    "people_or_state": 0.0033,
+    "group": 0.0033,
+    "written_work": 0.005,
+    "event": 0.0083
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Yuliia Tatik",
+     "yago": "yago:Yuliia_Tatik",
+     "p": 0.11
+    },
+    {
+     "title": "Vahan II Mamikonian",
+     "yago": "yago:Vahan_II_Mamikonian",
+     "p": 0.0875,
+     "via": "links"
+    },
+    {
+     "title": "We Are Our Mountains",
+     "yago": "yago:We_Are_Our_Mountains",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Basque language",
+     "yago": "yago:Basque_language",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Tatık, Karaisalı",
+     "yago": "yago:Tatık_Karaisalı",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Republic of Artsakh",
+     "yago": "yago:Republic_of_Artsakh",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Coat of arms of Artsakh",
+     "yago": "yago:Coat_of_arms_of_Artsakh",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Taikonyr",
+     "yago": "yago:Taikonyr",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Christian martyr",
+     "yago": "yago:Christian_martyr",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    },
+    {
+     "title": "Haytagh",
+     "yago": "yago:Haytagh",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Tzadik",
+     "yago": "yago:Tzadik",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.11
+  },
+  {
+   "eid": "e38",
+   "label": "Basean",
+   "forms": [
+    "Basean"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.04,
+    "place": 0.925,
+    "people_or_state": 0.015,
+    "group": 0.02,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Phasiane (historical region)",
+     "yago": "yago:Phasiane_historical_region",
+     "p": 0.873
+    },
+    {
+     "title": "Pasinler",
+     "yago": "yago:Pasinler",
+     "p": 0.5257
+    },
+    {
+     "title": "Tashan, Khuzestan",
+     "yago": "yago:Tashan_Khuzestan",
+     "p": 0.0458,
+     "via": "links"
+    },
+    {
+     "title": "Battle of Satala (298)",
+     "yago": "yago:Battle_of_Satala_298",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Urartu",
+     "yago": "yago:Urartu",
+     "p": 0.0
+    },
+    {
+     "title": "David III of Tao",
+     "yago": "yago:David_III_of_Tao",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Battle of Svindax",
+     "yago": "yago:Battle_of_Svindax",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Episcopal see",
+     "yago": "yago:Episcopal_see",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    },
+    {
+     "title": "Battle of Bassianae",
+     "yago": "yago:Battle_of_Bassianae",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Shahrestan-haye Iranshahr",
+     "yago": "yago:Shahrestan-haye_Iranshahr",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Medieval Armenia",
+     "yago": "yago:Medieval_Armenia",
+     "p": 0.0,
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Phasiane_historical_region",
+   "wikipedia": "Phasiane (historical region)",
+   "wikidata": "Q12862449",
+   "p_link": 0.873
+  },
+  {
+   "eid": "e39",
+   "label": "Vasak Siwni",
+   "forms": [
+    "Vasak Siwni"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 0.985,
+    "place": 0.0,
+    "people_or_state": 0.005,
+    "group": 0.01,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Vasak Siwni",
+     "yago": "yago:Vasak_Siwni",
+     "p": 0.9866
+    },
+    {
+     "title": "Siunia dynasty",
+     "yago": "yago:Siunia_dynasty",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Vardan Mamikonian",
+     "yago": "yago:Vardan_Mamikonian",
+     "p": 0.0
+    },
+    {
+     "title": "Syunik (historical province)",
+     "yago": "yago:Syunik_historical_province",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Yazdegerd II",
+     "yago": "yago:Yazdegerd_II",
+     "p": 0.0
+    },
+    {
+     "title": "Battle of Avarayr",
+     "yago": "yago:Battle_of_Avarayr",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Vasak_Siwni",
+   "wikipedia": "Vasak Siwni",
+   "wikidata": "Q2633351",
+   "p_link": 0.9866
+  },
+  {
+   "eid": "e40",
+   "label": "Siwnik‘",
+   "forms": [
+    "Siwnik‘"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.98,
+    "people_or_state": 0.02,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Syunik (historical province)",
+     "yago": "yago:Syunik_historical_province",
+     "p": 0.9515,
+     "via": "links"
+    },
+    {
+     "title": "Syunik Province",
+     "yago": "yago:Syunik_Province",
+     "p": 0.2013
+    },
+    {
+     "title": "Siunia dynasty",
+     "yago": "yago:Siunia_dynasty",
+     "p": 0.1687
+    },
+    {
+     "title": "Step'anos of Siwnik'",
+     "yago": "yago:Step_anos_of_Siwnik",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "List of rivers of Slovenia",
+     "yago": "yago:List_of_rivers_of_Slovenia",
+     "p": 0.0
+    },
+    {
+     "title": "Sostro District",
+     "yago": "yago:Sostro_District",
+     "p": 0.0
+    },
+    {
+     "title": "Kingdom of Syunik",
+     "yago": "yago:Kingdom_of_Syunik",
+     "p": 0.0
+    },
+    {
+     "title": "Biblical canon",
+     "yago": "yago:Biblical_canon",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Amir Hasan II",
+     "yago": "yago:Amir_Hasan_II",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Sunicas",
+     "yago": "yago:Sunicas",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Diocese of Syunik",
+     "yago": "yago:Diocese_of_Syunik",
+     "p": 0.0,
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Syunik_historical_province",
+   "wikipedia": "Syunik (historical province)",
+   "wikidata": "Q13583148",
+   "p_link": 0.9515
+  },
+  {
+   "eid": "e41",
+   "label": "Mamikoneans",
+   "forms": [
+    "Mamikoneans"
+   ],
+   "kind": "group",
+   "type": "organization",
+   "kinds": {
+    "person": 0.005,
+    "place": 0.0,
+    "people_or_state": 0.085,
+    "group": 0.91,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Mamikonian",
+     "yago": "yago:Mamikonian",
+     "p": 0.9765
+    },
+    {
+     "title": "John Mamikonean",
+     "yago": "yago:John_Mamikonean",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Vahan II Mamikonian",
+     "yago": "yago:Vahan_II_Mamikonian",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "History of Armenia",
+     "yago": "yago:History_of_Armenia",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Zenob Glak",
+     "yago": "yago:Zenob_Glak",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Sayat-Nova",
+     "yago": "yago:Sayat-Nova",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Mamikonian",
+   "wikipedia": "Mamikonian",
+   "wikidata": "Q678502",
+   "p_link": 0.9765
+  },
+  {
+   "eid": "e42",
+   "label": "Ašuša",
+   "forms": [
+    "Ašuša"
+   ],
+   "kind": "person",
+   "type": "person",
+   "kinds": {
+    "person": 1.0,
+    "place": 0.0,
+    "people_or_state": 0.0,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Arshusha II",
+     "yago": "yago:Arshusha_II",
+     "p": 0.7958,
+     "via": "links"
+    },
+    {
+     "title": "Taliban insurgency",
+     "yago": "yago:Taliban_insurgency",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Judaism and sneezing",
+     "yago": "yago:Judaism_and_sneezing",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Otho Cushing",
+     "yago": "yago:Otho_Cushing",
+     "p": 0.0,
+     "out": "another period"
+    },
+    {
+     "title": "History of the War in Afghanistan (2001–2021)",
+     "yago": "yago:History_of_the_War_in_Afghanistan_2001-2021",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Maliya",
+     "yago": "yago:Maliya",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Mihranids of Gugark",
+     "yago": "yago:Mihranids_of_Gugark",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    },
+    {
+     "title": "Book of Zhou",
+     "yago": "yago:Book_of_Zhou",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Gugark",
+     "yago": "yago:Gugark",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Arshusha_II",
+   "wikipedia": "Arshusha II",
+   "wikidata": "Q13526324",
+   "p_link": 0.7958
+  },
+  {
+   "eid": "e43",
+   "label": "Gugark‘",
+   "forms": [
+    "Gugark‘"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.005,
+    "place": 0.905,
+    "people_or_state": 0.075,
+    "group": 0.015,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": "5th century",
+   "candidates": [
+    {
+     "title": "Gugark",
+     "yago": "yago:Gugark",
+     "p": 0.8983
+    },
+    {
+     "title": "Gugark (village)",
+     "yago": "yago:Gugark_village",
+     "p": 0.1183
+    },
+    {
+     "title": "Gugark pogrom",
+     "yago": "yago:Gugark_pogrom",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Mihranids of Gugark",
+     "yago": "yago:Mihranids_of_Gugark",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Varsken",
+     "yago": "yago:Varsken",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Ijevan",
+     "yago": "yago:Ijevan",
+     "p": 0.0
+    },
+    {
+     "title": "Diocese of Gougark",
+     "yago": "yago:Diocese_of_Gougark",
+     "p": 0.0,
+     "via": "links"
+    },
+    {
+     "title": "Region",
+     "yago": "yago:Region",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    },
+    {
+     "title": "Gegharkunik Province",
+     "yago": "yago:Gegharkunik_Province",
+     "p": 0.0,
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Gugark",
+   "wikipedia": "Gugark",
+   "wikidata": "Q2557254",
+   "p_link": 0.8983
+  },
+  {
+   "eid": "e44",
+   "label": "Persia",
+   "forms": [
+    "Persia"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.445,
+    "people_or_state": 0.555,
+    "group": 0.0,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Sasanian Empire",
+     "yago": "yago:Sasanian_Empire",
+     "p": 0.9011,
+     "via": "links"
+    },
+    {
+     "title": "Iran",
+     "yago": "yago:Iran",
+     "p": 0.2896
+    },
+    {
+     "title": "Persia White",
+     "yago": "yago:Persia_White",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Prince of Persia",
+     "yago": "yago:Prince_of_Persia",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Prince of Persia: The Sands of Time",
+     "yago": "yago:Prince_of_Persia_The_Sands_of_Time",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Prince of Persia: The Lost Crown",
+     "yago": "yago:Prince_of_Persia_The_Lost_Crown",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Achaemenid Empire",
+     "yago": "yago:Achaemenid_Empire",
+     "p": 0.0
+    },
+    {
+     "title": "History of Iran",
+     "yago": "yago:History_of_Iran",
+     "p": 0.0,
+     "out": "not in YAGO",
+     "via": "links"
+    }
+   ],
+   "yago": "yago:Sasanian_Empire",
+   "wikipedia": "Sasanian Empire",
+   "wikidata": "Q83891",
+   "p_link": 0.9011
+  },
+  {
+   "eid": "e45",
+   "label": "Asorestan",
+   "forms": [
+    "Asorestan"
+   ],
+   "kind": "place",
+   "type": "location",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.875,
+    "people_or_state": 0.105,
+    "group": 0.015,
+    "written_work": 0.0,
+    "event": 0.005
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Asoristan",
+     "yago": "yago:Asoristan",
+     "p": 0.9799
+    },
+    {
+     "title": "Sumer",
+     "yago": "yago:Sumer",
+     "p": 0.0
+    },
+    {
+     "title": "Kingdom of Iraq",
+     "yago": "yago:Kingdom_of_Iraq",
+     "p": 0.0
+    },
+    {
+     "title": "Babylonia",
+     "yago": "yago:Babylonia",
+     "p": 0.0
+    },
+    {
+     "title": "Chaldea",
+     "yago": "yago:Chaldea",
+     "p": 0.0
+    },
+    {
+     "title": "List of conflicts in Asia",
+     "yago": "yago:List_of_conflicts_in_Asia",
+     "p": 0.0,
+     "out": "another kind"
+    }
+   ],
+   "yago": "yago:Asoristan",
+   "wikipedia": "Asoristan",
+   "wikidata": "Q3627700",
+   "p_link": 0.9799
+  },
+  {
+   "eid": "e46",
+   "label": "Sasanian",
+   "forms": [
+    "Sasanian"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.935,
+    "group": 0.065,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Sasanian Empire",
+     "yago": "yago:Sasanian_Empire",
+     "p": 0.9134
+    },
+    {
+     "title": "Sasanian dynasty",
+     "yago": "yago:Sasanian_dynasty",
+     "p": 0.2169
+    },
+    {
+     "title": "Muslim conquest of Persia",
+     "yago": "yago:Muslim_conquest_of_Persia",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Sasanian Egypt",
+     "yago": "yago:Sasanian_Egypt",
+     "p": 0.0
+    },
+    {
+     "title": "Sasanian coinage",
+     "yago": "yago:Sasanian_coinage",
+     "p": 0.0
+    },
+    {
+     "title": "Kushano-Sasanian Kingdom",
+     "yago": "yago:Kushano-Sasanian_Kingdom",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Sasanian_Empire",
+   "wikipedia": "Sasanian Empire",
+   "wikidata": "Q83891",
+   "p_link": 0.9134
+  },
+  {
+   "eid": "e47",
+   "label": "Łewondeank‘",
+   "forms": [
+    "Łewondeank‘"
+   ],
+   "kind": "people_or_state",
+   "type": "organization",
+   "kinds": {
+    "person": 0.07,
+    "place": 0.01,
+    "people_or_state": 0.55,
+    "group": 0.35,
+    "written_work": 0.01,
+    "event": 0.01
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Assyrians",
+     "yago": "yago:Assyrians",
+     "p": 0.4357,
+     "via": "links"
+    },
+    {
+     "title": "Terms for Syriac Christians",
+     "yago": "yago:Terms_for_Syriac_Christians",
+     "p": 0.2772,
+     "via": "links"
+    },
+    {
+     "title": "Syriac Christianity",
+     "yago": "yago:Syriac_Christianity",
+     "p": 0.1352,
+     "via": "links"
+    },
+    {
+     "title": "Leontine martyrs",
+     "yago": "yago:Leontine_martyrs",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Łewond",
+     "yago": "yago:Łewond",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    },
+    {
+     "title": "Khuzistan Chronicle",
+     "yago": "yago:Khuzistan_Chronicle",
+     "p": 0.0,
+     "out": "another kind",
+     "via": "links"
+    }
+   ],
+   "yago": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "p_link": 0.4357
+  },
+  {
+   "eid": "e48",
+   "label": "Mamikonean",
+   "forms": [
+    "Mamikonean"
+   ],
+   "kind": "group",
+   "type": "organization",
+   "kinds": {
+    "person": 0.0,
+    "place": 0.0,
+    "people_or_state": 0.05,
+    "group": 0.95,
+    "written_work": 0.0,
+    "event": 0.0
+   },
+   "century": null,
+   "candidates": [
+    {
+     "title": "Mamikonian",
+     "yago": "yago:Mamikonian",
+     "p": 0.9594
+    },
+    {
+     "title": "John Mamikonean",
+     "yago": "yago:John_Mamikonean",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Vahan II Mamikonian",
+     "yago": "yago:Vahan_II_Mamikonian",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Sparapet",
+     "yago": "yago:Sparapet",
+     "p": 0.0,
+     "out": "not in YAGO"
+    },
+    {
+     "title": "Armenian Revolt (850–855)",
+     "yago": "yago:Armenian_Revolt_850-855",
+     "p": 0.0,
+     "out": "another kind"
+    },
+    {
+     "title": "Siunia dynasty",
+     "yago": "yago:Siunia_dynasty",
+     "p": 0.0
+    }
+   ],
+   "yago": "yago:Mamikonian",
+   "wikipedia": "Mamikonian",
+   "wikidata": "Q678502",
+   "p_link": 0.9594
+  }
+ ],
+ "facts": [
+  {
+   "para": "p004",
+   "subj": "e5",
+   "rel": "yago:creator",
+   "obj": "e4",
+   "subj_text": "History of the Armenians",
+   "obj_text": "Łazar P‘arpec‘i",
+   "p": 0.9596,
+   "sentence": [
+    0,
+    395
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Ghazar_Parpetsi",
+   "in_yago": null
+  },
+  {
+   "para": "p004",
+   "subj": "e6",
+   "rel": "yago:neighbor",
+   "obj": "e8",
+   "subj_text": "Gorgān",
+   "obj_text": "Caspian Sea",
+   "p": 0.8252,
+   "sentence": [
+    0,
+    395
+   ],
+   "subj_yago": "yago:Hyrcania",
+   "obj_yago": "yago:Caspian_Sea",
+   "in_yago": false
+  },
+  {
+   "para": "p004",
+   "subj": "e10",
+   "rel": "ex:opposed",
+   "obj": "e11",
+   "subj_text": "Vahan Mamikonean",
+   "obj_text": "Sasanians",
+   "p": 0.9193,
+   "sentence": [
+    508,
+    725
+   ],
+   "subj_yago": "yago:Vahan_II_Mamikonian",
+   "obj_yago": "yago:Sasanian_Empire",
+   "in_yago": null
+  },
+  {
+   "para": "p004",
+   "subj": "e10",
+   "rel": "ex:captiveIn",
+   "obj": "e9",
+   "subj_text": "Vahan Mamikonean",
+   "obj_text": "Khuzestan",
+   "p": 0.796,
+   "sentence": [
+    508,
+    725
+   ],
+   "subj_yago": "yago:Vahan_II_Mamikonian",
+   "obj_yago": "yago:Khuzestan_province",
+   "in_yago": null
+  },
+  {
+   "para": "p004",
+   "subj": "e4",
+   "rel": "schema:worksFor",
+   "obj": "e10",
+   "subj_text": "Łazar",
+   "obj_text": "Vahan",
+   "p": 0.9454,
+   "sentence": [
+    726,
+    967
+   ],
+   "subj_yago": "yago:Ghazar_Parpetsi",
+   "obj_yago": "yago:Vahan_II_Mamikonian",
+   "in_yago": false
+  },
+  {
+   "para": "p004",
+   "subj": "e4",
+   "rel": "schema:location",
+   "obj": "e12",
+   "subj_text": "Łazar",
+   "obj_text": "Vałaršapat",
+   "p": 0.9345,
+   "sentence": [
+    726,
+    967
+   ],
+   "subj_yago": "yago:Ghazar_Parpetsi",
+   "obj_yago": "yago:Vagharshapat",
+   "in_yago": false
+  },
+  {
+   "para": "p005",
+   "subj": "e14",
+   "rel": "yago:influencedBy",
+   "obj": "e15",
+   "subj_text": "Robert Thomson",
+   "obj_text": "Akinean",
+   "p": 0.7671,
+   "sentence": [
+    238,
+    442
+   ],
+   "subj_yago": "yago:Robert_W_Thomson",
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p005",
+   "subj": "e14",
+   "rel": "yago:influencedBy",
+   "obj": "e16",
+   "subj_text": "Robert Thomson",
+   "obj_text": "Kiwlēsērean",
+   "p": 0.7443,
+   "sentence": [
+    238,
+    442
+   ],
+   "subj_yago": "yago:Robert_W_Thomson",
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p005",
+   "subj": "e20",
+   "rel": "yago:creator",
+   "obj": "e18",
+   "subj_text": "Ecclesiastical Histories",
+   "obj_text": "John",
+   "p": 0.9148,
+   "sentence": [
+    443,
+    792
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:John_of_Ephesus",
+   "in_yago": null
+  },
+  {
+   "para": "p005",
+   "subj": "e18",
+   "rel": "schema:location",
+   "obj": "e19",
+   "subj_text": "John",
+   "obj_text": "Ephesus",
+   "p": 0.8289,
+   "sentence": [
+    443,
+    792
+   ],
+   "subj_yago": "yago:John_of_Ephesus",
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p013",
+   "subj": "e21",
+   "rel": "yago:hasFather",
+   "obj": "e23",
+   "subj_text": "Nerseh Kamsarakan",
+   "obj_text": "Aršawir Kamsarakan",
+   "p": 0.99,
+   "sentence": [
+    0,
+    212
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Arshavir_II_Kamsarakan",
+   "in_yago": null
+  },
+  {
+   "para": "p013",
+   "subj": "e21",
+   "rel": "ex:captiveIn",
+   "obj": "e6",
+   "subj_text": "Nerseh Kamsarakan",
+   "obj_text": "Gorgān",
+   "p": 0.947,
+   "sentence": [
+    0,
+    212
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Hyrcania",
+   "in_yago": null
+  },
+  {
+   "para": "p013",
+   "subj": "e23",
+   "rel": "ex:captiveIn",
+   "obj": "e6",
+   "subj_text": "Aršawir Kamsarakan",
+   "obj_text": "Gorgān",
+   "p": 0.9007,
+   "sentence": [
+    0,
+    212
+   ],
+   "subj_yago": "yago:Arshavir_II_Kamsarakan",
+   "obj_yago": "yago:Hyrcania",
+   "in_yago": null
+  },
+  {
+   "para": "p013",
+   "subj": "e21",
+   "rel": "schema:location",
+   "obj": "e22",
+   "subj_text": "Nerseh Kamsarakan",
+   "obj_text": "Širak",
+   "p": 0.7983,
+   "sentence": [
+    0,
+    212
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Shirak_Province",
+   "in_yago": null
+  },
+  {
+   "para": "p013",
+   "subj": "e21",
+   "rel": "ex:relativeOf",
+   "obj": "e24",
+   "subj_text": "Nerseh",
+   "obj_text": "Hrahat",
+   "p": 0.9799,
+   "sentence": [
+    334,
+    531
+   ],
+   "subj_yago": null,
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p013",
+   "subj": "e4",
+   "rel": "schema:location",
+   "obj": "e12",
+   "subj_text": "Łazar",
+   "obj_text": "Vałaršapat",
+   "p": 0.8619,
+   "sentence": [
+    334,
+    531
+   ],
+   "subj_yago": "yago:Ghazar_Parpetsi",
+   "obj_yago": "yago:Vagharshapat",
+   "in_yago": false
+  },
+  {
+   "para": "p013",
+   "subj": "e4",
+   "rel": "yago:influencedBy",
+   "obj": "e21",
+   "subj_text": "Łazar",
+   "obj_text": "Nerseh",
+   "p": 0.8141,
+   "sentence": [
+    334,
+    531
+   ],
+   "subj_yago": "yago:Ghazar_Parpetsi",
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p018",
+   "subj": "e11",
+   "rel": "ex:opposed",
+   "obj": "e28",
+   "subj_text": "Sasanians",
+   "obj_text": "Kidarite Huns",
+   "p": 0.8664,
+   "sentence": [
+    0,
+    163
+   ],
+   "subj_yago": "yago:Sasanian_Empire",
+   "obj_yago": "yago:Kidarites",
+   "in_yago": null
+  },
+  {
+   "para": "p018",
+   "subj": "e31",
+   "rel": "yago:follows",
+   "obj": "e30",
+   "subj_text": "Hephthalite Huns",
+   "obj_text": "Kidarites",
+   "p": 0.9799,
+   "sentence": [
+    164,
+    442
+   ],
+   "subj_yago": "yago:Hephthalites",
+   "obj_yago": "yago:Kidarites",
+   "in_yago": false
+  },
+  {
+   "para": "p018",
+   "subj": "e29",
+   "rel": "ex:opposed",
+   "obj": "e30",
+   "subj_text": "Pērōz",
+   "obj_text": "Kidarites",
+   "p": 0.7725,
+   "sentence": [
+    164,
+    442
+   ],
+   "subj_yago": "yago:Peroz_I",
+   "obj_yago": "yago:Kidarites",
+   "in_yago": null
+  },
+  {
+   "para": "p018",
+   "subj": "e32",
+   "rel": "yago:neighbor",
+   "obj": "e33",
+   "subj_text": "Tokharistan",
+   "obj_text": "Hindu Kush",
+   "p": 0.7717,
+   "sentence": [
+    689,
+    1009
+   ],
+   "subj_yago": "yago:Tokharistan",
+   "obj_yago": "yago:Hindu_Kush",
+   "in_yago": false
+  },
+  {
+   "para": "p024",
+   "subj": "e10",
+   "rel": "ex:relativeOf",
+   "obj": "e34",
+   "subj_text": "Vahan Mamikonean",
+   "obj_text": "Vasak",
+   "p": 0.9933,
+   "sentence": [
+    0,
+    217
+   ],
+   "subj_yago": "yago:Vahan_II_Mamikonian",
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p024",
+   "subj": "e10",
+   "rel": "ex:relativeOf",
+   "obj": "e35",
+   "subj_text": "Vahan Mamikonean",
+   "obj_text": "Artašēs",
+   "p": 0.99,
+   "sentence": [
+    0,
+    217
+   ],
+   "subj_yago": "yago:Vahan_II_Mamikonian",
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p024",
+   "subj": "e37",
+   "rel": "schema:location",
+   "obj": "e38",
+   "subj_text": "T‘at‘ik",
+   "obj_text": "Basean",
+   "p": 0.9832,
+   "sentence": [
+    0,
+    217
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Phasiane_historical_region",
+   "in_yago": null
+  },
+  {
+   "para": "p024",
+   "subj": "e34",
+   "rel": "ex:relativeOf",
+   "obj": "e35",
+   "subj_text": "Vasak",
+   "obj_text": "Artašēs",
+   "p": 0.9799,
+   "sentence": [
+    0,
+    217
+   ],
+   "subj_yago": null,
+   "obj_yago": null,
+   "in_yago": null
+  },
+  {
+   "para": "p024",
+   "subj": "e35",
+   "rel": "ex:captiveIn",
+   "obj": "e9",
+   "subj_text": "Artašēs",
+   "obj_text": "Khuzestan",
+   "p": 0.9229,
+   "sentence": [
+    0,
+    217
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Khuzestan_province",
+   "in_yago": null
+  },
+  {
+   "para": "p024",
+   "subj": "e34",
+   "rel": "ex:captiveIn",
+   "obj": "e9",
+   "subj_text": "Vasak",
+   "obj_text": "Khuzestan",
+   "p": 0.9164,
+   "sentence": [
+    0,
+    217
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Khuzestan_province",
+   "in_yago": null
+  },
+  {
+   "para": "p024",
+   "subj": "e10",
+   "rel": "ex:captiveIn",
+   "obj": "e9",
+   "subj_text": "Vahan Mamikonean",
+   "obj_text": "Khuzestan",
+   "p": 0.915,
+   "sentence": [
+    0,
+    217
+   ],
+   "subj_yago": "yago:Vahan_II_Mamikonian",
+   "obj_yago": "yago:Khuzestan_province",
+   "in_yago": null
+  },
+  {
+   "para": "p024",
+   "subj": "e37",
+   "rel": "ex:captiveIn",
+   "obj": "e9",
+   "subj_text": "T‘at‘ik",
+   "obj_text": "Khuzestan",
+   "p": 0.8777,
+   "sentence": [
+    0,
+    217
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Khuzestan_province",
+   "in_yago": null
+  },
+  {
+   "para": "p024",
+   "subj": "e36",
+   "rel": "ex:captiveIn",
+   "obj": "e9",
+   "subj_text": "Kamsarakan family",
+   "obj_text": "Khuzestan",
+   "p": 0.7564,
+   "sentence": [
+    0,
+    217
+   ],
+   "subj_yago": "yago:Kamsarakan",
+   "obj_yago": "yago:Khuzestan_province",
+   "in_yago": null
+  },
+  {
+   "para": "p024",
+   "subj": "e4",
+   "rel": "ex:captiveIn",
+   "obj": "e40",
+   "subj_text": "Łazar",
+   "obj_text": "Siwnik‘",
+   "p": 0.905,
+   "sentence": [
+    218,
+    374
+   ],
+   "subj_yago": "yago:Ghazar_Parpetsi",
+   "obj_yago": "yago:Syunik_historical_province",
+   "in_yago": null
+  },
+  {
+   "para": "p024",
+   "subj": "e39",
+   "rel": "ex:opposed",
+   "obj": "e4",
+   "subj_text": "Vasak Siwni",
+   "obj_text": "Łazar",
+   "p": 0.8275,
+   "sentence": [
+    218,
+    374
+   ],
+   "subj_yago": "yago:Vasak_Siwni",
+   "obj_yago": "yago:Ghazar_Parpetsi",
+   "in_yago": null
+  },
+  {
+   "para": "p025",
+   "subj": "e42",
+   "rel": "schema:location",
+   "obj": "e43",
+   "subj_text": "Ašuša",
+   "obj_text": "Gugark‘",
+   "p": 0.9441,
+   "sentence": [
+    62,
+    275
+   ],
+   "subj_yago": "yago:Arshusha_II",
+   "obj_yago": "yago:Gugark",
+   "in_yago": false
+  },
+  {
+   "para": "p025",
+   "subj": "e42",
+   "rel": "ex:captiveIn",
+   "obj": "e44",
+   "subj_text": "Ašuša",
+   "obj_text": "Persia",
+   "p": 0.9614,
+   "sentence": [
+    558,
+    752
+   ],
+   "subj_yago": "yago:Arshusha_II",
+   "obj_yago": "yago:Sasanian_Empire",
+   "in_yago": null
+  },
+  {
+   "para": "p032",
+   "subj": "e37",
+   "rel": "schema:location",
+   "obj": "e38",
+   "subj_text": "T‘at‘ik",
+   "obj_text": "Basean",
+   "p": 0.9441,
+   "sentence": [
+    0,
+    135
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Phasiane_historical_region",
+   "in_yago": null
+  },
+  {
+   "para": "p032",
+   "subj": "e37",
+   "rel": "schema:deathPlace",
+   "obj": "e45",
+   "subj_text": "T‘at‘ik",
+   "obj_text": "Asorestan",
+   "p": 0.9438,
+   "sentence": [
+    0,
+    135
+   ],
+   "subj_yago": null,
+   "obj_yago": "yago:Asoristan",
+   "in_yago": null
+  }
+ ]
+}

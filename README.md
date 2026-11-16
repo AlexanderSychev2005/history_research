@@ -22,3 +22,6 @@ The entities with their YAGO ids are in [`dataset/linking/`](dataset/linking/REA
 ## Methods
 
 [`hybrid/`](hybrid/README.md): entity linking to YAGO with an LLM and a YAGO shortlist, tested on the dataset (link F1 62).
+
+[`jev/`](jev/README.md): all three stages end to end with the Jev decision model (TypeSafe): mentions F1 96, links to YAGO F1 80,
+relations F1 77, for about 40 cents.
