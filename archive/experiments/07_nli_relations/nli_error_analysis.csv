@@ -1,0 +1,55 @@
+doc,para,subject,relation,object,pair_present,correct_option_present,correct_score,best_allowed_score,best_allowed_relation,correct_option_allowed,reason
+nechaeva2017,p004,Damascius,schema:location,Syria,True,True,0.999,0.999,schema:location,True,selected_by_saved_scores
+nechaeva2017,p004,Simplicius,schema:location,Cilicia,True,True,0.9961,0.9961,schema:location,True,selected_by_saved_scores
+nechaeva2017,p004,Eulamius,schema:location,Phrygia,True,True,0.9971,0.9971,schema:location,True,selected_by_saved_scores
+nechaeva2017,p004,Priscian,schema:location,Lydia,True,True,0.9961,0.9961,schema:location,True,selected_by_saved_scores
+nechaeva2017,p004,Hermes,schema:location,Phoenicia,True,True,0.7866,0.8867,yago:creator,True,correct_score_below_threshold
+nechaeva2017,p004,Diogenes,schema:location,Phoenicia,True,True,0.998,0.998,schema:location,True,selected_by_saved_scores
+nechaeva2017,p004,Isidore,schema:location,Gaza,True,True,0.998,0.998,schema:location,True,selected_by_saved_scores
+nechaeva2017,p004,Damascius,schema:location,Sasanian Empire,True,True,0.0034,0.3818,yago:creator,True,correct_score_below_threshold
+nechaeva2017,p004,Simplicius,schema:location,Sasanian Empire,True,True,0.4375,0.4375,schema:location,True,correct_score_below_threshold
+nechaeva2017,p004,Eulamius,schema:location,Sasanian Empire,True,True,0.181,0.2693,yago:creator,True,correct_score_below_threshold
+nechaeva2017,p004,Priscian,schema:location,Sasanian Empire,True,True,0.1263,0.2917,yago:creator,True,correct_score_below_threshold
+nechaeva2017,p004,Hermes,schema:location,Sasanian Empire,True,True,0.366,0.366,schema:location,True,correct_score_below_threshold
+nechaeva2017,p004,Diogenes,schema:location,Sasanian Empire,True,True,0.3398,0.3521,yago:creator,True,correct_score_below_threshold
+nechaeva2017,p004,Isidore,schema:location,Sasanian Empire,True,True,0.9717,0.9717,schema:location,True,correct_score_below_threshold
+nechaeva2017,p013,Domitziolus,ex:relativeOf,Buzes,True,True,0.9951,0.9951,ex:relativeOf,True,selected_by_saved_scores
+nechaeva2017,p013,Domitziolus,ex:captiveIn,Sasanian Empire,True,True,0.9829,0.9829,ex:captiveIn,True,correct_score_below_threshold
+nechaeva2017,p013,Izdegerd,ex:relativeOf,Hormizd,True,True,0.9893,0.9893,ex:relativeOf,True,correct_score_below_threshold
+nechaeva2017,p013,Arzanene,schema:location,Persarmenia,True,True,0.9951,0.9961,yago:partOf,True,other_option_won
+nechaeva2017,p013,Izdegerd,ex:captiveIn,Byzantine Empire,True,True,0.9912,0.9912,ex:captiveIn,True,selected_by_saved_scores
+nechaeva2017,p014,Dagaris,schema:location,Armenia,True,True,0.0071,0.1609,ex:captiveIn,True,correct_score_below_threshold
+nechaeva2017,p014,Dagaris,ex:opposed,Huns,True,True,0.1359,0.1907,schema:about,True,correct_score_below_threshold
+nechaeva2017,p018,Grigor,schema:worksFor,Justinian,True,True,0.9258,0.9258,schema:worksFor,True,correct_score_below_threshold
+nechaeva2017,p018,Grigor,schema:location,Sasanian Empire,True,True,0.9771,0.9771,schema:location,True,correct_score_below_threshold
+nechaeva2017,p018,Grigor,schema:worksFor,Byzantine Empire,True,False,,,,,correct_relation_option_missing
+nechaeva2017,p019,Grigor,schema:memberOf,Church of the East,True,True,0.98,0.98,schema:memberOf,True,correct_score_below_threshold
+nechaeva2017,p019,Grigor,schema:location,Constantinople,True,True,0.1313,0.7944,ex:captiveIn,True,correct_score_below_threshold
+alford2026,p003,Armenian rebellion,schema:location,Awarayr,True,True,0.3101,0.9644,yago:follows,True,correct_score_below_threshold
+alford2026,p004,History of the Armenians,yago:creator,Łazar P‘arpec‘i,True,True,0.9932,0.9932,yago:creator,True,selected_by_saved_scores
+alford2026,p004,Gorgān,yago:neighbor,Caspian Sea,True,True,0.9165,0.958,yago:partOf,True,correct_score_below_threshold
+alford2026,p004,Vahan Mamikonean,ex:captiveIn,Khuzestan,True,True,0.9829,0.9829,ex:captiveIn,True,correct_score_below_threshold
+alford2026,p004,Vahan Mamikonean,ex:opposed,Sasanian Empire,True,False,,,,,correct_relation_option_missing
+alford2026,p004,Łazar P‘arpec‘i,schema:location,Vałaršapat,True,True,0.9023,0.9873,yago:follows,True,correct_score_below_threshold
+alford2026,p005,Ecclesiastical Histories,yago:creator,John of Ephesus,True,True,0.9912,0.9912,yago:creator,True,selected_by_saved_scores
+alford2026,p013,Nerseh Kamsarakan,ex:captiveIn,Gorgān,True,True,0.9961,0.9961,ex:captiveIn,True,selected_by_saved_scores
+alford2026,p013,Aršawir Kamsarakan,ex:captiveIn,Gorgān,True,True,0.9873,0.9873,ex:captiveIn,True,correct_score_below_threshold
+alford2026,p013,Nerseh Kamsarakan,yago:hasFather,Aršawir Kamsarakan,True,True,0.895,0.9277,ex:relativeOf,True,correct_score_below_threshold
+alford2026,p013,Nerseh Kamsarakan,schema:location,Širak,True,True,0.8159,0.9482,yago:follows,True,correct_score_below_threshold
+alford2026,p013,Nerseh Kamsarakan,ex:relativeOf,Hrahat,True,True,0.998,0.998,ex:relativeOf,True,selected_by_saved_scores
+alford2026,p013,Łazar P‘arpec‘i,schema:location,Vałaršapat,True,True,0.9136,0.9551,yago:creator,True,correct_score_below_threshold
+alford2026,p013,Aršamunik‘,schema:location,Armenia,True,True,0.5679,0.9341,yago:partOf,True,correct_score_below_threshold
+alford2026,p018,Sasanian Empire,ex:opposed,Kidarite Huns,True,False,,,,,correct_relation_option_missing
+alford2026,p018,Hephthalite Huns,yago:follows,Kidarite Huns,True,True,0.9961,0.9961,yago:follows,True,selected_by_saved_scores
+alford2026,p024,Vahan Mamikonean,ex:captiveIn,Khuzestan,True,True,0.9961,0.9961,ex:captiveIn,True,selected_by_saved_scores
+alford2026,p024,Vasak,ex:captiveIn,Khuzestan,True,True,0.6284,0.8828,yago:creator,True,correct_score_below_threshold
+alford2026,p024,Artašēs,ex:captiveIn,Khuzestan,True,True,0.9883,0.9883,ex:captiveIn,True,correct_score_below_threshold
+alford2026,p024,T‘at‘ik,ex:captiveIn,Khuzestan,True,True,0.9893,0.9893,ex:captiveIn,True,correct_score_below_threshold
+alford2026,p024,Vahan Mamikonean,ex:relativeOf,Vasak,True,True,0.9932,0.9932,ex:relativeOf,True,selected_by_saved_scores
+alford2026,p024,Vahan Mamikonean,ex:relativeOf,Artašēs,True,True,0.9932,0.9932,ex:relativeOf,True,selected_by_saved_scores
+alford2026,p024,Vasak,ex:relativeOf,Artašēs,True,True,0.9854,0.9854,ex:relativeOf,True,correct_score_below_threshold
+alford2026,p024,T‘at‘ik,schema:location,Basean,True,True,0.9727,0.9727,schema:location,True,correct_score_below_threshold
+alford2026,p025,Ašuša,schema:location,Gugark‘,True,True,0.9951,0.9951,schema:location,True,selected_by_saved_scores
+alford2026,p025,Ašuša,ex:captiveIn,Sasanian Empire,True,True,0.814,0.9248,schema:location,True,correct_score_below_threshold
+alford2026,p032,T‘at‘ik,schema:deathPlace,Asorestan,True,True,0.8911,0.9219,schema:location,True,correct_score_below_threshold
+alford2026,p032,T‘at‘ik,schema:location,Basean,True,True,0.9717,0.9717,schema:location,True,correct_score_below_threshold
