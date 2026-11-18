@@ -10,6 +10,8 @@ import os
 import re
 import sys
 import time
+import urllib.error
+import urllib.parse
 import urllib.request
 
 import numpy as np
@@ -22,7 +24,7 @@ DOCS = ("alford2026", "nechaeva2017")
 NAMES_MODEL = "openai/gpt-oss-120b"      # finds the names and gives the spellings
 CHOOSER_MODEL = "openai/gpt-oss-20b"    # picks from the shortlist
 URL = "https://api.groq.com/openai/v1/chat/completions"
-PER_QUERY, MAX_SHORTLIST = 10, 20
+PER_QUERY, WIKI_RESULTS, MAX_SHORTLIST = 10, 6, 30
 
 NAMES_PROMPT = """Find the named entities in the paragraph of a history paper and link each to its Wikipedia article.
 Rules:
@@ -141,6 +143,46 @@ def add_spellings(rows):
             m["spelling"] = done[key]
 
 
+def yago_id(title):
+    """YAGO 4.5 names an entity by its English Wikipedia title: Robert W. Thomson -> yago:Robert_W_Thomson"""
+    return "yago:" + re.sub(r"_+", "_", re.sub(r"[^\w-]", "_", title.replace("–", "-"))).strip("_")
+
+
+class Wikipedia:
+    """Full-text search of English Wikipedia, cached on disk. Wikimedia asks a client to name a contact (WIKIPEDIA_CONTACT in
+    the environment, put in the User-Agent); with one the pause between requests can be short."""
+
+    def __init__(self):
+        contact = os.environ.get("WIKIPEDIA_CONTACT")
+        self.agent = "history-research-linker/0.1" + (f" ({contact})" if contact else "")
+        self.pause = 0.5 if contact else 6.5
+        self.path = os.path.join(CACHE, "wikipedia.json")
+        self.cache, self.last = load_json(self.path), 0.0
+
+    def search(self, query):
+        """titles of the WIKI_RESULTS best matches"""
+        key = "s|" + query
+        if key not in self.cache:
+            params = urllib.parse.urlencode({"action": "query", "format": "json", "list": "search", "srsearch": query,
+                                             "srlimit": WIKI_RESULTS, "srnamespace": 0})
+            for _ in range(8):
+                time.sleep(max(0.0, self.last + self.pause - time.time()))
+                self.last = time.time()
+                try:
+                    req = urllib.request.Request("https://en.wikipedia.org/w/api.php?" + params, headers={"User-Agent": self.agent})
+                    found = json.load(urllib.request.urlopen(req, timeout=120)).get("query", {}).get("search", [])
+                    break
+                except urllib.error.HTTPError as e:
+                    if e.code != 429:
+                        raise
+                    time.sleep(float(e.headers.get("retry-after") or 10) + 1)
+            else:
+                raise RuntimeError("Wikipedia is rate limiting; run again later, the cache keeps what is done")
+            self.cache[key] = [x["title"] for x in found]
+            save_json(self.cache, self.path)
+        return self.cache[key]
+
+
 class Yago:
     def __init__(self, path):
         self.path, self.ids = path, []
@@ -148,7 +190,8 @@ class Yago:
             i = line.find('"id": "')
             self.ids.append(line[i + 7:line.find('"', i + 7)])
         self.titles = [i[5:] for i in self.ids]                      # drop "yago:"
-        self.top = {}
+        self.index = {i.lower(): n for n, i in enumerate(self.ids)}
+        self.top, self.wiki = {}, {}
 
     def search(self, queries):
         """the PER_QUERY titles most similar (rapidfuzz WRatio) to each query, over all YAGO titles; equal scores (a
@@ -165,11 +208,18 @@ class Yago:
                 self.top[q] = [int(k) for k in near[order][:PER_QUERY]]
             print("search", min(s + 40, len(queries)), "/", len(queries), flush=True)
 
+    def add_wikipedia(self, queries):
+        """the Wikipedia search results for each query that are entities of YAGO"""
+        wikipedia = Wikipedia()
+        for q in sorted(set(queries)):
+            self.wiki[q] = [self.index[yago_id(t).lower()] for t in wikipedia.search(q) if yago_id(t).lower() in self.index]
+
     def shortlist(self, text, guess, spelling=None):
-        """the most similar to the LLM's guess (or, without one, to its spelling), then to the written name; no repeats,
-        at most MAX_SHORTLIST"""
+        """the most similar titles to the LLM's guess (or, without one, to its spelling), then to the written name, then the
+        Wikipedia search results for the same two strings; no repeats, at most MAX_SHORTLIST"""
+        q = guess or spelling
         out = []
-        for k in (self.top[guess or spelling] if guess or spelling else []) + self.top[text]:
+        for k in (self.top[q] if q else []) + self.top[text] + (self.wiki[q] if q else []) + self.wiki[text]:
             if k not in out:
                 out.append(k)
         return out[:MAX_SHORTLIST]
@@ -184,7 +234,9 @@ class Yago:
 
 def candidates(yago, rows):
     """Stage 2a: {(doc, para, text, guess, spelling): (shortlist, start, end)}, one entry per distinct name in a paragraph."""
-    yago.search([q for ms in rows.values() for m in ms for q in (m["text"], m["llm_entity"], m.get("spelling")) if q])
+    queries = [q for ms in rows.values() for m in ms for q in (m["text"], m["llm_entity"], m.get("spelling")) if q]
+    yago.search(queries)
+    yago.add_wikipedia(queries)
     return {(d, m["para"], m["text"], m["llm_entity"], m.get("spelling")):
             (yago.shortlist(m["text"], m["llm_entity"], m.get("spelling")), m["start"], m["end"])
             for d, ms in rows.items() for m in ms}
