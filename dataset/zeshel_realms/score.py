@@ -8,6 +8,7 @@ normalized accuracy    on the mentions whose gold entity is among the 64 candida
 unnormalized accuracy  on all 1,200 mentions
 Both are given per mention category of ZESHEL as well, with a 95% interval (normal approximation).
 """
+import argparse
 import json
 import math
 import os
@@ -25,14 +26,16 @@ def acc(rows):
     return f"{100 * p:.2f} ± {196 * math.sqrt(p * (1 - p) / n):.1f} ({k} / {n})"
 
 
-def main(path):
+def main(path, gold_path=GOLD, sample=False):
     sys.stdout.reconfigure(encoding="utf-8")
-    gold = json.load(open(GOLD, encoding="utf-8"))["mentions"]
+    gold = json.load(open(gold_path, encoding="utf-8"))["mentions"]
     pred = {}
     for line in open(path, encoding="utf-8"):
         if line.strip():
             r = json.loads(line)
             pred[r["mention_id"]] = r.get("kb_id")
+    if sample:
+        gold = [m for m in gold if m["mention_id"] in pred]
     missing = sum(m["mention_id"] not in pred for m in gold)
     right = lambda m: pred.get(m["mention_id"]) == m["kb_id"]
     print(f"# {os.path.basename(path)}\n")
@@ -45,4 +48,9 @@ def main(path):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1])
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("pred")
+    ap.add_argument("--gold", default=GOLD, help="another gold file built by build.py (a validation world)")
+    ap.add_argument("--sample", action="store_true", help="score only the mentions that have a prediction")
+    a = ap.parse_args()
+    main(a.pred, a.gold, a.sample)

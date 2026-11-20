@@ -1,18 +1,20 @@
 """Builds dataset/zeshel_realms/ from the ZESHEL download: the Forgotten Realms test world, in the format of dataset/.
 
-    python dataset/zeshel_realms/build.py <zeshel folder>
+    python dataset/zeshel_realms/build.py <zeshel folder>                         this folder (Forgotten Realms, test)
+    python dataset/zeshel_realms/build.py <zeshel folder> --split val --world elder_scrolls --out <folder>
 
 <zeshel folder> holds documents/, mentions/ (github.com/lajanugen/zeshel, the data link) and tfidf_candidates/ (the
 "top-64 candidates" link of the same README, unpacked into it). Writes paragraphs/, gold/, candidates/ and kb/ here.
 Standard library only.
 """
+import argparse
 import json
 import os
 import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-WORLD, SPLIT, DOC_ID = "forgotten_realms", "test", "zeshel_forgotten_realms_test"
+LONG = 1200         # characters of the long description: the start of the page, cut at a sentence end
 
 
 def load_jsonl(path):
@@ -24,7 +26,18 @@ def description(text):
     return " ".join(re.split(r"(?<=[.!?])\s+", " ".join(text.split()))[:3])
 
 
-def main(src):
+def long_description(text):
+    """the start of the page up to LONG characters, cut after the last full sentence"""
+    text = " ".join(text.split())
+    if len(text) <= LONG:
+        return text
+    cut = text[:LONG]
+    end = max(cut.rfind(". "), cut.rfind("! "), cut.rfind("? "))
+    return cut[:end + 1] if end > 0 else cut
+
+
+def main(src, WORLD, SPLIT, out):
+    DOC_ID = f"zeshel_{WORLD}_{SPLIT}"
     docs = {d["document_id"]: d for d in load_jsonl(os.path.join(src, "documents", WORLD + ".json"))}
     mentions = [m for m in load_jsonl(os.path.join(src, "mentions", SPLIT + ".json")) if m["corpus"] == WORLD]
     cands = {c["mention_id"]: c["tfidf_candidates"]
@@ -55,22 +68,23 @@ def main(src):
                               "mention_id": m["mention_id"], "category": m["category"],
                               "gold_in_candidates": gid in cands[m["mention_id"]]})
 
-    dump = lambda obj, *path: json.dump(obj, open(os.path.join(HERE, *path), "w", encoding="utf-8"),
+    dump = lambda obj, *path: json.dump(obj, open(os.path.join(out, *path), "w", encoding="utf-8"),
                                         ensure_ascii=False, indent=1)
     for d in ("paragraphs", "gold", "candidates", "kb"):
-        os.makedirs(os.path.join(HERE, d), exist_ok=True)
+        os.makedirs(os.path.join(out, d), exist_ok=True)
     dump({"doc_id": DOC_ID, "title": f"ZESHEL {SPLIT}, world {WORLD}",
-          "source": "ZESHEL (Logeswaran et al., ACL 2019), documents/forgotten_realms.json, CC BY-SA",
+          "source": f"ZESHEL (Logeswaran et al., ACL 2019), documents/{WORLD}.json, CC BY-SA",
           "paragraphs": [{"id": pid, "title": docs[pid]["title"], "text": paras[pid]} for pid in paras]},
          "paragraphs", DOC_ID + ".json")
-    dump({"doc_id": DOC_ID, "annotator": "ZESHEL gold (hyperlinks of the Forgotten Realms wiki), unchanged",
-          "scope": {"paragraphs": list(paras), "kb": "kb/forgotten_realms.jsonl"},
+    dump({"doc_id": DOC_ID, "annotator": f"ZESHEL gold (hyperlinks of the {WORLD.replace('_', ' ').title()} wiki), unchanged",
+          "scope": {"paragraphs": list(paras), "kb": f"kb/{WORLD}.jsonl"},
           "entities": sorted(entities.values(), key=lambda e: e["label"]), "mentions": gold_mentions, "facts": []},
          "gold", DOC_ID + ".json")
     dump({m["mention_id"]: cands[m["mention_id"]] for m in gold_mentions}, "candidates", DOC_ID + ".json")
-    with open(os.path.join(HERE, "kb", WORLD + ".jsonl"), "w", encoding="utf-8") as f:
+    with open(os.path.join(out, "kb", WORLD + ".jsonl"), "w", encoding="utf-8") as f:
         for i, d in sorted(docs.items(), key=lambda kv: kv[1]["title"]):
-            f.write(json.dumps({"id": i, "title": d["title"], "description": description(d["text"])},
+            f.write(json.dumps({"id": i, "title": d["title"], "description": description(d["text"]),
+                                "description_long": long_description(d["text"])},
                                ensure_ascii=False) + "\n")
     inside = sum(m["gold_in_candidates"] for m in gold_mentions)
     print(f"{len(gold_mentions)} mentions in {len(paras)} pages, {len(entities)} gold entities, "
@@ -78,4 +92,10 @@ def main(src):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1])
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("src", help="the unpacked zeshel folder")
+    ap.add_argument("--world", default="forgotten_realms")
+    ap.add_argument("--split", default="test")
+    ap.add_argument("--out", default=HERE)
+    a = ap.parse_args()
+    main(a.src, a.world, a.split, a.out)

@@ -24,7 +24,7 @@ Same layout as `dataset/` (see [`../README.md`](../README.md)). The KB id replac
 | `paragraphs/zeshel_forgotten_realms_test.json` | `{doc_id, title, source, paragraphs: [{id, title, text}]}`: each page that holds a mention, ZESHEL's whitespace tokens joined by one space. `id` is ZESHEL's `context_document_id` |
 | `gold/zeshel_forgotten_realms_test.json` | `{doc_id, annotator, scope, entities, mentions, facts}`. `entities: [{eid, label, type, aliases, kb_id, note}]`; `mentions: [{para, start, end, text, entity, kb_id, mention_id, category, gold_in_candidates}]`, with 0-based character offsets, end exclusive; `facts` is empty |
 | `candidates/zeshel_forgotten_realms_test.json` | `{mention_id: [64 kb ids]}`, BM25 order |
-| `kb/forgotten_realms.jsonl` | `{id, title, description}`; the description is the first three sentences of the page, as LELA uses |
+| `kb/forgotten_realms.jsonl` | `{id, title, description, description_long}`; `description` is the first three sentences of the page, as LELA uses; `description_long` is the start of the page up to 1,200 characters |
 | `build.py` | builds all of this from the ZESHEL download |
 | `score.py` | the scorer |
 
@@ -46,12 +46,13 @@ python dataset/zeshel_realms/score.py <pred.jsonl>      # one line per mention: 
 | system | accuracy | source |
 |---|---|---|
 | GenDecider | 91.10 | LELA Table 3 (as reported in GenDecider) |
+| **Jev (`jev-1.14.0`), tuned on validation worlds: page dropped, page title, final pick among the top 3** | **91.00 ± 1.8** | [`jev/zeshel/`](../../jev/zeshel/README.md), this repository |
 | Bi-MPR | 89.60 | LELA Table 3 |
 | **LELA, Magistral-Small-2509** | **88.69** | LELA Table 3 |
 | ReS | 88.10 | LELA Table 3 |
 | Uni-MPR | 87.25 | LELA Table 3 |
 | BLINK (zero-shot, trained on the ZESHEL train worlds) | 86.80 | LELA Table 3 |
-| **Jev (`jev-1.14.0`), Choice over the 64 candidates** | **86.70 ± 2.1** | [`jev/zeshel/`](../../jev/zeshel/README.md), this repository |
+| Jev, first version: one Choice over the 64 candidates | 86.70 ± 2.1 | [`jev/zeshel/`](../../jev/zeshel/README.md), this repository |
 | LELA, Qwen3-30B-A3B | 85.69 | LELA Table 3 |
 | LLM-SFT | 85.59 | LELA Table 3 |
 | BLINK, true zero-shot | 84.11 | LELA Table 3 |
@@ -63,7 +64,13 @@ python dataset/zeshel_realms/score.py <pred.jsonl>      # one line per mention: 
 | LELA without LLM selection | 31.23 | LELA Table 3 |
 
 The numbers from LELA were taken from the paper, not rerun. Its "true zero-shot" systems (LELA, OneNet, GENRE, ExtEnD, the
-second BLINK row) use no ZESHEL training data. Jev also uses none and belongs with them.
+second BLINK row) use no ZESHEL training data. Jev also uses none and belongs with them. Jev's tuned version has one rule
+LELA does not have: the page that holds a mention is never its candidate. A wiki link does not point to its own page; 5 of the
+10,000 validation mentions do. Say so if you compare with it.
+
+**Tuning:** tune on a validation world, never on this one. `build.py <zeshel folder> --split val --world elder_scrolls --out
+<folder>` builds one in the same format (validation worlds: Elder Scrolls, Muppets, Coronation Street, Ice Hockey), and
+`score.py <pred> --gold <folder>/gold/zeshel_elder_scrolls_val.json --sample` scores a sample of it.
 
 ## Rebuild
 Download ZESHEL (the data link in [its README](https://github.com/lajanugen/zeshel)), unpack it, and unpack the "top-64
