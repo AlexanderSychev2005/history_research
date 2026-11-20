@@ -44,11 +44,29 @@ span is the gold span; overlap: any overlap). One run of each method.
 * **In the shortlist but not chosen** (5): Awarayr (the battle instead of the plain), Callinicum (the battle instead of Raqqa),
   Romans (Roman Empire instead of Byzantine Empire), Church of the East (the Assyrian Church of the East), Łazar (none).
 
+## Two outside benchmarks (partial)
+The hybrid on random samples of the two benchmarks of the LELA paper in [`../dataset/`](../dataset/README.md). The mentions are
+given, so only the guess, the shortlist and the choice are used. One run, **100 mentions each, so the interval is about ±8 to ±10**.
+
+| benchmark | what is run | accuracy | for comparison |
+|---|---|---|---|
+| [ZESHEL, Forgotten Realms](../dataset/zeshel_realms/README.md) (`zeshel.py`) | `gpt-oss-20b` chooses among the 10 titles most similar to the guess, the 10 to the mention and the first 10 of ZESHEL's 64 BM25 candidates; the gold is among the 64 (normalized accuracy) | **80.0 ± 7.8**; the gold is in the list for 94 of 100 | BM25 first candidate 51.0 on the same sample; LELA 80.1 (Qwen3-4B) to 88.7 (Magistral); Jev 91.0 |
+| [WikilinksNED Unseen-Mentions](../dataset/wikilinks_unseen/README.md) (`wikilinks.py`) | the full hybrid (YAGO titles and Wikipedia search), `gpt-oss-120b` chooses | **63.0 ± 9.5** over all mentions; **82.9 ± 8.5** over the 76 whose page is in YAGO; the gold is in the list for 72 of 76 | LELA 62.8 to 68.7, GENRE 63.5, ReFinED 66.5, BLINK 75.2 (the paper's Table 11) |
+
+* ZESHEL's knowledge base is a fan wiki, so YAGO and Wikipedia search do not apply; this run measures the guess, the title
+  similarity and the LLM's choice only.
+* On Wikilinks a YAGO-based system cannot get the 25% of mentions whose Wikipedia page is not in YAGO (mostly common nouns).
+  LELA's candidates come from Wikipedia itself, so the two columns are not on the same footing.
+* The Wikilinks run uses `gpt-oss-120b` for the choice because the daily limit of `gpt-oss-20b` was spent; on the first 50
+  mentions `gpt-oss-20b` was clearly worse (20 of 34 right among the mentions in YAGO against 26 of 34) and answered "none" more often.
+* The sample is the first 100 of a fixed random order (`random.Random(0)`), so a larger run extends it.
+
 ## Files
 | file | content |
 |---|---|
 | `hybrid.py` | the whole pipeline: names, shortlist, choice; writes `pred/` |
 | `score.py` | mention and link scores of `pred/` against `dataset/gold` |
+| `zeshel.py`, `wikilinks.py` | the choice step on samples of the two outside benchmarks; write `zeshel_pred.jsonl`, `wikilinks_pred.jsonl` |
 | `pred/<doc>.jsonl` | predictions: `para, text, start, end, llm_entity, entity_id, candidates` |
 | `cache/` | the LLM's raw answers and the Wikipedia search results (git-ignored); a rerun reuses them |
 

@@ -20,6 +20,10 @@ The gold is a draft by one annotator (Claude) and has not been reviewed by a his
 mentions of the Forgotten Realms world of ZESHEL, with its 64 candidates per mention. LELA reports a number on it, so methods here
 can be compared with LELA directly (Jev, tuned on validation worlds: 91.0 normalized accuracy; LELA: 85.7 to 88.7).
 
+[`dataset/wikilinks_unseen/`](dataset/wikilinks_unseen/README.md) is a third one: the 10,000 test mentions of WikilinksNED
+Unseen-Mentions (Wikipedia, one sentence each), also reported in the LELA paper. The gold page of each mention is given as a YAGO id
+(7,547 have one).
+
 To look at the gold, see [`dataset/mentions/`](dataset/mentions/README.md): the paragraphs with the mentions coloured by type and by YAGO link.
 The entities with their YAGO ids are in [`dataset/linking/`](dataset/linking/README.md), the relations in [`dataset/relations/`](dataset/relations/README.md).
 
